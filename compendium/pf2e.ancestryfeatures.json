@@ -1,0 +1,161 @@
+{
+	"label": "조상 특징",
+	"entries": {
+		"Advanced Undead Benefits": {
+			"name": "고급 언데드 혜택",
+			"description": "<p><strong>암흑시야:</strong> 암흑시야가 없는 경우 암흑시야를 얻습니다.</p>\n<p><strong>더 큰 질병 및 독 보호:</strong> 질병과 독에 대한 보너스가 +2로 증가합니다. 독에 대한 저항력이 자신의 레벨 절반만큼 증가합니다.</p>\n<p><strong>마비 및 수면 보호:</strong> 자신을 @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{마비된} 상태로 만들거나 수면 특성을 갖게 하는 효과에 대한 방어(또는 다른 방어)에 상황 보너스 +1을 받습니다.</p>"
+		},
+		"Aquatic Adaptation": {
+			"name": "수생 적응",
+			"description": "<p>파충류 생물학 덕분에 오랫동안 숨을 참을 수 있습니다. 보너스 특성으로 @UUID[Compendium.pf2e.feats-srd.Item.aJUXbe9HJVvv0Mxa]{숨 조절} 일반 특성을 얻습니다.</p>"
+		},
+		"Automaton Core": {
+			"name": "오토마톤 코어",
+			"description": "<p>당신의 몸에는 다양한 작업을 수행할 수 있는 힘을 부여하고 영혼과 생명 에너지를 저장하는 평면의 정수가 주입된 오토마톤 코어가 있습니다. 이 생명 에너지는 휴머노이드의 피처럼 여러분을 통해 흐릅니다. 그 결과, 당신은 살아있는 생명체입니다. 일반적인 구조물 면역이 없고, 생명체를 대상으로 하는 효과의 영향을 받을 수 있으며, 생명력 에너지를 통해 정상적으로 HP를 회복할 수 있습니다. 또한, 당신은 HP가 0으로 감소해도 파괴되지 않습니다. 대신, 생명력 에너지가 절체절명의 위기 상황에서도 생명력을 유지하려고 시도하며, HP가 0으로 감소하면 기절하여 죽기 시작합니다.</p>"
+		},
+		"Basic Undead Benefits": {
+			"name": "기본 언데드 혜택",
+			"description": "<p><strong>네크릴:</strong> 네크릴 언어를 구사합니다.</p>\n<p><strong>언데드 비전:</strong> 저조도 시야를 얻거나, 조상이 이미 저조도 시야를 가지고 있다면 암흑 시야를 얻습니다.</p>\n<p><strong>공허 치유:</strong> 생명력 피해에 피해를 받고 생명력 치유 효과로 치유되지 않습니다. 공허 피해를 받지 않으며 언데드를 치유하는 공허 효과에 의해 치유됩니다.</p>\n<p><strong>부정 생존:</strong> 일반 언데드와 달리, HP가 0으로 감소해도 파괴되지 않습니다. 대신 강력한 공허 에너지가 절체절명의 위기에서도 파괴되지 않도록 막아줍니다. HP가 0으로 감소하면 기절하여 죽기 시작합니다. 언데드이기 때문에 안정화 등 죽어가는 사람을 되살리는 많은 방법이 자신에게 도움이 되지 않습니다. 죽으면 다른 언데드처럼 죽는 것이 아니라 파괴됩니다.</p>\n<p><strong>죽음 효과에 면역:</strong> 당신은 죽음 효과에 면역입니다. 이는 자동으로 죽거나 사망 수치가 자동으로 증가하는 것을 막아주지만, 주문이나 효과의 다른 부분에 면역이 되는 것은 아닙니다. 예를 들어, 유령 살인마에게 정신 피해를 입거나 겁에 질려도 즉시 죽지 않을 뿐입니다.</p>\n<p><strong>질병 및 독 보호:</strong> 질병과 독에 대한 방어(또는 다른 방어)에 상황 보너스 +1을 받습니다. </p>\n<p><strong>언데드 굶주림:</strong> 인간형과 같은 음식을 먹거나 마시지는 않지만, 구울은 인간형 육체에 대한 갈망, 좀비는 뇌에 대한 갈망, 뱀파이어는 피에 대한 갈망과 같이 언데드 상태와 관련된 갈증과 굶주림을 느낍니다. 또한, 잠을 자지 않는 동안에는 하루에 최소 4시간 동안 휴면 상태에 들어가 회복을 하는데, 이때 언데드의 육체는 자연스럽게 재생되고 회복됩니다. 많은 언데드는 해가 가장 높은 시간에 휴식을 취합니다.</p>"
+		},
+		"Bite": {
+			"name": "물기",
+			"description": "<p>예리한 이빨과 강력한 턱은 무시무시한 무기입니다. 비무장 턱 공격으로 1d6 관통 피해를 줍니다. 당신의 턱은 난투(brawling) 그룹에 속합니다.</p>"
+		},
+		"Blunt Snout": {
+			"name": "뭉특한 주둥이",
+			"description": "<p>작고 뭉툭한 주둥이와 미로 같은 부비동 덕분에 코를 공격하는 현상에 저항할 수 있습니다. 흡입 위협(예: 흡입된 독)과 후각 효과(예: 술가스의 악취)에 대해 내성굴림을 굴리면, 굴린 결과보다 한 단계 더 좋은 결과를 얻을 수 있습니다.</p>"
+		},
+		"Change Shape (Anadi)": {
+			"name": "형태 변경 (아나디)",
+			"description": "<p>아나디는 @UUID[Compendium.pf2e.actionspf2e.Item.34E7k2YRcsOU5uyl]{형태 변경 (아나디)} 능력을 얻습니다.</p>"
+		},
+		"Change Shape (Kitsune)": {
+			"name": "형태 변경 (키츠네)",
+			"description": "<p>키츠네는 @UUID[Compendium.pf2e.actionspf2e.Item.wwvPiG2kET2rkSAG]{형태 변경 (키츠네)} 능력을 얻습니다.</p>"
+		},
+		"Clan Dagger": {
+			"name": "클랜 단검",
+			"description": "<p>당신은 태어날 때 받은 클랜의 @UUID[Compendium.pf2e.equipment-srd.Item.kJJvKm80KwWXPukV]{클랜 단검} 하나를 무료로 받습니다. 이 단검을 판매하는 것은 끔찍한 금기이며, 다른 드워프들의 경멸을 받게 됩니다.</p>"
+		},
+		"Claws": {
+			"name": "발톱",
+			"description": "<p>당신의 날카로운 발톱은 다른 휴머노이드가 전투에 가져오는 주먹 대신 사용할 수 있습니다. 발톱 비무장 공격으로 1d4의 베기 피해를 입히고 민첩(agile)과 기교(finesse) 특성이 있습니다.</p>"
+		},
+		"Constructed": {
+			"name": "만들어진",
+			"description": "<p>당신의 합성 신체는 순수한 생물학적 유기체보다 질병에 더 잘 저항합니다. 질병(diseases), 독극물(poisons), 방사(radiation)에 대한 내성 굴림 시 상황 보너스 +1을 받습니다.</p><p>Your synthetic body resists ailments better than those of purely biological organisms. You gain a +1 circumstance bonus to saving throws against diseases, poisons, and radiation.</p>"
+		},
+		"Constructed (Poppet)": {
+			"name": "만들어진 (퍼펫)",
+			"description": "<p>몸의 재료가 육체를 공격하는 질병에 저항합니다. 사망 효과, 질병, 독에 대한 방어력뿐만 아니라 기력 고갈, 마비, 병든 상태를 유발하는 효과에 대한 방어력도 상황 보너스 +1을 받습니다. 당신의 생명의 불꽃은 당신이 생명체라는 것을 의미하며, 일반적인 생물과 같이 생명력 에너지에 의해 치유되고 공허 에너지에 의해 피해를 입을 수 있습니다.</p>"
+		},
+		"Constructed Body": {
+			"name": "만들어진 육체",
+			"description": "<p>당신의 생리적 욕구는 생명체와 다릅니다. 여러분은 먹거나 마실 필요가 없습니다. 잠을 잘 필요는 없지만 매일 일정한 휴식 시간이 필요합니다. 이 휴식 시간 동안에는 2시간 동안 회복 대기 상태로 들어가야 하는데, 주변 환경을 인식할 수 있다는 점만 빼면 수면과 비슷하며 @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{무의식}이라는 이유로 불이익을 받지 않습니다. 수면 상태와 마찬가지로 대기 상태로 전환하지 않고 너무 오래 있으면 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{피곤}이 되어 2시간 동안 대기 상태로 전환할 때까지 회복할 수 없습니다.</p>"
+		},
+		"Darkvision": {
+			"name": "암흑시야",
+			"description": "<p>어둠 속에서의 시야는 흑백이지만 밝은 빛에서 볼 수 있는 것처럼 어둠과 희미한 빛에서도 잘 볼 수 있습니다.</p>"
+		},
+		"Draconic Exemplar": {
+			"name": "용의 미덕",
+			"description": "<p>당신은 당신의 용의 미덕으로부터 작은 힘을 끌어옵니다. 당신의 모범이 될 색채 또는 금속 드래곤의 유형을 선택합니다. 이에 따라 비늘 색깔과 외형이 결정되며, 드래곤은 때때로 GM의 재량에 따라 자신과 닮은 코볼트에게 더 호의적으로 보입니다. 미덕은 용의 미덕 표를 사용하여 보유한 다른 능력의 세부 사항도 결정할 수 있습니다.</p>\n<h3><strong>표 1-1 용의 미덕들</strong></h3>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>드래곤</th>\n<th>브레스 무기 유형</th>\n<th>피해 유형e</th>\n<th>내성 굴림</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>블랙</td>\n<td>선</td>\n<td>산성</td>\n<td>반사</td>\n</tr>\n<tr>\n<td>블루</td>\n<td>선</td>\n<td>전격</td>\n<td>반사</td>\n</tr>\n<tr>\n<td>그린</td>\n<td>원뿔</td>\n<td>독성</td>\n<td>인내</td>\n</tr>\n<tr>\n<td>레드</td>\n<td>원뿔</td>\n<td>불</td>\n<td>반사</td>\n</tr>\n<tr>\n<td>화이트</td>\n<td>원뿔</td>\n<td>냉기</td>\n<td>반사</td>\n</tr>\n<tr>\n<td>황동</td>\n<td>선</td>\n<td>불</td>\n<td>반사</td>\n</tr>\n<tr>\n<td>브론즈</td>\n<td>선</td>\n<td>전격</td>\n<td>반사</td>\n</tr>\n<tr>\n<td>코퍼</td>\n<td>선</td>\n<td>산성</td>\n<td>반사</td>\n</tr>\n<tr>\n<td>골드</td>\n<td>원뿔</td>\n<td>불</td>\n<td>반사</td>\n</tr>\n<tr>\n<td>실버</td>\n<td>원뿔</td>\n<td>냉기</td>\n<td>반사</td>\n</tr>\n</tbody>\n</table>"
+		},
+		"Emotionally Unaware": {
+			"name": "감정적 무감각",
+			"description": "<p>당신은 복잡한 감정을 이해하고 표현하는 데 어려움을 느낍니다. 외교 및 수행 검사에서, 지각 검사에서 동기 파악에 -1의 상황 패널티를 받습니다.</p>"
+		},
+		"Empathic Sense": {
+			"name": "감각 동기",
+			"description": "<p>카쉬리시는 15피트 이내에 있는 다른 사람의 현재 감정 상태를 어렴풋이 감지할 수 있습니다. 이는 구체적인 세부 사항 없이 일반적인 행복감, 분노 또는 두려움으로 나타납니다. 카쉬리시와 정서적 유대감이 있는 사람은 신체적 접촉을 통해 이 감각을 더욱 세밀하게 느끼고 이해할 수 있으며, 유대감이 강해질수록 그 정도가 높아집니다. 또한, 이 감각은 정확한 위치는 아니지만 해당 지역 내에 정신이 없는 생물의 존재를 알려주는 부정확한 감각으로도 작동합니다. 공감 감각 범위 내에 있는 무의식적 생물을 대상으로 한 지각 검사에서 상황 보너스 +2를 받습니다[@UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{감각 동기}.</p>"
+		},
+		"Eyes in Back": {
+			"name": "뒤를 보는 눈",
+			"description": "<p>당신은 여러 방향을 가리키는 눈을 가지고 있으며, 시야 주변에서 일어나는 움직임을 본능적으로 감지합니다. 탐색 기본 동작을 사용하면 한 영역이 아닌 두 영역에서 생물을 찾을 수 있습니다. 정밀도가 필요하다면, 한 개 대신 시야 내에 있는 @Template[type:cone|distance:30] 또는 @Template[type:burst|distance:15]를 두 개 선택할 수 있습니다.</p>"
+		},
+		"Fangs": {
+			"name": "송곳니",
+			"description": "<p>당신은 사냥과 자기 방어를 위한 천부적인 수단을 가지고 태어났습니다. 송곳니로 비무장 공격을 하여 @Damage[1d6[piercing]] 피해를 줍니다. 송곳니는 난투(brawling) 그룹에 속하며 기교와 비무장 특성을 가집니다.</p>"
+		},
+		"Fangs (Nagaji)": {
+			"name": "송곳니 (나가지)",
+			"description": "<p>입에는 바늘처럼 날카로운 이빨이 한 줄로 나 있거나 한 쌍의 사나운 뱀 송곳니가 있습니다. 비무장 상태에서 송곳니 공격으로 @Damage[1d6[piercing]] 피해를 줍니다. 송곳니는 난투 그룹에 속하며, 기교와 비무장 특성을 가집니다."
+		},
+		"Flammable": {
+			"name": "가연성",
+			"description": "<p>당신은 자신의 레벨 1/3(최소 1)에 해당하는 화염 피해에 약점입니다.</p>"
+		},
+		"Glowing Horn": {
+			"name": "빛나는 뿔",
+			"description": "<p>너의 뿔은 은은한 빛으로 심령 에너지에 반응합니다. 조상의 업적을 통해 얻은 오컬트 행동을 사용하거나, 타고난 오컬트 주문을 시전하거나, 정신적 특성이 있는 주문을 시전할 때마다 뿔이 다음 턴이 시작될 때까지 @Template[type:emanation|distance:10]의 범위에서 희미한 빛을 발산합니다.</p>"
+		},
+		"Greater Darkvision": {
+			"name": "향상된 다크비전",
+			"description": "<p>어둠 속에서의 시야는 흑백이지만, 밝은 빛에서 볼 수 있는 것처럼 어둠과 희미한 빛에서도 잘 볼 수 있습니다. 4레벨 <em>@UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{어둠 Darkness}</em> 주문과 같은 일부 형태의 마법의 어둠은 일반 @UUID[Compendium.pf2e.ancestryfeatures.Item.HHVQDp61ehcpdiU8]{다크비전}을 차단합니다. 하지만 당신은 이런 형태의 마법 같은 어둠도 꿰뚫어 볼 수 있습니다.</p>"
+		},
+		"Hydration": {
+			"name": "수분 공급",
+			"description": "<p>당신은 물과 육지에서 똑같이 활동할 수 있는 수륙양용 생명체이지만, 신체는 24시간 동안 적어도 한 번은 수중 환경으로 돌아가도록 요구합니다. 물에 적응한 피부에 수분을 보충하려면 반드시 물에 잠겨야 합니다.</p>\n<p>이 과정을 거치지 않으면 피부가 갈라지기 시작하고 아가미에 통증이 생깁니다. 처음 24시간 동안 물 밖에서 지내면 인내 내성 굴림에 -1의 상태 불이익을 받습니다. 48시간이 지나면 물속으로 돌아올 때까지 숨을 쉬기 힘들어지고 질식하기 시작합니다.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.Q5FUu7yhWPJlcXei]{효과: 수분 보충}</p>"
+		},
+		"Innate Venom": {
+			"name": "타고난 독",
+			"description": "<p>당신에 피에는 자신을 제외한 모든 생명체에 치명적인 독이 담겨 있습니다. 비슈카냥의 독을 전달할 수 있는 @UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{독} 행동을 얻습니다. 독에 대한 내성 DC는 클래스 DC와 주문 DC 중 높은 값과 같습니다.</p>"
+		},
+		"Keen Eyes": {
+			"name": "예리한 눈",
+			"description": "<p>눈이 예리하여 다른 플레이어가 놓칠 수 있는 @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{은폐}나 @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{보이지 않음} 생물의 작은 세부 사항까지 알아챌 수 있습니다. UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{찾기} 행동으로 @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{숨겨진}을 찾으면 상황 보너스가 +2가 됩니다. @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{숨겨진} 또는 @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{감지되지 않은} 생물을 30피트 이내에 발견합니다. 당신에게서 숨겨져 있거나 숨어 있는 상대를 목표로 삼을 때, 플랫 체크의 DC를 숨겨져 있는 대상은 3으로, 숨어 있는 대상은 9로 줄입니다.</p>"
+		},
+		"Land on Your Feet": {
+			"name": "발로 착지",
+			"description": "<p>넘어지면 일반 피해의 절반만 받고 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{엎드린} 상태로 착지하지 않습니다.</p>"
+		},
+		"Low-Light Vision": {
+			"name": "저조도 시야",
+			"description": "<p>저조도 시력을 가진 생명체는 희미한 빛에서도 밝은 빛처럼 볼 수 있으므로, 희미한 빛으로 인해 @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{은폐} 조건을 무시합니다.</p>"
+		},
+		"Magical Strikes": {
+			"name": "매직 스트라이크",
+			"description": "<p>당신의 내재된 마법이 존재 전체에 퍼져 있습니다. 비무장 공격이든 무기 공격이든 모든 타격은 마법으로 이루어집니다.</p>"
+		},
+		"Photosynthesis": {
+			"name": "광합성",
+			"description": "<p>광합성을 통해 영양분을 얻습니다. 일반적으로 음식값을 지불할 필요가 없습니다. 일주일 동안 햇빛을 보지 못하면 굶주리기 시작합니다. 자연 햇빛 대신 특수하게 제조된 연금술 햇빛 병에서 영양분을 얻을 수 있지만, 이 병은 표준 배급량(40sp)의 10배에 달하는 비용이 듭니다.</p>"
+		},
+		"Plant Nourishment": {
+			"name": "식물 영양",
+			"description": "<p>광합성, 뿌리로 미네랄 흡수, 썩은 물질 청소 등 자신의 체형에 맞는 식물이나 균류가 일반적으로 하는 것과 같은 방식으로 영양분을 얻습니다. 일반적으로 음식에 대한 비용을 지불할 필요가 없습니다. 일반적으로 광합성에 의존하고 일주일 동안 햇빛을 보지 못하면 굶주리기 시작합니다. 자연광 대신 특수하게 제조된 햇빛 병에서 영양분을 얻을 수 있지만, 이 병은 표준 배급량(또는 40sp)의 10배에 달하는 비용이 듭니다.</p>"
+		},
+		"Prehensile Tail": {
+			"name": "뾰족한 꼬리",
+			"description": "<p>양손이 모두 사용 중이더라도 길고 유연한 꼬리를 사용하여 자유로운 손이 필요한 상호작용 동작을 수행할 수 있습니다. 꼬리는 손가락이나 상당한 손재주가 필요한 동작(확인이 필요한 동작 포함)을 수행할 수 없으며, 아이템을 잡는 데 사용할 수 없습니다.</p>"
+		},
+		"Revulsion": {
+			"name": "혐오",
+			"description": "<p>자발적으로 마늘을 휘두르거나 악마가 아닌 신의 종교적 상징물 근처 10피트 이내로 다가갈 수 없습니다. 생물은 상호작용을 통해 1라운드 동안 마늘이나 종교적 상징을 휘두르도록 해야 합니다(방패 올리기와 유사). 무의식적으로 혐오 대상에게 10피트 이내에 접근하면, 혐오 대상에게서 10피트 이상 떨어진 곳에서 행동을 끝낼 때까지 도망치는 @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{도망}상태를 얻습니다. 혐오 대상에게 1라운드 동안 노출된 후, 집중 특성이 있는 @Check[type:will|dc:25] 내성 굴림을 한 번의 액션으로 시도할 수 있습니다. 성공하면 [[/r 1d6 #Overcome Revulsion Duration]]{1d6 라운드}, 치명적인 성공 시 1시간 동안 혐오를 극복합니다.</p>"
+		},
+		"Sharp Beak": {
+			"name": "예리한 부리",
+			"description": "<p>예리한 부리를 사용하면 무기가 없어도 됩니다. 부리는 비무장 공격으로 @Damage[1d6[piercing]] 피해를 줍니다. 부리는 격투 무기 그룹에 속하며, 기교와 비무장 특성이 있습니다.</p>"
+		},
+		"Sunlight": {
+			"name": "햇빛",
+			"description": "<p>직사광선에 노출되면 즉시 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{느려짐 1}이 됩니다. 느려짐 수치는 햇빛 아래에서 자신의 턴을 끝낼 때마다 1씩 증가합니다. 이런 식으로 모든 행동을 잃으면 파괴됩니다. 빛에 대한 초자연적인 혐오감 때문에 그림자를 드리우거나 거울에 반사되지 않습니다.</p>"
+		},
+		"Sunlight Healing": {
+			"name": "햇빛 치유",
+			"description": "<p>코나수는 직사광선에 노출되면 10분 동안 명상 및 치유 상태에 들어갈 수 있으며, 이 경우 1d8의 HP를 회복합니다. 3레벨이 되면, 그리고 그 이후 2레벨마다 이 치유량이 1d8씩 증가합니다. [[/r (ceil(@actor.level/2))d8[healing]]]{레벨별 치유}</p>\n<p>콘라수가 이런 식으로 HP를 회복하면, 하루 동안 일시적으로 햇빛 치유를 추가로 사용하지 못합니다.</p>"
+		},
+		"Swim": {
+			"name": "수영",
+			"description": "<p>아자케키의 기본 수영 속도는 30입니다.</p>"
+		},
+		"Unusual Anatomy": {
+			"name": "특이한 해부학",
+			"description": "<p>당신의 특이한 신체는 다른 생물에게 가해지는 물리적 고통에 저항합니다. 질병과 독에 대한 방어에 +1의 상황 보너스를 받습니다.</p>"
+		},
+		"Wings": {
+			"name": "날개",
+			"description": "<p>모든 스트라이크는 강력한 날개를 가지고 있습니다. 모든 스트라이크가 비행 기술을 연마하는 데 집중하는 것은 아니지만, 날개를 강하게 펄럭이면 점프할 때 더 먼 거리를 이동할 수 있습니다.</p>\n<p>수평으로 도약하면 5피트를 추가로 이동합니다. 높이뛰기나 멀리뛰기를 할 때 먼저 10피트 이상 보폭을 내지 않으면 자동으로 체크가 실패하지 않습니다. 또한 멀리뛰기를 할 때 육상 검사 결과보다 최대 10피트 더 멀리 뛸 수 있지만, 정상 최대 속도는 그대로 유지됩니다.</p>"
+		}
+	}
+}

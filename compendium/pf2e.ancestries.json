@@ -1,0 +1,149 @@
+{
+	"label": "조상",
+	"entries": {
+		"Anadi": {
+			"name": "아나디",
+			"description": "<p><em>아나디족은 남부 가룬드의 정글에 사는 은둔형 거미족입니다. 이들은 여러 면에서 타고난 변신술사처럼 행동하지만, 실제로는 고도로 발달한 마법에서 비롯된 쌍둥이 형태입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.9dpHTBpL3j8ZpqTS]{아나디}</em></p>"
+		},
+		"Android": {
+			"name": "안드로이드",
+			"description": "<p><em>다른 세계에서 온 경이로운 기술인 안드로이드는 합성 신체와 살아있는 영혼을 가지고 있습니다. 이러한 이중적인 특성 덕분에 안드로이드는 압박감 속에서도 빠르게 생각하고 침착하지만, 고요함과 고독함 속에서도 편안함을 느낄 수 있습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.dyusFHHyaQOaQhZ0]{안드로이드}</em></p>"
+		},
+		"Automaton": {
+			"name": "오토마톤",
+			"description": "<p><em>이 지능적인 구조물에는 실제 영혼이 담겨 있으며, 죽어가는 제국이 마지막으로 시도했던 위대함의 흔적이 남아 있습니다. 오토마톤은 기술적 독창성과 마법의 힘을 결합하여 골리온만의 독특한 존재를 만들어 냅니다.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.rsx8cRI20oEDgfQh]{오토마톤}</p>"
+		},
+		"Azarketi": {
+			"name": "아자르케티",
+			"description": "<p>무너진 제국의 유산을 물려받은 아자케티족은 자랑스러운 전통을 간직하면서도 세상과 교류하기 위해 바다로 나갑니다.</p>\n<p>내해의 수중 휴머노이드는 침울하고 무거운 역사를 공유합니다. 대부분은 이 수중 민족을 길맨 또는 로우 아즐란티라고 부르지만, 이들은 보통 스스로를 “바다의 사람들”이라는 뜻의 아즐란티어인 아자케티라고 부릅니다. 이 자랑스러운 인간들은 지구 멸망 이후, 알골투의 적들에 의해 수중 하인으로 변이되었습니다. 인간 형제들과 자신을 묶어주는 바다에 온전히 속하지 못한다고 느끼는 많은 아자케티족은 정체성과 목적의식을 찾기 위해 고군분투합니다. 아자키족은 육지 거주민들의 불신을 받고 있지만, 자신들만의 독특한 혈통과 유서 깊은 아즐란티 문화의 후예임을 자랑스럽게 여깁니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.SNhp04cirQnnBTbb]{아자르케티}</p>"
+		},
+		"Catfolk": {
+			"name": "캣포크",
+			"description": "<p><em>호기심 많고 사교적인 방랑자인 캣포크는 외모와 기질 모두 고양이와 인간의 특징을 결합한 동물입니다. 캣포크는 새로운 것을 배우고, 새로운 이야기와 장신구를 수집하고, 사랑하는 사람들이 안전하고 행복하게 지낼 수 있도록 하는 것을 즐깁니다. 캣포크는 스스로를 세계의 자연을 지키는 선택받은 수호자라고 생각하며, 압도적인 반대에도 불구하고 무모할 정도로 용감한 경우가 많습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.5S1Pq3GoEzLfBbH7]{캣포크}</em></p>"
+		},
+		"Conrasu": {
+			"name": "콘라수",
+			"description": "<p><em>콘라수족은 의식이 부여된 우주의 힘의 파편으로, 복잡한 외골격을 만들어 인간 세계와 소통합니다. 우주의 근본적인 과정의 필수적인 부분인 동시에 기이하게도 분리되어 있는 콘라수족은 그들의 존재를 이해하기 위해 영겁의 시간을 들여다봅니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.ufWdokSN5W3Einus]{콘라수}</em></p>"
+		},
+		"Dwarf": {
+			"name": "드워프",
+			"description": "<p><em>드워프는 단단한 바위를 깎아 만든 성채와 도시에 살며 금욕적이고 엄격한 종족으로 정평이 나 있습니다. 어떤 이들은 드워프가 돌과 금속을 만드는 무뚝뚝하고 유머 없는 장인이라고 생각하지만, 드워프와 함께 시간을 보낸 사람들은 양보다 질을 중시하는 드워프의 일에 대한 무한한 열정을 이해합니다. 낯선 사람에게는 불신과 부족주의로 보일 수 있지만, 친구와 가족에게는 따뜻하고 배려심 많은 존재이며, 그들의 작업장은 웃음소리와 망치로 모루를 두드리는 소리로 가득 차 있습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.XzRv30zY3UXRbBho]{드워프}</em></p>"
+		},
+		"Elf": {
+			"name": "엘프",
+			"description": "<p><em>고대 민족으로서 엘프는 큰 변화를 겪어왔으며, 역사의 흐름을 지켜본 사람만이 가질 수 있는 관점을 가지고 있습니다. 고대에 세상을 떠났다가 변화된 땅으로 돌아온 엘프들은 여전히 조상의 고향을 되찾기 위해 고군분투하고 있으며, 특히 땅의 일부를 침범한 끔찍한 악마들로부터 고군분투하고 있습니다. 어떤 사람들에게 엘프는 우아하고 아름다우며 엄청난 재능과 지식을 가진 경외의 대상입니다. 하지만 엘프들은 이러한 이상에 부응하는 삶보다 개인의 자유를 훨씬 더 중요하게 생각합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.3cfdiId1IoxLsF9V]{엘프}</em></p>"
+		},
+		"Fetchling": {
+			"name": "페츨링",
+			"description": "<p><em>한때 인간이었지만 지금은 다른 존재가 된 페츨링은 단색 피부와 빛나는 눈, 초자연적인 그림자를 드리우는 모습을 통해 그림자계(Shadow Plane)의 고대의 영향력을 보여줍니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.RlMgeku1FNJjF7YR]{페츨링}</em></p>"
+		},
+		"Fleshwarp": {
+			"name": "플레시워프",
+			"description": "<p><em>플레시워프는 마법, 연금술 또는 비자연적인 에너지에 의해 형태가 만들어지거나 급격하게 변형된 사람들입니다. 이들은 비정상적인 외모 때문에 세상에서 자신의 자리를 찾기가 어려울 수 있습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.vTB1bTYVE4onyyy1]{플레시워프}</em></p>"
+		},
+		"Ghoran": {
+			"name": "고란",
+			"description": "<p>오래전에 죽은 드루이드가 창조한 이 지적인 식물 인간은 씨앗을 통해 일종의 불멸성을 지니고 있으며, 단순한 시간의 황폐화 이외의 외부 사건에 의해 파괴되지 않는 한 불멸의 존재가 됩니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.kRjkrWAqQNXj3LLP]{고란}</p>"
+		},
+		"Gnoll": {
+			"name": "놀",
+			"description": "<p><em>하이에나를 닮은 강력하게 만들어진 휴머노이드인 놀은 교활한 전사이자 사냥꾼입니다. 무시무시한 외모와 효율적인 전술로 인해 악명 높은 편입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.xBV8oGvecw7abZxc]{Gnoll 놀}</em></p>"
+		},
+		"Gnome": {
+			"name": "노움",
+			"description": "<p><em>오래 전, 초기 노움의 조상들은 페이의 영역인 제1세계에서 이주해 왔습니다. 최초의 노움이 왜 골리온으로 이주했는지는 확실하지 않지만, 이 혈통은 현대의 노움에게 기괴한 추론, 기이함, 강박적인 성향, 그리고 일부에서는 순진함으로 보이는 특성으로 나타납니다. 이러한 특성은 가늘고 긴 팔다리, 밝은 색의 머리카락, 어린아이처럼 매우 표현력이 풍부한 얼굴 특징과 같은 신체적 특징에 더욱 반영되어 이세계적인 기원을 더욱 잘 드러냅니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.qIu10HByKeRaPPvD]{노움}</em></p>"
+		},
+		"Goblin": {
+			"name": "고블린",
+			"description": "<p><em>고블린은 사람들이 집착하는 복잡한 역사에 관심이 없습니다. 이 작은 사람들은 현재를 살고 있으며, 사실적인 기록보다는 설화를 선호합니다. 수십 년 전의 전쟁도 고대로부터 내려오는 이야기일 수 있습니다. 다른 사람들에게 오해를 받지만 도깨비들은 지금 이대로가 행복합니다. 고블린의 미덕은 현재에 충실하고 창의적이며 정직한 것입니다. 도깨비들은 자신의 여정이 어떻게 끝날지 걱정하기보다는 만족스러운 삶을 살기 위해 노력합니다. 사실에 집착하지 않고 이야기를 들려줍니다. 작지만 큰 꿈을 꿉니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.Gn0XGCWDb0N4zLE0]{고블린}</em></p>"
+		},
+		"Goloma": {
+			"name": "골로마",
+			"description": "<p><em>골로마는 대부분의 다른 사람들을 두려워하며, 위험한 포식자로 간주되는 사람들을 겁주기 위해 의도적으로 특이한 생물학적 특성을 이용합니다. 잘 보이지 않고 잘 이해되지 않는 골로마는 눈이 많고 나무로 된 얼굴을 하고 있어 만나는 대부분의 사람들에게 공포감을 심어줍니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.jKglnHBFvzI80tIe]{골로마}</em></p>"
+		},
+		"Grippli": {
+			"name": "그리플리",
+			"description": "<p><em>그리플리는 수줍음이 많고 신중한 성격으로, 일반적으로 다른 사람의 복잡하고 위험한 일에 휘말리는 것을 피하려고 합니다. 그리플리스는 작은 체구에도 불구하고 상황에 따라 대담하고 고귀한 행동을 취하는 경우가 많습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.FhIJtKcINEe7fipX]{그리플리}</em></p>"
+		},
+		"Halfling": {
+			"name": "하플링",
+			"description": "<p><em>자신의 땅이라고 주장하지 않는 하플링들은 마을보다 큰 정착지를 거의 지배하지 않습니다. 대신 대도시의 성벽 안에서 인간들 사이에서 살며 키가 큰 사람들과 함께 작은 공동체를 형성하는 경우가 많습니다. 많은 하플링이 큰 이웃의 그늘에서 완벽하게 만족스러운 삶을 사는 반면, 다른 하플링은 세계를 여행하며 기회와 모험이 찾아올 때마다 이를 활용하는 유목 생활을 선호합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.voI7uPS9vsG74JIn]{하플링}</em></p>"
+		},
+		"Hobgoblin": {
+			"name": "홉고블린",
+			"description": "<p><em>고블린 종족보다 키가 크고 힘이 센 호브고블린은 넓은 어깨와 길고 강력한 팔을 가지고 있으며, 힘과 체격이 인간과 비슷합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.DuWzeY4zugKFFthl]{Hobgoblin 홉고블린}</em></p>"
+		},
+		"Human": {
+			"name": "인간",
+			"description": "<p><em>골라리온의 여느 종족만큼이나 예측하기 어렵고 다양하지만, 인간은 뛰어난 추진력과 인내와 확장 능력을 가지고 있습니다. 인류가 등장하기 전에도 많은 문명이 번성했지만, 인간은 역사상 가장 위대한 사회와 가장 끔찍한 사회를 건설했으며 오늘날 내해 주변 영역에서 가장 인구가 많은 민족이 되었습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.7pU8yM7yPMw92SY3]{인간}</em></p>"
+		},
+		"Kashrishi": {
+			"name": "카쉬리시",
+			"description": "<p>카쉬리시는 전 세계 외딴 지역에 서식하고 있습니다. 이 조용한 존재는 튼튼하고 튼튼한 골격과 독특한 수정 같은 뿔을 가지고 있습니다. 타고난 심령 능력으로 인해 자연스러운 감정이입이 가능하지만, 때때로 이웃에 대한 끊임없는 생각에 시달리기도 합니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.IJOH7nk0w1IybAhp]{카쉬리시}</p>"
+		},
+		"Kitsune": {
+			"name": "키츠네",
+			"description": "<p><em>키츠네는 카리스마 넘치고 재치 있는 종족으로, 영적인 존재와 연결되어 다양한 마법 능력을 지니고 있으며, 주로 다른 형태로 변신할 수 있는 힘을 가지고 있습니다. 다른 사람들 사이에서 보이지 않게 지나가거나 꼬리를 높이 치켜든 키츠네는 주변 사회를 영리하게 관찰합니다.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.26YL1jOPQQS6k7A9]{키츠네}</p>"
+		},
+		"Kobold": {
+			"name": "코볼트",
+			"description": "<p><em>모든 코볼트는 그들의 가냘픈 체구 속에 강력한 드라코닉의 힘이 숨겨져 있다는 것을 알고 있습니다. 코볼트는 독창적인 제작자이자 무덤 안에서는 헌신적인 동맹이지만, 그들의 영역에 침입한 자들은 특히 드래곤 마법사나 진정한 드래곤 대군주의 지원을 받는 코볼트를 영리한 싸움꾼으로 여기게 됩니다. 하지만 이 파충류 기회주의자들은 자신에게 이익이 된다면 다른 휴머노이드와 기꺼이 협력하며, 조심성과 교활함을 겸비해 더 넓은 세상에서 재산을 축적합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.naQrTTE7CXu5lnNt]{코볼트}</em></p>"
+		},
+		"Leshy": {
+			"name": "레시",
+			"description": "<p><em>환경의 수호자이자 사절인 레시는 일시적으로 육체를 부여받은 불멸의 자연 정령입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.SWkwNivrfzWZqas9]{레시}</em></p>"
+		},
+		"Lizardfolk": {
+			"name": "리저드포크",
+			"description": "<p><em>리저드포크는 뛰어난 생존자이자 엘프들에게조차 고대로 여겨지는 제국의 후계자입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.cbLJs37Nc8FveriK]{리저드포크}</em></p>"
+		},
+		"Nagaji": {
+			"name": "나가지",
+			"description": "<p>인간형 몸매와 뱀 머리를 가진 나가지는 강력한 나가의 전령이자 동반자, 시종입니다. 이들은 성지와 영적 진리에 대한 깊은 경외심을 가지고 있으며, 많은 사람들이 나가지의 외모만큼이나 위협적인 존재로 여깁니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.TlTIwW61zK0dk95v]{나가지}</p>"
+		},
+		"Orc": {
+			"name": "오크",
+			"description": "<p><em>오크는 태어나는 순간부터 폭력과 갈등의 불길 속에서 만들어집니다. 오크는 종종 잔인하도록 짧은 삶을 살기 때문에 공동체에서 더 높은 지위에 있는 구성원에게 지배권을 두고 도전하거나 이웃 정착지를 습격하는 등 자신의 힘을 시험하는 것을 즐깁니다. 많은 오크는 걷고 칼이나 몽둥이를 들 수 있게 되자마자 야수를 길들이거나 흉폭한 괴물을 사냥하며 영광을 추구합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.GCxhDyf1ZNlLiDKZ]{오크}</em></p>"
+		},
+		"Poppet": {
+			"name": "퍼펫",
+			"description": "<p><em>퍼펫은 작고 기본적인 구조물로, 보통 주인의 간단한 작업을 도와주는 역할을 합니다. 때때로 퍼펫은 지혜와 독립심, 그리고 삶의 불꽃을 얻기도 합니다. 단순한 도우미나 장난감을 넘어선 이 퍼펫은 스스로의 운명을 개척할 수 있는 자유를 얻게 됩니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.Ck8L9livQph1GFal]{퍼펫}</em></p>"
+		},
+		"Ratfolk": {
+			"name": "랫포크",
+			"description": "<p><em>자기들끼리는 이소키라고 부르는 랫포크들은 영리하고 적응력이 뛰어나며 까다로운 종족으로, 대가족이 아주 협소한 생활 공간에 모여 살기 좋아합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.zoSkNev57C8OEDYL]{랫포크}</em></p>"
+		},
+		"Shisk": {
+			"name": "쉬스크",
+			"description": "<p><em>쉬스크는 어두운 터널과 동굴 지하에 숨어 사는 비밀스러운 산악 거주자로, 뼈로 된 깃털을 가진 휴머노이드입니다. 난해한 지식을 수집하고 보호하는 것에 매료된 이들은 바깥세상을 탐험하도록 설득할 수 있는 몇 안 되는 존재 중 하나입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.qsbc1ZLCWzfl1sfZ]{쉬스크}</em></p>"
+		},
+		"Shoony": {
+			"name": "슈니",
+			"description": "<p><em>쪼그리고 앉아서 두 발로 걷는 개를 닮은 작은 휴머노이드 슈니는 때때로 나약하고 고립된 평화주의자로 오해를 받기도 합니다. 하지만 끈질긴 인내심, 놀라운 직업 윤리, 수완이 뛰어난 외교 능력으로 인해 슈니는 결코 무력한 존재가 아닙니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.j2hOTtHcdu2SA8Ha]{슈니}</em></p>"
+		},
+		"Skeleton": {
+			"name": "스켈레톤",
+			"description": "<p><em>스켈레톤은 언데드 중 가장 낮은 등급으로 분류됩니다. 이들은 일반적으로 다른 언데드에게 심각한 위협이 되는 능력이 많이 없는 무의미한 생명체입니다. 하지만 용, 거인, 기타 거대한 짐승의 뼈가 살아 움직이기 때문에 위험한 적이 될 수 있습니다. 강력한 생명체는 해골이 되어 돌아와도 힘과 지성의 일부를 유지할 수 있습니다. 일부 강령술사는 강력한 적을 계속 통제할 수 있다는 가정 하에 해골 언데드 하수인으로 만들기도 합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.EcNSrvwIj22Jxkjz]{스켈레톤}</em></p>"
+		},
+		"Sprite": {
+			"name": "스프라이트",
+			"description": "<p><em>스프라이트는 제1세계로 알려진 정령계(fey realm)의 작고 기발하며 활기찬 생명체입니다. 이들은 장난을 치고, 새로운 것을 탐구하고, 마법과 관련된 모든 것을 받아들이는 것을 좋아합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.rvbMGyBr6y5K7HDP]{스프라이트}</em></p>"
+		},
+		"Strix": {
+			"name": "스트릭스",
+			"description": "<p><em>자국어로 이타리라고 불리는 스트릭스는 고향과 부족을 위해 헌신하는 은둔형 조류 휴머노이드입니다. 넓은 날개와 날카로운 발톱으로 소중한 공동체를 보호합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.N8aShsDuf3ur0vZ2]{스트릭스}</em></p>"
+		},
+		"Tengu": {
+			"name": "텐구",
+			"description": "<p><em>텐구는 조상의 고향인 톈샤에서 멀리 퍼져나간 사교적이고 수완이 뛰어난 민족으로, 우연히 만나는 혁신과 전통을 자신들의 오랜 역사에서 얻은 것과 결합해 새로운 것을 수집하고 결합합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.YGIwmuVOJI7uNhGM]{텐구}</em></p>"
+		},
+		"Vanara": {
+			"name": "바나라",
+			"description": "<p>바나라는 짧고 부드러운 털, 표정이 풍부한 눈, 길고 뾰족한 꼬리를 가진 호기심 많고 장난기 많은 원숭이 같은 휴머노이드입니다. 손과 같은 발과 민첩한 체격 덕분에 대부분의 바나라가 서식하는 정글 영역에서 잘 적응합니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.40koksC576nYV2Tf]{바나라}</p>"
+		},
+		"Vishkanya": {
+			"name": "비슈카냐",
+			"description": "<p>비슈카냐는 피와 침 속에 강력한 독을 품고 있는 오피디아 휴머노이드입니다. 비슈카야의 독성과 자연적인 기교에 대한 오래된 이야기로 인해 많은 오해를 받아왔지만, 그들은 이야기에 묘사된 것 이상의 존재로 성장하기 위해 노력합니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.1lCAkGgIYYkczZ28]{비슈카냐}</p>"
+		}
+	}
+}
