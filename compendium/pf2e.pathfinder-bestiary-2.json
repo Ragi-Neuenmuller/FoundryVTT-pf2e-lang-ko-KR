@@ -1,0 +1,1124 @@
+{
+    "entries": {
+        "Adult Brine Dragon (Spellcaster)": {
+            "name": "어덜트 브라인 드래곤 (주문 시전자)"
+        },
+        "Aapoph Serpentfolk": {
+            "name": "아포프 서펜트포크"
+        },
+        "Adult Brine Dragon": {
+            "name": "어덜트 브라인 드래곤"
+        },
+        "Amoeba Swarm": {
+            "name": "아메바 떼"
+        },
+        "Denizen of Leng": {
+            "name": "렝의 데니즌"
+        },
+        "Dream Spider": {
+            "name": "드림 스파이더"
+        },
+        "Jabberwock": {
+            "name": "자버웍"
+        },
+        "Nixie": {
+            "name": "Nixie"
+        },
+        "Purrodaemon": {
+            "name": "푸로데몬"
+        },
+        "Shadow Drake": {
+            "name": "섀도우 드레이크"
+        },
+        "Xill": {
+            "name": "Xill"
+        },
+        "Young Brine Dragon": {
+            "name": "영 브라인 드래곤"
+        },
+        "Zebub": {
+            "name": "Zebub"
+        },
+        "Young Brine Dragon (Spellcaster)": {
+            "name": "영 브라인 드래곤 (주문 시전자)"
+        },
+        "Young Umbral Dragon": {
+            "name": "영 엄브랄 드래곤"
+        },
+        "Young Umbral Dragon (Spellcaster)": {
+            "name": "영 움브랄 드래곤 (주문 시전자)"
+        },
+        "Young Cloud Dragon (Spellcaster)": {
+            "name": "영 클라우드 드래곤 (주문 시전자)"
+        },
+        "Young Crystal Dragon": {
+            "name": "영 크리스탈 드래곤"
+        },
+        "Young Magma Dragon": {
+            "name": "영 마그마 드래곤"
+        },
+        "Zyss Serpentfolk": {
+            "name": "지스 서펜트포크"
+        },
+        "Zomok": {
+            "name": "Zomok"
+        },
+        "Zelekhut": {
+            "name": "젤렉훗"
+        },
+        "Giant Amoeba": {
+            "name": "자이언트 아메바"
+        },
+        "Undine Hydromancer": {
+            "name": "운디네 하이드로맨서"
+        },
+        "Giant Frog": {
+            "name": "자이언트 개구리"
+        },
+        "Cythnigot": {
+            "name": "사이니고트"
+        },
+        "Giant Cockroach": {
+            "name": "자이언트 바퀴벌레"
+        },
+        "Tick Swarm": {
+            "name": "진드기 떼"
+        },
+        "Verdurous Ooze": {
+            "name": "버더러스 우즈"
+        },
+        "Choker": {
+            "name": "초커"
+        },
+        "Bythos": {
+            "name": "Bythos"
+        },
+        "Calathgar": {
+            "name": "Calathgar"
+        },
+        "Behir": {
+            "name": "Behir"
+        },
+        "Lunar Naga": {
+            "name": "루나 나가"
+        },
+        "Trollhound": {
+            "name": "트롤하운드"
+        },
+        "Thanadaemon": {
+            "name": "타나다에몬"
+        },
+        "Petitioner (Hell)": {
+            "name": "청원자(지옥)"
+        },
+        "Fetchling Scout": {
+            "name": "페츨링 스카우트"
+        },
+        "Petitioner (Plane of Fire)": {
+            "name": "청원자(플레인 오브 파이어)"
+        },
+        "Spiral Centurion": {
+            "name": "나선형 백부장"
+        },
+        "Theletos": {
+            "name": "테레토스"
+        },
+        "Grindylow": {
+            "name": "그라인디로우"
+        },
+        "Vrykolakas Master": {
+            "name": "브라이콜라카스 마스터"
+        },
+        "Esobok": {
+            "name": "에소복"
+        },
+        "Giant Jellyfish": {
+            "name": "자이언트 해파리"
+        },
+        "Petitioner (Maelstrom)": {
+            "name": "청원자 (소용돌이)"
+        },
+        "Grodair": {
+            "name": "그로데어"
+        },
+        "Petitioner (Plane of Water)": {
+            "name": "청원자(물의 평면)"
+        },
+        "Two-Headed Troll": {
+            "name": "두 개의 머리를 가진 트롤"
+        },
+        "Hound Of Tindalos": {
+            "name": "틴달로스의 사냥개"
+        },
+        "Piscodaemon": {
+            "name": "피스코데몬"
+        },
+        "Petitioner (Positive Energy Plane)": {
+            "name": "청원자(포지티브 에너지 평면)"
+        },
+        "Carnivorous Blob": {
+            "name": "육식성 블롭"
+        },
+        "Sea Drake": {
+            "name": "바다 드레이크"
+        },
+        "Caligni Slayer": {
+            "name": "칼리니 슬레이어"
+        },
+        "Athach": {
+            "name": "Athach"
+        },
+        "Adult Umbral Dragon": {
+            "name": "어덜트 엄브랄 드래곤"
+        },
+        "Bone Prophet": {
+            "name": "뼈 예언자"
+        },
+        "Coil Spy": {
+            "name": "코일 스파이"
+        },
+        "Vexgit": {
+            "name": "벡스기트"
+        },
+        "Oread Guard": {
+            "name": "오레드 가드"
+        },
+        "Fire Jellyfish Swarm": {
+            "name": "불 해파리 떼"
+        },
+        "Yamaraj": {
+            "name": "야마라즈"
+        },
+        "Hodag": {
+            "name": "Hodag"
+        },
+        "Petitioner (Abaddon)": {
+            "name": "청원자 (아바돈)"
+        },
+        "Snapping Turtle": {
+            "name": "스냅 거북이"
+        },
+        "Petitioner (Nirvana)": {
+            "name": "청원자 (너바나)"
+        },
+        "Witchfire": {
+            "name": "마녀불"
+        },
+        "Ancient Brine Dragon (Spellcaster)": {
+            "name": "에인션트 브라인 드래곤 (주문 시전자)"
+        },
+        "Star Archon": {
+            "name": "스타 아콘"
+        },
+        "Carrion Golem": {
+            "name": "캐리언 골렘"
+        },
+        "Yellow Musk Brute": {
+            "name": "옐로우 머스크 브루트"
+        },
+        "Violet Fungus": {
+            "name": "바이올렛 펑거스"
+        },
+        "Blizzardborn": {
+            "name": "블리자드본"
+        },
+        "Norn": {
+            "name": "Norn"
+        },
+        "Wereboar": {
+            "name": "멧돼지"
+        },
+        "Viper Vine": {
+            "name": "바이퍼 바인"
+        },
+        "Megalania": {
+            "name": "메가라니아"
+        },
+        "Bastion Archon": {
+            "name": "바스티온 아콘"
+        },
+        "Petitioner (Ethereal Plane)": {
+            "name": "청원자 (에테리얼 평면)"
+        },
+        "Giant Hippocampus": {
+            "name": "자이언트 해마"
+        },
+        "Petitioner (Dimension of Dreams)": {
+            "name": "청원자(꿈의 차원)"
+        },
+        "Blue-Ringed Octopus": {
+            "name": "푸른 고리 문어"
+        },
+        "Osyluth": {
+            "name": "오실루스"
+        },
+        "Ice Yai": {
+            "name": "아이스 야이"
+        },
+        "Grimstalker": {
+            "name": "그림 스토커"
+        },
+        "Suli Dune Dancer": {
+            "name": "술리 듄 댄서"
+        },
+        "Mist Stalker": {
+            "name": "미스트 스토커"
+        },
+        "Ancient Brine Dragon": {
+            "name": "에인션트 브라인 드래곤"
+        },
+        "Hadrosaurid": {
+            "name": "하드로사우루스"
+        },
+        "Giant Chameleon": {
+            "name": "자이언트 카멜레온"
+        },
+        "Monadic Deva": {
+            "name": "모나딕 데바"
+        },
+        "Intellect Devourer": {
+            "name": "지성을 삼키는 자"
+        },
+        "Marrmora": {
+            "name": "Marrmora"
+        },
+        "Planetar": {
+            "name": "행성"
+        },
+        "Mohrg": {
+            "name": "Mohrg"
+        },
+        "Magma Scorpion": {
+            "name": "마그마 전갈"
+        },
+        "Moonflower": {
+            "name": "문플라워"
+        },
+        "Petitioner (Shadow Plane)": {
+            "name": "청원자(그림자 평면)"
+        },
+        "Duneshaker Solifugid": {
+            "name": "던쉐이커 솔리푸기드"
+        },
+        "Hippocampus": {
+            "name": "해마"
+        },
+        "Giant Crawling Hand": {
+            "name": "자이언트 크롤링 핸드"
+        },
+        "Cairn Wight": {
+            "name": "케언 와이트"
+        },
+        "Yellow Musk Creeper": {
+            "name": "옐로우 머스크 크리퍼"
+        },
+        "Sunflower Leshy": {
+            "name": "해바라기 레시"
+        },
+        "Adult Magma Dragon (Spellcaster)": {
+            "name": "어덜트 마그마 드래곤 (주문 시전자)"
+        },
+        "Cave Fisher": {
+            "name": "동굴 피셔"
+        },
+        "Petitioner (Astral Plane)": {
+            "name": "청원자(아스트랄 플레인)"
+        },
+        "Spriggan Warlord": {
+            "name": "스프리건 워로드"
+        },
+        "Cavern Troll": {
+            "name": "동굴 트롤"
+        },
+        "Manta Ray": {
+            "name": "만타 레이"
+        },
+        "Ooze Mephit": {
+            "name": "우즈 메핏"
+        },
+        "Grippli Scout": {
+            "name": "그리플리 스카우트"
+        },
+        "Shocker Lizard": {
+            "name": "쇼커 도마뱀"
+        },
+        "Kelpie": {
+            "name": "켈피"
+        },
+        "Korred": {
+            "name": "Korred"
+        },
+        "Hellcat": {
+            "name": "헬캣"
+        },
+        "Blindheim": {
+            "name": "블라인드하임"
+        },
+        "Hamatula": {
+            "name": "하마툴라"
+        },
+        "Thulgant": {
+            "name": "Thulgant"
+        },
+        "Aurumvorax": {
+            "name": "아우룸보락스"
+        },
+        "Giant Whiptail Centipede": {
+            "name": "자이언트 휩테일 지네"
+        },
+        "Behemoth Hippopotamus": {
+            "name": "베헤모스 하마"
+        },
+        "Raven Swarm": {
+            "name": "까마귀 떼"
+        },
+        "Urdefhan Warrior": {
+            "name": "우르데한 전사"
+        },
+        "Scythe Tree": {
+            "name": "낫 트리"
+        },
+        "Adult Magma Dragon": {
+            "name": "어덜트 마그마 드래곤"
+        },
+        "Brownie": {
+            "name": "브라우니"
+        },
+        "Taiga Linnorm": {
+            "name": "타이가 린노름"
+        },
+        "Azuretzi": {
+            "name": "Azuretzi"
+        },
+        "Yellow Musk Thrall": {
+            "name": "옐로우 머스크 스랄"
+        },
+        "Necrophidius": {
+            "name": "네크로피디우스"
+        },
+        "Mudwretch": {
+            "name": "Mudwretch"
+        },
+        "Brood Leech Swarm": {
+            "name": "무리 거머리 떼"
+        },
+        "Giant Mosquito": {
+            "name": "자이언트 모기"
+        },
+        "Iguanodon": {
+            "name": "이구아노돈"
+        },
+        "Giant Solifugid": {
+            "name": "자이언트 솔리푸기드"
+        },
+        "Frost Worm": {
+            "name": "서리 벌레"
+        },
+        "Blodeuwedd": {
+            "name": "Blodeuwedd"
+        },
+        "Marsh Giant": {
+            "name": "습지 자이언트"
+        },
+        "Compsognathus": {
+            "name": "콤소그나투스"
+        },
+        "Shoggti": {
+            "name": "쇼그티"
+        },
+        "Giant Dragonfly Nymph": {
+            "name": "거대 잠자리 님프"
+        },
+        "Spinosaurus": {
+            "name": "스피노사우루스"
+        },
+        "Raven": {
+            "name": "Raven"
+        },
+        "Vaspercham": {
+            "name": "바스퍼참"
+        },
+        "Petitioner (Heaven)": {
+            "name": "청원자(천국)"
+        },
+        "Adult Cloud Dragon": {
+            "name": "어덜트 클라우드 드래곤"
+        },
+        "Hippopotamus": {
+            "name": "하마"
+        },
+        "Grendel": {
+            "name": "그렌델"
+        },
+        "Drainberry Bush": {
+            "name": "드레인베리 부시"
+        },
+        "Spark Bat": {
+            "name": "스파크 배트"
+        },
+        "Cockroach Swarm": {
+            "name": "바퀴벌레 떼"
+        },
+        "Rusalka": {
+            "name": "루살카"
+        },
+        "Catrina": {
+            "name": "카트리나"
+        },
+        "Fen Mosquito Swarm": {
+            "name": "펜 모기 떼"
+        },
+        "Icicle Snake": {
+            "name": "고드름 뱀"
+        },
+        "Sylph Sneak": {
+            "name": "실프 잠입"
+        },
+        "Vanth": {
+            "name": "Vanth"
+        },
+        "Trumpet Archon": {
+            "name": "트럼펫 아콘"
+        },
+        "Sandpoint Devil": {
+            "name": "샌드포인트 데빌"
+        },
+        "Giant Tick": {
+            "name": "자이언트 틱"
+        },
+        "Dweomercat": {
+            "name": "Dweomercat"
+        },
+        "Thrasfyr": {
+            "name": "Thrasfyr"
+        },
+        "Bralani": {
+            "name": "Bralani"
+        },
+        "Quickling": {
+            "name": "퀵링"
+        },
+        "Spirit Naga": {
+            "name": "스피릿 나가"
+        },
+        "Isqulug": {
+            "name": "Isqulug"
+        },
+        "Nalfeshnee": {
+            "name": "나페쉬니"
+        },
+        "Stingray": {
+            "name": "가오리"
+        },
+        "Evangelist": {
+            "name": "에반젤리스트"
+        },
+        "Vampiric Mist": {
+            "name": "뱀파이어 미스트"
+        },
+        "Triton": {
+            "name": "Triton"
+        },
+        "Black Bear": {
+            "name": "검은 곰"
+        },
+        "Petitioner (Plane of Air)": {
+            "name": "청원자(비행기)"
+        },
+        "Augnagar": {
+            "name": "어그나가르"
+        },
+        "Granite Glyptodont": {
+            "name": "화강암 글리프토돈트"
+        },
+        "Lerritan": {
+            "name": "Lerritan"
+        },
+        "Sard": {
+            "name": "사드"
+        },
+        "Ifrit Pyrochemist": {
+            "name": "아이프릿 파이로케미스트"
+        },
+        "Weretiger": {
+            "name": "Weretiger"
+        },
+        "Tendriculos": {
+            "name": "텐드리쿨로"
+        },
+        "Animate Dream": {
+            "name": "애니메이션 꿈"
+        },
+        "Wood Giant": {
+            "name": "나무 자이언트"
+        },
+        "Living Thunderclap": {
+            "name": "살아있는 천둥소리"
+        },
+        "Marut": {
+            "name": "Marut"
+        },
+        "Ankou": {
+            "name": "Ankou"
+        },
+        "Blink Dog": {
+            "name": "블링크 독"
+        },
+        "Vampire Squid": {
+            "name": "뱀파이어 오징어"
+        },
+        "Ancient Cloud Dragon (Spellcaster)": {
+            "name": "에인션트 클라우드 드래곤 (주문 시전자)"
+        },
+        "Gylou": {
+            "name": "Gylou"
+        },
+        "Bodak": {
+            "name": "Bodak"
+        },
+        "Adult Crystal Dragon": {
+            "name": "어덜트 크리스탈 드래곤"
+        },
+        "Ancient Umbral Dragon (Spellcaster)": {
+            "name": "에인션트 움브랄 드래곤 (주문 시전자)"
+        },
+        "Ice Mephit": {
+            "name": "아이스 메핏"
+        },
+        "Doprillu": {
+            "name": "도프릴루"
+        },
+        "Interlocutor": {
+            "name": "인터로코터"
+        },
+        "Vrolikai": {
+            "name": "Vrolikai"
+        },
+        "Water Orm": {
+            "name": "물의 오름"
+        },
+        "Quetz Couatl": {
+            "name": "케츠 쿠아틀"
+        },
+        "Nabasu": {
+            "name": "나바수"
+        },
+        "Giant Squid": {
+            "name": "자이언트 오징어"
+        },
+        "Giant Snapping Turtle": {
+            "name": "자이언트 스내핑 거북이"
+        },
+        "Ancient Magma Dragon (Spellcaster)": {
+            "name": "에인션트 마그마 드래곤 (주문 시전자)"
+        },
+        "Imentesh": {
+            "name": "Imentesh"
+        },
+        "Worm That Walks Cultist": {
+            "name": "걷는 벌레 컬트주의자"
+        },
+        "Ancient Crystal Dragon (Spellcaster)": {
+            "name": "에인션트 크리스탈 드래곤 (주문 시전자)"
+        },
+        "Woolly Rhinoceros": {
+            "name": "울리 코뿔소"
+        },
+        "Wolverine": {
+            "name": "울버린"
+        },
+        "Giant Crab": {
+            "name": "자이언트 크랩"
+        },
+        "Hippogriff": {
+            "name": "히포그리프"
+        },
+        "Green Dracolisk": {
+            "name": "녹색 드라콜리스크"
+        },
+        "Nuckelavee": {
+            "name": "Nuckelavee"
+        },
+        "Cornugon": {
+            "name": "코르누곤"
+        },
+        "Twigjack": {
+            "name": "트위그잭"
+        },
+        "Sceaduinar": {
+            "name": "서두"
+        },
+        "Sea Snake": {
+            "name": "바다뱀"
+        },
+        "Army Ant Swarm": {
+            "name": "군대 개미 떼"
+        },
+        "Black Scorpion": {
+            "name": "검은 전갈"
+        },
+        "Petitioner (Plane of Earth)": {
+            "name": "청원자(지구의 평면)"
+        },
+        "Rhinoceros": {
+            "name": "코뿔소"
+        },
+        "Chernobue": {
+            "name": "체르노뷰"
+        },
+        "Gosreg": {
+            "name": "Gosreg"
+        },
+        "Olethrodaemon": {
+            "name": "올레트로데몬"
+        },
+        "Urdefhan Tormentor": {
+            "name": "우르데한 고문자"
+        },
+        "Elasmosaurus": {
+            "name": "엘라스모사우루스"
+        },
+        "Petitioner (Elysium)": {
+            "name": "청원자 (엘리시움)"
+        },
+        "Neothelid": {
+            "name": "신피질"
+        },
+        "Catoblepas": {
+            "name": "카토블레파스"
+        },
+        "Pachycephalosaurus": {
+            "name": "파키케팔로사우루스"
+        },
+        "Petitioner (Material Plane)": {
+            "name": "청원자(머티리얼 플레인)"
+        },
+        "Ancient Cloud Dragon": {
+            "name": "에인션트 클라우드 드래곤"
+        },
+        "Babau": {
+            "name": "Babau"
+        },
+        "Giant Maggot": {
+            "name": "자이언트 구더기"
+        },
+        "Invidiak": {
+            "name": "인비디악"
+        },
+        "Ancient Magma Dragon": {
+            "name": "에인션트 마그마 드래곤"
+        },
+        "Carbuncle": {
+            "name": "카분클"
+        },
+        "Witchwyrd": {
+            "name": "Witchwyrd"
+        },
+        "Giant Ant": {
+            "name": "자이언트 개미"
+        },
+        "Reef Octopus": {
+            "name": "리프 문어"
+        },
+        "Stygira": {
+            "name": "Stygira"
+        },
+        "Thunderbird": {
+            "name": "썬더버드"
+        },
+        "Young Crystal Dragon (Spellcaster)": {
+            "name": "영 크리스탈 드래곤 (주문 시전자)"
+        },
+        "Akata": {
+            "name": "아카타"
+        },
+        "Wood Golem": {
+            "name": "나무 골렘"
+        },
+        "Eremite": {
+            "name": "Eremite"
+        },
+        "Titan Centipede": {
+            "name": "타이탄 지네"
+        },
+        "Ember Fox": {
+            "name": "엠버 폭스"
+        },
+        "Onidoshi": {
+            "name": "Onidoshi"
+        },
+        "Spear Frog": {
+            "name": "스피어 개구리"
+        },
+        "Lurker In Light": {
+            "name": "빛 속의 잠복자"
+        },
+        "Ravener Husk": {
+            "name": "레이븐 허스크"
+        },
+        "Dig-Widget": {
+            "name": "Dig-Widget"
+        },
+        "Irnakurse": {
+            "name": "Irnakurse"
+        },
+        "Melody On The Wind": {
+            "name": "멜로디 온 더 윈드"
+        },
+        "Movanic Deva": {
+            "name": "모바닉 데바"
+        },
+        "Sacristan": {
+            "name": "새크리스탄"
+        },
+        "Meladaemon": {
+            "name": "멜라데몬"
+        },
+        "Scarecrow": {
+            "name": "허수아비"
+        },
+        "Cairn Linnorm": {
+            "name": "케언 린노름"
+        },
+        "Red Dracolisk": {
+            "name": "레드 드라콜리스크"
+        },
+        "Petitioner (Dead Vault)": {
+            "name": "청원자 (치명적 금고)"
+        },
+        "Aolaz": {
+            "name": "Aolaz"
+        },
+        "Sportlebore Swarm": {
+            "name": "스포틀보어 떼"
+        },
+        "Ancient Umbral Dragon": {
+            "name": "에인션트 움브랄 드래곤"
+        },
+        "Ice Golem": {
+            "name": "얼음 골렘"
+        },
+        "Taiga Giant": {
+            "name": "타이가 자이언트"
+        },
+        "Fjord Linnorm": {
+            "name": "피오르드 린노름"
+        },
+        "White Dracolisk": {
+            "name": "화이트 드라콜리스크"
+        },
+        "Flytrap Leshy": {
+            "name": "플라이트랩 레시"
+        },
+        "Basidirond": {
+            "name": "베이시디론드"
+        },
+        "Umonlee": {
+            "name": "Umonlee"
+        },
+        "Void Zombie": {
+            "name": "공허 좀비"
+        },
+        "Steam Mephit": {
+            "name": "스팀 메핏"
+        },
+        "Anancus": {
+            "name": "Anancus"
+        },
+        "Skaveling": {
+            "name": "스켈링"
+        },
+        "Fire Yai": {
+            "name": "파이어 야이"
+        },
+        "Bog Strider": {
+            "name": "보그 스트라이더"
+        },
+        "Shadow Giant": {
+            "name": "그림자 자이언트"
+        },
+        "Earthen Destrier": {
+            "name": "흙 파괴자"
+        },
+        "Culdewen": {
+            "name": "컬드웬"
+        },
+        "Striding Fire": {
+            "name": "스트라이딩 파이어"
+        },
+        "Leucrotta": {
+            "name": "류크로타"
+        },
+        "Quoppopak": {
+            "name": "쿼포팩"
+        },
+        "Sarglagon": {
+            "name": "사르글라곤"
+        },
+        "Specter": {
+            "name": "스펙터"
+        },
+        "Bebilith": {
+            "name": "베빌리스"
+        },
+        "Cave Scorpion": {
+            "name": "동굴 전갈"
+        },
+        "Belker": {
+            "name": "Belker"
+        },
+        "Ghonhatine": {
+            "name": "곤하틴"
+        },
+        "Ogre Spider": {
+            "name": "오우거 스파이더"
+        },
+        "Filth Fire": {
+            "name": "오물 불"
+        },
+        "Mandragora": {
+            "name": "만드라고라"
+        },
+        "Hound Archon": {
+            "name": "사냥개 대군"
+        },
+        "Attic Whisperer": {
+            "name": "다락방 위스퍼러"
+        },
+        "Leprechaun": {
+            "name": "레프리콘"
+        },
+        "Veranallia": {
+            "name": "베라날리아"
+        },
+        "Gorgon": {
+            "name": "고르곤"
+        },
+        "Polar Bear": {
+            "name": "북극곰"
+        },
+        "Petitioner (Axis)": {
+            "name": "청원자(축)"
+        },
+        "Soul Eater": {
+            "name": "소울 이터"
+        },
+        "Living Boulder": {
+            "name": "리빙 볼더"
+        },
+        "Petitioner (Abyss)": {
+            "name": "청원자 (어비스)"
+        },
+        "Adult Umbral Dragon (Spellcaster)": {
+            "name": "어덜트 엄브럴 드래곤 (주문 시전자)"
+        },
+        "Emperor Cobra": {
+            "name": "황제 코브라"
+        },
+        "Giant Wolverine": {
+            "name": "자이언트 울버린"
+        },
+        "Young Cloud Dragon": {
+            "name": "영 클라우드 드래곤"
+        },
+        "Vrykolakas Spawn": {
+            "name": "브리콜라카스 스폰"
+        },
+        "Draugr": {
+            "name": "Draugr"
+        },
+        "Baobhan Sith": {
+            "name": "바오반 시스"
+        },
+        "Augur": {
+            "name": "Augur"
+        },
+        "Giant Badger": {
+            "name": "자이언트 오소리"
+        },
+        "Derghodaemon": {
+            "name": "데르고데몬"
+        },
+        "Ahuizotl": {
+            "name": "아후이조틀"
+        },
+        "Peluda": {
+            "name": "Peluda"
+        },
+        "Icewyrm": {
+            "name": "아이스웜"
+        },
+        "Bottlenose Dolphin": {
+            "name": "큰돌고래"
+        },
+        "Badger": {
+            "name": "Badger"
+        },
+        "Chupacabra": {
+            "name": "추파카브라"
+        },
+        "Frost Troll": {
+            "name": "서리 트롤"
+        },
+        "Sand Sentry": {
+            "name": "모래 센트리"
+        },
+        "Bog Mummy": {
+            "name": "늪지 미라"
+        },
+        "Devourer": {
+            "name": "Devourer"
+        },
+        "Assassin Vine": {
+            "name": "어쌔신 바인"
+        },
+        "Spriggan Bully": {
+            "name": "스프리건 불리"
+        },
+        "Giant Slug": {
+            "name": "자이언트 슬러그"
+        },
+        "Leydroth": {
+            "name": "레이드로스"
+        },
+        "Nereid": {
+            "name": "Nereid"
+        },
+        "Jotund Troll": {
+            "name": "조툰 트롤"
+        },
+        "Irlgaunt": {
+            "name": "Irlgaunt"
+        },
+        "Ostiarius": {
+            "name": "오스티아리우스"
+        },
+        "Giant Fly": {
+            "name": "자이언트 비행"
+        },
+        "Water Yai": {
+            "name": "워터 야이"
+        },
+        "Slime Mold": {
+            "name": "슬라임 몰드"
+        },
+        "Skrik Nettle": {
+            "name": "스크리크 네틀"
+        },
+        "Adult Cloud Dragon (Spellcaster)": {
+            "name": "어덜트 클라우드 드래곤 (주문 시전자)"
+        },
+        "Black Dracolisk": {
+            "name": "블랙 드라콜리스크"
+        },
+        "Nyogoth": {
+            "name": "Nyogoth"
+        },
+        "Dread Wraith": {
+            "name": "공포의 망령"
+        },
+        "Young Magma Dragon (Spellcaster)": {
+            "name": "영 마그마 드래곤 (주문 시전자)"
+        },
+        "Orca": {
+            "name": "Orca"
+        },
+        "Mastodon": {
+            "name": "마스토돈"
+        },
+        "Giant Dragonfly": {
+            "name": "거대 잠자리"
+        },
+        "Blue Dracolisk": {
+            "name": "블루 드라콜리스크"
+        },
+        "Adult Crystal Dragon (Spellcaster)": {
+            "name": "어덜트 크리스탈 드래곤 (주문 시전자)"
+        },
+        "Hezrou": {
+            "name": "헤즈루"
+        },
+        "Akizendri": {
+            "name": "아키젠드리"
+        },
+        "Yeth Hound": {
+            "name": "예스 하운드"
+        },
+        "Shoal Linnorm": {
+            "name": "숄 린노름"
+        },
+        "Tatzlwyrm": {
+            "name": "Tatzlwyrm"
+        },
+        "Solar": {
+            "name": "Solar"
+        },
+        "Radiant Warden": {
+            "name": "빛나는 소장"
+        },
+        "Vrykolakas Ancient": {
+            "name": "브리콜라카스 에인션트"
+        },
+        "Ravener": {
+            "name": "레이버"
+        },
+        "Glass Golem": {
+            "name": "유리 골렘"
+        },
+        "Giant Toad": {
+            "name": "자이언트 두꺼비"
+        },
+        "Dust Mephit": {
+            "name": "더스트 메핏"
+        },
+        "Froghemoth": {
+            "name": "프로그헤모스"
+        },
+        "Crawling Hand": {
+            "name": "크롤링 핸드"
+        },
+        "Totenmaske": {
+            "name": "토텐마스크"
+        },
+        "Nuglub": {
+            "name": "Nuglub"
+        },
+        "Giant Leech": {
+            "name": "자이언트 거머리"
+        },
+        "Gray Ooze": {
+            "name": "회색 우즈"
+        },
+        "Peryton": {
+            "name": "Peryton"
+        },
+        "Leng Spider": {
+            "name": "렝 스파이더"
+        },
+        "Ancient Crystal Dragon": {
+            "name": "에인션트 크리스탈 드래곤"
+        },
+        "Petitioner (Boneyard)": {
+            "name": "청원자(본야드)"
+        },
+        "D'ziriak": {
+            "name": "디지리악"
+        },
+        "Destrachan": {
+            "name": "데스트라찬"
+        },
+        "Jyoti": {
+            "name": "조티"
+        },
+        "Morlock": {
+            "name": "몰록"
+        },
+        "Revenant": {
+            "name": "귀환자"
+        },
+        "Skulk": {
+            "name": "스컬크"
+        }
+    },
+    "label": "괴물 도감 2"
+}

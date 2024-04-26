@@ -1,0 +1,58 @@
+{
+  "id": "pf2e-ko-kr",
+  "title": "Translation: Korean [PF2e]",
+  "version": "0.1.1",
+  "esmodules": [
+    "babele-register.js"
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "languages": [
+    {
+      "lang": "ko",
+      "name": "한국어 (Korean)",
+      "path": "ko.json",
+      "flags": {}
+    }
+    ,
+    {
+      "lang": "ko",
+      "name": "한국어 (Korean)",
+      "path": "re-ko.json",
+      "flags": {}
+    }
+    ,
+    {
+      "lang": "ko",
+      "name": "한국어 (Korean)",
+      "path": "action-ko.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Ragi_Neuenmuller",
+      "email": "neuenmuller19@gmail.com",
+      "discord": "라기"
+    }
+  ],
+  "url": "https://github.com/Ragi-Neuenmuller/pf2e-ko-kr"
+}
