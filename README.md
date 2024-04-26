@@ -4,7 +4,7 @@ Foundry VTT 코어 호환 버전 : v11
 필요 모듈 : Babele
 매니페스트 링크 : https://github.com/Ragi-Neuenmuller/FoundryVTT-pf2e-lang-ko-KR/releases/download/release/module.json
 
-<h2>설명<h2>
+<h2>설명</h2>
 Foundry VTT의 패스파인더 2판 게임 시스템 을 한국어로 출력해 주는 모듈입니다.<br/>
 기본 시스템, 컨펜디움을 번역중입니다.
 <br/><br/>
