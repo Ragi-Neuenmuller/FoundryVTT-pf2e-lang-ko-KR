@@ -64,7 +64,7 @@ DeepL 번역기를 사용하였으며, 번역기로 번역된 파일을 손으�
 - Action Macros
 - PF2e Macros
 
-번역기 번역됨 (DEEPL)
+번역기 번역됨 (DEEPL)<br/>
 0. 기본
 - action-ko.json
 - re-ko.json
@@ -81,7 +81,7 @@ DeepL 번역기를 사용하였으며, 번역기로 번역된 파일을 손으�
 - Creature Familiar Ability Glossary
 - Adventure-Specific Actions
 
-번역 예정
+번역 예정<br/>
 1. Character Building
 - KingmakerFeatures
 
