@@ -1,0 +1,289 @@
+{
+    "entries": {
+        "Administer First Aid - Stop Bleeding: Medicine": {
+            "command": "game.pf2e.actions.administerFirstAid({ event: event, variant: 'stop-bleeding' });",
+            "name": "응급처치 관리 - 출혈을 멈추기: 의학"
+        },
+        "Athletics: Arcane Slam": {
+            "command": "game.pf2e.actions.arcaneSlam({ event: event });",
+            "name": "육상: 아케인 슬램"
+        },
+        "Decipher Writing: Occultism": {
+            "name": "글쓰기 해독: 신비",
+            "command": "game.pf2e.actions.decipherWriting({ event: event, skill: 'occultism' });"
+        },
+        "Perform - Oratory: Performance": {
+            "name": "공연 - 연설: 공연",
+            "command": "game.pf2e.actions.perform({ event: event, variant: 'oratory' });"
+        },
+        "Repair: Crafting": {
+            "name": "수리: 제작",
+            "command": "game.pf2e.actions.repair({ event: event });"
+        },
+        "Swim: Athletics": {
+            "command": "game.pf2e.actions.swim({ event: event });",
+            "name": "수영: 육상"
+        },
+        "Tamper: Crafting": {
+            "name": "변조: 제작",
+            "command": "game.pf2e.actions.tamper({ event: event });"
+        },
+        "Impersonate: Deception": {
+            "name": "사칭: 속임수",
+            "command": "game.pf2e.actions.impersonate({ event: event });"
+        },
+        "Conceal an Object: Stealth": {
+            "name": "물체를 은폐: 은신",
+            "command": "game.pf2e.actions.concealAnObject({ event: event });"
+        },
+        "Perform - Play string instrument: Performance": {
+            "command": "game.pf2e.actions.perform({ event: event, variant: 'strings' });",
+            "name": "공연 - 현악기 연주: 공연"
+        },
+        "Trip: Athletics": {
+            "command": "game.pf2e.actions.trip({ event: event });",
+            "name": "여행: 육상"
+        },
+        "Sense Motive: Perception": {
+            "name": "감각 동기: 지각",
+            "command": "game.pf2e.actions.senseMotive({ event: event });"
+        },
+        "Decipher Writing: Society": {
+            "command": "game.pf2e.actions.decipherWriting({ event: event, skill: 'society' });",
+            "name": "글쓰기 해독: 사회"
+        },
+        "Long Jump: Athletics": {
+            "name": "멀리뛰기: 육상",
+            "command": "game.pf2e.actions.longJump({ event: event });"
+        },
+        "Request: Diplomacy": {
+            "name": "요청: 외교",
+            "command": "game.pf2e.actions.request({ event: event });"
+        },
+        "Seek: Perception": {
+            "command": "game.pf2e.actions.seek({ event: event });",
+            "name": "찾기: 지각"
+        },
+        "Decipher Writing: Religion": {
+            "name": "글쓰기 해독: 종교",
+            "command": "game.pf2e.actions.decipherWriting({ event: event, skill: 'religion' });"
+        },
+        "Sense Direction: Survival": {
+            "command": "game.pf2e.actions.senseDirection({ event: event });",
+            "name": "방향 감각: 생존"
+        },
+        "Climb: Athletics": {
+            "command": "game.pf2e.actions.climb({ event: event });",
+            "name": "오르기: 육상"
+        },
+        "Perform - Play wind instrument: Performance": {
+            "command": "game.pf2e.actions.perform({ event: event, variant: 'winds' });",
+            "name": "공연 - 관악기 연주: 공연"
+        },
+        "Raise a Shield": {
+            "command": "game.pf2e.actions.raiseAShield({ actors: [token?.actor ?? actor ?? game.user.character].filter((actor) => actor) })",
+            "name": "방패 올리기"
+        },
+        "Coerce: Intimidation": {
+            "command": "game.pf2e.actions.coerce({ event: event });",
+            "name": "강압: 협박"
+        },
+        "Perform - Comedy: Performance": {
+            "name": "공연 - 코미디: 공연",
+            "command": "game.pf2e.actions.perform({ event: event, variant: 'comedy' });"
+        },
+        "High Jump: Athletics": {
+            "name": "높이뛰기: 육상",
+            "command": "game.pf2e.actions.highJump({ event: event });"
+        },
+        "Palm an Object: Thievery": {
+            "name": "손 위에 물건 올리기: 도둑질",
+            "command": "game.pf2e.actions.palmAnObject({ event: event });"
+        },
+        "Treat Poison: Medicine": {
+            "name": "독 치료: 의학",
+            "command": "game.pf2e.actions.treatPoison({ event: event });"
+        },
+        "Craft: Crafting": {
+            "command": "game.pf2e.actions.craft({ event: event });",
+            "name": "제작: 제작"
+        },
+        "Disarm: Athletics": {
+            "name": "무장 해제: 육상",
+            "command": "game.pf2e.actions.disarm({ event: event });"
+        },
+        "Demoralize: Intimidation": {
+            "name": "사기 저하: 협박",
+            "command": "game.pf2e.actions.demoralize({ event: event });"
+        },
+        "Steel Your Resolve": {
+            "command": "const tokens = canvas.tokens.controlled;\nif (tokens.length != 1) {\n    ui.notifications.error(`PC 토큰을 하나 선택해야 합니다`);\n} else {\n    game.pf2e.actions.steelYourResolve({ actors: [token.actor ?? actor].filter((actor) => actor !== null) });\n}",
+            "name": "결의 굳히기"
+        },
+        "Perform - Play keyboard instrument: Performance": {
+            "command": "game.pf2e.actions.perform({ event: event, variant: 'keyboards' });",
+            "name": "공연 - 키보드 악기를 연주: 공연"
+        },
+        "Perform - Singing: Performance": {
+            "command": "game.pf2e.actions.perform({ event: event, variant: 'singing' });",
+            "name": "공연 - 노래: 공연"
+        },
+        "Perform - Dance: Performance": {
+            "name": "공연 - 댄스: 공연",
+            "command": "game.pf2e.actions.perform({ event: event, variant: 'dance' });"
+        },
+        "Subsist: Survival": {
+            "command": "game.pf2e.actions.subsist({ event: event, skill: 'survival' });",
+            "name": "생존: 생존"
+        },
+        "Create a Diversion - Gesture: Deception": {
+            "command": "game.pf2e.actions.createADiversion({ event: event, variant: 'gesture' });",
+            "name": "주의 전환 - 제스처: 속임수"
+        },
+        "Escape: Unarmed Attack": {
+            "name": "탈출: 비무장 공격",
+            "command": "game.pf2e.actions.escape({ event: event, skill: 'unarmed' });"
+        },
+        "Decipher Writing: Arcana": {
+            "command": "game.pf2e.actions.decipherWriting({ event: event, skill: 'arcana' });",
+            "name": "글쓰기 해독: 비전"
+        },
+        "Bon Mot: Diplomacy": {
+            "name": "올바른 단어: 외교",
+            "command": "game.pf2e.actions.bonMot({ event: event });"
+        },
+        "Lie: Deception": {
+            "command": "game.pf2e.actions.lie({ event: event });",
+            "name": "거짓말: 속임수"
+        },
+        "Hide: Stealth": {
+            "name": "숨기: 은신",
+            "command": "game.pf2e.actions.hide({ event: event });"
+        },
+        "Sneak: Stealth": {
+            "command": "game.pf2e.actions.sneak({ event: event });",
+            "name": "잠입: 은신"
+        },
+        "Make an Impression: Diplomacy": {
+            "name": "인상 남기기: 외교",
+            "command": "game.pf2e.actions.makeAnImpression({ event: event });"
+        },
+        "Disable Device: Thievery": {
+            "command": "game.pf2e.actions.disableDevice({ event: event });",
+            "name": "장치 비활성화: 도둑질"
+        },
+        "Whirling Throw: Athletics": {
+            "command": "game.pf2e.actions.whirlingThrow({ event: event });",
+            "name": "소용돌이 던지기: 육상"
+        },
+        "Squeeze: Acrobatics": {
+            "command": "game.pf2e.actions.squeeze({ event: event });",
+            "name": "스퀴즈: 곡예"
+        },
+        "Subsist: Society": {
+            "command": "game.pf2e.actions.subsist({ event: event, skill: 'society' });",
+            "name": "서브시스트: 사회"
+        },
+        "Treat Disease: Medicine": {
+            "command": "game.pf2e.actions.treatDisease({ event: event });",
+            "name": "질병 치료: 의학"
+        },
+        "Gather Information: Diplomacy": {
+            "name": "정보 수집: 외교",
+            "command": "game.pf2e.actions.gatherInformation({ event: event });"
+        },
+        "Perform - Acting: Performance": {
+            "name": "공연 - 연기: 공연",
+            "command": "game.pf2e.actions.perform({ event: event, variant: 'acting' });"
+        },
+        "Maneuver in Flight: Acrobatics": {
+            "name": "비행 중 기동: 곡예",
+            "command": "game.pf2e.actions.maneuverInFlight({ event: event });"
+        },
+        "Pick a Lock: Thievery": {
+            "name": "자물쇠 따기: 도둑질",
+            "command": "game.pf2e.actions.pickALock({ event: event });"
+        },
+        "Perform - Play percussion instrument: Performance": {
+            "command": "game.pf2e.actions.perform({ event: event, variant: 'percussion' });",
+            "name": "공연 - 타악기 연주: 공연"
+        },
+        "Escape: Acrobatics": {
+            "command": "game.pf2e.actions.escape({ event: event, skill: 'acrobatics' });",
+            "name": "탈출: 곡예"
+        },
+        "Administer First Aid - Stabilize: Medicine": {
+            "command": "game.pf2e.actions.administerFirstAid({ event: event, variant: 'stabilize' });",
+            "name": "응급 처치 관리 - 안정시키기: 의학"
+        },
+        "Steal: Thievery": {
+            "name": "훔치기: 도둑질",
+            "command": "game.pf2e.actions.steal({ event: event });"
+        },
+        "Reposition: Athletics": {
+            "command": "game.pf2e.actions.reposition({ event: event });",
+            "name": "위치 변경: 육상"
+        },
+        "Tumble Through: Acrobatics": {
+            "command": "game.pf2e.actions.tumbleThrough({ event: event });",
+            "name": "공중제비: 곡예"
+        },
+        "Command an Animal: Nature": {
+            "name": "동물에게 명령하기: 자연",
+            "command": "game.pf2e.actions.commandAnAnimal({ event: event });"
+        },
+        "Escape: Athletics": {
+            "command": "game.pf2e.actions.escape({ event: event, skill: 'athletics' });",
+            "name": "탈출: 육상"
+        },
+        "Feint: Deception": {
+            "command": "game.pf2e.actions.feint({ event: event });",
+            "name": "페인트: 속임수"
+        },
+        "Track: Survival": {
+            "command": "game.pf2e.actions.track({ event: event });",
+            "name": "추적: 생존"
+        },
+        "Balance: Acrobatics": {
+            "name": "균형: 곡예",
+            "command": "game.pf2e.actions.balance({ event: event });"
+        },
+        "Force Open: Athletics": {
+            "command": "game.pf2e.actions.forceOpen({ event: event });",
+            "name": "힘으로 열기: 육상"
+        },
+        "Encouraging Words": {
+            "command": "const tokens = canvas.tokens.controlled;\nif (tokens.length != 1) {\n    ui.notifications.error(`PC 토큰을 하나 선택해야 합니다`);\n} else {\n    game.pf2e.actions.encouragingWords({ actors: [token.actor ?? actor].filter((actor) => actor !== null) });\n}",
+            "name": "격려의 말"
+        },
+        "Create Forgery: Society": {
+            "name": "위조 만들기: 사회",
+            "command": "game.pf2e.actions.createForgery({ event: event });"
+        },
+        "Exploration: Avoid Notice": {
+            "command": "game.pf2e.actions.avoidNotice({ event: event });",
+            "name": "탐색: 주목 회피"
+        },
+        "Create a Diversion - Trick: Deception": {
+            "command": "game.pf2e.actions.createADiversion({ event: event, variant: 'trick' });",
+            "name": "주의 전환 - 트릭 만들기: 속임수"
+        },
+        "Shove: Athletics": {
+            "name": "밀어내기: 육상",
+            "command": "game.pf2e.actions.shove({ event: event });"
+        },
+        "Grapple: Athletics": {
+            "command": "game.pf2e.actions.grapple({ event: event });",
+            "name": "그래플링: 육상"
+        },
+        "Create a Diversion - Distracting Words: Deception": {
+            "name": "주의 전환 - 산만한 단어 : 속임수",
+            "command": "game.pf2e.actions.createADiversion({ event: event, variant: 'distracting-words' });"
+        },
+        "Escape": {
+            "command": "game.pf2e.actions.escape({ event: event });",
+            "name": "탈출"
+        }
+    },
+    "label": "액션 매크로"
+}

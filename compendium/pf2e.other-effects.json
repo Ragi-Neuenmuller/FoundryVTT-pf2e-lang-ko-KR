@@ -1,0 +1,138 @@
+{
+    "entries": {
+        "Effect: +2 circumstance bonus to AC": {
+            "name": "효과: AC에 상황 보너스 +2",
+            "description": "<p><strong>효과 적용 대상 @UUID[Compendium.pf2e.criticaldeck.JournalEntry.Wn47ZhXINo7jz8JZ]{크리티컬 덱 #2}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.YcQEfWxkmpMWXUz4]{크리티컬 히트 덱 #49}</strong></p>\n<p>AC에 대한 상황 보너스 +2</p>"
+        },
+        "Effect: -1 circumstance penalty to attack rolls until you score a critical hit": {
+            "description": "<p><strong>효과 적용: @UUID[Compendium.pf2e.criticaldeck.JournalEntry.kjoBsS79JcjUUPnr]{크리티컬 덤블 덱 #38}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.qD8KoshDJsayGbCB]{크리티컬 덤블 덱 #40}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.mcniWnifXwXkZocv]{크리티컬 덤블 덱 #41}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.8D8NPBNMxQftBmyd]{크리티컬 뒤죽박죽 덱 #46}</strong></p>\n<p>크리티컬 히트를 기록할 때까지 공격 굴림에 -1 상황 패널티가 적용됩니다.</p>",
+            "name": "효과: 크리티컬 히트를 기록할 때까지 공격 굴림에 -1 상황 패널티가 적용됩니다."
+        },
+        "Effect: +2 status bonus to attack rolls": {
+            "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.wcqXFhggTcAutBk6]{크리티컬 뒤죽박죽 덱 #29}에 적용되는 효과</strong></p>\n<p>공격 굴림에 상태 보너스 +2</p>",
+            "name": "효과: 공격 굴림에 상태 보너스 +2"
+        },
+        "Effect: -2 circumstance penalty to attack rolls made with this attack until healed": {
+            "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.HERWPcFlzK2FTPLJ]{크리티컬 덱 #47}에 적용되는 효과</strong></p>\n<p>치유될 때까지 이 공격으로 사용한 공격 굴림에 -2 상황 패널티가 적용됩니다.</p>",
+            "name": "효과: 치유될 때까지 이 공격으로 굴린 공격에 -2 상황 패널티가 적용됩니다."
+        },
+        "Effect: -2 circumstance penalty to attack rolls with this weapon": {
+            "description": "<p><strong>효과 적용 대상 @UUID[Compendium.pf2e.criticaldeck.JournalEntry.EP333dUdoJ8xdkzq]{크리티컬 덤블 덱 #5}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.YRY6c3WdBEuKiOCv]{크리티컬 덤블 덱 #42}</strong></p>\n<p>이 무기로 공격 굴림에 대한 상황 패널티 -2</p>",
+            "name": "효과: 이 무기로 공격 굴림 시 상황 페널티 -2"
+        },
+        "Effect: -2 circumstance penalty to checks and saving throws until healed": {
+            "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.IvDJkDpe3JxMHaj1]{크리티컬 덱 #28}에 적용되는 효과</strong></p>\n<p>치유될 때까지 체크와 내성 굴림에 -2 상황 패널티가 적용됩니다.</p>",
+            "name": "효과: 치유될 때까지 체크 및 내성 굴림에 -2 상황 패널티가 적용됩니다."
+        },
+        "Effect: -2 circumstance penalty to attack rolls until healed": {
+            "name": "효과: 치유될 때까지 공격 굴림에 -2 상황 패널티가 적용됩니다.",
+            "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.LY6T2YgrSoI79BDR]{크리티컬 덱 #8}에 적용되는 효과</strong></p>\n<p>치유될 때까지 공격 굴림에 대한 상황 패널티 -2</p>"
+        },
+        "Effect: Mounted": {
+            "description": "<p>기마 상태에서는 반사 세이브에 -2의 상황 패널티를 받습니다.</p>",
+            "name": "효과: 장착"
+        },
+        "Effect: -10-foot circumstance penalty to your land Speed": {
+            "description": "<p><strong>효과 적용 대상 @UUID[Compendium.pf2e.criticaldeck.JournalEntry.qD4ybNUceFacSJGu]{크리티컬 덱 #3}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.DpY6k60UrpvKgjx2]{크리티컬 덱 #4}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.99BxUbTtFlyPWkq5]{크리티컬 뒤죽박죽 덱 #7}</strong></p>\n<p>-착지 속도에 -10피트 상황 패널티가 적용됩니다.</p>",
+            "name": "효과: 이동 속도에 -10피트 상황 페널티가 적용됩니다."
+        },
+        "Effect: -5-foot circumstance penalty to your land Speed": {
+            "name": "효과: 이동 속도에 -5피트 상황 페널티가 적용됩니다.",
+            "description": "<p><strong>크리티컬 히트/펌블 덱에 적용되는 효과</strong></p>\n<p>-착지 속도에 -5피트 상황 패널티가 적용됩니다.</p>"
+        },
+        "Effect: Aquatic Combat": {
+            "name": "효과: 수중 전투",
+            "description": "<p>물 또는 수중 전투 시에는 이 규칙을 적용하세요:</p>\n<ul>\n<li>수영 속도가 없다면 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{오프-가드}입니다.</li>\n<li>산과 화염에 대한 저항 5를 얻습니다.</li>\n<li>물을 통과하는 근접 베기 또는 둔기 공격에 -2 상황 페널티를 받습니다.</li>\n<li>공격자 또는 대상이 수중에 있으면 둔기 또는 베기 피해를 주는 원거리 공격은 자동으로 빗나가며, 수중 생물이나 수중 대상에게 관통 원거리 공격은 사거리가 절반으로 증가합니다.</li>\n<li>수중에서는 불 주문을 시전하거나 불 특성이 있는 액션을 사용할 수 없습니다.</li>\n<li>GM의 재량에 따라 일부 지상 기반 액션은 수중 또는 떠 있는 상태에서 작동하지 않을 수 있습니다.</li>\n</ul>"
+        },
+        "Effect: -2 circumstance penalty to spell attack rolls and spell DC's": {
+            "name": "효과: 공격 굴림 및 주문 DC에 대한 상황 패널티 -2 감소",
+            "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.NNfsKAHcKvTuyha4]{크리티컬 덤블 덱 #36}에 적용되는 효과</strong></p>\n<p>공격 굴림 및 주문 DC에 대한 상황 패널티 -2 감소</p>"
+        },
+        "Effect: Avert Gaze": {
+            "description": "<p>메두사의 시선과 같은 위험으로부터 시선을 회피했습니다. 메두사의 석화 시선과 같이 생명체나 물체를 바라보아야 하는 시각 능력에 대한 방어에 상황 보너스 +2를 얻습니다.</p>",
+            "name": "효과: 시선 회피"
+        },
+        "Effect: Cover": {
+            "description": "<p>무기를 막고, 폭발을 막아주며, 자신을 감지하기 어렵게 만드는 장애물 뒤에 있으면 엄폐물 뒤에 있는 것입니다. 기본 엄폐는 AC에 +2의 상황 보너스를, 반사 효과에 대한 반사 저장 효과를, 은신 체크에 +2의 상황 보너스를 주어 숨거나 잠입하거나 다른 방법으로 발각되지 않도록 합니다. 엄폐 기본 액션을 사용하면 상황 보너스가 +4로 증가하여 더욱 향상된 엄폐 효과를 얻을 수 있습니다. 엄폐가 특히 가벼운 경우, 일반적으로 생물이 제공하는 엄폐는 더 적은 엄폐를 가지며, 이 경우 상황 보너스는 AC에 +1을 부여합니다. 표준 엄폐물 또는 향상된 엄폐물을 가진 생물은 은신으로 숨기를 시도할 수 있지만, 은신만으로는 충분하지 않습니다.</p>",
+            "name": "효과: 커버"
+        },
+        "Effect: -10-foot circumstance penalty to all Speeds": {
+            "description": "<p><strong>@UUID에 적용되는 효과[Compendium.pf2e.criticaldeck.JournalEntry.dP4Zy3ILcjWRx6ZO]{크리티컬 히트 덱 #45}</strong></p>\n<p>-모든 속도에 -10피트 상황 패널티가 적용됩니다.</p>",
+            "name": "효과: 모든 속도에 -10피트 상황 페널티가 적용됩니다."
+        },
+        "Effect: +4 circumstance bonus to AC against your ranged attacks": {
+            "name": "효과: 원거리 공격에 대한 AC에 +4 상황 보너스 부여",
+            "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.4MkOtc3bBYsBGF97]{크리티컬 덱 #6}에 적용되는 효과</strong></p>\n<p>엄폐가 원거리 공격에 대한 AC에 상황 보너스 +4를 부여합니다.</p>"
+        },
+        "Effect: Deafened until end of your next turn": {
+            "name": "효과: 다음 턴 종료 시까지 귀가 먼 상태",
+            "description": "<p><strong>효과 적용 대상 @UUID[Compendium.pf2e.criticaldeck.JournalEntry.mcniWnifXwXkZocv]{크리티컬 뒤죽박죽 덱 #41}</strong></p>\n<p data-pm-slice=\"1 1 [&quot;section&quot;,{&quot;_preserve&quot;:{&quot;class&quot;:&quot;fumble-deck&quot;}},&quot;blockquote&quot;,{&quot;_preserve&quot;:{}}]\">당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{귀가 멀었습니다}입니다.</p>"
+        },
+        "Effect: -2 circumstance penalty to attack rolls": {
+            "name": "효과: 공격 굴림에 대한 상황 페널티 -2",
+            "description": "<p><strong>효과 적용 @UUID[Compendium.pf2e.criticaldeck.JournalEntry.wga13mR4vo73tbTY]{크리티컬 덤블 덱 #10}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.xsBlA35rvfHSzJe4]{크리티컬 덤블 덱 #15}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.1urnmEt4sn4ATDRL]{크리티컬 히트 덱 #29}</strong></p>\n<p>공격 굴림에 대한 상황 패널티 -2</p>"
+        },
+        "Effect: Follow The Expert": {
+            "name": "효과: 전문가 팔로우"
+        },
+        "Effect: +2 circumstance bonus to attack rolls": {
+            "name": "효과: 공격 굴림에 상황 보너스 +2",
+            "description": "<p><strong>효과 적용: @UUID[Compendium.pf2e.criticaldeck.JournalEntry.bzIzGjyNUc52lhCS]{크리티컬 히트 덱 #4}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.pjR0QGXE58oWS8uU]{크리티컬 히트 덱 #7}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.gdYlgrtfGK8mAoXK]{크리티컬 히트 덱 #9}</strong></p>\n<p>공격 굴림에 상황 보너스 +2</p>"
+        },
+        "Effect: -10-foot status penalty to your land Speed": {
+            "name": "효과: 이동 속도에 -10피트 상태 불이익을 줍니다.",
+            "description": "<p><strong>효과 적용: @UUID[Compendium.pf2e.criticaldeck.JournalEntry.maXudTqcDiAj86Ym]{크리티컬 히트 덱 #6}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.A0gsgMjgDpkOXtYp]{크리티컬 히트 덱 #12}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.wHwwHq9RcOUvwFeB]{크리티컬 히트 덱 #22}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.wCsoyffDxSWQ2c8o]{크리티컬 히트 덱 #46}</strong></p>\n<p>-지상 이동 속도에 -10피트 상태 불이익을 받습니다.</p>"
+        },
+        "Effect: Dazzled until end of your next turn": {
+            "description": "<p><strong>효과 적용 대상 @UUID[Compendium.pf2e.criticaldeck.JournalEntry.mwz1Ukw9laGyRocF]{크리티컬 덤블 덱 #51}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.dvL063pJYJpCMsA6]{크리티컬 덤블 덱 #52}</strong></p>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{눈부신}입니다.</p>",
+            "name": "효과: 다음 턴 종료 시까지 눈부신 눈빛을 유지합니다."
+        },
+        "Effect: -15-foot status penalty to your land Speed": {
+            "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.nI9pM4SeM39SRVaR]{크리티컬 히트 덱 #41}에 적용되는 효과</strong></p>\n<p>-지상 이동 속도에 -15피트 상태 불이익을 받습니다.</p>",
+            "name": "효과: 이동 속도에 -15피트 상태 불이익을 줍니다."
+        },
+        "Effect: Aid": {
+            "description": "<p>아군의 지원 체크 결과에 따라 지원 체크에 상황 보너스를 받습니다.</p>",
+            "name": "효과: 지원"
+        },
+        "Effect: -2 circumstance penalty to ranged attacks": {
+            "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.Wn47ZhXINo7jz8JZ]{크리티컬 덱 #2}에 적용되는 효과</strong></p>\n<p>원거리 공격에 대한 상황 패널티 -2</p>",
+            "name": "효과: 원거리 공격 시 상황 패널티 -2"
+        },
+        "Effect: +1 circumstance bonus to attack rolls for 3 rounds": {
+            "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.TbXmAqEzgW1nZV2r]{크리티컬 뒤죽박죽 덱 #49}에 적용되는 효과</strong></p>\n<p>3라운드 동안 공격 굴림에 상황 보너스 +1을 받지만 오프-가드 상태입니다.</p>",
+            "name": "효과: 3라운드 동안 공격 굴림에 상황 보너스 +1 증가"
+        },
+        "Effect: Resistance 5 to all damage": {
+            "name": "효과: 모든 피해에 대한 내성 5",
+            "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.TYTNFtVvFqFBM8oy]{크리티컬 덱 #43}에 적용되는 효과</strong></p>\n<p>모든 피해에 대한 내성 5</p>"
+        },
+        "Effect: Scouting (Incredible Scout)": {
+            "name": "효과 스카우트(인크레더블 스카우트)"
+        },
+        "Effect: +2 status bonus to saving throws against spells for 1 min": {
+            "name": "효과: 1분 동안 주문에 대한 내성 굴림에 +2 상태 보너스 부여",
+            "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.yBE9e9l5KW7SdHZH]{크리티컬 덱 #31}에 적용되는 효과</strong></p>\n<p>1분 동안 주문에 대한 내성 굴림에 상태 보너스 +2 부여</p>"
+        },
+        "Effect: +2 status bonus to AC and all saving throws": {
+            "name": "효과: AC 및 모든 내성 굴림에 상태 보너스 +2 증가",
+            "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.iZYZTEtihsVkbRKR]{크리티컬 히트 덱 #8}에 적용되는 효과</strong></p>\n<p>AC 및 모든 내성 굴림에 상태 보너스 +2 부여</p>"
+        },
+        "Effect: Scouting": {
+            "name": "효과: 스카우트"
+        },
+        "Effect: Off-Guard until end of your next turn": {
+            "description": "<p><strong>효과 적용: @UUID[Compendium.pf2e.criticaldeck.JournalEntry.IrUeMJoKEYUSJKs1]{크리티컬 덱 #19}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.gWa7wGUfUvYoIK8z]{크리티컬 덱 #20}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.I5omhoK6rqfCZiUZ]{크리티컬 덤블 덱 #21}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.Ps9VYxI2zJPG6PEV]{크리티컬 덤블 덱 #22}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.qD8KoshDJsayGbCB]{Critical Fumble Deck #40}</strong></p>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{오프-가드}입니다.</p>",
+            "name": "효과: 다음 턴이 끝날 때까지 오프-가드 상태"
+        },
+        "Effect: Adverse Subsist Situation": {
+            "name": "효과: 불리한 생존 상황",
+            "description": "<p>문제를 일으키거나, 먹지 말아야 할 음식을 먹거나, 기타 상황을 악화시켰습니다. 1주일 동안 서브시스트 체크에 -2의 상황 페널티를 받습니다. 음식을 전혀 찾지 못했고, 저장된 음식이 없다면 계속 실패하면 굶주리거나 갈증으로 죽어감.</p>"
+        },
+        "Effect: -5-foot status penalty to your land Speed": {
+            "name": "효과: 이동 속도에 -5피트 상태 불이익을 줍니다.",
+            "description": "<p><strong>UUID[Compendium.pf2e.criticaldeck.JournalEntry.maXudTqcDiAj86Ym]{크리티컬 히트 덱 #6}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.2에 적용된 효과CCPMTk5DlZslpOp]{크리티컬 히트 덱 #18}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.QR3e1uCNURvxDzbV]{크리티컬 히트 덱 #50}</strong></p>\n<p>-지상 이동 속도에 -5피트 상태 불이익을 줍니다.</p>"
+        }
+    },
+    "label": "기타 효과"
+}

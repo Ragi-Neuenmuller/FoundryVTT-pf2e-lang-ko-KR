@@ -1,0 +1,225 @@
+{
+    "entries": {
+        "Delusion": {
+            "description": "<p>당신은 인간의 감각을 속이기 위해 환상을 만들어냅니다. 하지만 영계와 이승 사이의 형이상학적인 거리는 이러한 환영이 이승의 시청자에게 어떻게 보이는지를 왜곡합니다. 언데드나 진시력과 같은 환영을 관통하는 능력을 가진 생명체에게는 이미지가 의도한 대로 나타납니다. 다른 관찰자에게는 이러한 환영이 항상 섬뜩한 분위기를 자아냅니다. 피, 뼈, 그림자 등이 평범한 소재를 대체합니다. 말은 날카로운 비명이나 저음의 으르렁거리는 소리처럼 왜곡되어 일반적으로 알아들을 수 없습니다. 속임수 체크에 상태 보너스 +2를 받습니다.</p>\n<p>하루에 한 번, 다음 주문 중 하나를 5등급 내재된 오컬트 주문으로 시전할 수 있습니다: @UUID[Compendium.pf2e.spells-srd.Item.HBJPsonQnWcC3qdX]{미라지}, @UUID[Compendium.pf2e.spells-srd.Item.f8SBoXiXQjlCKqly]{환상의 생물} 또는 @UUID[Compendium.pf2e.spells-srd.Item.2oH5IufzdESuYxat]{환상의 물건}.</p>",
+            "name": "Delusion"
+        },
+        "Effect: Heightened Awareness": {
+            "name": "효과: 인지도 향상",
+            "description": "<p>인지력이 강화되어 8시간 동안 @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{찾기}에 대한 지각 체크에 +1 아이템 보너스를 부여합니다.</p>"
+        },
+        "Dematerialize": {
+            "name": "비물질화",
+            "description": "<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p>몸이 깜빡거리며 희미해져 유령과 같은 모습으로 변하고, 차례로 만지거나 만질 수 없게 됩니다. 이 효과는 1라운드 동안 지속되며, 최대 5라운드까지 지속할 수 있습니다.</p>"
+        },
+        "Mixed Drink: Luck": {
+            "description": "<p>운이 좋으면 다음 8시간 동안 내성 굴림이나 기술 체크를 시도할 때 한 번씩 두 번 굴려서 더 높은 결과를 얻을 수 있습니다. 이것은 행운 효과입니다.</p>",
+            "name": "혼합 음료: 행운"
+        },
+        "Effect: Tiger Form": {
+            "name": "효과: 호랑이 형태",
+            "description": "<p>다형성 캐릭터가 대형 동물로 변신합니다. 각 다형성 캐릭터는 어떤 형태를 선택하든 다음과 같은 통계와 능력을 얻습니다.</p>\n<ul>\n<li>AC = 36.</li>\n<li>일시적 HP 30.</li>\n<li>저조도 시야 및 후각(정확하지 않음) 30피트.</li>\n<li>전투 형태에 맞는 비무장 근접 공격 하나 이상, 사용할 수 있는 유일한 공격. (훈련된 공격입니다.) 자신의 비무장 공격 수정치가 더 좋으면 사용할 수 있습니다.</li>\n<li>자신의 비무장 공격 수정치가 더 좋지 않으면 +26의 육상 수정치.</li>\n<li><strong> @UUID[Compendium.pf2e.adventure-specific-actions.Item.LVSGvlzI1rGWtGJA]{연합 표시}</strong> <span class=\"action-glyph\">1</span> (청각, 시각) 포효하거나 다른 방법으로 근력을 과시할 수 있습니다. 자동으로 굴림을 성공하면 아군을 위해 군중을 집결시킵니다.</li>\n<li><strong> @UUID[Compendium.pf2e.adventure-specific-actions.Item.oUP8jylH97ZbRvfw]{위치 이동 사슬}</strong> <span class=\"action-glyph\">1</span> 사슬을 당겨 묶인 아군을 최대 10피트 범위 내 공간으로 이동시킵니다.</li>\n</ul>\n<hr />\n<p><strong>속도</strong> 30 피트</p>\n<p><strong> 근접</strong> <span class=\"action-glyph\">1</span> 턱 +25, 피해 3d6+16 관통 + @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{잡힌}</p>\n<p><strong> 근접</strong> <span class=\"action-glyph\">1</span> 발톱 +25 (기민한), 피해 2d8+16 베기</p>\n<p><strong> @UUID[Compendium.pf2e.adventure-specific-actions.Item.GSLSCo0OWDUtET4e]{레슬링}</strong> <span class=\"action-glyph\">1</span> 발톱으로 @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{잡힌} 또는 @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{억제됨} 생물에게 발톱 일격을 가합니다. 적중하면, 당신은 평소처럼 피해를 입히고 그 생물은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{눌림}을 받습니다.</p>"
+        },
+        "Spite": {
+            "name": "Spite",
+            "description": "<p>생전에 친절했던 사람이라도 죽은 자는 산 자를 괴롭힐 이유가 많으며, 떠난 자의 격렬한 원한은 유령을 두려워하는 이유이기도 합니다. 이러한 집중은 증오에 의해서만 일어나는 것이 아니라 의로운 분노가 이러한 능력을 강화할 수 있지만, 가장 선한 감정도 시간이 지나면 뒤틀릴 수 있습니다. 증오는 저주의 형태로 나타나며, 대상에게 다양한 신체적 질병을 일으킵니다. 30피트 이내에 보이는 대상을 가리킵니다. 대상은 @Check[유형:의지|dc:해결(@actor.system.attributes.classOrSpellDC.value)] 내성 굴림을 시도해야 하며, 그 후에는 이 힘에 면역이 됩니다.</p>\n<hr />\n<p><strong>대성공</strong> 대상은 영향을 받지 않습니다.</p>\n<p><strong> 성공</strong> 대상의 피부가 걷잡을 수 없이 가려워집니다. 대상이 가려움증을 긁는 액션을 사용하지 않으면, 다음 턴이 시작될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{오프-가드}가 됩니다. 이 효과는 1분 동안 지속됩니다.</p>\n<p><strong> 실패</strong> 대상의 피부가 고통스러운 병변과 보기 흉한 궤양으로 부러집니다. 피해자는 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{약화됨 2}, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{서투른 2}, @UUID[Compendium.pf2e.conditionitems.Item.4이 됩니다.D2KBtexWXa6oUMR]{흡수됨 2} 24시간 동안</p>\n<p><strong> 대실패</strong> 실패로, 대상은 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{느려짐 1} 기간 동안이기도 합니다.</p>"
+        },
+        "Effect: Spirit Power (Passion)": {
+            "name": "효과 영혼의 힘(열정)",
+            "description": "<p>자신의 몸이 원하는 색의 불길에 휩싸여 40피트 반경에 밝은 빛을 발산합니다(다음 40피트까지 희미한 빛을 발산합니다). 근접 공격으로 추가로 1d6점의 화염 피해를 입히고, 화염에 대한 저항 10을 얻으며, @UUID[Compendium.pf2e.adventure-specific-actions.Item.kfmEGGs8DbIL9JuF]{반응성 화염} 리액션을 얻습니다.</p>"
+        },
+        "Effect: Immediate and Intense Headache": {
+            "description": "<p>즉각적이고 강렬한 두통으로 8 시간 동안 약점 5에서 정신적 피해를 입 힙니다.</p>",
+            "name": "효과: 즉각적이고 극심한 두통"
+        },
+        "Effect: Wind Barrier": {
+            "description": "<p>원거리 공격에 대한 AC에 상황 보너스 +2를 받습니다. 13레벨이 되면 원거리 공격에 대한 AC에 대한 상황 보너스가 +3으로 증가합니다.</p>",
+            "name": "효과: 바람 장벽"
+        },
+        "Effect: Heart Break": {
+            "description": "<p>다음 턴이 끝날 때까지 나르셀라의 60피트 내에 있는 적 하나당 의지 저장에 -1의 아이템 패널티를 받습니다.</p>",
+            "name": "효과: 가슴 부러짐"
+        },
+        "Effect: Consecrated Altar to Ydersius": {
+            "name": "효과: 이데르시우스에게 봉헌된 제단",
+            "description": "<p>이데르시우스를 숭배하는 생물은<br />굴림, 기술 체크, 내성 굴림, 지각 체크에서 공격력 +1 상태 보너스를 얻고, 일격에 불경한 특성을 얻습니다.</p>"
+        },
+        "Chilling Paralysis": {
+            "name": "냉기 마비",
+            "description": "<p><strong>빈도</strong> 시간당 1회</p>\n<hr />\n<p>부자연스러운 냉기가 근육을 얼리고 관절을 고정시켜 피해자를 떨게 하고 움직이지 못하게 합니다. 대상에게 근접 무기 또는 비무장 일격을 시도합니다. 적중하면 일격의 모든 일반 효과와 더불어 대상은 @Check[type:인내|dc:resolve(@actor.system.attributes.classOrSpellDC.value)] 저장을 시도해야 합니다.</p>\n<hr />\n<p><strong>대성공</strong> 대상은 영향을 받지 않습니다.</p>\n<p><strong> 성공</strong> 초자연적 추위가 대상을 떨게 하고 떨게 하여 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{느려짐 1}이 되도록 합니다.</p>\n<p><strong>실패</strong> 초자연적인 추위로 대상이 1라운드 동안 마비됨, 이후 1라운드 동안 1만큼 느려짐</p>\n<p><strong> 크리티컬 실패</strong> 대상이 추위에 의해 제자리에서 얼어붙어 @UUID[Compendium.pf2e.conditionitems.Item.6입니다.uEgoh53GbXuHpTF]{마비됨}이 1분 동안 지속됩니다. 대상은 자신의 턴이 끝날 때마다 새로운 세이브를 시도할 수 있으며, 시도할 때마다 DC가 1씩 누적적으로 감소합니다. 대상은 회복되면 1라운드 동안 이동 속도가 1 느려집니다.</p>"
+        },
+        "Effect: Reflection of Life (Fast Healing)": {
+            "name": "효과: 생명의 리플렉션 (빠른 치유)",
+            "description": "<p>1분 동안 생명력이 빠르게 회복됩니다. 이 빠른 회복량은 3부터 시작하여 5레벨을 넘을 때마다 2씩 증가합니다.</p>"
+        },
+        "Resonant Reflection: Reflection of Light": {
+            "name": "공진 리플렉션: 빛의 리플렉션",
+            "description": "<p>우리 눈에는 외부에서는 보이지 않지만 암흑 시야와 어둠 속에서도 색을 구별할 수 있는 능력을 제공하는 내면의 빛이 깃들어 있습니다. 또한 이 내면의 빛을 집중시켜 눈에서 빛나는 에너지 광선으로 나타낼 수도 있습니다.</p>\n<hr />\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 상상</p>\n<p><strong> 빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 내재된 디바인 주문으로 내 레벨의 반올림한 절반에 해당하는 주문 등급으로 강화된 @UUID[Compendium.pf2e.spells-srd.Item.DyiD239dNS7RIxZE]{거룩한 빛}을 시전합니다.</p>"
+        },
+        "Effect: Azata's Grace": {
+            "description": "<p>최대 명중과 현재 명중이 모두 증가하여 50 HP를 추가로 획득하고, 정의의 부름 유물 선물의 효과를 얻습니다.</p>",
+            "name": "효과: 아자타의 은총"
+        },
+        "Effect: Seasonal Boon (Outskirt Dweller)": {
+            "description": "<p>유령의 시즌을 시작한 이후 시즌 수만큼 우선권 굴림에 상태 보너스를 받습니다(첫 번째 모험에서 +1, 네 번째 및 마지막 모험에서 최대 +4까지).</p>",
+            "name": "효과 계절의 혜택(외곽 거주자)"
+        },
+        "River's Reflection": {
+            "name": "강의 리플렉션",
+            "description": "<p>삶과 죽음 사이에 존재하는 것은 삶과 죽음의 에너지를 전달하는 데 있어 통찰력을 제공할 수 있습니다. 다음 액션이 긍정 또는 부정 특성을 가진 주문을 시전하는 것이라면, 해당 주문이 살아있는 대상과 언데드 대상에 미치는 영향이 반전됩니다. 모든 부정적인 피해는 긍정적인 피해로, 그 반대의 경우도 마찬가지입니다. 살아있는 생물이나 언데드 생물을 치유하는 모든 능력도 마찬가지로 바뀝니다.</p>"
+        },
+        "Undying Flesh": {
+            "description": "<p>당신은 무시무시하고 복수심에 불타는 정령이며, 특정 물리 무기는 당신에게 거의 영향을 미치지 않는 것처럼 보입니다. 구타, 베기, 관통 중 하나를 선택하면 해당 피해 유형에 대한 저항력이 10 증가합니다. 해당 피해에 대한 저항이 무기가 무해하게 몸을 통과하는 것처럼 보이거나 무시할 수 없는 깊은 부상을 남기는 것처럼 보이는 형태로 나타날지는 플레이어가 결정할 수 있지만, 한 번 결정한 후에는 변경할 수 없습니다.</p>",
+            "name": "죽지 않는 육체"
+        },
+        "Sap Life": {
+            "name": "샙 라이프",
+            "description": "<p>언데드가 생명을 갈망하듯, 당신도 산 자에게서 생명력을 끌어내고 싶은 충동을 느낍니다. 적에게 비무장 일격을 시도합니다. 적중하면 @피해[4d6[공허]] 피해를 입히고 [[/r 10[치유]]]를 회복합니다. 자신의 HP를 회복합니다.</p>"
+        },
+        "Effect: Burned Tongue (Linguistic)": {
+            "name": "효과: 불에 탄 혀(언어)",
+            "description": "<p>혀를 태워 1분 동안 언어 기반 체크와 DC에 -1 아이템 패널티를 부여합니다.</p>"
+        },
+        "Effect: Spirit Powers": {
+            "description": "<p>이 모험의 세 번째 챕터에서 @UUID[Compendium.pf2e.spells-srd.Item.8Lk9K3tRnV68MQPW]{이동}한 PC는 생명체와 지하 어딘가에 갇힌 엑토플라즈믹 생명체입니다. 이 상태에서는 PC가 대부분 정상적으로 작동하지만, 반고체 형태의 외질로 나타납니다. 투명하지는 않지만 단단한 몸체가 가장자리를 따라 흔들리고 반짝이는 것처럼 보여 섬뜩하고 불안한 느낌을 줍니다. 이 상태에서는 살아있는 생물이지만 언데드 생물과 유사한 능력을 일부 얻습니다. 유령에 더 가까운 생명체로서 부정적인 피해에 취약하며 긍정적인 에너지로 치유됩니다.</p>\n<p><strong> 언데드 비전:</strong> 저조도 시야, 또는 조상이 이미 저조도 시야를 가지고 있는 경우 암흑 시야를 얻습니다.</p>\n<p><strong> 전이된 생존:</strong> 이 상태의 PC는 깊은 부상 상태를 얻지 못하지만 대신 죽어감 상태에서 회복하면 영혼 저하 상태에 노출됩니다(아래 참조). PC가 순간이동 상태에서 죽어감으로써 윌로우쇼어 정신세계에서 살아서 깨어나면 @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{파멸 1} 조건을 얻습니다.</p>\n<p><strong> 순간이동된 보호:</strong> 질병, 독, 수면, 그리고 @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{마비됨} 조건을 부여하는 모든 효과에 대한 내성 굴림(또는 기타 방어)에 상황 보너스 +2를 얻습니다.</p>\n<p><strong> 정령의 힘:</strong> 이 상태에서도 PC는 새로 발견한 영력을 통해 살아있는 세계와 상호작용할 수 있습니다. PC가 살아 있는 세계에서 환생한 몸을 드러낼 때, 아래에 나열된 정령 능력에서 각각 두 개의 보조 정령 능력과 하나의 주요 정령 능력을 얻습니다. PC는 매일 준비를 할 때마다 선택한 영 능력을 다시 선택할 수 있습니다. 정령의 힘이 내성 굴림을 요구할 경우, 해당 PC의 클래스 DC와 주문 DC 중 높은 것을 사용합니다. 공격 굴림을 요구하는 모든 정령력은 이 DC - 10을 사용합니다. 대응 체크의 효과를 결정할 때는 PC 자신의 레벨을 사용합니다.</p>\n<p><strong> 영혼 저하:</strong> 처음에 PC는 새로 발견한 영혼의 힘을 즐기려 할 것입니다. 하지만 전이된 PC가 죽음에 가까워질 때마다 유령의 본성을 완전히 잃을 위험이 있습니다. 죽어감으로 전이된 PC는 깊은 부상 상태를 얻을 때마다 영혼 저하 상태에 노출되며, 저주 단계 증가에 저항하기 위해 새로운 내성 굴림을 시도해야 합니다.</p>\n<h3>Minor Spirit Powers</h3>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.54Q1eRCmuu6ueM4j]{Curiosity}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.DvHX1hgZE6a6jhTm]{Delusion}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.N2EqUYDVS5I3rnKS]{Duty}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.SidX2yZ5Z0ORfpdr]{Love}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.PEZoeYCF2R2nZG88]{Obsession}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.7vui0qQPmlM5SD99]{열정}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.rSlgE1Xlt3RDwYr4]{위안}</p>\n<h3>주요 영혼 능력</h3>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.rl2s1MXAXnGOQF9c]{냉기 마비}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.M5vBlRWVnXoyRpqS]{비물질화}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.QXXgTRJyycu8FYyD]{흐르는 그림}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.ir1MMSrUECPiRs07]{비행}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.2NKpljDuFttd9054]{그루지}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.gYzQuqQy3egp45kj]{죽음에 저항}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.R4oTPhsKSqCBd64F]{강물의 리플렉션}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.4ZGa4tzrh2vLNZR3]{샙의 생명}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.8Nj0vGsCqiyb9WgY]{죽지 않는 육체}</p>",
+            "name": "효과: 정령의 힘"
+        },
+        "Effect: Improved reflexes": {
+            "name": "효과: 반사 신경 향상",
+            "description": "<p>반사 신경이 향상되어 8시간 동안 반사 저장에 +1 아이템 보너스를 부여합니다.</p>"
+        },
+        "Effect: Hope or Despair (Failure or Critical Failure)": {
+            "name": "효과: 희망 또는 절망(실패 또는 대실패)",
+            "description": "<p><strong>실패</strong> 괴물의 마음속에 슬픔과 절망의 감정이 솟구칩니다. 다음 1시간 동안 이 생물은 정신 효과에 대한 모든 내성 굴림에 -1의 페널티를 받고, 이 페널티는 감정 정신 효과에 대한 -2 페널티로 증가합니다. 이 효과에는 저주 특성이 있습니다.</p>\n<p><strong> 대실패</strong> 실패로 간주되지만, 녹색 해그 툴박이 신전을 지배하는 한 효과는 지속적입니다.</p>"
+        },
+        "Effect: Righteous Call": {
+            "description": "<p>일격이 성스러운 특성을 얻습니다.</p>",
+            "name": "효과: 정의의 부름"
+        },
+        "Resonant Reflection: Reflection of Stone": {
+            "name": "공명 리플렉션: 돌의 리플렉션",
+            "description": "<p>돌의 탄력성과 내구성이 몸에 주입되어 있습니다. 심각한 추위와 폭염의 영향으로부터 몸을 보호할 수 있습니다. 또한이 내구성을 집중하여 추가 효과를 얻을 수도 있습니다.</p>\n<hr />\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 구상</p>\n<p><strong> 빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 내재된 디바인 주문으로 내 레벨의 반올림한 절반에 해당하는 주문 등급으로 강화된 @UUID[Compendium.pf2e.spells-srd.Item.2BV2yYPfVJ5zirZt]{산 탄력의 회복}을 시전합니다.</p>"
+        },
+        "Effect: Forgive Foe": {
+            "name": "효과: 적 용서",
+            "description": "<p>대상은 다음 턴이 끝날 때까지 모든 공격, 효과 DC, 추가 적 용서 시도에 대한 의지 DC에서 -2 상태 페널티를 받습니다.</p>"
+        },
+        "Effect: Little Ripple's Blessing": {
+            "name": "효과: 작은 잔물결의 축복",
+            "description": "<p>의지 저장에 +1 상태 보너스를 받습니다.</p>"
+        },
+        "Resonant Reflection: Reflection of Storm": {
+            "description": "<p>당신의 몸은 자연의 포스가 가하는 파괴에 내성이 생겼습니다. 전기 피해에 대한 저항력이 자신의 레벨만큼 증가합니다. 비행 중에는 바람을 난기류 또는 향상된 난기류로 취급하지 않으며, 자신이 원하지 않는 한 바람에 의해 움직일 수 없습니다. 프라이멀 마법에 대한 세이브에 +1 상태 보너스를 받습니다. 또한, 이 원기 회복 에너지를 몸에 흡수하여 다음과 같은 효과를 얻을 수 있습니다.</p>\n<hr />\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 상상</p>\n<p><strong> 빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 8등급 디바인 내재된 주문인 @UUID[Compendium.pf2e.spells-srd.Item.4MOew29Z1oCX8O28]{갱신의 순간}(자신만 해당)을 시전하고 집중력 1점을 회복합니다.</p>",
+            "name": "공명 리플렉션: 폭풍의 리플렉션"
+        },
+        "Effect: Bickering Family": {
+            "description": "<p>내성 굴림에 상태 보너스가 +1 증가합니다.</p>",
+            "name": "효과: 다투는 가족"
+        },
+        "Geb's Blessing": {
+            "description": "<p>각 캐릭터는 산성, 타격, 냉기, 전기, 화염, 관통, 독, 베기, 음파, 활력, 공허 중 선택한 피해 유형에 20의 저항력을 얻습니다. 또한 24시간 동안 일시적으로 HP가 40 증가합니다. 마지막으로, 각 캐릭터는 다음 두 가지 특수 능력을 한 번씩 사용할 수 있습니다.</p>\n<p>@UUID[Compendium.pf2e.모험별-액션.Item.MgSwLes5lp3TE1ZV]{정신병동}</p>\n<p>@UUID[Compendium.pf2e.모험별-액션.Item.TM4pOPSM9r7XEM64]{소울병동}</p>",
+            "name": "게브의 축복"
+        },
+        "Mixed Drink: Prestidigitation": {
+            "name": "혼합 음료: 프레스티디지테이션",
+            "description": "<p>다음 날에 한 번만 @UUID[Compendium.pf2e.spells-srd.Item.Qw3fnUlaUbnn7ipC]{프레스티디지테이션}을 프라이멀 캔트립으로 시전할 수 있습니다.</p>"
+        },
+        "Resist Death": {
+            "name": "죽음에 저항",
+            "description": "<p>영혼의 목적이 너무도 확고해서, 전이된 육체를 없애는 것만으로는 영혼을 막을 수 없습니다. 다음 24시간 내에 다음 번 체력이 0으로 감소하면 대신 체력이 10으로 감소하고 영혼 저하 효과에 노출됩니다.</p>"
+        },
+        "Effect: Spirit Power (Flight)": {
+            "name": "효과 정령력(비행)",
+            "description": "<p>자신의 속도와 30피트 중 더 향상된 비행 속도만큼 비행 속도가 증가합니다.</p>"
+        },
+        "Flight": {
+            "description": "<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p>살과 뼈의 무게에 얽매이지 않고 인간의 가장 기본적인 경험인 중력에도 영향을 받지 않게 됩니다. 10분 동안 자신의 속도와 30피트 중 더 향상된 만큼의 비행 속도를 얻습니다. 비행 중에는 외형이 유령처럼 변하거나 공중에 일시적으로 깜빡이는 흔적을 남길 수 있으며, 원하는 대로 이동합니다.</p>",
+            "name": "비행"
+        },
+        "Effect: Manipulate Luck - Drusilla (Good)": {
+            "description": "<p>영향을 받은 생물은 다음 날에 한 번의 20 굴림으로 두 번 굴려서 더 높은 결과를 사용할 수 있습니다.</p>",
+            "name": "효과: 행운 조작 - 드루실라 (좋음)"
+        },
+        "Effect: Keen insight": {
+            "description": "<p>날카로운 통찰력으로 8시간 동안 @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{감각 동기}의 지각 체크에 +1 아이템 보너스를 부여합니다.</p>",
+            "name": "효과: 날카로운 통찰력"
+        },
+        "Grudge": {
+            "description": "<p>당신의 증오는 너무 강력해서 다른 사람의 마음을 압도할 수 있습니다. 30피트 이내에 자신을 인식하는 생명체 한 마리를 선택합니다. 그 생물은 당신의 표정이 갑자기 초자연적으로 왜곡된 증오의 표정으로 변하는 것을 보고 @Check[type:will|dc:resolve(@actor.system.attributes.classOrSpellDC.value)] 저장을 시도해야 합니다. 증오에 대한 지각은 모두 대상의 마음속에서 직접 인식되므로 시각적 특성이 없으며, 대상이 당신을 볼 수 없는 경우 증오는 대상이 관찰됨에 문제가 없는 다른 방식으로 나타납니다. 음성이 불길한 속삭임으로 귓가에 들리거나 끔찍한 기억을 떠올리게 하는 냄새를 풍길 수도 있습니다. 이 생명체는 24시간 동안 원한에 면역이 됩니다.</p>\n<hr />\n<p><strong>대성공</strong> 생물이 영향을 받지 않았습니다.</p>\n<p><strong> 성공</strong> 생물이 @UUID[Compendium.pf2e.conditionitems.Item]이 됩니다.TBSHQspnbcqxsmjL]{겁먹은 1}</p>\n<p><strong> 실패</strong> 생물이 @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{겁먹은 2}가 되고, 쓰러집니다 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{엎드린} 충격에 겁먹은 채로 @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{도주} 상태입니다.</p>\n<p><strong>대실패</strong> 이 생물이 공포에 질려 기절하여 @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{무의식}이 됩니다. 겁먹은 2가 되어 더 이상 무의식이 아닌 상태가 되면 도주합니다.</p>",
+            "name": "Grudge"
+        },
+        "Effect: Boar Form": {
+            "name": "효과: 멧돼지 형태",
+            "description": "<p>다형성 캐릭터가 대형 동물로 변신합니다. 각 다형성 캐릭터는 어떤 형태를 선택하든 다음과 같은 통계와 능력을 얻습니다.</p>\n<ul>\n<li>AC = 36.</li>\n<li>일시적 HP 30.</li>\n<li>저조도 시야 및 후각(정확하지 않음) 30피트.</li>\n<li>전투 형태에 맞는 비무장 근접 공격 하나 이상, 사용할 수 있는 유일한 공격. (훈련된 공격입니다.) 자신의 비무장 공격 수정치가 더 좋으면 사용할 수 있습니다.</li>\n<li>자신의 비무장 공격 수정치가 더 좋지 않으면 +26의 육상 수정치.</li>\n<li><strong> @UUID[Compendium.pf2e.adventure-specific-actions.Item.LVSGvlzI1rGWtGJA]{연합 표시}</strong> <span class=\"action-glyph\">1</span> (청각, 시각) 포효하거나 다른 방법으로 근력을 과시할 수 있습니다. 자동으로 굴림을 성공하면 아군을 위해 군중을 집결시킵니다.</li>\n<li><strong> @UUID[Compendium.pf2e.adventure-specific-actions.Item.oUP8jylH97ZbRvfw]{위치 이동 사슬}</strong> <span class=\"action-glyph\">1</span> 사슬을 당겨 묶인 아군을 최대 10피트 범위 내 공간으로 이동시킴으로써 자신의 손이 닿는 거리까지 이동시킵니다.<hr /></li>\n</ul>\n<p><strong>속도</strong> 40 피트</p>\n<p><strong> 근접</strong> <span class=\"action-glyph\">1</span> 엄니 +25, 피해 3d10+16 관통</p>\n<p><strong> @UUID[Compendium.pf2e.adventure-specific-actions.Item.71ypBixnbV4bE5Hv]{체인 돌진}</strong> <span class=\"action-glyph\">2</span> 걸음을 걸은 다음 이동이 끝날 때 엄니를 일격합니다. 사슬에 묶인 아군으로부터 15피트 이상 멀어지면, 아군을 15피트 뒤의 가장 가까운 빈 공간으로 끌어당깁니다. 공격한 생물은 @Check[type:반사|dc:35] 저장에 성공하거나 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{눕습니다}에 쓰러져야 합니다.</p>"
+        },
+        "Mixed Drink: Guidance": {
+            "description": "<p>다음 날에 한 번만 @UUID[Compendium.pf2e.spells-srd.Item.izcxFQFwf3woCnFs]{안내}를 프라이멀 캔트립으로 시전할 수 있습니다.</p>",
+            "name": "혼합 음료: 안내"
+        },
+        "Duty": {
+            "description": "<p>금욕주의적 결단이나 완고함이 이 집중의 핵심을 형성합니다. 죽은 자는 자신의 육체가 사후에도 지속될 것을 요구할 수는 없지만, 다른 사람에게 자신의 철두철미한 의지를 강요할 수는 있습니다. 이 집중력은 산 자의 귀에 속삭이는 능력으로 표현됩니다. 자신이 볼 수 있는 30피트 이내의 대상에게 속삭입니다. 그러면 대상은 @Check[type:의지|dc:resolve(@actor.system.attributes.classOrSpellDC.value)] 내성 굴림을 시도해야 하며, 이후 이 능력에 면역이 됩니다.</p>\n<hr />\n<p><strong>대성공</strong> 대상이 속삭이는 말을 듣지만 다른 영향을 받지 않습니다.</p>\n<p><strong> 성공</strong> 대상이 속삭이는 말에 불안해하며 @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{겁먹은 1}이 됩니다.</p>\n<p><strong>실패</strong> 대상은 속삭이는 말을 듣고 작업을 완료할 때까지, 또는 작업이 자멸하거나 다른 명백한 부정적인 효과가 나타날 때까지 1분 동안 제안한 액션을 따라야 합니다. 제안한 행동 방침은 대상에게 논리적인 행동 방침처럼 보이도록 표현해야 합니다.</p>\n<p><strong> 대실패</strong> 실패로 간주되지만 기본 지속 시간은 1시간입니다.</p>",
+            "name": "의무"
+        },
+        "Resonant Reflection: Reflection of Water": {
+            "description": "<p>몸에 물의 정수가 주입되어 물의 존재에 적응하게 됩니다. 수영 속도가 10피트 빨라지고 수중에서 숨을 쉴 수 있게 됩니다. 또한 이 친화력을 집중하여 추가 효과를 얻을 수도 있습니다.</p>\n<hr />\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 구상</p>\n<p><strong> 빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 5등급 내재된 디바인 주문으로 @UUID[Compendium.pf2e.spells-srd.Item.zfn5RqAdF63neqpP]{물 제어}를 시전합니다. 10레벨을 초과할 때마다 제어하는 물의 길이와 폭이 10피트씩 증가합니다.</p>",
+            "name": "공명 리플렉션: 물의 리플렉션"
+        },
+        "Obsession": {
+            "name": "집착",
+            "description": "<p>이 정신력은 특정 대상에 대한 극심한 집착을 나타냅니다. 이는 대부분 만족할 줄 모르는 탐욕의 결과이지만, 소중한 가보에 대한 애정이나 자신이 만든 예술 작품에 대한 애착을 나타낼 수도 있습니다. 이 집중은 특히 재산이나 특정 장비에 집착하는 캐릭터에 적합합니다. 작은 물체를 염력으로 조종하는 능력으로 표현할 수 있습니다. 염력 투사체}를 내재된 오컬트 주문으로 마음대로 시전할 수 있습니다.</p>\n<p>하루에 한 번, 다음 주문 중 하나를 5랭크 내재된 오컬트 주문으로 시전할 수 있습니다: @UUID[Compendium.pf2e.spells-srd.Item.rVANhQgB8Uqi9PTl]{애니메이션 로프}, @UUID[Compendium.pf2e.spells-srd.Item.WqPhJNzLa8vSjrH6]{애니메이션 돌격}, 또는 @UUID[Compendium.pf2e.spells-srd.Item.tpLTLbJUrYcMWGld]{텔레키네틱 홀}.</p>"
+        },
+        "Curiosity": {
+            "name": "호기심",
+            "description": "<p>지식에 대한 열망은 강력한 동기가 될 수 있습니다. 이러한 집중력은 주로 세상을 좀 더 오래 보고자 하는 욕망에 묶여 있기 때문에 어린 영혼이나 순진한 영혼에게도 흔히 나타납니다. 옆에 있는 살아있는 대상을 만지려고 손을 뻗으면, 잠시 동안 손이 대상의 몸을 통과하면서 무체가 됩니다. 대상은 @Check[유형:의지|dc:해결(@actor.system.attributes.classOrSpellDC.value)] 저장을 시도해야 하며, 그 후에는 이 능력에 면역이 됩니다.</p>\n<hr />\n<p><strong>대성공</strong> 대상은 영향을 받지 않습니다.</p>\n<p><strong> 성공</strong> 대상의 막연한 표면 생각을 감지하고 대상의 지능 수정치가 자신보다 높은지, 같은지, 낮은지 알아냅니다.</p>\n<p><strong> 실패</strong> 성공이지만 대상의 마음을 들여다보고 텔레파시로 던진 질문에 대한 답을 알아낼 수 있습니다. 대상은 당신의 정신력의 DC에 대해 @Check[type:속임수|dc:resolve(@actor.system.attributes.classOrSpellDC.value)] 체크를 시도할 수 있으며, 대상은 성공하면 답을 알지 못하고 대성공하면 대상은 진실이라고 믿는 거짓 답을 제공합니다.</p>\n<p><strong>대실패</strong> 실패로 처리되지만, 텔레파시 질문과 그 답을 해결하면 대상은 이 이벤트에 대한 모든 기억을 잃게 됩니다.</p>"
+        },
+        "Aura: Righteous Call": {
+            "name": "오라: 정의의 부름",
+            "description": "<p>무기를 들고 있는 동안 무기와 비무장 공격으로 성스러운 무기 룬을 얻습니다. 또한, 아군이 30피트 이내에 있는 동안 아군에게 가하는 일격은 성스러운 특성을 얻습니다.</p>"
+        },
+        "Love": {
+            "description": "<p>강력하고 모든 것을 바치는 헌신, 타인에 대한 사랑은 때때로 무덤 너머까지 이어질 수 있습니다. 낭만적, 가족적 또는 플라토닉 사랑은 이러한 집중의 원동력이 될 수 있습니다. 그것은 다른 세상의 존재에 대해 민감하고 더 논리적인 생물보다 유령 같은 감정에 영향을 받기 쉬운 동물에게 공감의 아우라로 표현됩니다. 동물에게 질문을 하고, 답변을 받고, 동물과 외교 기술을 사용할 수 있습니다. 신뢰할 수 있는 아군(예: 다른 PC)과 30피트 이내에 있으면 내성 굴림에 +1 상태 보너스를 받습니다. 신뢰하는 아군이 이 범위 내에 있으면 상태 보너스는 +2로 증가합니다.</p>",
+            "name": "사랑"
+        },
+        "Effect: Hope or Despair (Critical Success)": {
+            "description": "<p>셸린은 이 괴물에게서 신전을 영광으로 되돌릴 수 있는 기회를 발견하고, 절망 대신 희망으로 가득 채웁니다. 이 괴물은 신전에 깃든 악을 물리치고 싶은 충동과 더불어 신전을 복원하고 싶은 충동으로 가득 차 있습니다. 신전을 뒤덮은 악의 본질에 대한 정확한 세부 사항은 밝혀지지 않았지만, 캐릭터에게 신전의 벽 안에 무언가 끔찍한 것이 있다는 것을 알려주는 것 외에는 알 수 없습니다. 생물은 이러한 충동을 연기할 필요는 없지만, 두 가지 목표 중 하나를 추구하는 한 신전 구역에 머무는 동안 모든 체크에 상태 보너스 +1을 받습니다. 이 목표에 체크가 포함되는지 여부는 GM이 결정합니다(최소한 나머지 모험에서 적을 상대로 한 모든 전투 체크가 포함됩니다).</p>",
+            "name": "효과: 희망 또는 절망 (대성공)"
+        },
+        "Resonant Reflection: Reflection of Life": {
+            "name": "공명하는 리플렉션: 삶의 리플렉션",
+            "description": "<p>휴식 중에는 평소의 두 배에 해당하는 HP를 회복합니다(즉, 체력 수정치에 레벨을 곱한 값의 두 배를 회복합니다). 장기 휴식으로 얻는 생명력도 마찬가지로 두 배로 증가합니다. 또한, 이 치유 에너지를 집중하여 신체의 자연 치유 과정을 더욱 가속화할 수 있습니다.</p>\n<hr />\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 구상</p>\n<p><strong> 빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 1분 동안 빠른 치유 3을 얻습니다. 이 빠른 치유량은 5레벨을 초과할 때마다 2씩 증가합니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.DOxl0FDd21VMDOMP]{Effect: 생명의 리플렉션(빠른 치유)}</p>"
+        },
+        "Effect: Burned Mouth and Throat (No Singing or Yelling)": {
+            "description": "<p>음주자는 8시간 동안 소리를 지르거나 노래를 부를 수 없습니다.</p>",
+            "name": "효과: 입과 목에 화상을 입음(노래나 고함 금지)"
+        },
+        "Effect: Extreme stomach cramps": {
+            "description": "<p>8 시간 동안 다른 음료를 포함하여 어떤 것도 의지적으로 섭취 할 수 없습니다.</p>",
+            "name": "효과: 극심한 위경련"
+        },
+        "Flickering Figure": {
+            "name": "깜박이는 그림",
+            "description": "<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p>몸이 반투명해지도록 변신하여 주변 환경과 조화를 이루며 반짝이는 모습으로 변합니다. 은폐된 상태로 @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{은폐된}이 되며, 이 은폐된 상태로 @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{숨겨짐}을 사용할 수 있게 됩니다. 이 효과는 10분 동안 지속됩니다.</p>"
+        },
+        "Effect: Burned Mouth and Throat (Linguistic)": {
+            "description": "<p>입과 목에 화상을 입어 1시간 동안 언어 기반 체크와 DC에 -1 아이템 페널티를 줍니다.</p>",
+            "name": "효과: 입과 목에 화상(언어)"
+        },
+        "Mixed Drink: Dancing Lights": {
+            "name": "혼합 음료: 춤추는 조명",
+            "description": "<p>다음 날에 한 번만 @UUID[Compendium.pf2e.spells-srd.Item.WBmvzNDfpwka3qT4]{빛}을 프라이멀 캔트립으로 시전할 수 있습니다.</p>"
+        },
+        "Malevolence 1": {
+            "description": "<p>자르윈 저택을 뒤덮은 초자연적인 포스에 의해 생명체들의 몸과 마음, 영혼이 점점 더 악의적으로 지배당하기 시작합니다. 악의적 상태는 이 모험을 플레이하는 PC에 영향을 줄 수 있는 특수 상태입니다. 악의적 조건에는 항상 수치가 포함됩니다. 귀신에 의해 생성되는 효과와 모든 저주 및 빙의 효과에 대한 모든 내성 굴림에 이 값과 동일한 상태 페널티가 적용됩니다. 악의적 상태는 회복으로 줄일 수 있습니다.</p>\n<p>악의적 상태는 절대 4 이상으로 증가할 수 없습니다. 어떤 효과로 인해 생물의 악의적 상태가 4보다 높아지면, 그 생물은 대신 24시간 동안 임의의 단기 기억 몇 개를 소모하면서 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{어리둥절 1}이 됩니다. 악의적 4를 가진 생물은 자의로 자르윈 저택 경내를 떠나지 못합니다.</p>\n<p>악의적 조건의 영향을 받지 않는 지역에서 밤새 휴식을 취할 때마다 악의적 수치가 1씩 감소합니다.</p>",
+            "name": "악의적 1"
+        },
+        "Effect: Burned Tongue (No Singing or Yelling)": {
+            "description": "<p>음주자는 1시간 동안 소리를 지르거나 노래를 부를 수 없습니다.</p>",
+            "name": "효과: 혀에 화상(노래 또는 고함 금지)"
+        },
+        "Passion": {
+            "description": "<p>죽음 속에서도 흥분의 불꽃은 뜨겁게 타오릅니다. 불붙은 열정의 결과이든, 타인에 대한 사랑에서 비롯된 불타는 분노의 결과이든, 무덤의 냉기는 영웅의 감정을 잠재울 수 없습니다. 1분 동안 열정을 실제 불꽃으로 불태웁니다. 이 시간 동안 자신의 몸은 원하는 색의 불길에 휩싸여 40피트 반경에 밝은 빛을 발산합니다(다음 40피트까지는 희미한 빛을 발산합니다). 근접 일격으로 추가로 1d6점의 화염 피해를 입히고, 화염에 대한 내성이 10 증가하며, 다음과 같은 리액션을 얻습니다.</p>",
+            "name": "열정"
+        }
+    },
+    "label": "캠페인 효과"
+}

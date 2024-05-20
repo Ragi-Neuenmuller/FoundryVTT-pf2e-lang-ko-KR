@@ -1,0 +1,45 @@
+{
+    "label": "PF2e 매크로",
+    "entries": {
+        "Generate Check Prompt": {
+            "command": "game.pf2e.gm.checkPrompt();",
+            "name": "체크 프롬프트 생성"
+        },
+        "Toggle Compendium Browser": {
+            "name": "개요 브라우저 토글",
+            "command": "game.pf2e.compendiumBrowser.rendered ? game.pf2e.compendiumBrowser.close() : game.pf2e.compendiumBrowser.render(true);"
+        },
+        "Stealth for Selected Tokens": {
+            "command": "game.pf2e.gm.stealthForSelected(event);",
+            "name": "선택된 토큰에 대한 은신"
+        },
+        "Rest for the Night": {
+            "command": "game.pf2e.actions.restForTheNight({ actors: [game.user.character ?? canvas.tokens.controlled.map((t) => t.actor)].flat().filter((a) => a?.type === \"character\") })",
+            "name": "밤동안 휴식"
+        },
+        "Take a Breather": {
+            "command": "game.pf2e.actions.takeABreather();",
+            "name": "숨 돌리기"
+        },
+        "Earn Income": {
+            "command": "game.pf2e.actions.earnIncome(actor ?? game.user.character, event);",
+            "name": "수익 창출"
+        },
+        "Perception for Selected Tokens": {
+            "name": "선택된 토큰에 대한 지각",
+            "command": "game.pf2e.gm.perceptionForSelected(event);"
+        },
+        "Treat Wounds": {
+            "command": "game.pf2e.actions.treatWounds({ event, actors: [token?.actor ?? actor ?? game.user.character].filter((actor) => actor) })",
+            "name": "상처 치료"
+        },
+        "XP": {
+            "command": "game.pf2e.gm.xpFromEncounter();",
+            "name": "경험치"
+        },
+        "Travel Duration": {
+            "command": "const tokens = canvas.tokens.controlled;\nif (tokens.length === 0) {\n    ui.notifications.error(`You must select at least one pc token`);\n} else {\n    game.pf2e.gm.launchTravelSheet(tokens.map((p) => p.actor));\n}",
+            "name": "여행 기간"
+        }
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "entries": {
+        "Aura": {
+            "name": "아우라",
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.아우라]</p>"
+        },
+        "Constrict": {
+            "name": "수축",
+            "description": "<p>피해[(0)[타격]], @체크[유형:인내|DC:|기본:참]</p>\n<hr />\n<p>현지화[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+        },
+        "Disease": {
+            "name": "질병",
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.질병]</p>"
+        },
+        "Fast Healing": {
+            "name": "빠른 치유",
+            "description": "<p>현지화[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
+        },
+        "Improved Knockdown": {
+            "name": "향상된 넉다운",
+            "description": "<p>현지화[PF2E.NPC.Abilities.Glossary.ImprovedKnockdown]</p>"
+        },
+        "Knockdown": {
+            "name": "넉다운",
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.녹다운]</p>"
+        },
+        "Regeneration": {
+            "name": "재생성",
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.재생성]</p>"
+        },
+        "Scent": {
+            "name": "향기",
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.향기]</p>"
+        },
+        "Telepathy": {
+            "name": "텔레파시",
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.텔레파시]</p>"
+        },
+        "Power Attack": {
+            "name": "파워 어택",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.PowerAttack]</p>"
+        },
+        "Swarm Mind": {
+            "name": "스웜 마인드",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
+        },
+        "Troop Defenses": {
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.부대방어]</p>",
+            "name": "부대 방어력"
+        },
+        "Void Healing": {
+            "name": "공허 치유",
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.네거티브힐링]</p>"
+        },
+        "Wavesense": {
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.파동 감지]</p>",
+            "name": "파동 감지"
+        },
+        "+1 Status to All Saves vs. Magic": {
+            "name": "마법 대 모든 세이브에 +1 상태"
+        },
+        "All-Around Vision": {
+            "name": "만능 비전",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+        },
+        "Aquatic Ambush": {
+            "name": "수중 매복",
+            "description": "<p>현지화[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
+        },
+        "At-Will Spells": {
+            "name": "의지 주문",
+            "description": "<p>현지화[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        "Attack of Opportunity": {
+            "name": "기회의 공격",
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.기회 공격]</p>"
+        },
+        "Buck": {
+            "name": "Buck",
+            "description": "<p>체크[유형:반사|DC:]</p>\n<p>@로컬라이즈[PF2E.NPC.능력.용어집.벅]</p>"
+        },
+        "Catch Rock": {
+            "name": "캐치 락",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+        },
+        "Change Shape": {
+            "name": "모양 변경",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+        },
+        "Constant Spells": {
+            "name": "상수 주문",
+            "description": "<p>현지화[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        "Coven": {
+            "name": "코벤",
+            "description": "<p>현지화[PF2E.NPC.Abilities.Glossary.Coven]</p>"
+        },
+        "Darkvision": {
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.암흑 시야]</p>",
+            "name": "암흑시야"
+        },
+        "Engulf": {
+            "name": "Engulf",
+            "description": "<p>체크[유형:반사|DC:], @피해[(0)[피해유형]] 피해, 탈출 DC [0], 파열 [0]</p>\n<hr />\n<p>현지화[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
+        },
+        "Ferocity": {
+            "name": "Ferocity",
+            "description": "<p>현지화[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
+        },
+        "Form Up": {
+            "name": "양식 작성",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FormUp]</p>"
+        },
+        "Frightful Presence": {
+            "name": "무서운 존재감",
+            "description": "<p>0 피트 @체크[유형:의지|DC:]</p>\n<hr />\n<p>현지화[PF2E.NPC.능력.용어집.무시무시한 존재]</p>"
+        },
+        "Grab": {
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.잡힌]</p>",
+            "name": "붙잡기기"
+        },
+        "Greater Constrict": {
+            "name": "향상된 컨스트럭트",
+            "description": "<p>피해[(0)[타격]], @체크[유형:인내|DC:|기본:참]</p>\n<hr />\n<p>현지화[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+        },
+        "Greater Darkvision": {
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.그레이터다크비전]</p>",
+            "name": "향상된 암흑 시야"
+        },
+        "Improved Grab": {
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>",
+            "name": "개선된 붙잡기"
+        },
+        "Improved Push": {
+            "description": "<p>현지화[PF2E.NPC.Abilities.Glossary.ImprovedPush]</p>",
+            "name": "향상된 밀기"
+        },
+        "Lifesense": {
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.생명 감지]</p>",
+            "name": "생명 감지"
+        },
+        "Light Blindness": {
+            "name": "빛의 실명",
+            "description": "<p>현지화[PF2E.NPC.Abilities.Glossary.LightBlindness]</p>"
+        },
+        "Low-Light Vision": {
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>",
+            "name": "저조도 시야"
+        },
+        "Master's Eye": {
+            "name": "마스터의 눈",
+            "description": "<p>마스터는 라크타바르나의 지각과 암흑 시야를 사용하여 자신의 눈이 아닌 라크타바르나의 눈을 통해 세상을 관찰됨. 이 능력은 마스터의 다음 턴이 끝날 때까지 지속되지만, 마스터는 활동을 지속할 수 있습니다.</p>\n<p>이 능력은 모든 범위에서, 심지어 다른 존재 차원에서도 작동합니다. 마스터가 이 능력을 사용하는 동안 라크타바르나가 죽어감으로써 마스터는 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{기절 5}가 됩니다.</p>"
+        },
+        "Nimble Dodge": {
+            "name": "민첩한 닷지",
+            "description": "<p><strong>트리거</strong> 생물이 당신을 공격 대상으로 삼고 공격자를 볼 수 있습니다.</p>\n<p><strong> 요구 조건</strong> 당신은 과적이 아닙니다.</p>\n<hr />\n<p>능숙하게 회피하여 트리거 공격에 대한 AC에 상황 보너스 +2를 얻습니다.</p>"
+        },
+        "Poison": {
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.독]</p>",
+            "name": "독"
+        },
+        "Pull": {
+            "name": "Pull",
+            "description": "<p>현지화[PF2E.NPC.Abilities.Glossary.Pull]</p>"
+        },
+        "Push": {
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>",
+            "name": "밀기"
+        },
+        "Reactive Strike": {
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.리액티브스트라이크]</p>",
+            "name": "기회 공격"
+        },
+        "Rend": {
+            "name": "렌더링",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Rend]</p>"
+        },
+        "Retributive Strike": {
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.보복 타격]</p>",
+            "name": "보복 공격"
+        },
+        "Shield Block": {
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>",
+            "name": "방패 막기"
+        },
+        "Sneak Attack": {
+            "description": "<p>이 생물의 일격은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{오프-가드} 생물에게 추가로 1d6의 정밀 피해를 줍니다.</p>",
+            "name": "암습 공격"
+        },
+        "Stench": {
+            "name": "악취",
+            "description": "<p>체크[유형:인내|DC:]</p><hr /><p> @Localize[PF2E.NPC.Abilities.Glossary.Stench]</p>"
+        },
+        "Swallow Whole": {
+            "name": "통째로 삼키기",
+            "description": "<p>[나열된 크기], @피해[(0)[타격]], 파열 [0]</p>\n<hr />\n<p>현지화[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+        },
+        "Thoughtsense": {
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.생각 감지]</p>",
+            "name": "생각 감지"
+        },
+        "Throw Rock": {
+            "name": "돌 던지기",
+            "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
+        },
+        "Trample": {
+            "name": "짓밟기",
+            "description": "<p>[나열된 일격], @체크[유형:반사|DC:|기본:참]</p>\n<hr />\n<p>현지화[PF2E.NPC.Abilities.Glossary.Trample]</p>"
+        },
+        "Tremorsense": {
+            "description": "<p>현지화[PF2E.NPC.능력.용어집.진동 감지]</p>",
+            "name": "진동 감지"
+        }
+    },
+    "label": "괴물 도감 능력 용어집"
+}

@@ -1,0 +1,292 @@
+{
+    "entries": {
+        "15th-Level Permanent Items": {
+            "name": "15레벨 영구 아이템",
+            "description": "15레벨 영구 아이템 표"
+        },
+        "16th-Level Permanent Items": {
+            "name": "16레벨 영구 아이템",
+            "description": "16레벨 영구 아이템 표"
+        },
+        "16th-Level Consumables Items": {
+            "description": "16레벨 소모품 아이템 표",
+            "name": "16레벨 소모품 아이템"
+        },
+        "17th-Level Permanent Items": {
+            "name": "17레벨 영구 아이템",
+            "description": "17레벨 영구 아이템 표"
+        },
+        "17th-Level Consumables Items": {
+            "name": "17레벨 소모품 아이템",
+            "description": "17레벨 소모품 아이템 표"
+        },
+        "3rd-Level Consumables": {
+            "name": "3레벨 소모품",
+            "description": "3레벨 소모품 표"
+        },
+        "7th-Level Permanent Items": {
+            "description": "7레벨 영구 아이템 표",
+            "name": "7레벨 영구 아이템"
+        },
+        "8th-Level Consumables Items": {
+            "description": "8레벨 소모품 아이템 표",
+            "name": "8레벨 소모품 아이템"
+        },
+        "6th-Level Permanent Items": {
+            "name": "6레벨 영구 아이템",
+            "description": "6레벨 영구 아이템 표"
+        },
+        "6th-Level Consumables Items": {
+            "name": "6레벨 소모품 아이템",
+            "description": "6레벨 소모품 아이템 표"
+        },
+        "Critical Fumble Deck": {
+            "description": "크리티컬 펌블 카드 표",
+            "name": "크리티컬 펌블 덱"
+        },
+        "Deck of Many Things": {
+            "name": "많은 것들의 덱",
+            "description": "보통 상자나 주머니에 넣어 보관하는 이 22장의 두꺼운 양피지 카드에는 마법의 힘을 상징하는 이미지나 문양이 새겨져 있습니다. 활성화하지 않고 카드를 보면 카드 앞면이 표시되지만 마법 효과는 없습니다. 덱이 뒤집어지면 카드가 무작위로 나오며, 맨 위에 있는 카드를 여러 번 보면 카드가 바뀔 수 있습니다. 덱에서 제거된 카드는 몇 초 후에 사라졌다가 다시 덱에 나타납니다."
+        },
+        "Critical Hit Deck": {
+            "description": "크리티컬 히트 카드 표",
+            "name": "크리티컬 히트 덱"
+        },
+        "Deck of Illusions Cards": {
+            "description": "잠재적 환영은 덱에서 무작위로 뽑습니다. 이 카드는 사용 시 파괴됩니다.",
+            "name": "환영 카드 덱"
+        },
+        "Random Encounter Type": {
+            "description": "랜덤 인카운터 유형 표",
+            "name": "랜덤 인카운터 유형"
+        },
+        "Influential Associate": {
+            "description": "영향력 있는 동료 표",
+            "name": "영향력 있는 어소시에이트"
+        },
+        "19th-Level Consumables Items": {
+            "name": "19레벨 소모품 아이템",
+            "description": "19레벨 소모품 아이템 표"
+        },
+        "13th-Level Permanent Items": {
+            "name": "13레벨 영구 아이템",
+            "description": "13레벨 영구 아이템 표"
+        },
+        "1st-Level Consumables": {
+            "name": "1레벨 소모품",
+            "description": "1레벨 소모품 표"
+        },
+        "2nd-Level Consumables": {
+            "description": "2단계 소모품 표",
+            "name": "2 레벨 소모품"
+        },
+        "9th-Level Permanent Items": {
+            "name": "9레벨 영구 아이템",
+            "description": "9레벨 영구 아이템 표"
+        },
+        "Family Size": {
+            "description": "가족 규모 표",
+            "name": "가족 규모"
+        },
+        "Deities, Faiths and Philosophies": {
+            "name": "신, 신앙 및 철학",
+            "description": "신, 신앙 및 철학 표"
+        },
+        "4th-Level Consumables Items": {
+            "description": "4레벨 소모품 아이템 표",
+            "name": "4레벨 소모품 아이템"
+        },
+        "Lesser Semiprecious Stones": {
+            "name": "준보석 미만",
+            "description": "덜 준보석 표"
+        },
+        "Moderate Precious Stones": {
+            "name": "보통 보석",
+            "description": "중급 보석 표"
+        },
+        "14th-Level Permanent Items": {
+            "description": "14레벨 영구 아이템 표",
+            "name": "14레벨 영구 아이템"
+        },
+        "Random Terrain Feature": {
+            "name": "무작위 지형 특징",
+            "description": "무작위 지형 특징 표"
+        },
+        "3rd-Level Permanent Items": {
+            "description": "3레벨 영구 아이템 표",
+            "name": "3레벨 영구 아이템"
+        },
+        "Lesser Precious Stones": {
+            "description": "덜 귀중한 보석의 표",
+            "name": "하급 보석"
+        },
+        "Warpwaves": {
+            "name": "워프웨이브",
+            "description": "<p>많은 프로테안은 워프파라는 불안정한 현실의 파장을 만들어 적에게 시간과 공간에 대한 인식의 혼란을 줄 수 있습니다.</p>\n<p>생물이 내성 굴림에 실패하고 워프파의 영향을 받으면, 1d8을 굴려 아래 표를 참조하여 해당 생물에게 미치는 구체적인 효과를 확인합니다.</p>\n<p>달리 명시되지 않는 한, 워프웨이브 효과는 [[/br 1d4 #라운드]]{1d4 라운드} 동안 지속되며, 새로운 워프웨이브 효과는 이미 생물에게 영향을 미치고 있는 이전의 워프웨이브 효과를 무효화합니다.</p>"
+        },
+        "Lesser Art Object": {
+            "description": "레어 아트 오브젝트 표",
+            "name": "작은 아트 오브젝트"
+        },
+        "Greater Semiprecious Stones": {
+            "description": "향상된 준보석 표",
+            "name": "향상된 준보석"
+        },
+        "10th-Level Consumables Items": {
+            "description": "10레벨 소모품 아이템 표",
+            "name": "10레벨 소모품 아이템"
+        },
+        "Rod of Wonder": {
+            "description": "이 특이한 막대는 이상하고 예측할 수 없습니다. 활성화될 때마다 다양한 효과 중 하나를 무작위로 생성합니다.",
+            "name": "경이의 막대"
+        },
+        "Greater Art Object": {
+            "description": "향상된 아트 오브젝트 표",
+            "name": "향상된 아트 오브젝트"
+        },
+        "Moderate Semiprecious Stones": {
+            "description": "중등도 준보석 표",
+            "name": "보통 준보석"
+        },
+        "11th-Level Consumables Items": {
+            "name": "11레벨 소모품 아이템",
+            "description": "11레벨 소모품 아이템 표"
+        },
+        "14th-Level Consumables Items": {
+            "name": "14레벨 소모품 아이템",
+            "description": "14레벨 소모품 아이템 표"
+        },
+        "1st-Level Permanent Items": {
+            "description": "1레벨 영구 아이템 표",
+            "name": "1레벨 영구 아이템"
+        },
+        "Moderate Art Object": {
+            "description": "적당한 아트 오브젝트 표",
+            "name": "보통 아트 오브젝트"
+        },
+        "11th-Level Permanent Items": {
+            "description": "11레벨 영구 아이템 표",
+            "name": "11레벨 영구 아이템"
+        },
+        "20th-Level Consumable Items": {
+            "name": "20레벨 소모품 아이템",
+            "description": "20레벨 소모품 아이템 표"
+        },
+        "12th-Level Permanent Items": {
+            "name": "12레벨 영구 아이템",
+            "description": "12레벨 영구 아이템 표"
+        },
+        "18th-Level Consumables": {
+            "name": "18레벨 소모품",
+            "description": "18레벨 소모품 아이템 표"
+        },
+        "Plains Dangers": {
+            "name": "평원 위험"
+        },
+        "15th-Level Consumables Items": {
+            "name": "15레벨 소모품 아이템",
+            "description": "15레벨 소모품 아이템 표"
+        },
+        "2nd-Level Permanent Items": {
+            "description": "2레벨 영구 아이템 표",
+            "name": "2레벨 영구 아이템"
+        },
+        "13th-Level Consumables Items": {
+            "description": "13레벨 소모품 아이템 표",
+            "name": "13레벨 소모품 아이템"
+        },
+        "Major Childhood Event": {
+            "description": "아동기 주요 사건 표",
+            "name": "어린 시절의 주요 이벤트"
+        },
+        "10th-Level Permanent Items": {
+            "name": "10레벨 영구 아이템",
+            "description": "10레벨 영구 아이템 표"
+        },
+        "Inspiring Relationship": {
+            "description": "영감을 주는 관계의 표",
+            "name": "영감을 주는 관계"
+        },
+        "Major Art Object": {
+            "name": "주요 아트 오브젝트",
+            "description": "주요 아트 오브젝트 표"
+        },
+        "Waterways Dangers": {
+            "name": "수로 위험"
+        },
+        "20th-Level Permanent Items": {
+            "name": "20레벨 영구 아이템",
+            "description": "20레벨 영구 아이템 표"
+        },
+        "5th-Level Permanent Items": {
+            "description": "5레벨 영구 아이템 표",
+            "name": "5레벨 영구 아이템"
+        },
+        "8th-Level Permanent Items": {
+            "description": "8레벨 영구 아이템 표",
+            "name": "8레벨 영구 아이템"
+        },
+        "19th-Level Permanent Items": {
+            "description": "19레벨 영구 아이템 표",
+            "name": "19레벨 영구 아이템"
+        },
+        "12th-Level Consumables Items": {
+            "name": "12레벨 소모품 아이템",
+            "description": "12레벨 소모품 아이템 표"
+        },
+        "18th-Level Permanent Items": {
+            "name": "18레벨 영구 아이템",
+            "description": "18레벨 영구 아이템 표"
+        },
+        "Minor Art Object": {
+            "description": "마이너 아트 오브젝트 표",
+            "name": "마이너 아트 오브젝트"
+        },
+        "7th-Level Consumables Items": {
+            "name": "7레벨 소모품 아이템",
+            "description": "7레벨 소모품 아이템 표"
+        },
+        "Wellspring Surges": {
+            "name": "웰스프링 서지"
+        },
+        "4th-Level Permanent Items": {
+            "description": "4레벨 영구 아이템 표",
+            "name": "4레벨 영구 아이템"
+        },
+        "Random Terrain Type": {
+            "description": "무작위 지형 유형 표",
+            "name": "무작위 지형 유형"
+        },
+        "9th-Level Consumables Items": {
+            "name": "9레벨 소모품 아이템",
+            "description": "9레벨 소모품 아이템 표"
+        },
+        "5th-Level Consumables Items": {
+            "name": "5레벨 소모품 아이템",
+            "description": "5레벨 소모품 아이템 표"
+        },
+        "Challenging Relationship": {
+            "description": "영감을 주는 관계의 표",
+            "name": "도전적인 관계"
+        },
+        "Forest Dangers": {
+            "name": "산림 위험"
+        },
+        "Homeland": {
+            "name": "국토부",
+            "description": "국토의 표\n드워프의 경우 3을 빼고, 엘프의 경우 2를 더하고, 고블린의 경우 4를 뺍니다. CRB가 아닌 조상의 경우 GM이 수정치를 결정합니다."
+        },
+        "Hero Point Deck": {
+            "description": "<p>영웅 포인트 카드 표</p>",
+            "name": "영웅 포인트 덱"
+        },
+        "Greater Precious Stones": {
+            "description": "향상된 보석의 표",
+            "name": "향상된 보석"
+        },
+        "Hills Dangers": {
+            "name": "언덕 위험"
+        }
+    },
+    "label": "롤러블 테이블"
+}

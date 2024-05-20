@@ -1,0 +1,965 @@
+{
+    "entries": {
+        "Arazni - Moderate Boon": {
+            "name": "아라즈니 - 보통 혜택",
+            "description": "<p><strong>보통 혜택:</strong> 부상입은 피가 갑옷이나 필요한 장비로 변합니다. 가장 필요한 것이 정보라면, 피가 해당 정보를 주문하는 글자로 바뀝니다.</p>"
+        },
+        "Arazni - Moderate Curse": {
+            "name": "아라즈니 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 자신보다 약한 생물이 자신에 대한 모든 공격 굴림에서 레벨 차이만큼, 최대 +4까지 상태 보너스를 얻습니다. 이러한 생물에게 피해를 받을 때마다 레벨 차이의 두 배에 해당하는 지속 출혈 피해를 받습니다(최대치 없음).</p>"
+        },
+        "Cayden Cailean - Major Curse": {
+            "name": "케이든 케일린 - 주요 저주",
+            "description": "<p><strong>주요 저주</strong> 케이든이 술을 마시면 고통받도록 저주하여 주점에 들어가는 것을 견디기 어렵게 만듭니다.</p>\n<p>100피트 이내에 있는 생물이 술을 마시면, 대신 술로 인한 모든 부정적인 효과를 받습니다(단, 술만 해당). 이 효과는 해당 생물이 술을 마셔서 특별한 효과를 얻는 경우에는 적용되지 않습니다.</p>"
+        },
+        "Erastil - Minor Boon": {
+            "name": "에라스틸 - 사소한 혜택",
+            "description": "<p><strong>사소한 보너스를</strong> 에라스틸은 당신이 그를 위해 일하는 한 자신의 현상금을 공유합니다. 야생에서 @UUID[전서.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{Subsist}에 체크에서 대실패를 굴릴 때마다 대신 실패를 얻습니다.</p>"
+        },
+        "Ghlaunder - Minor Boon": {
+            "name": "세탁 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택:</strong> 오물에 대한 당신의 헌신은 질병을 옮기는 작은 벌레 구름을 불러옵니다. 한 번, 갯지렁이, 모기, 파리 구름을 소환하여 1분 동안 자신을 둘러싸도록 할 수 있습니다. 해당 시간 동안 플레이어 주변에 있는 모든 생물이 @UUID[전서.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{흡수됨 1}, @UUID[전서.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{병든 1}이 되어 혈액 매개 질병에 노출됩니다. 세탁소는 일반적으로 상당한 수의 생물을 감염시킬 수 있을 때 이 혜택을 부여합니다.</p>"
+        },
+        "Gorum - Minor Curse": {
+            "name": "고룸 - 사소한 저주",
+            "description": "<p><strong>사소한 저주</strong> 고룸은 비겁함을 약함으로 보상합니다. 착용한 방어구와 방패의 아이템 공격력 보너스가 2 감소하고(최소 0), 방어력의 경도와 명중, 파괴 한계치가 절반으로 감소합니다.</p>"
+        },
+        "Iomedae - Moderate Boon": {
+            "name": "이오메대 - 보통 혜택",
+            "description": "<p><strong>보통 혜택 (1회 사용)</strong> 결연한 용맹으로 심장이 뜁니다.</p>\n<p>한 번, 이오메데가 유물, 신 또는 이와 유사한 강력한 원천이 아니라면 자신에게 영향을 미치는 모든 부정적인 효과를 끝내고, 손실된 모든 HP를 회복하고 주문, 집중력, 기타 일일 자원을 보충합니다.</p>"
+        },
+        "Irori - Major Curse": {
+            "name": "이로리 - 주요 저주",
+            "description": "<p>이로리는 모든 생명체가 당신의 존재를 잊게 만듭니다. 이로리의 분노를 불러일으키면 더욱 심해져서 모든 기록에서 당신의 이름이 지워질 수 있습니다. 두 경우 모두 기억과 기록은 명백한 공백을 남기지 않고 매끄럽게 당신을 생략하도록 스스로를 재정렬합니다.</p>"
+        },
+        "Nivi Rhombodazzle - Minor Curse": {
+            "name": "니비 롬보다즐 - 사소한 저주",
+            "description": "<p><strong>사소한 저주:</strong> 니비의 신뢰를 배신한 자는 승리가 확실했던 곳에서 패배를 맛보게 됩니다. 주사위를 굴려 자연 20이 나오면 그 결과는 자연 1이 됩니다. 니비는 보통 시적 정의를 극대화하기 위해 이 저주를 사용합니다.</p>"
+        },
+        "Nocticula - Major Curse": {
+            "name": "녹티큘라 - 주요 저주",
+            "description": "<p><strong>중대한 저주:</strong> 동료 관계에서 추방됩니다. 다른 생명체와 대화할 수 없으며 다른 생명체의 촉감도 느낄 수 없습니다.</p>"
+        },
+        "Rovagug - Major Curse": {
+            "name": "로바구그 - 주요 저주",
+            "description": "<p><strong>주요 저주</strong> 당신은 파괴의 신호로만 유용합니다.</p>\n<p>당신은 영구적으로 @UUID[전서.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{혼란} 상태가 되어 시야에 보이는 모든 것에 난동을 부리며 비무기와 무기 공격으로 추가 18의 피해를 입힙니다.</p>"
+        },
+        "Torag - Moderate Boon": {
+            "name": "토라그 - 보통 혜택",
+            "description": "<p><strong>보통 혜택</strong> 토라그와 그의 추종자들 사이에서 가족으로 간주됩니다.</p>\n<p>토라그의 축복을 유지하는 한, 드워프가 아니더라도 토라그가 선택한 단일 드워프 조상 재주 효과를 얻습니다.</p>"
+        },
+        "Urgathoa - Minor Boon": {
+            "name": "우르가토아 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택</strong> 삶과 죽음의 전리품을 만끽합니다. 조상에 관계없이 @UUID[전서.pf2e.heritages.Item.gyoN45SVfRZwHMkk]{이롱굿 고블린} 유산의 혜택을 받습니다. 이미 이 유산을 보유하고 있다면, 상황 보너스가 +4로 증가합니다.</p>"
+        },
+        "Tsukiyo - Moderate Curse": {
+            "name": "츠키요 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 츠키요가 누군가에게 특별히 기분이 상한 경우, 달빛에 대한 망상에 빠져 길을 잃을 수 있습니다. 밤에 길을 찾거나 무언가를 찾으려고 할 때 지각 체크, 생존 체크, 기타 체크에서 성공 또는 대성공을 굴리면 대신 실패를 얻습니다.</p>"
+        },
+        "Urgathoa - Moderate Curse": {
+            "description": "<p><strong>보통 저주</strong> 우르가토아가 생명력 에너지를 차단하고 언데드의 축복을 부여하지 않습니다. 생명력 효과에 피해를 받고 언데드나 공허 치유 효과를 받은 것처럼 생명력 효과로 인한 HP를 회복하지 못하지만, 공허 효과는 정상적으로 피해를 받습니다.</p>",
+            "name": "우르가토아 - 보통 저주"
+        },
+        "Zon-Kuthon - Minor Curse": {
+            "name": "존쿠톤 - 사소한 저주",
+            "description": "<p><strong>사소한 저주</strong> 당신은 항상 @UUID[전서.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{방해받음} 상태가 되고, 시끄러운 특성을 가진 갑옷과 동일한 효과를 받는 스펙트럼 사슬에 둘러싸여 있습니다.</p>"
+        },
+        "Urgathoa - Moderate Boon": {
+            "name": "우르가토아 - 보통 혜택",
+            "description": "<p><strong>보통 혜택</strong> 우르가토아가 당신을 그녀의 자식 중 한 명으로 축복합니다. 공허 치유량이 증가합니다.</p>"
+        },
+        "Tsukiyo - Minor Curse": {
+            "description": "<p><strong>사소한 저주:</strong> 츠키요의 기분을 상하게 하는 자는 빛이 자신을 적극적으로 회피합니다. 저조도 시력이나 암흑 시야를 잃고 모든 빛의 레벨이 한 단계 낮아집니다.</p>",
+            "name": "츠키요 - 사소한 저주"
+        },
+        "Shelyn - Moderate Curse": {
+            "name": "쉴린 - 보통 저주",
+            "description": "<p><strong>보통 저주</strong> 다른 사람들은 무의식적으로 당신의 과거 배신을 인식합니다.</p>\n<p>외교 체크를 시도했다가 실패를 굴리면 대신 대실패를, 대성공을 굴리면 대신 성공을 얻습니다.</p>"
+        },
+        "Shelyn - Minor Boon": {
+            "description": "<p><strong>사소한 혜택</strong> 한 번, 외교 체크에서 실패를 굴리면 대신 대성공을 얻습니다.</p>\n<p>쉴린은 일반적으로 외교 체크가 사랑을 증가시키거나 구원의 기회를 제공하는 역할을 할 때만 이 혜택을 부여합니다.</p>",
+            "name": "쉴린 - 사소한 혜택"
+        },
+        "Achaekek - Major Curse": {
+            "name": "아케젝 - 주요 저주",
+            "description": "<p><strong>중대한 저주:</strong> 사마귀 신은 자신을 진정으로 화나게 하는 자나 감히 자신을 신이라고 생각하는 자를 가지고 놀거나 괴롭히는 데 시간을 낭비하지 않습니다. 그는 당신의 위치로 통하는 포털을 열어 당신을 죽이고, 부활 마법을 막는 방식으로 당신의 영혼을 심판으로 끌고 간 다음 떠납니다.</p>"
+        },
+        "Besmara - Moderate Boon": {
+            "name": "베스마라 - 보통 혜택",
+            "description": "<p><strong>보통 혜택:</strong> 바다에서 언제나 적 함선을 약탈하거나 아군 함선을 방어할 준비가 되어 있습니다. 배에 탑승하면 모든 우선권 굴림, 곡예 균형 체크, 육상 오르기 체크에서 상태 보너스 +2를 받습니다. 또한 뱃멀미를 하지 않습니다.</p>"
+        },
+        "Abadar - Minor Curse": {
+            "name": "아바다르 - 사소한 저주",
+            "description": "<p><strong>미성년자 저주</strong> 다른 생물을 훔치거나 불법적으로 해치거나 죽이거나 법을 준수하는 경찰관이나 법원을 훼손할 때마다 범죄를 설명하는 기호나 단어가 피부의 눈에 잘 띄는 곳에 나타납니다. 이 문양은 화장으로 지우거나 숨길 수 없으며(옷으로 가릴 수는 있지만), 형을 복역하는 등 범죄에 대한 법적 보상을 할 때까지 사라지지 않습니다.</p>"
+        },
+        "Abadar - Major Boon": {
+            "description": "<p><strong>주요 혜택 (매일)</strong> 당신의 은빛 혀는 무결점이어서 타협이 조금이라도 가능하다면 타협에 도달할 수 있습니다. 하루에 한 번, 거래를 하거나 협상을 중개하기 위해 무엇을 제안할지 알 수 있으며, 신의 영감을 받은 거래를 제안하면 외교 체크에 20 + 자신의 외교 수정치를 굴리지 않고 자동으로 결과를 받을 수 있습니다. 20을 굴릴 때처럼 성공 확률이 높아지지는 않습니다.</p>\n<p>합법적으로 합의에 도달하기 위해 제공할 수 있는 것이 없다면, 그 사실을 알게 되고 일일 혜택 사용량을 소모하지 않습니다.</p>",
+            "name": "아바다르 - 주요 혜택"
+        },
+        "Achaekek - Moderate Curse": {
+            "description": "<p><strong>보통 저주:</strong> 오만은 죽음을 가져옵니다. 플레이어의 이름과 위치가 붉은 사마귀 암살자의 머릿속에 정신적으로 투영되어 플레이어를 제거하라는 임무를 부여받습니다.</p>",
+            "name": "아케젝 - 보통 저주"
+        },
+        "Gruhastha - Major Curse": {
+            "name": "그루하스타 - 주요 저주",
+            "description": "<p><strong>중대한 저주:</strong> 글자가 자신에게 불리하게 변하여 읽을 수 없게 됩니다. 두루마리, 주문서, 마법 아이템에 적힌 글자를 포함해 어떤 종류의 기호도 읽거나 알아볼 수 없게 됩니다.</p>"
+        },
+        "Gozreh - Moderate Boon": {
+            "name": "고즈레 - 보통 혜택",
+            "description": "<p><strong>보통 혜택</strong> 바다의 촉감을 얻습니다. 수중에서 숨을 쉬며 육지 속도와 동일한 @UUID[전서.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{수영} 속도를 얻을 수 있습니다.</p>"
+        },
+        "Alseta - Moderate Boon": {
+            "description": "<p><strong>적당한 혜택:</strong> 새로운 문이 저절로 열립니다. 하루에 한 번 신성한 타고난 주문으로 @UUID[전서.pf2e.spells-srd.Item.6Ot4N22t5tPD51BO]{노크}를 시전할 수 있습니다.</p>",
+            "name": "알세타 - 보통 혜택"
+        },
+        "Brigh - Moderate Boon": {
+            "description": "<p><strong>보통 혜택:</strong> 발명의 샘이 됩니다. 전제 조건을 충족하지 않더라도 @UUID[전서.pf2e.feats-srd.Item.XR95taODq1sq82Du]{발명가} 재주를 획득하고, 발명가 재주에 대한 제작 체크를 굴릴 때 굴린 결과보다 한 단계 더 높은 성공률을 사용합니다.</p>",
+            "name": "밝음 - 보통 혜택"
+        },
+        "Besmara - Major Boon": {
+            "description": "<p><strong>분 소령님:</strong> 폭풍우에 영향을 받지 않는 것처럼 보입니다. 강수량과 바람으로 인한 모든 효과와 불이익을 무시하고 안개, 비 및 기타 기상 조건을 통해 정상적으로 볼 수 있습니다.</p>",
+            "name": "베스마라 - 주요 혜택"
+        },
+        "Casandalee - Moderate Boon": {
+            "name": "카산달리 - 보통 혜택",
+            "description": "<p><strong>보통의 혜택:</strong> 장기가 부분적으로 기계 장기로 변형됩니다. 무효화 피해에 대한 저항력이 10 증가하고, 지속 대미지를 제거하기 위한 플랫 체크의 DC가 5에 불과해집니다.</p>"
+        },
+        "Gozreh - Minor Boon": {
+            "name": "고즈레 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택</strong> 고즈레가 바다에 있는 동안 길잡이가 되어줍니다. 항해 지식(항해 지식으로 이미 훈련된 경우 다른 지식 기술)의 지속적인 효과인 @UUID[전서.pf2e.spells-srd.Item.tXa5vOu5giBNCjdR]{길 알기}의 영향을 받으며 항해 지식에 대한 훈련을 받습니다(또는 다른 지식 기술을 훈련받은 경우).</p>"
+        },
+        "Nethys - Major Boon": {
+            "name": "네티스 - 큰 혜택",
+            "description": "<p><strong>주요 혜택</strong> 최고의 마법 지식과 숙달이 부여됩니다.</p>\n<p>준비된 주문 시전자인 경우, 준비된 주문 중 하나를 해당 슬롯에 준비할 수 있었던 다른 주문으로 바꿀 수 있고, 즉흥 주문 시전자인 경우 주문 목록에 있는 주문 중 하나를 대신 선택할 수 있었던 다른 주문으로 바꿀 수 있습니다.</p>\n<p>두 경우 모두 집중 특성이 있는 단일 액션을 사용하여 전환할 수 있습니다. (준비된 주문 시전자가 아니거나 즉흥적으로 주문을 시전하는 경우, 네티스는 주요 혜택을 부여하지 않습니다.)</p>"
+        },
+        "Achaekek - Minor Boon": {
+            "name": "아카젝 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택:</strong> 죽음의 그림자 속에 숨어 있습니다. 한 번, 은신 체크에 실패할 때 대신 치명적으로 성공할 수 있습니다. 아케젝은 일반적으로 암살로 이어질 수 있는 매우 중요한 은신 체크, 예를 들어 중요한 대상을 암살할 수 있는 위치를 확보할 때 이 혜택을 부여하지만, 탈출을 돕기 위한 은신 체크에는 거의 부여하지 않습니다.</p>"
+        },
+        "Kurgess - Minor Curse": {
+            "description": "<p><strong>사소한 저주:</strong> 짐을 들어올리기 어렵다는 것은 신의 불승인의 징조입니다. 최대 및 방해받은 벌크 한도가 2만큼 감소합니다.</p>",
+            "name": "쿠르게스 - 사소한 저주"
+        },
+        "Gruhastha - Moderate Curse": {
+            "name": "그루하스타 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 깨달음이 사라지기 시작하여 지식을 기억하지 못합니다. 지식 회상 체크를 시도할 때마다 굴린 결과보다 한 단계 낮은 성공률을 사용합니다.</p>"
+        },
+        "Kazutal - Moderate Boon": {
+            "description": "<p><strong>보통의 혜택:</strong> 가장 필요할 때 항상 안전한 은신처를 찾는 것 같습니다. 하루에 한 번, 신성한 타고난 주문으로 @UUID[전서.pf2e.spells-srd.Item.GzdgM0m7wXKuFSho]{로프 트릭}을 시전할 수 있습니다.</p>",
+            "name": "카즈탈 - 보통 혜택"
+        },
+        "Hei Feng - Minor Curse": {
+            "name": "헤이 펑 - 사소한 저주",
+            "description": "<p><strong>사소한 저주:</strong> 헤이펑의 호전성이 천둥처럼 당신을 뒤덮습니다. 매력 기반 기술로 체크할 때 -1 상태 페널티를 받습니다. 술을 한 방울이라도 마시면 다음 해가 뜰 때까지 이 페널티는 -3이 됩니다.</p>"
+        },
+        "Irori - Major Boon": {
+            "description": "<p>일시적으로 향상된 형태로 승천할 수 있습니다. 하루에 한 번 오컬트 타고난 주문으로 8랭크 @UUID[전서.pf2e.spells-srd.Item.MMCQsh12TPaDdPbV]{정의의 힘}을 시전할 수 있습니다. 주문을 사용하면 강력한 갑옷을 입은 모습이 아닌 평범한 모습으로 변합니다.</p>",
+            "name": "이로리 - 주요 혜택"
+        },
+        "Hei Feng - Minor Boon": {
+            "description": "<p><strong>사소한 혜택:</strong> 천궁의 가장 자랑스러운 신이 당신의 자랑이 적중하도록 보장합니다. 한 번, 협박 체크에 실패하면 대신 치명타에 성공합니다. 헤이펑은 기분에 따라 변덕스럽게 이 혜택을 부여하며, 때로는 사소하거나 중요하지 않은 자랑에 대해서도 이 혜택을 부여하고, 때로는 자랑과 관련된 다른 기술 체크에 대해서도 이 혜택을 부여합니다.</p>",
+            "name": "헤이 펑 - 마이너 분"
+        },
+        "Grandmother Spider - Major Curse": {
+            "name": "할머니 거미 - 큰 저주",
+            "description": "<p><strong>큰 저주:</strong> 거미 할머니는 자신의 모든 힘을 약자에게 쏟아붓습니다. 자신보다 레벨이 낮은 생물이 자신에 대한 체크에서 성공을 굴리면 대신 대성공하고, 자신보다 레벨이 낮은 생물이 자신에 대한 체크에서 실패를 굴리면 대신 대실패합니다.</p>"
+        },
+        "Rovagug - Minor Boon": {
+            "description": "<p><strong>사소한 혜택 (1회 사용)</strong> 공격이 더욱 파괴적이 됩니다. 한 번, 실패하거나 성공한 공격 중 하나가 치명타가 되고, 무기 또는 비무장 공격이 이 공격에 대해 치명적인 d12 특성을 얻으며 기존에 가지고 있던 치명적인 특성을 대체합니다.</p>\n<p>로바구그는 일반적으로 치명타가 귀중하거나 중요한 것을 파괴할 수 있을 때 이 혜택을 부여합니다.</p>",
+            "name": "로바구그 - 사소한 혜택"
+        },
+        "Groetus - Minor Boon": {
+            "name": "그로투스 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택:</strong> 무질서 위에 힘을 휘두릅니다. 한 번, @UUID[전서.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{혼란} 상태가 되면 해당 시간 동안 불이익 없이 전투에서 자신의 행동을 통제할 수 있을 만큼 정상적으로 행동하지만, 여전히 옹알이를 하거나 이상하게 행동할 수 있습니다.</p>"
+        },
+        "Brigh - Moderate Curse": {
+            "name": "밝음 - 보통 저주",
+            "description": "<p><strong>중등도 저주:</strong> 공학 또는 과학 작업을 수행하려고 할 때마다 모든 것이 폭발하는 것 같습니다. 연금술 아이템이나 구조물을 만들거나 사용하려고 할 때마다 @UUID[전서.pf2e.actionspf2e.Item.cYdz2grcOcRt4jk6]{장치 비활성화} 등을 시도할 때마다 @Check[type:flat|dc:15]를 시도해야 합니다. 실패하면 무언가가 폭발하고 아이템, 구조물 또는 장치의 레벨당 1d6의 화염 피해(또는 적절한 경우 다른 유형의 피해)를 받습니다(@Check[type:반사|dc:40|basic:true] 저장).</p>"
+        },
+        "Calistria - Moderate Boon": {
+            "name": "칼리스트리아 - 보통 혜택",
+            "description": "<p><strong>보통 혜택</strong> 한 뼘 길이의 말벌이 당신을 발견하고 친구가 됩니다. 칼리스트리아의 은혜를 유지하는 한 패밀리어로 당신을 섬깁니다. 말벌은 항상 굴 파기와 날아다니기 패밀리어 능력을 가지고 있습니다.</p>"
+        },
+        "Asmodeus - Minor Curse": {
+            "description": "<p><strong>사소한 저주</strong> 아스모데우스의 불길이 당신을 큰 악의로 태웁니다. 화염에 대한 약점이 5 증가합니다.</p>",
+            "name": "아스모데우스 - 사소한 저주"
+        },
+        "Sarenrae - Minor Curse": {
+            "name": "사렌래 - 사소한 저주",
+            "description": "<p><strong>사소한 저주</strong> 태양이 당신의 죄로 인해 당신을 태웁니다. 햇볕에 화상을 입어 영구적으로 @UUID[전서.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{서투른 1}이 됩니다.</p>"
+        },
+        "Kurgess - Major Curse": {
+            "description": "<p><strong>큰 저주:</strong> 쿠르게스의 분노가 당신을 거의 시들게 합니다. 영구적으로 @UUID[전서.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{흡수됨 2} 및 @UUID[전서.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{약화됨 4}가 됩니다.</p>",
+            "name": "쿠르게스 - 주요 저주"
+        },
+        "Norgorber - Minor Curse": {
+            "description": "<p><strong>사소한 저주</strong> 노르고버는 도둑을 허용합니다.</p>\n<p>소득을 얻을 때마다 도난, 분실 또는 불운으로 인해 작업이 2레벨 낮은 것처럼 돈을 벌 수 있습니다.</p>",
+            "name": "노르고르버 - 사소한 저주"
+        },
+        "Cayden Cailean - Moderate Boon": {
+            "description": "<p><strong>보통의 혜택</strong> 케이든이 승천할 때 지지했던 용기를 공유합니다.</p>\n<p>공포 효과에 대한 내성 굴림에서 성공하면 대신 대성공을 얻습니다. 전투원 @UUID[전서.pf2e.classfeatures.Item.GJKJafDGuX4BeAeN]{용맹} 클래스 재주를 가진 경우, 공포 효과에 대한 세이브에서 대실패를 굴리면 대신 실패를 얻습니다.</p>",
+            "name": "케이든 케일린 - 보통 혜택"
+        },
+        "Rovagug - Major Boon": {
+            "description": "<p><strong>주요 혜택</strong> 골라리온의 표면에 균열을 내어 거친 야수의 방출을 가속화할 수 있습니다. @UUID[전서.pf2e.feats-srd.Item.FMjihpGLn9eQ14Gw]{흔들리는 발걸음} 야만용사 재주를 획득합니다.</p>",
+            "name": "로바구그 - 주요 혜택"
+        },
+        "Lamashtu - Major Curse": {
+            "description": "<p><strong>주요 저주</strong> 당신의 꿈은 끝없는 악몽의 연속입니다. 보통 8시간의 휴식이 필요한 일일 준비에 충분한 수면을 취하려면 16시간의 휴식이 필요하고, 그마저도 @체크[type:flat|dc:15]에 성공해야 하는데, 체크에 성공해도 여전히 피곤함만 가득합니다.</p>",
+            "name": "라마슈투 - 주요 저주"
+        },
+        "Nivi Rhombodazzle - Major Boon": {
+            "description": "<p><strong>주요 혜택:</strong> 니비를 기쁘게 하기 위해 많은 일을 한 사람은 필요할 때 시야에서 사라집니다. UUID[전서.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{숨기다} 또는 @UUID[전서.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{스니크}로 은신 체크를 시도하면 2급 @UUID[전서의 효과도 얻을 수 있습니다.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{보이지 않음} 및 @UUID[전서.pf2e.spells-srd.Item.aEM2cttJ2eYcLssW]{함대 단계} 명령으로 적을 피하는 데 도움이 됩니다. 이러한 효과는 다음 턴이 끝날 때까지 또는 숨기거나 몰래 숨기기를 중단할 때까지 중 먼저 도래하는 시점까지 지속됩니다(숨기거나 몰래 숨기기를 턴마다 계속하여 효과를 연장할 수 있습니다).</p>",
+            "name": "니비 롬보다즐 - 주요 혜택"
+        },
+        "Hei Feng - Moderate Curse": {
+            "name": "헤이 펑 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 당신의 마음은 헤이펑의 마음만큼이나 빠르게 변합니다. 감정 효과에 대한 내성 굴림에서 실패하면 대신 대실패가 발생합니다.</p>"
+        },
+        "Abadar - Minor Boon": {
+            "name": "아바다르 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택 (1회 사용)</strong> 아바다는 부당하게 이득을 취하려는 자들에게 자신의 호의를 경고합니다. 누군가 당신과 당신에게만 악의적인 거짓말을 하기 위해 속임수 체크에 성공하면, 대신 대실패를 받습니다.</p>\n<p>아바다는 일반적으로 매우 치명적인 거짓말에 대해 이 혜택을 부여하기로 선택합니다.</p>"
+        },
+        "Achaekek - Moderate Boon": {
+            "name": "아카젝 - 보통 혜택",
+            "description": "<p><strong>보통 혜택:</strong> 생명을 빼앗아도 좋다는 신의 승인을 얻습니다. 하루에 한 번 타고난 신성한 주문으로 @UUID[전서.pf2e.spells-srd.Item.dLdRqT6UxTKlsPgp]{죽음의 무릎}을 시전할 수 있습니다.</p>"
+        },
+        "Kazutal - Minor Boon": {
+            "name": "카즈탈 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택:</strong> 카즈탈의 축복을 받으면 음식의 맛이 더욱 풍부해집니다. 먹는 모든 음식의 맛과 영양가가 향상됩니다. 그렇다고 해서 음식에 들어 있는 위험한 요소로부터 여러분을 보호해 주지는 않지만, 음식의 위험한 요소를 맛보지 못하게 하는 것도 아닙니다.</p>"
+        },
+        "Casandalee - Minor Curse": {
+            "description": "<p><strong>사소한 저주:</strong> 관절이 굳어지고 정신이 흐려집니다. 우선권을 위한 모든 주사위 굴림에서 -2 상태 패널티를 받습니다.</p>",
+            "name": "카산달리 - 사소한 저주"
+        },
+        "Calistria - Moderate Curse": {
+            "name": "칼리스트리아 - 보통 저주",
+            "description": "<p><strong>보통 저주</strong> 사람들은 정상적인 대화 중에도 마치 모욕하는 것처럼 반응합니다. UUID[전서.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{인상 남기기}를 시도할 때마다 결과는 롤의 결과보다 한 단계 더 나빠지게 됩니다. 충분히 오랜 시간 동안 누군가와 대화를 나누었지만 @UUID[전서.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{인상 남기기}를 시도하지 않은 경우에도 여전히 모욕을 주고 @UUID[전서.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{인상 남기기} 대실패 효과를 받습니다.</p>"
+        },
+        "Cayden Cailean - Minor Curse": {
+            "description": "<p><strong>사소한 저주</strong> 케이든의 지나가는 불만을 제기하는 사람은 과음한 후 잠에서 깨어나 음료 맛이 더럽다고 느끼는 사람입니다.</p>",
+            "name": "케이든 케일린 - 사소한 저주"
+        },
+        "Alseta - Major Curse": {
+            "description": "<p><strong>큰 저주:</strong> 이동 마법이 더 이상 효과가 없습니다. 어떤 마법 수단으로도 이동할 수 없으며, 다른 사람을 이동하거나 소환하거나 소환할 수 없습니다. 보관 가방과 같은 초차원 공간조차도 초차원 공간으로 마법으로 이동해야 사용할 수 있기 때문에 접근이 불가능하고 사용할 수 없습니다.</p>",
+            "name": "알세타 - 주요 저주"
+        },
+        "Chaldira - Major Curse": {
+            "name": "칼디라 - 주요 저주",
+            "description": "<p><strong>중대한 저주:</strong> 불운으로 인해 한 번 확실했던 지원도 실망스러울 정도로 규칙적으로 실패합니다. 상황 또는 상태 보너스나 행운 효과의 혜택을 받을 수 없습니다.</p>"
+        },
+        "Rovagug - Moderate Boon": {
+            "description": "<p><strong>보통 혜택</strong> 모든 것을 삼킬 수 있습니다. 입이 바늘 같은 이빨로 이루어진 끔찍한 원형 벌레의 아가리로 변합니다.</p>\n<p>비무장 공격으로 1d8 관통 피해를 주는 물기 공격력을 얻습니다.</p>\n<p>또한 돌이나 작은 물체 등 목구멍에 들어갈 수 있는 모든 것을 위장으로 먹을 수 있습니다.</p>\n<p>질병, 독 또는 섭취한 물체의 다른 효과 등 무언가를 먹어 생기는 상태보정에 +4의 보너스를 얻습니다. 하지만 저주받은 아이템이나 유물처럼 파괴하기 어렵거나 불가능한 마법 아이템은 소화할 수 없습니다.</p>",
+            "name": "로바구그 - 보통 혜택"
+        },
+        "Lamashtu - Minor Curse": {
+            "name": "라마슈투 - 사소한 저주",
+            "description": "<p><strong>사소한 저주</strong> 끔찍한 환영이 마음을 괴롭히며 부적절한 시기에 현실을 덮어씌웁니다. 당신은 주변의 모든 것을 마치 @UUID[전서.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{은폐된}처럼 취급합니다.</p>"
+        },
+        "Shizuru - Major Boon": {
+            "description": "<p><strong>주요 혜택:</strong> 시즈루가 햇빛으로 만든 황금빛 갑옷을 입히거나 좋아하는 갑옷을 변신시켜 해당 능력을 얻게 해줍니다. 갑옷을 착용하고 있는 동안 한 시간에 한 번, 공격으로 인해 자신의 HP가 0으로 감소하면 대신 공격이 완전히 무효화됩니다.</p>",
+            "name": "시즈루 - 주요 혜택"
+        },
+        "Nivi Rhombodazzle - Major Curse": {
+            "name": "니비 롬보다즐 - 주요 저주",
+            "description": "<p><strong>주요 저주:</strong> 니비는 무모한 신봉자에게 저주를 내립니다. 내기를 제안받으면 확률에 상관없이 강제로 수락해야 합니다. 체크[유형:의지|DC:40] 세이브에 성공하면 최소한 베팅의 판돈을 자신에게 유리하게 변경할 수는 있지만, 여전히 수락해야 합니다.</p>"
+        },
+        "Gorum - Moderate Boon": {
+            "name": "고룸 - 보통 혜택",
+            "description": "<p><strong>보통 혜택</strong> 전투를 향한 고룸의 짜릿한 기운이 담긴 타격이 거침없이 퍼집니다. 대검 일격에 강력한 특성이 부여됩니다.</p>"
+        },
+        "Lamashtu - Major Boon": {
+            "description": "<p><strong>주요 혜택(매일)</strong> 라마슈투는 성별에 관계없이 당신의 몸을 사용해 새로운 몬스터를 탄생시킵니다.</p>\n<p>하루에 한 번, 1분 동안 GM이 지정한 몬스터를 당신의 뱃속에서 찢어내어 탄생시킬 수 있습니다. 몬스터의 레벨은 플레이어의 레벨에 따라 달라지며, 라마슈투의 의지에 따라 마음대로 행동하지만, 라마슈투의 호의를 잃지 않는 한 플레이어를 공격하지는 않습니다. 시련으로 인해 @UUID[전서.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{흡수됨 3}이 되었습니다.</p>",
+            "name": "라마슈투 - 주요 혜택"
+        },
+        "Norgorber - Moderate Boon": {
+            "name": "노르고르버 - 보통 혜택",
+            "description": "<p><strong>보통 혜택</strong> 독은 영원합니다.</p>\n<p>독이 든 무기로 공격이 치명타로 실패하거나, 성공했지만 베기 또는 관통 피해를 주지 못하면 독은 소모되지 않습니다. 독은 생물에게 성공적으로 적용되었다면 여전히 소모됩니다.</p>"
+        },
+        "Nethys - Major Curse": {
+            "name": "네티스 - 주요 저주",
+            "description": "<p><strong>주요 저주</strong> 네티스가 마법과의 연결을 끊습니다. 모든 주문 시전 능력을 잃고 앞으로 어떤 주문 시전 능력도 얻을 수 없습니다.</p>"
+        },
+        "Asmodeus - Moderate Boon": {
+            "name": "아스모데우스 - 보통 혜택",
+            "description": "<p><strong>보통 혜택</strong> 눈이 불씨처럼 붉게 빛나고 피부가 진홍색으로 변합니다. 암흑 시야와 내화 저항이 5 증가합니다.</p>"
+        },
+        "Milani - Major Curse": {
+            "name": "밀라니 - 주요 저주",
+            "description": "<p><strong>큰 저주:</strong> 작은 부상입은 상처에서 물리적으로 가능한 것보다 더 많은 출혈이 발생합니다. 베기 또는 관통 피해를 받을 때마다 피해를 입힌 생물 또는 효과의 레벨만큼 지속 출혈 피해를 받습니다.</p>"
+        },
+        "Torag - Major Curse": {
+            "description": "<p><strong>큰 저주</strong> 당신은 영원히 집에서 쫓겨납니다. 커뮤니티 구성원들의 태도가 두 단계 더 나빠져, 예전에는 도움이 되던 맴버가 이제는 무관심해지고, 친절했던 맴버가 이제는 불친절해지며, 다른 맴버들은 모두 적대적으로 변합니다. 반드시 폭력으로 이어지는 것은 아니지만, 적대적인 커뮤니티 멤버는 일반적으로 영구 추방을 요청합니다.</p>",
+            "name": "토라그 - 주요 저주"
+        },
+        "Desna - Moderate Curse": {
+            "description": "<p><strong>보통 저주</strong> 여행 중 불행이 따라다니며 이를 막기 위해서는 참회 또는 자비의 행동이 필요합니다.</p>\n<p>체크 시 항상 두 번 굴려서 최악의 결과를 가져와야 합니다. 이것은 불행 효과입니다.</p>\n<p>후회를 표현하고 집중 특성이 있는 액션을 사용하여 [[/BR 1D4 #라운드]]{1D4 라운드} 동안 이 효과를 무시할 수 있습니다.</p>\n<p>진정으로 이타적인 동정 행위를 하면 하루 동안 이 효과를 무시합니다.</p>",
+            "name": "데스나 - 보통의 저주"
+        },
+        "Iomedae - Minor Boon": {
+            "description": "<p><strong>마이너 분</strong> 당신은 항상 최선을 다해 자신을 드러냅니다. 옷과 몸은 항상 깨끗하고 구김이 없으며, 칼날과 갑옷의 금속은 빛나고 흠이 없습니다.</p>\n<p>이것은 오물을 통해 질병과 기타 고통에 노출되는 것을 막지는 않지만, 바로 깨끗이 씻은 것처럼 당신을 보호합니다.</p>",
+            "name": "이오메대 - 사소한 혜택"
+        },
+        "Casandalee - Moderate Curse": {
+            "description": "<p><strong>보통 저주:</strong> 카산달리는 플레이어가 더 나은 사람이 될 수 있도록 원치 않는 지적 발전을 가져다주려고 시도합니다. 매일 하루 중 어느 시점에 카산달리는 당신에게 불편한 이상한 통찰력을 부여합니다. 이 통찰을 받아들이면 별다른 영향을 받지 않지만, 받아들이지 않으면 10분 동안 @UUID[전서.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{혼란}이 됩니다.</p>",
+            "name": "카산달리 - 보통 저주"
+        },
+        "Abadar - Major Curse": {
+            "description": "<p><strong>주요 저주</strong> 당신은 잘못에 대해 정직해집니다. 지속적으로 @UUID[전서.pf2e.주문-srd.아이템.aewxsale5xWEPKLk]{진실의 반지}의 대실패 효과를 받습니다. 또한, 거래에서 항상 최악의 옵션이 제공됩니다.</p>",
+            "name": "아바다르 - 주요 저주"
+        },
+        "Asmodeus - Major Boon": {
+            "description": "<p><strong>주요 혜택</strong> 아스모데우스는 당신의 거래와 계약을 이행하는 데 도움을 줍니다. 생물이 강압이 아닌 자유 의지로 당신과 흥정이나 계약을 맺은 경우, 당신이 자신의 편을 지키는 한 자발적으로 자신의 편을 위반할 수 없습니다. 언제든지 직접 거래를 위반할 수 있지만, 그렇게 되면 그 생물은 더 이상 자신의 역할을 이행할 의무가 없습니다.</p>",
+            "name": "아스모데우스 - 큰 혜택"
+        },
+        "Cayden Cailean - Minor Boon": {
+            "description": "<p><strong>마이너 분</strong> 케이든 케일런은 과음한 밤을 회복하는 데 도움이 됩니다.</p>\n<p>여전히 술에 취하고 알코올의 영향을 정상적으로 경험하지만, 다음 날 아침 숙취는 없습니다.</p>",
+            "name": "케이든 케일린 - 사소한 혜택"
+        },
+        "Casandalee - Major Boon": {
+            "name": "카산달리 - 주요 혜택",
+            "description": "<p><strong>메이저 분:</strong> 카산달리는 자신의 신성한 데이터 흐름에 당신의 기억과 영혼을 백업합니다. 당신이 죽어감으로써 그녀는 당신의 의식을 새로운 인공 신체에 이식합니다. 카산달리가 인위적으로 새 몸을 만들었지만, 그 외에는 이전 몸과 유사하며, @UUID[전서.pf2e.spells-srd.Item.kqhPt9344UkcGVYO]{부활} 의식이 대성공을 거둔 것과 동일한 효과를 발휘합니다. 대신 카산달리는 요청하는 이들에게 다른 시체를 제공하고자 합니다.</p>"
+        },
+        "Grandmother Spider - Minor Curse": {
+            "name": "할머니 거미 - 사소한 저주",
+            "description": "<p><strong>사소한 저주:</strong> 장난이 잘못되기 시작하면 연달아 치명적인 실패로 이어집니다. 속임수 또는 은신 체크에서 실패를 굴리면 대신 대실패가 발생합니다.</p>"
+        },
+        "Hei Feng - Moderate Boon": {
+            "description": "<p><strong>보통의 혜택:</strong> 바람과 해류가 순조로워 항해 속도가 빨라집니다. 바다를 이동하는 데 사용하는 모든 함선은 속도에 +10피트 상태 보너스를 받습니다.</p>",
+            "name": "헤이 펭 - 보통 혜택"
+        },
+        "Urgathoa - Major Boon": {
+            "description": "<p><strong>주요 혜택</strong> 전염병에 걸리면 통찰력이 가득한 열병 꿈을 꿉니다.</p>\n<p>질병에 걸리면 더 이상 질병에 걸리지 않을 때까지 자신을 대상으로 @UUID[전서.pf2e.spells-srd.Item.qsNeG9KZpODSACMq]{예지}의 효과를 얻습니다.</p>",
+            "name": "우르가토아 - 큰 혜택"
+        },
+        "Shelyn - Moderate Boon": {
+            "description": "<p><strong>보통 혜택</strong> 위대한 작품을 창조하고 모든 예술의 거장이 될 영감을 얻습니다. 제작과 연주의 모든 카테고리에서 @UUID[전서.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]{특수 제작} 재주와 @UUID[전서.pf2e.feats-srd.Item.lFwfUvH2708rl6i3]{비르투오식 연주자} 재주를 획득합니다.</p>",
+            "name": "쉴린 - 보통 혜택"
+        },
+        "Besmara - Minor Boon": {
+            "description": "<p><strong>사소한 혜택:</strong> 베스마라는 플레이어의 길에 약탈과 위험을 모두 배치하여 플레이어가 그녀를 즐겁게 해주기를 원합니다. 이 중보기도는 종종 예상치 못한 보물 지도, 병 속의 메시지 또는 도중에 도전을 처리할 수 있다는 가정하에 큰 보상으로 이끄는 다른 징표의 형태로 나타납니다.</p>",
+            "name": "베스마라 - 사소한 혜택"
+        },
+        "Cayden Cailean - Moderate Curse": {
+            "name": "케이든 케일린 - 보통 저주",
+            "description": "<p><strong>보통 저주</strong> 케이든이 당신을 비겁함으로 괴롭혔습니다. 공포 효과에 대한 구원 던지기에서 대성공을 굴릴 때마다 대성공 대신 성공을 얻고, 공포 효과에 대한 구원 던지기에서 실패를 굴릴 때마다 대실패를 얻습니다.</p>"
+        },
+        "Pharasma - Minor Boon": {
+            "name": "파라즈마 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택 (1회 사용)</strong> 자신의 운명을 순간적으로 예언적으로 엿볼 수 있습니다.</p>\n<p>한 번, 한 번의 체크에 +2 상태 보너스를 얻습니다. 이 보너스는 결과를 확인한 후 적용할 수 있으며, 성공 정도를 바꿀 수도 있습니다.</p>"
+        },
+        "Torag - Minor Boon": {
+            "description": "<p><strong>사소한 혜택 (1회 사용)</strong> 토라그가 장비를 수리하여 철야를 계속할 수 있도록 합니다.</p>\n<p>한 번, 소지하거나 착용하고 있는 방패, 무기, 기타 아이템이 모든 HP를 회복합니다. 아이템의 경도가 1분 동안 두 배로 증가합니다.</p>\n<p>토라그는 아이템이 파괴될 때와 마찬가지로 이 효과를 부여하여 아이템의 파괴를 막을 수 있습니다.</p>\n<p>가끔 이 효과를 부여하여 이미 완전히 파괴된 드워프 역사에 중요한 아이템을 복원할 수 있습니다.</p>",
+            "name": "토라그 - 사소한 혜택"
+        },
+        "Kazutal - Moderate Curse": {
+            "name": "카즈탈 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 당신의 근력이 당신을 배신하여 정당한 몫 이상을 차지하지 못합니다. 당신은 @UUID[전서.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{약화됨 2}이며, 현재 착용하거나 사용 중인 장비 외에는 아무것도 소지할 수 없습니다.</p>"
+        },
+        "Norgorber - Minor Boon": {
+            "name": "노르고버 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택 (1회 사용)</strong> 노고버는 당신의 비밀과 거짓말을 보호해줍니다. 한 번, 속임수 체크에서 실패를 굴려 @UUID[전서.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{Lie}를 말하면 대신 대성공을 얻습니다.</p>\n<p>노고르버는 일반적으로 매우 중요한 거짓말을 보호하기 위해 이 혜택을 부여하기로 선택합니다.</p>"
+        },
+        "Nocticula - Major Boon": {
+            "description": "<p><strong>주요 혜택:</strong> 마치 신성한 예술가가 창조한 것처럼 이상적인 자신의 모습이 됩니다. 매 5레벨마다 얻는 능력 부스트와 동일한 규칙을 따르는 4가지 능력 부스트 세트를 영구적으로 얻습니다.</p>",
+            "name": "녹티큘라 - 주요 혜택"
+        },
+        "Nivi Rhombodazzle - Moderate Boon": {
+            "description": "<p><strong>보통의 혜택:</strong> 니비가 자신의 기술 중 일부를 사용하여 결과를 뒤로 미루는 능력을 부여합니다. 하루에 한 번, 체크를 시도한 후 두 번째로 주사위를 굴릴 수 있습니다. 두 번째 주사위의 결과가 더 나쁘더라도 반드시 그 결과를 사용해야 합니다. 이것은 행운의 효과입니다. 이 혜택을 사용한 후 언제든지 GM은 체크 결과 중 하나를 이 혜택을 사용할 때 처음 시도한 체크 결과로 대체할 수 있으며, 이렇게 지연된 결과는 다른 신의 중보로라도 더 이상 지연되거나, 방지되거나, 영향을 받을 수 없습니다.</p>",
+            "name": "니비 롬보다즐 - 보통 혜택"
+        },
+        "Cayden Cailean - Major Boon": {
+            "name": "케이든 케일런 - 주요 혜택",
+            "description": "<p><strong>메이저 분</strong> 자유의 화신인 당신은 속박을 쉽게 부러뜨립니다. 자신의 턴이 끝날 때마다, 현재 자신을 고정되어 있는 효과(잡히거나 억제됨으로써 고정되어 있는 효과 포함) 하나를 프리 액션으로 끝낼 수 있습니다.</p>"
+        },
+        "Iomedae - Minor Curse": {
+            "name": "이오메대 - 사소한 저주",
+            "description": "<p><strong>경미한 저주</strong> 칼날과 갑옷이 납처럼 무뎌졌습니다. 무기, 방어구, 방패의 명중과 파괴 한계치가 평소의 절반으로 감소합니다.</p>"
+        },
+        "Gozreh - Major Boon": {
+            "description": "<p><strong>주요 혜택</strong> 고즈레가 당신의 보폭에 바람의 축복을 내렸습니다. 이동 속도에 +30피트 상태 보너스를 얻고, 지상 속도와 동일한 @UUID[전서.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{비행} 속도를 얻습니다.</p>",
+            "name": "고즈레 - 주요 혜택"
+        },
+        "Norgorber - Moderate Curse": {
+            "description": "<p><strong>보통 저주</strong> 독은 플레이어를 빠르게 쇠약하게 만듭니다. 독에 대한 인내 세이브에서 실패하면 대신 대실패가 발생합니다.</p>",
+            "name": "노르고르버 - 보통 저주"
+        },
+        "Shizuru - Minor Curse": {
+            "name": "시즈루 - 사소한 저주",
+            "description": "<p><strong>사소한 저주:</strong> 불명예스러운 행동으로 장비가 자신을 켜버립니다. 다음에 공격할 때 무기나 방어구가 @UUID[전서.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{부러진} 조건을 얻습니다.</p>"
+        },
+        "Iomedae - Moderate Curse": {
+            "name": "이오메대 - 보통의 저주",
+            "description": "<p><strong>보통 저주</strong> 전술적 이점이 계획한 대로 작동하지 않는 것 같습니다. 공격 주사위에 상황 보너스를 받을 수 없고, 적들은 내 공격에 대한 공격력에 상황 패널티를 받지 않습니다.</p>"
+        },
+        "Sarenrae - Minor Boon": {
+            "name": "사렌래 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택 (1회 사용)</strong> 치유하는 손에 따뜻한 불꽃의 축복이 깃듭니다.</p>\n<p>한 번, 다른 생물을 치유할 때, 그 생물이 받은 피해량에 상관없이 정상만큼 치유하는 대신, 그 생물의 HP를 최대치로 회복시킵니다.</p>\n<p>사렌래는 일반적으로 극도로 위급한 상황에서 이 혜택을 부여합니다.</p>"
+        },
+        "Chaldira - Minor Boon": {
+            "description": "<p><strong>사소한 혜택:</strong> 한 번, 다음 일반 동전이나 일반 주사위를 던져 결과를 선택할 수 있습니다. 이 능력을 무고한 사람이나 불운한 사람을 희생시키면서 개인적인 이익을 위해 사용하면, 샬디라가 적당한 저주를 내리는 벌을 내립니다.</p>",
+            "name": "칼디라 - 사소한 혜택"
+        },
+        "Irori - Minor Boon": {
+            "name": "이로리 - 사소한 혜택",
+            "description": "<p>이로리는 훌륭한 통찰력과 지식을 제공합니다. 한 번, 체크에서 실패를 @UUID[전서.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{지식 소환}에 굴리면 대신 대성공을 얻습니다. 또한, 이 체크는 비밀 특성을 잃지 않으므로 대성공이라는 결과를 확실히 알 수 있습니다. 이로리는 일반적으로 매우 중요한 지식 회상 체크에 대해 이 혜택을 부여합니다.</p>"
+        },
+        "Gorum - Minor Boon": {
+            "description": "<p><strong>부수적 혜택</strong> 고룸은 무기가 필요할 때마다 무기를 부여합니다. 무기가 없더라도 상호작용 액션을 사용해 0 레벨의 비마법 철 무기를 뽑을 수 있습니다. 이러한 무기는 공격에 계속 사용하는 동안에만 지속되며, 판매하거나 다른 사람에게 주거나 녹여 고철 등으로 만들 수 없습니다.</p>",
+            "name": "고룸 - 사소한 혜택"
+        },
+        "Ghlaunder - Major Curse": {
+            "name": "세탁 - 주요 저주",
+            "description": "<p><strong>중대한 저주:</strong> GM이 선택한 전염성 질병에 걸립니다. 자신과 자신이 감염시킨 다른 사람은 다른 두 명의 현명한 존재에게 질병을 감염시키기 전까지는 어떤 식으로든 질병을 치료하거나 초기 단계로 회복할 수 없습니다.</p>"
+        },
+        "Gozreh - Moderate Curse": {
+            "name": "고즈레 - 보통 저주",
+            "description": "<p><strong>보통 저주</strong> 파도의 흐름이 끊임없이 맞서 싸우며 수영을 해야 할 때마다 익사할 위험에 처합니다.</p>\n<p>유일한 속도가 아니라면 보유한 모든 @UUID[전서.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{수영} 속도를 잃으며, 이 경우 수영 속도에 -20피트 상태이상의 페널티를 받습니다.</p>\n<p>육상 체크를 @UUID[전서.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{Swim}에 굴리면, 항상 굴린 결과보다 1단계 낮은 성공 결과를 사용합니다.</p>"
+        },
+        "Erastil - Moderate Curse": {
+            "name": "에라스틸 - 보통 저주",
+            "description": "<p><strong>보통 저주</strong> 에라스틸의 짐승들이 당신을 싫어합니다. 당신을 대하는 동물들의 태도가 한 단계 더 나빠졌습니다(유용한 대신 친절함, 친근함 대신 무관심 등).</p>"
+        },
+        "Zon-Kuthon - Moderate Boon": {
+            "description": "<p><strong>보통의 혜택 (매일)</strong> 매일 아침, 하루 일과를 준비하는 동안 살갗에 상처가 모여 단어가 됩니다.</p>\n<p>상처는 존쿠톤이 선택한 신성한 주문의 두루마리 역할을 합니다.</p>\n<p>두루마리를 사용하거나 마법 치유를 받으면 하루 동안 혜택이 사라지지만, 상처의 일부 또는 전체가 알림으로 남아있을 수 있습니다.</p>",
+            "name": "존쿠톤 - 보통 혜택"
+        },
+        "Casandalee - Minor Boon": {
+            "name": "카산달리 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택:</strong> 카산달리가 당신의 생각을 위험한 통제에서 해방시킵니다. 한 번, 자신의 액션을 제어하는 효과에 대한 의지 저장에 실패하면 대신 치명타에 성공합니다. 카산달리는 일반적으로 자율성과 선택권을 심각하게 침해할 때 이 혜택을 부여합니다.</p>"
+        },
+        "Gorum - Major Curse": {
+            "description": "<p><strong>주요 저주</strong> 당신은 전투의 격렬함을 따라잡을 수 없습니다. 전투가 부러진 순간, 당신은 @UUID[전서.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{피곤함} 및 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{느려짐 1}이 됩니다. 각 턴이 끝날 때마다 @UUID[전서.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{느려짐} 상태가 1씩 증가합니다. 이 조건은 더 이상 전투에 참여하지 않을 때만 종료됩니다.</p>",
+            "name": "고룸 - 주요 저주"
+        },
+        "Shelyn - Major Curse": {
+            "description": "<p><strong>주요 저주</strong> 거짓 사랑으로 불행을 퍼뜨리는 자들은 쉴린의 가장 큰 저주에 직면합니다.</p>\n<p>외모, 목소리, 향기 또는 이와 유사한 감각 수단을 통해 다른 생명체를 구별하는 능력을 잃게 됩니다. 개미를 말이라고 착각하지 않도록 신체적 크기는 알아볼 수 있지만, 그 이상은 아무것도 알아볼 수 없습니다.</p>\n<p>당신이 단지 천박하다면, 당신이 보는 모든 생물은 평범하고 평범한 재주를 가지고 있지만, 당신의 행위가 사악하다면, 당신이 잘못한 사람들의 얼굴만 보입니다.</p>",
+            "name": "쉴린 - 주요 저주"
+        },
+        "Milani - Minor Curse": {
+            "description": "<p><strong>사소한 저주:</strong> 아무리 제거하려 해도 두피에서 가시가 많은 붉은 장미의 마법의 화환이 끝없이 자랍니다. 관통 공격에 대한 약점이 5 증가합니다.</p>",
+            "name": "밀라니 - 사소한 저주"
+        },
+        "Achaekek - Minor Curse": {
+            "name": "아케젝 - 사소한 저주",
+            "description": "<p><strong>사소한 저주:</strong> 아케젝의 하수인들이 복수를 노립니다. 비인간 곤충(특히 사마귀)이 플레이어에게 적대적으로 변합니다.</p>"
+        },
+        "Calistria - Major Boon": {
+            "name": "칼리스트리아 - 주요 혜택",
+            "description": "<p><strong>메이저 분</strong> 칼리스트리아는 당신을 복수의 길로 인도합니다. 당신은 항상 당신에게 잘못을 저질렀지만 지금까지 처벌받지 않은 가장 가까운 생명체를 향한 방향과 거리를 알고 있습니다.</p>"
+        },
+        "Nocticula - Moderate Boon": {
+            "name": "녹티큘라 - 보통 혜택",
+            "description": "<p><strong>보통의 혜택:</strong> 자정의 힘을 빌려 여정을 안내합니다. 암흑 시야를 얻습니다. 암흑 시야를 이미 가지고 있다면, 하루에 한 번 신성한 타고난 주문으로 @UUID[전서.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{어둠}을 시전할 수 있습니다.</p>"
+        },
+        "Arazni - Major Curse": {
+            "name": "아라즈니 - 주요 저주",
+            "description": "<p><strong>주요 저주:</strong> 생명력 또는 공허 효과로 인해 HP를 회복할 때, 대신 그 만큼의 HP를 잃습니다.</p>"
+        },
+        "Pharasma - Moderate Boon": {
+            "name": "파라즈마 - 보통 혜택",
+            "description": "<p><strong>보통 혜택</strong> 삶과 죽음의 기운에 대한 숙달이 향상됩니다.</p>\n<p>일격으로 언데드에게 생명력 피해 1을 줍니다.</p>\n<p>언데드에게 생명력 피해를 주는 주문은 주문 등급당 피해에 +1 상태 보너스를 받고, 산 자를 치유하는 주문은 주문 등급당 회복하는 명중률에 +1 상태 보너스를 받습니다.</p>"
+        },
+        "Brigh - Major Curse": {
+            "description": "<p><strong>주요 저주:</strong> 통제할 수 있다고 생각한 무의미한 구조물조차도 플레이어의 죽음을 노립니다. 모든 구조물은 플레이어에게 적대적이며 플레이어의 존재를 알아차리면 플레이어를 공격합니다. 때때로 무생물 조각상이나 다른 물체가 브리그의 복수를 위해 구조물처럼 움직이기도 합니다.</p>",
+            "name": "Brigh - 주요 저주"
+        },
+        "Pharasma - Moderate Curse": {
+            "name": "파라즈마 - 보통 저주",
+            "description": "<p><strong>보통 저주 (매일)</strong> 운명이 당신에게 등을 돌리고 끔찍한 징조를 드러냅니다. 플레이어가 시전하거나 플레이어가 관련된 @UUID[전서.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X]{Augury}와 같은 점은 항상 비애를 암시합니다. 체크 시도 후 하루에 한 번, GM은 주사위 굴림 결과를 자연스럽게 1로 만들 수 있습니다.</p>"
+        },
+        "Sarenrae - Major Curse": {
+            "name": "사렌래 - 주요 저주",
+            "description": "<p><strong>주요 저주</strong> 사렌래가 다른 사람을 해치는 능력을 제한합니다.</p>\n<p>당신이 가하는 모든 공격, 당신이 시전하는 주문, 당신이 가하는 기타 피해는 악마와 언데드를 제외하고는 치명타가 아니며 치명타로 만들 수도 없습니다.</p>\n<p>당신은 악마와 언데드를 제외하고 최소 피해를 줍니다.</p>\n<p>악마와 언데드를 제외한 모든 생물은 당신의 공격과 다른 효과에 대한 공격력과 내성 굴림에 +4 상태 보너스를 받습니다.</p>"
+        },
+        "Calistria - Minor Curse": {
+            "description": "<p><strong>사소한 저주</strong> 새로운 사람이 자신에게 복수를 원할 때마다 1단계에서 고통스러운 침에 쏘이고 @UUID[전서.pf2e.equipment-srd.Item.aBOPYlfHAcXUmhF7]{거인 말벌 독}에 걸립니다.</p>",
+            "name": "칼리스트리아 - 사소한 저주"
+        },
+        "Kurgess - Minor Boon": {
+            "name": "쿠르게스 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택:</strong> 강자가 자신의 근력을 일정량 축복해 줍니다. 최대 및 방해받은 벌크 한도가 2 증가합니다.</p>"
+        },
+        "Besmara - Minor Curse": {
+            "description": "<p><strong>사소한 저주:</strong> 괴혈병의 영향을 일부 받아 부상입은 피가 더 쉽게 흐릅니다. 지속 대미지 출혈 피해를 제거하기 위한 플랫 체크의 DC는 15가 아닌 20이며(회복을 돕는 매우 효율적인 방법을 사용하는 경우 10이 아닌 15), 최대 HP에 도달하면 지속 대미지 출혈 피해에서 자동으로 회복되지 않습니다.</p>",
+            "name": "베스마라 - 사소한 저주"
+        },
+        "Desna - Minor Curse": {
+            "description": "<p><strong>사소한 저주</strong> 당신은 항상 길을 잃거나 길에서 이상한 사고가 발생하여 여행이 지연되는 것 같습니다.</p>\n<p>당신(그리고 함께 여행하는 모든 그룹)은 지형과 다른 재주를 고려하기 전에 일반 탐험 속도의 3/4로만 이동하며, 속도가 더 느려질 수 있는 지형을 고려합니다.</p>",
+            "name": "데스나 - 사소한 저주"
+        },
+        "Nethys - Minor Curse": {
+            "description": "<p><strong>사소한 저주</strong> 마법의 비밀이 정신적으로 부담스러워집니다. 당신은 영구적으로 @UUID[전서.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{어리둥절 1}입니다.</p>",
+            "name": "네티스 - 사소한 저주"
+        },
+        "Alseta - Moderate Curse": {
+            "name": "알세타 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 문턱을 넘는 것이 벅차게 느껴집니다. 차원문, 관문, 문을 통과할 때마다 @UUID[전서.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{병든 2} 상태를 얻습니다. 순간이동, 차원 이동 등을 통해 이동한 후에는 충분한 휴식을 취할 때까지 @UUID[전서.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{피곤함} 조건이 추가됩니다.</p>"
+        },
+        "Tsukiyo - Minor Boon": {
+            "name": "츠키요 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택:</strong> 츠키요의 가장 간단한 감사의 표시가 명료함의 선물입니다. 한 번, 정신 효과에 대한 내성 굴림에서 실패를 굴리면 대신 대성공을 얻습니다. 츠키요는 일반적으로 특히 치명적인 정신 효과에 대해 이 혜택을 부여합니다.</p>"
+        },
+        "Desna - Major Curse": {
+            "name": "데스나 - 주요 저주",
+            "description": "<p><strong>큰 저주</strong> 별들이 당신의 길을 꾸짖습니다. 당신은 별빛에 노출될 때마다 @UUID[전서.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{병든 4}와 @UUID[전서.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{느려짐 1}이 됩니다.</p>"
+        },
+        "Sarenrae - Major Boon": {
+            "name": "사렌래 - 주요 혜택",
+            "description": "<p><strong>주요 혜택</strong> 당신은 평화와 회복의 목소리입니다.</p>\n<p>@UUID[전서.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{요청}에 체크하여 성공하면, 대신 대성공을 얻습니다.</p>\n<p>또한 악마, 언데드, 정신없는 생물을 제외한 모든 생물은 전투에 들어가기 전에 한 번 자신의 말을 하고 요청할 수 있는 기회를 허용합니다. 만약 당신이나 아군이 전투 준비 주문을 시전하거나, 전투 위치를 정하거나, 상대의 전투 준비 주문을 기다리는 등 이어지는 전투에서 이점을 얻기 위해 요청 시간을 사용했다면, 사렌래는 즉시 이 혜택을 취소하거나 아군을 저주할 수 있습니다.</p>"
+        },
+        "Milani - Moderate Curse": {
+            "name": "밀라니 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 묶거나 구속하는 데 사용되는 밧줄, 쇠사슬, 마나클, 기타 장비가 손에서 타오르는 듯 뜨겁게 달아오르며 불꽃이 터지거나 용광로에 휩싸인 것처럼 녹아내립니다. 이러한 아이템을 잡으려고 하면 @피해[2d6[화염]] 피해를 받고 아이템이 파괴됩니다.</p>"
+        },
+        "Asmodeus - Moderate Curse": {
+            "description": "<p><strong>적당한 저주</strong> 아스모데우스는 회원님의 준수를 강요합니다. 계약이나 계약을 자발적으로 철회하거나 약속을 번복할 수 없으며, 계약의 정신이 아닌 문자만 따라야 합니다.</p>",
+            "name": "아스모데우스 - 보통 저주"
+        },
+        "Sivanah - Minor Curse": {
+            "description": "<p><strong>사소한 저주:</strong> 머리카락이 일반적 또는 마법적 수단으로 바꿀 수 없는 다양한 색으로 변하고, 변장을 위한 모자, 스카프, 기타 모자 아래에서 머리카락이 자라납니다. 다른 사람에 대한 속임수 기술 체크에 -2 상태 페널티를 받습니다[@UUID[전서.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{사칭}.</p>",
+            "name": "시바나 - 사소한 저주"
+        },
+        "Torag - Minor Curse": {
+            "description": "<p><strong>사소한 저주</strong> 조잡한 장인 정신이 드러납니다. 사용 중인 아이템이 피해를 받을 때마다 @UUID[전서.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{부러진}이 표시됩니다.</p>",
+            "name": "토라그 - 사소한 저주"
+        },
+        "Shizuru - Minor Boon": {
+            "description": "<p><strong>사소한 혜택:</strong> 공격이 어둠을 퇴치하는 데 도움이 됩니다. 적을 공격하는 데 성공하면 무기가 1분 동안 60피트 밖에서 밝은 빛으로 빛납니다. 이 효과는 반올림한 레벨의 절반에 해당하는 반작용 등급을 가진 빛 효과입니다.</p>",
+            "name": "시즈루 - 사소한 혜택"
+        },
+        "Milani - Minor Boon": {
+            "description": "<p><strong>사소한 혜택:</strong> 한 번, 봉기군이 발각되지 않도록 속임수 또는 은신 체크에서 실패를 굴리면 대신 대성공합니다. 밀라니는 일반적으로 반란군의 생존이 걸린 매우 중요한 체크에 대해 이 혜택을 부여합니다.</p>",
+            "name": "밀라니 - 사소한 혜택"
+        },
+        "Brigh - Minor Curse": {
+            "description": "<p><strong>사소한 저주:</strong> 섬세한 작업을 시도할 때 손이 떨립니다. UUID[전서.pf2e.actionspf2e.Item.rmwa3OyhTZ2i2AHl]{제작} 또는 @UUID[전서.pf2e.actionspf2e.Item.bT3skovyLUtP22ME]{수리} 아이템에 대한 모든 실패가 대신 중대 실패로 처리됩니다.</p>",
+            "name": "Brigh - 사소한 저주"
+        },
+        "Asmodeus - Minor Boon": {
+            "description": "<p><strong>사소한 혜택 (1회 사용)</strong> 아스모데우스는 당신의 조작 재능에 만족하여 당신의 기술을 증폭시킵니다. 한 번, 외교 체크에서 중요하거나 결과적인 @UUID[전서.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{요청}에 실패하면, @UUID[전서]를 시전할 수 있습니다.pf2e.spells-srd.Item.qwlh6aDgi86U3Q7H]{제안}을 @UUID[전서.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{요청}의 대상에게 사용하여 동일한 행동 방침을 제안할 수 있습니다. 이것은 신성한 타고난 주문입니다.</p>",
+            "name": "아스모데우스 - 사소한 혜택"
+        },
+        "Gozreh - Minor Curse": {
+            "description": "<p><strong>사소한 저주</strong> 번개가 두 번 치기 시작합니다. 전기 공격에 5의 약점을 얻고, 자연 또는 마법 번개는 항상 주변의 다른 생물이 아닌 자신을 대상으로 합니다.</p>",
+            "name": "고즈레 - 사소한 저주"
+        },
+        "Pharasma - Major Boon": {
+            "name": "파라즈마 - 큰 혜택",
+            "description": "<p><strong>메이저 분</strong> 파라스마는 당신의 운명을 완수하기 위해 당신을 살아있게 합니다.</p>\n<p>GM은 파라스마가 당신이 반드시 완수해야 하는 운명을 몰래 선택합니다. 이 운명을 완수하기 전까지는 죽을 때마다 치명적이지 않은 중한 불행이 대신 닥칩니다.</p>\n<p>회복하는 데 최소 하루가 걸리고 영구적인 결과에 직면할 수 있지만, 죽지는 않습니다. 이 혜택이 없었다면 단 한 번이라도 죽었을 것이라면, 운명이 끝나면 마지막 한숨을 내쉬고 평화롭게 죽어감.</p>"
+        },
+        "Kurgess - Moderate Curse": {
+            "name": "쿠르게스 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 커게스의 불만이 당신의 경쟁 우위를 부러뜨려 성공의 정점에서 실패하게 만듭니다. 체크 결과가 DC와 정확히 같으면 성공하는 대신 실패합니다.</p>"
+        },
+        "Sivanah - Moderate Curse": {
+            "name": "시바나 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 다른 사람의 비밀을 배신한 사람은 자신의 비밀이 드러납니다. 비밀을 숨기고 있는 사람은 즉시 그 사람과 관련된 비밀 중 하나를 알게 됩니다. 이 저주는 다른 사람의 비밀은 알려주지 않고 자신의 비밀만 알려줍니다.</p>"
+        },
+        "Ghlaunder - Minor Curse": {
+            "name": "세탁 - 사소한 저주",
+            "description": "<p><strong>사소한 저주:</strong> 세탁소가 자신의 생명력을 흡수됨. 플레이어는 @UUID[전서.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{흡수됨 1}이 되어 흡수된 상태를 1 이하로 낮출 수 없습니다.</p>"
+        },
+        "Grandmother Spider - Minor Boon": {
+            "description": "<p><strong>사소한 혜택:</strong> 거미 할머니가 당신의 장난을 실패의 문턱에서 구해줍니다. 한 번, 속임수 체크에 실패할 때 대신 치명적으로 성공할 수 있습니다. 거미 할머니는 일반적으로 재미있거나 결과적인 장난에 필요한 속임수에 대해 이 혜택을 부여합니다.</p>",
+            "name": "할머니 거미 - 사소한 혜택"
+        },
+        "Kazutal - Minor Curse": {
+            "name": "카즈탈 - 사소한 저주",
+            "description": "<p><strong>사소한 저주:</strong> 커뮤니티 여론이 당신에게 등을 돌립니다. 평소에는 무관심하던 커뮤니티의 휴머노이드가 불친절한 태도를 보이기 시작합니다.</p>"
+        },
+        "Calistria - Major Curse": {
+            "name": "칼리스트리아 - 주요 저주",
+            "description": "<p><strong>주요 저주</strong> 당신은 스스로 복수를 할 수 없는 자들에게 잘못을 저질렀고, 칼리스트리아의 저주는 그들의 복수에 생명을 부여합니다.</p>\n<p>다른 생물이 플레이어에게 복수를 상상하지만 플레이어가 너무 강하거나, 인맥이 두텁거나, 기타 이유로 복수를 실행할 수 없을 때마다 플레이어와 비슷한 레벨의 생물이 상상 속에서 나타나 원하는 복수를 수행합니다.</p>\n<p>복수가 완료되거나 소환된 생물이 파괴되면 소환된 생물이 존재에서 사라져 버립니다.</p>"
+        },
+        "Brigh - Major Boon": {
+            "description": "<p><strong>주요 혜택:</strong> 브리그가 선택한 자신보다 최소 1레벨 낮은 충성스러운 건설물 아군을 동료로 삼을 수 있습니다. 건설물이 파괴되면 일주일에 걸쳐 재건되며, 레벨이 올라갈수록 건설물이 업그레이드되고 향상되어 더욱 강력해집니다.</p>",
+            "name": "Brigh - 주요 혜택"
+        },
+        "Erastil - Major Boon": {
+            "name": "에라스틸 - 큰 혜택",
+            "description": "<p><strong>메이저 분</strong> 대지의 친절함이 됩니다. 신성한 타고난 주문으로 @UUID[전서.pf2e.spells-srd.Item.qvwIwJ9QBihy8R0t]{식물과 대화}를 시전할 수 있습니다.</p>\n<p>건강한 자연 환경에 있을 때, 대지는 음식이나 음료가 필요 없이 당신을 지탱합니다.</p>\n<p>@UUID[전서.pf2e.spells-srd.Item.7을 시전할 수 있습니다.DN13ILADW2N9Z1t]{커뮤니뮨} 의식을 보조 시전자나 보조 체크 없이 시전할 수 있습니다.</p>"
+        },
+        "Kurgess - Major Boon": {
+            "description": "<p><strong>메이저 분:</strong> 진정한 챔피언의 힘을 지니고 있습니다. 육상 체크에서 대실패가 나오면 대신 실패를, 성공이 나오면 대신 대성공을 얻습니다.</p>",
+            "name": "쿠르게스 - 주요 혜택"
+        },
+        "Alseta - Minor Boon": {
+            "description": "<p><strong>사소한 혜택:</strong> 알세타의 인도하는 손이 여러분의 여정을 도와줍니다. 순간이동 마법을 사용할 때 한 번, @UUID[전서.pf2e.spells-srd.Item.5bTt2CvYHPvaR7QQ]{평면간 순간이동}처럼 악명 높은 부정확한 주문을 사용하더라도 목표물에 정확히 나타납니다. 알세타는 일반적으로 매우 중요한 마법 여행, 특히 시간이 급할 때 이 혜택을 부여합니다.</p>",
+            "name": "알세타 - 사소한 혜택"
+        },
+        "Tsukiyo - Moderate Boon": {
+            "name": "츠키요 - 보통 혜택",
+            "description": "<p><strong>보통의 혜택:</strong> 츠키요가 당신을 지켜보며 당신의 잠을 지켜줍니다. 어떤 조건에서 잠을 자든 평화로운 밤의 휴식을 보장받습니다. 악몽이나 이와 유사한 능력도 신, 유물 또는 이와 유사한 강력한 원천에서 나온 것이 아니라면 수면을 방해할 수 없습니다.</p>"
+        },
+        "Erastil - Moderate Boon": {
+            "description": "<p><strong>보통 혜택</strong> 에라스틸의 예리한 눈을 공유하여 어떤 상황에서도 장궁을 사용할 수 있습니다.</p>\n<p>장궁으로 공격할 때 장궁의 발리 특성을 무시할 수 있으며, 장궁의 사거리가 일반 사거리의 두 배로 증가합니다.</p>",
+            "name": "에라스틸 - 보통 혜택"
+        },
+        "Groetus - Minor Curse": {
+            "description": "<p><strong>사소한 저주:</strong> 자연광이 아닌 다른 광원에 비춰질 때마다 머리가 해골로 보입니다. 회복 체크의 DC는 10 + 죽어감의 수치가 아닌 12 + 자신의 죽어감의 수치이며, @UUID[Compendium.pf2e.feats-srd.Item.AmP0qu7c5dlBSath]{강인함} 재주와 같이 DC를 감소시키는 효과의 혜택을 받지 못합니다.</p>",
+            "name": "그로투스 - 사소한 저주"
+        },
+        "Kazutal - Major Curse": {
+            "name": "카즈탈 - 주요 저주",
+            "description": "<p><strong>주요 저주:</strong> 생존을 위해 다른 사람에게 의존해야 하는 저주를 받았습니다. 장비나 마법 아이템을 정당하게 소유한 사람이 기꺼이 주지 않는 한 아무것도 먹거나 마시거나 사용할 수 없습니다. 아군이 다른 사람의 시체에서 장비를 벗겨서 기꺼이 당신에게 주는 등의 해결 방법은 자동으로 실패합니다.</p>"
+        },
+        "Tsukiyo - Major Curse": {
+            "name": "츠키요 - 주요 저주",
+            "description": "<p><strong>주요 저주:</strong> 츠키요가 인내심을 잃으면 다른 사람의 고통을 직접 경험하게 합니다. 다른 생명체를 만지거나 다른 생명체가 자신을 만질 때마다 즉시 그 생명체가 겪고 있는 부정적인 저주, 질병, 상태를 얻습니다. 이러한 효과는 다른 생물이나 생물이 자신에게 @UUID[전서.pf2e.actionspf2e.Item.VjxZFuUXrCU94MWR]{스트라이크}를 가했을 때도 자신에게 퍼집니다.</p>"
+        },
+        "Besmara - Moderate Curse": {
+            "description": "<p><strong>보통 저주:</strong> 바다를 볼 수 있거나 바다에서 배를 타고 있을 때마다 뱃멀미를 일으켜 @UUID[전서.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{병든 2}가 됩니다. 이 상태는 더 이상 바다를 볼 수 없거나 배에서 내릴 때까지는 완화되지 않지만, 항해에서 생존할 수 있을 정도의 음식과 물은 극심한 불편함을 감수하고도 섭취할 수 있습니다.</p>",
+            "name": "베스마라 - 보통 저주"
+        },
+        "Zon-Kuthon - Major Curse": {
+            "name": "존쿠톤 - 주요 저주",
+            "description": "<p><strong>주요 저주</strong> 존쿠톤이 당신의 기쁨을 빼앗아 고통만 남깁니다.</p>\n<p>당신은 가장 소중히 여기는 것을 영원히 잃고 기쁨을 느끼는 능력을 잃게 됩니다. 긍정적인 감정에 기반한 감정 효과의 이점을 얻을 수 없습니다.</p>\n<p>존쿠톤은 한때 가장 소중히 여겼던 것을 포기하거나, 파괴하거나, 훼손하거나, 고문할 준비가 되었다고 판단되면 이를 허용하기 위해 그것을 돌려줄 수 있습니다.</p>"
+        },
+        "Nivi Rhombodazzle - Moderate Curse": {
+            "description": "<p><strong>보통 저주:</strong> 니비의 분노를 불러일으킨 자는 숨을 곳도 없이 지상에 묶이게 됩니다. 지속적으로 @UUID[전서.pf2e.spells-srd.Item.HRb2doyaLtaoCfi3]{페어리 불}에 휩싸이고 @UUID[전서.pf2e.spells-srd의 영향을 지속적으로 받습니다.Item.gPvtmKMRpg9I9D7H]{대지결속}을 부여하는 모든 효과와 @UUID[전서.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{보이지 않음}을 부여하는 효과는 자신에게 적용되지 않습니다.</p>",
+            "name": "니비 롬보다즐 - 보통 저주"
+        },
+        "Urgathoa - Minor Curse": {
+            "description": "<p><strong>사소한 저주</strong> 금지된 음식을 과식하거나 탐닉해야만 포만감을 느낄 수 있습니다.</p>\n<p>아무리 많이 먹어도 항상 허기를 느끼지만 굶주림을 피하려면 평소보다 20배의 음식을 먹어야 합니다.</p>\n<p>영리한 동물의 살과 피를 먹으면 정상적인 식사량만 먹으면 배고픔이 사라집니다.</p>",
+            "name": "우르가토아 - 사소한 저주"
+        },
+        "Casandalee - Major Curse": {
+            "description": "<p><strong>중대한 저주:</strong> 영혼의 암호는 끊임없이 다시 쓰여지고 있으며, 더 나은 방향으로 쓰여지지는 않습니다. 해로운 영향에 일시적으로 면역이 되는 일은 없습니다.</p>",
+            "name": "카산달리 - 주요 저주"
+        },
+        "Shizuru - Moderate Curse": {
+            "name": "시즈루 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 시즈루가 자신의 빛이 더 이상 당신의 동맹이 아니라고 선언합니다. 전서.pf2e.괴물 도감-능력-용어집-srd.Item.I0HYG0ctCLP5JRsW]{빛의 실명}을 얻습니다.</p>"
+        },
+        "Ghlaunder - Major Boon": {
+            "name": "세탁 - 주요 혜택",
+            "description": "<p><strong>메이저 분:</strong> 글레이더는 추종자에게 질병을 안전하게 전파하는 능력을 보상으로 주거나, 간혹 자신을 기쁘게 하는 절박한 청원자에게는 휴식을 제공합니다. 글레이더가 이 혜택을 철회하지 않는 한, 감염된 질병으로 인한 부정적인 영향을 받지 않습니다.</p>"
+        },
+        "Gruhastha - Minor Curse": {
+            "description": "<p><strong>사소한 저주:</strong> 진실에서 벗어날 때마다 불협화음이 말을 방해하는 것처럼 들립니다. 모든 속임수 체크에서 -2 상태 패널티를 받습니다.</p>",
+            "name": "그루하스타 - 사소한 저주"
+        },
+        "Desna - Minor Boon": {
+            "name": "데스나 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택 (1회 사용)</strong> 여정의 끝자락에서 데스나가 깊은 잠을 선물합니다.</p>\n<p>휴식을 취하면 모든 HP가 완전히 회복되고 모든 부정적인 조건이 제거되며 저주나 질병으로부터 자유로워집니다.</p>"
+        },
+        "Lamashtu - Minor Boon": {
+            "description": "<p><strong>사소한 혜택</strong> 라마슈투의 손길이 몸의 일부를 돌연변이시킵니다.</p>\n<p>1d6 피해를 주는 비무장 타격 또는 1d4 피해를 주는 기교와 기민한 특성을 지닌 비무장 타격 중 하나를 얻습니다.</p>\n<p>공격이 둔기, 베기, 관통 중 어떤 피해를 주는지에 따라 돌연변이가 달라집니다.</p>\n<p>비무장 타격으로 사지를 대체하더라도 돌연변이된 사지는 원래 기능으로 계속 사용할 수 있습니다. 라마슈투는 돌연변이의 형태와 기능을 선택합니다.</p>",
+            "name": "라마슈투 - 사소한 혜택"
+        },
+        "Tsukiyo - Major Boon": {
+            "description": "<p><strong>주요 혜택:</strong> 츠키요는 자신의 본성을 일부 공유하며, 자신이 걸어온 길을 따라 호의적인 영혼을 다시 인도할 수 있습니다. 다음 번에 죽어감으로써 즉시 완전한 건강 상태로 회복되고 모든 부정적인 상태를 잃게 됩니다.</p>",
+            "name": "츠키요 - 주요 혜택"
+        },
+        "Norgorber - Major Boon": {
+            "description": "<p><strong>메이저 분</strong> 당신은 살아있는 비밀이 됩니다. 신, 유물 또는 이와 유사한 강력한 원천에서 비롯된 것이 아니라면 점술 효과와 기억을 마술처럼 바꾸려는 시도에 면역이 됩니다. 또한 평범한 방법으로 속이거나 강제로 지키고 싶은 비밀을 말하도록 강요당할 수 없습니다.</p>",
+            "name": "노르고버 - 주요 혜택"
+        },
+        "Milani - Moderate Boon": {
+            "description": "<p><strong>보통의 혜택:</strong> 방패를 사용하여 다른 사람을 보호할 때 방패에 날카로운 가시가 가득한 장미가 피어납니다. 전제 조건을 충족하지 않아도 방패 수호자(투사)} 재주를 획득합니다(전서.pf2e.feats-srd.Item.5vXc2s2siR1ihpBT). 해당 재주를 이미 보유하고 있는 경우, 방패가 아군을 방어하다가 근접 공격으로 피해를 받으면 공격자는 방패 경도의 절반만큼 관통 피해를 받습니다.</p>",
+            "name": "밀라니 - 보통 혜택"
+        },
+        "Irori - Moderate Curse": {
+            "description": "<p>이로리는 자신을 완성하기 위해 역경에 적응하도록 도전합니다. 플레이어는 이로리가 선택한 어려운 과제를 완수할 때까지 무거운 역기를 든 것처럼 짓눌려 @UUID[전서.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{서투른 2} 및 @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{방해받은}이 되어버리고 맙니다.</p>",
+            "name": "이로리 - 보통 저주"
+        },
+        "Sarenrae - Moderate Curse": {
+            "description": "<p><strong>보통 저주</strong> 태양은 당신이 말하는 모든 것에 빛을 비춥니다.</p>\n<p>당신은 @UUID[전서.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{ 거짓말}을 할 수 없게 되고, 그렇게 하려고 하면 문제의 문제에 대해 강박적으로 진실을 숨기게 됩니다. 귀하는 여전히 정보를 숨기거나 누락하여 거짓말을 할 수 있습니다.</p>",
+            "name": "사렌래 - 보통 저주"
+        },
+        "Iomedae - Major Curse": {
+            "name": "이오메대 - 주요 저주",
+            "description": "<p><strong>주요 저주</strong> 모든 칼날이 당신의 사악한 마음을 거부합니다.</p>\n<p>당신이 휘두르는 모든 무기는 당신이 공격하면 자동으로 부러집니다. 이 저주는 유물이나 이와 유사한 강력한 무기는 부러지지 않습니다.</p>"
+        },
+        "Chaldira - Moderate Curse": {
+            "name": "칼디라 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 행운이 가장 필요할 때 불운에 시달립니다. 항상 플랫 체크를 두 번 굴려서 더 나쁜 결과를 사용해야 합니다. 이것은 불행 효과입니다.</p>"
+        },
+        "Kurgess - Moderate Boon": {
+            "description": "<p><strong>보통의 혜택:</strong> 고생을 두려워하지 않습니다. 탐험 전술을 정상적으로 사용할 수 있으며, @UUID[전서.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{피곤함} 상태에서 사용할 수 있습니다.</p>",
+            "name": "쿠르게스 - 보통 혜택"
+        },
+        "Achaekek - Major Boon": {
+            "description": "<p><strong>메이저 분:</strong> 죽음이 바로 당신의 칼날에 깃들어 있습니다. 도적의 클래스 재주인 {잠입 공격}을 획득하여 정밀 공격력 3d6만큼 피해를 줍니다. 이미 해당 클래스 재주를 보유하고 있다면, 잠입 공격력이 3d6만큼 증가합니다.</p>",
+            "name": "아카젝 - 주요 혜택"
+        },
+        "Gruhastha - Minor Boon": {
+            "name": "그루하스타 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택:</strong> 책을 펼치면 통찰력 있는 구절이 나오고, 가장 필요할 때 기억이 떠오릅니다. 한 번, 지식 회상 체크에 실패하면 대신 치명적인 성공을 거둡니다. 그루하스타는 일반적으로 잘못된 정보로 인해 끔찍한 결과를 초래할 수 있는 매우 중요한 지식 회상 시도에 대해 이 혜택을 부여합니다.</p>"
+        },
+        "Irori - Minor Curse": {
+            "name": "이로리 - 사소한 저주",
+            "description": "<p>이로리는 망치가 있다고 해서 모든 문제를 못으로 처리하지 말고 다른 길을 찾으라고 도전합니다. 예를 들어, 속임수를 @UUID[전서.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{Lie}에 사용하는 등 다른 방법이 상황에 더 적합했을 때 보너스가 더 높은 체크를 선택한 경우, 외교를 통해 타협을 하는 것이 더 낫더라도 두 번 굴려서 낮은 결과를 가져가야 합니다.</p>"
+        },
+        "Shelyn - Minor Curse": {
+            "name": "쉴린 - 사소한 저주",
+            "description": "<p><strong>사소한 저주</strong> 양심의 가책으로 마음이 휘청거립니다. 매일 특정 잘못이 마음속에서 죄책감으로 반복해서 재생되면서 당신은 @UUID[전서.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{병든 1}입니다.</p>\n<p>이 상태는 필요할 때 빠르게 먹고 마실 수 있을 정도로 완화되지만, 제거할 수는 없습니다. 잘못을 뉘우치거나 다른 방법으로 진지하게 잘못을 뉘우치면 @UUID[전서.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{병든} 조건은 그 날 완전히 사라집니다.</p>"
+        },
+        "Chaldira - Moderate Boon": {
+            "description": "<p><strong>보통 혜택:</strong> 행운의 성급함을 얻어 하루에 한 번씩 우선권을 위해 두 번 굴리고 더 높은 결과를 사용할 수 있습니다. 이것은 행운 효과입니다.</p>",
+            "name": "칼디라 - 보통 혜택"
+        },
+        "Shizuru - Major Curse": {
+            "description": "<p><strong>주요 저주:</strong> 시즈루의 개인적인 분노를 불러일으키는 자는 모든 신하들의 증오를 받습니다. 인카운터하는 모든 제국의 용과 동물은 자동으로 적대적이며, 드라코닉 브레스 무기에 대한 약점이 15 증가합니다.</p>",
+            "name": "시즈루 - 주요 저주"
+        },
+        "Nethys - Moderate Curse": {
+            "description": "<p><strong>보통 저주</strong> 네티스의 결투처럼 마법이 자신과의 전쟁을 벌입니다. 주문을 시전할 때마다 @Check[type:flat|dc:11]을 시도합니다.</p>\n<p>주문이 해로웠다면 대신 같은 등급의 이로운 주문을 대상에게 시전하고, 이로운 주문이었다면 대신 같은 등급의 해로운 주문을 대상에게 시전합니다.</p>\n<p>주문이 일부 대상에게는 이득이 되고 다른 대상에게는 해가 되었다면, 같은 등급의 주문을 시전하여 수혜 대상을 바꿉니다(예: 언데드를 치유하고 산 자를 치유하는 치유 주문을 언데드를 치유하고 산 자를 해치는 해로 변경).</p>\n<p>그래도 시전하려던 주문의 주문 슬롯은 잃게 됩니다.</p>",
+            "name": "네티스 - 보통 저주"
+        },
+        "Nivi Rhombodazzle - Minor Boon": {
+            "name": "니비 롬보다즐 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택:</strong> 니비의 신뢰를 얻은 사람은 최악의 상황에서도 운이 따르는 축복을 받습니다. 한 번, 평소에 굴리던 체크 대신 @체크[유형:플랫|DC:11]을 시도하여 동일한 결과를 얻습니다. 니비는 항상 자신에게 불리한 확률이 중첩될 때 이 혜택을 부여합니다(단, 성공 가능성이 매우 높은 체크에 이 효과를 사용하면 니비의 사소한 저주를 대체할 수 있습니다).</p>"
+        },
+        "Abadar - Moderate Boon": {
+            "description": "<p><strong>보통 혜택</strong> 아바다르가 모든 사업을 축복하여 모든 사업이 항상 잘 풀려 금전적인 성공을 거두게 합니다.</p>\n<p>@UUID[전서.pf2e.actionspf2e.Item]으로 체크에서 대실패를 굴리면 대신 실패를 얻습니다.QyzlsLrqM0EEwd7j]{수입 획득}으로 수표를 굴리면 대신 실패를 얻습니다.</p>\n<p>@UUID[전서.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{수입 획득}으로 수표에 성공하면 평소 수입의 두 배를 얻습니다.</p>",
+            "name": "아바다르 - 보통 혜택"
+        },
+        "Asmodeus - Major Curse": {
+            "name": "아스모데우스 - 주요 저주",
+            "description": "<p><strong>주요 저주</strong> 아스모데우스가 당신이 일으킨 혼란에 주목했습니다. 시간보다 더 오래된 듯한 고대의 부상입은 상처를 받았습니다. 영구적으로 @UUID[전서.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{흡수됨 4}가 되며, 다른 중보기도를 하지 않으면 이 상태를 제거할 수 없습니다.</p>\n<p>특히 혼란스러운 행동을 할 때마다 상처가 심하게 아파서 @UUID[전서.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{병든 1}이 되어버립니다.</p>"
+        },
+        "Shelyn - Major Boon": {
+            "description": "<p><strong>주요 혜택</strong> 당신의 내면의 아름다움과 사랑이 당신을 아우라로 둘러싸고 있습니다.</p>\n<p>당신이 그들에게 악의를 품지 않는 한, 악마, 언데드 및 무의미한 생물을 제외한 모든 생물은 대신 유용한 것이 아니라면 당신에게 친절함의 태도로 시작합니다. 그렇다고 해서 그들이 당신을 위해 자신의 삶이나 계획을 바꿀 의지가 있다는 뜻은 아니며, 이 혜택은 당신이 그들을 방해하려고 해도 그들의 태도가 악화되는 것을 막지 못합니다. 이 효과는 신이나 이와 유사한 강력한 생명체에게는 적용되지 않습니다.</p>\n<p>또한, 친구와 나누는 사랑은 그들에게 영감을 줍니다. 나와 아군은 서로를 볼 수 있는 한 내성 굴림과 기술 체크에 +3 상태 보너스를 받습니다.</p>",
+            "name": "쉴린 - 주요 혜택"
+        },
+        "Gorum - Major Boon": {
+            "name": "고룸 - 주요 혜택",
+            "description": "<p><strong>주요 혜택</strong> 고룸이 불멸의 전사의 열정을 불어넣어 쓰러지지 않고 계속 싸울 수 있도록 자신의 생명력을 끌어올려 줍니다.</p>\n<p>명중률이 0으로 감소할 때마다 대신 최대 명중률의 절반까지 회복되고 @UUID[전서.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{파멸 1}(또는 파멸 상태가 1 증가)이 됩니다.</p>"
+        },
+        "Ghlaunder - Moderate Curse": {
+            "description": "<p><strong>보통 저주:</strong> 세탁소가 피처럼 쉽게 기력을 빨아들입니다. 인내 내성에 실패할 때마다 다른 모든 효과와 함께 @UUID[전서.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{피곤함}이 됩니다.</p>",
+            "name": "세탁 - 보통 저주"
+        },
+        "Gozreh - Major Curse": {
+            "description": "<p><strong>주요 저주</strong> 고즈레를 불쾌하게 하는 자는 자연 자체로부터 기피당합니다.</p>\n<p>모든 동물과 영리하지 않은 식물 생명체는 당신에게 적대적이며, 동물의 동반자나 패밀리어는 당신을 버립니다.</p>\n<p>지각이 있는 식물은 플레이어의 무언가를 혐오스럽게 여기기 때문에 플레이어에 대한 태도가 평소보다 두 가지로 악화됩니다.</p>\n<p>식물과 동물은 적대적일 때 본능적으로 공격하지는 않지만, 개는 플레이어를 향해 으르렁거리고 고양이는 쉿하는 등의 행동을 합니다.</p>",
+            "name": "고즈레 - 주요 저주"
+        },
+        "Desna - Major Boon": {
+            "description": "<p><strong>주요 혜택</strong> 데스나가 소용돌이치는 빛의 구름을 부여하여 한 쌍의 멋진 나비 날개를 만들어 줍니다. 이 날개를 사용하면 40피트 속력으로 20피트 범위까지 희미한 빛을 비추며 비행할 수 있는 @UUID[전서.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{비행}이 부여됩니다.</p>",
+            "name": "데스나 - 주요 혜택"
+        },
+        "Arazni - Minor Curse": {
+            "name": "아라즈니 - 사소한 저주",
+            "description": "<p><strong>사소한 저주:</strong> 자신이 잘못을 저지른 누군가가 @UUID[전서.pf2e.주문-srd.아이템.7DN13ILADW2N9Z1t]{교감} 의식의 대성공 효과로 자신에 대해 원하는 정보를 얻게 됩니다.</p>"
+        },
+        "Sivanah - Major Boon": {
+            "name": "시바나 - 주요 혜택",
+            "description": "<p><strong>주요 혜택:</strong> 환영을 더 넓은 영역에 퍼뜨립니다. 신기루}의 효과를 영구적으로 얻을 수 있는 영역을 지정할 수 있습니다[전서.pf2e.spells-srd.Item.HBJPsonQnWcC3qdX]{신기루}. 이 영역 내의 모든 생물이 환영 변장의 효과를 얻고 원하는 대로 형태를 변경합니다. 새로운 영역을 1분 활동으로 지정할 수 있지만, 그렇게 하면 이전에 지정한 영역은 모두 해제됩니다.</p>"
+        },
+        "Zon-Kuthon - Moderate Curse": {
+            "name": "존쿠톤 - 보통 저주",
+            "description": "<p><strong>보통 저주</strong> 타인의 고통을 공유하며, 사소한 부상입은 것에도 엄청난 고통을 느낍니다.</p>\n<p>생물이 피해를 입는 것을 보거나 감지할 때마다 @Damage[1d6[정신]] 피해를 받습니다.</p>\n<p>이 저주의 첫 번째가 아닌 다른 방식으로 피해를 받을 때마다, 플레이어는 고통 증가에 따른 @Damage[1d6[정신]] 피해를 받고 @UUID[전서.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{병든 1}이 됩니다. 이 저주로 인한 정신 피해는 정신 피해에 대한 저항을 무시합니다.</p>"
+        },
+        "Groetus - Moderate Boon": {
+            "description": "<p><strong>보통 혜택:</strong> 그로터스는 종말을 앞당길 수 있는 지식을 부여합니다. 그는 매주 다음 주에 일어날 종말의 중요한 사건에 대한 암호 같고 일관성 없는 메시지를 보내줍니다.</p>",
+            "name": "그로투스 - 보통 혜택"
+        },
+        "Sivanah - Moderate Boon": {
+            "description": "<p><strong>보통의 혜택:</strong> 어디를 가든 환영의 베일을 착용합니다. 타고난 신성한 주문으로 @UUID[전서.pf2e.spells-srd.Item.i35dpZFI7jZcRoBo]{환상의 변장}을 마음대로 시전할 수 있습니다.</p>",
+            "name": "시바나 - 보통 혜택"
+        },
+        "Nocticula - Minor Boon": {
+            "name": "녹티큘라 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택:</strong> 밤하늘은 특별한 방식으로 영감을 줍니다. 한 번, 밤하늘 아래에서 제작 또는 성능 체크에서 실패를 굴리면 대신 대성공합니다. 녹티큘라는 일반적으로 결과적인 작품이나 공연에 대해 이 혜택을 부여합니다.</p>"
+        },
+        "Arazni - Major Boon": {
+            "description": "<p><strong>주요 혜택:</strong> 사망 시, @UUID[전서.pf2e.spells-srd.Item.kqhPt9344UkcGVYO]{부활} 의식의 대성공 효과로 부활하여 죽인 자에 대한 복수를 실행할 수 있습니다. 복수에 성공했거나, 다른 일을 위해 복수를 포기하거나, 완전히 실패하면 주홍빛 먼지가 되어 쓰러집니다.</p>",
+            "name": "아라즈니 - 주요 혜택"
+        },
+        "Hei Feng - Major Boon": {
+            "name": "헤이 펑 - 주요 혜택",
+            "description": "<p><strong>메이저 분:</strong> 폭풍의 악기가 당신을 폭풍의 분노로부터 보호해줍니다. 강수량과 바람으로 인한 모든 효과와 불이익을 무시하고 안개, 비, 기타 기상 조건 속에서도 정상적으로 시야를 확보할 수 있습니다.</p>"
+        },
+        "Pharasma - Major Curse": {
+            "description": "<p><strong>주요 저주</strong> 파라스마가 당신의 삶과 혈통의 종말을 의지합니다. 아이를 가질 수 없게 되며(생성 생성 능력을 포함한 어떤 방법으로도 번식할 수 없습니다), 영구적으로 @UUID[전서.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{파멸 2}가 됩니다.</p>",
+            "name": "파라스마 - 주요 저주"
+        },
+        "Gruhastha - Moderate Boon": {
+            "name": "그루하스타 - 보통 혜택",
+            "description": "<p><strong>보통 혜택:</strong> 수호자가 새로운 재능을 배우는 속도가 빨라집니다. 선택한 두 가지 기술을 추가로 영구적으로 훈련받게 됩니다. 또한, 이미 훈련된 기술을 선택하면 일반적인 기술 증가 규칙에 따라 해당 기술의 숙련도 등급을 영구적으로 높일 수 있습니다.</p>"
+        },
+        "Norgorber - Major Curse": {
+            "description": "<p><strong>주요 저주 (매일)</strong> 노르고르버가 당신의 기억을 훔쳐갑니다.</p>\n<p>매일 잠에서 깨어났을 때 한 번씩 1d4를 굴립니다.</p>\n<p>1이면 전날의 사건을 영원히 잊습니다.</p>\n<p>2이면 일시적으로 그날의 완전한 역행성 기억상실을 경험하여 자신이 누구인지 등 과거의 정보를 기억할 수 없습니다.</p>\n<p>3은 그날의 중요한 주제 하나를 일시적으로 잊어버리는 경우입니다(노고버는 기념일에 배우자를 잊어버리는 등 의도적으로 고통을 유발하기 위해 기억을 선택하는 경향이 있습니다).</p>\n<p>4는 그날의 중요한 주제 하나에 대한 거짓 기억이 실제 기억과 자연스럽게 섞여 일시적으로 기억되는 경우입니다.</p>",
+            "name": "노르고르버 - 주요 저주"
+        },
+        "Torag - Moderate Curse": {
+            "description": "<p><strong>보통 저주</strong> 직접 제작한 장비로 제작 기술을 증명해야 합니다.</p>\n<p>직접 제작한 아이템으로만 아이템 보너스를 얻을 수 있습니다.</p>",
+            "name": "토라그 - 보통 저주"
+        },
+        "Abadar - Moderate Curse": {
+            "name": "아바다르 - 보통 저주",
+            "description": "<p><strong>보통 저주</strong> 아바다르가 모든 기업을 저주하여 모든 벤처가 항상 실패하는 것처럼 보이므로 재정적 재앙으로 이어집니다. @UUID[전서.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{수입 획득}에 체크한 결과는 항상 롤링한 것보다 한 단계 낮은 성공률입니다.</p>"
+        },
+        "Kazutal - Major Boon": {
+            "description": "<p><strong>소령 분:</strong> 카주탈은 아무리 온순하고 무력한 자라도 도움을 주려는 자에게 미소를 짓습니다. 생물이 @UUID[전서.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{원조}에게 체크를 시도할 때마다, 자동으로 성공하도록 선택할 수 있습니다. 시도를 선택한 생물이 주사위를 굴려 성공하면, 대신 대성공을 거두며 해당 기술에 전설적 숙련도가 없더라도 +4의 상황 보너스를 받습니다. 다른 생명체를 도와주려고 시도할 때도 같은 혜택을 얻습니다.</p>",
+            "name": "카즈탈 - 주요 혜택"
+        },
+        "Groetus - Major Boon": {
+            "name": "그로투스 - 주요 혜택",
+            "description": "<p><strong>메이저 분:</strong> 당신의 손길은 그로터스의 계산에 따라 정해진 시간이 지나도 살아남은 것들을 풀어냅니다. 해당 생물 또는 물체는 계속 만질 때마다 매 라운드마다 @피해[10d6[공허]] 피해를 입으며, 이 피해는 모든 경도를 무시하고 무생물, 공허 효과에 면역인 생물, 심지어 공허 치유가 있는 언데드나 다른 생물까지 파괴할 수 있습니다. 이 효과는 시간이 지나도 살아남은 일부 유물도 파괴할 수 있습니다.</p>"
+        },
+        "Alseta - Major Boon": {
+            "name": "알세타 - 주요 혜택",
+            "description": "<p><strong>주요 혜택:</strong> 세계를 방해받지 않고 이동할 수 있습니다. 문이나 차원문이 잠겨 있거나 마법에 의해 봉인되어 있더라도 손바닥을 올려놓는 것만으로 @UUID[전서.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Interact} 액션 한 번으로 열 수 있으며, 마법에 의해 진입이 금지되어 있더라도 열린 문이나 문턱에 들어갈 수 있습니다. 하지만 유물, 신, 그리고 이와 유사한 강력한 효과의 자물쇠와 마법은 극복하지 못합니다.</p>"
+        },
+        "Rovagug - Minor Curse": {
+            "name": "로바구그 - 사소한 저주",
+            "description": "<p><strong>사소한 저주</strong> 감옥에 갇힐 때마다 절망으로 가득 찬 마음으로 몸부림치며 떨고 있습니다.</p>\n<p>감옥에 억류되거나 기타 감옥에 갇힐 때마다 (감옥에 보내지는 등) 당신도 @UUID[전서]가 됩니다.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{서투른 2} 및 @UUID[전서.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{어리둥절한 2}가 됩니다.</p>"
+        },
+        "Groetus - Moderate Curse": {
+            "name": "그로투스 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 현실 끝의 공포가 압도적으로 다가와 끊임없이 정신을 지배합니다. 영구적으로 @UUID[전서.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{어리둥절 2}가 됩니다.</p>"
+        },
+        "Grandmother Spider - Moderate Boon": {
+            "description": "<p><strong>보통의 혜택:</strong> 운명의 가닥을 잡아당기는 힘이 느껴집니다. 우선권 주사위 굴림에서 상태 보너스 +2를 얻습니다.</p>",
+            "name": "할머니 거미 - 보통 혜택"
+        },
+        "Brigh - Minor Boon": {
+            "name": "Brigh - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택:</strong> 지식이 머릿속에 넘쳐납니다. 한 번 실패한 기술 체크에서 지식 회상을 다시 시도할 수 있으며, 실패한 결과가 더 나쁘더라도 두 번째 결과를 사용해야 합니다.</p>"
+        },
+        "Groetus - Major Curse": {
+            "name": "그로투스 - 주요 저주",
+            "description": "<p><strong>주요 저주:</strong> 주변의 모든 것에 종말을 가져옵니다. 소지하거나 착용하는 모든 아이템이 자신에게 노출된 후 10분이 지나면 @UUID[전서.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{부러진} 상태가 되고, 1시간이 더 지나면 파괴됩니다. 이 효과는 비슷한 힘을 가진 유물이나 아이템을 파괴할 수 없습니다.</p>"
+        },
+        "Nethys - Minor Boon": {
+            "description": "<p><strong>사소한 혜택 (1회 사용)</strong> 네티스가 위기에 처한 플레이어를 돕기 위해 강력한 주문을 시전합니다.</p>\n<p>한 번, 네티스가 플레이어가 시전할 수 있는 가장 높은 등급의 주문보다 1등급 높은 주문을 시전합니다. 주문을 시전할 수 없는 경우, 네티스가 1등급 주문을 시전하여 도움을 줍니다.</p>",
+            "name": "네티스 - 사소한 혜택"
+        },
+        "Sivanah - Minor Boon": {
+            "description": "<p><strong>사소한 혜택:</strong> 시바나가 적들이 당신의 베일을 벗기지 못하도록 막아줍니다. 한 번, 적이 당신의 환영을 믿지 않기 위해 지각 체크에서 성공을 굴리면 대신 대실패가 발생합니다. 시바나는 일반적으로 정교하거나 결과적인 환영 속임수를 방어하기 위해 이 혜택을 부여하며, 해로운 환영의 효과를 강화하는 데는 절대 사용하지 않습니다.</p>",
+            "name": "시바나 - 사소한 혜택"
+        },
+        "Arazni - Minor Boon": {
+            "description": "<p><strong>사소한 혜택:</strong> 한 번, 자신의 의지에 반하는 액션을 강요하는 효과에 대한 내성 굴림에 실패하면 대신 치명타에 성공합니다. 아라즈니는 일반적으로 결과적인 액션이나 특히 심각한 자유 의지 위반에 대해 이 혜택을 부여합니다.</p>",
+            "name": "아라즈니 - 사소한 혜택"
+        },
+        "Chaldira - Major Boon": {
+            "name": "칼디라 - 주요 혜택",
+            "description": "<p><strong>주요 혜택:</strong> 칼디라의 주요 혜택은 전투에서 정말 믿을 수 없는 행운을 부여합니다. 당신의 움직임은 리액션을 트리거하지 않습니다. 공격 액션으로 상대를 공격하기 위해 시도하는 플랫 체크는 항상 성공하며, 이는 행운 효과입니다.</p>"
+        },
+        "Besmara - Major Curse": {
+            "description": "<p><strong>중대한 저주:</strong> 해적 여왕의 심기를 건드린 대가로 극심한 재정적 파탄을 맞이합니다. 베스마라의 요원들이 모든 전리품을 훔쳐서 베스마라의 함선 시래스로 가져갑니다. 잃어버린 재산을 되찾을 기회를 얻으려면 여신과 흥정하여 그녀가 제시하는 위험한 조건을 받아들여야 하는데, 보통 성공 여부를 지켜볼 만큼 충분히 재미있는 강도를 요구하거나 퀘스트에서 얻은 전리품과 이전 소유물을 교환하라는 등의 요구 조건이 있습니다.</p>",
+            "name": "베스마라 - 주요 저주"
+        },
+        "Milani - Major Boon": {
+            "description": "<p><strong>주요 혜택:</strong> 밀라니의 칙령 중 하나를 충족시키려고 시도하는 동안 요청 체크에 +4의 상태 보너스를 받습니다. 하루에 한 번, 30피트 범위 내의 생물에게 @UUID[전서.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]{자유 이동}의 효과를 부여하는 전투 함성을 울릴 수 있으며, 모든 문, 자물쇠, 용기, 기타 구속에 사용되는 모든 속박에 @UUID[전서.pf2e.spells-srd.Item.6의 효과로 영향을 주어 다른 생물을 억압하거나 감금할 수 있게 해 줍니다.Ot4N22t5tPD51BO]{노크} 주문.</p>",
+            "name": "밀라니 - 주요 혜택"
+        },
+        "Nocticula - Moderate Curse": {
+            "name": "녹티큘라 - 보통 저주",
+            "description": "<p><strong>중등도 저주:</strong> 자신의 기술에 대한 의심으로 괴로워합니다. 숙련도를 향상시키는 효과와 상관없이 제작, 성능, 기타 기술 한 가지(GM이 결정하지만 저주를 불러온 사건과 관련된 주제)는 항상 훈련되지 않은 상태입니다. 해당 기술은 재훈련할 수 없습니다.</p>"
+        },
+        "Ghlaunder - Moderate Boon": {
+            "name": "세탁 - 보통 혜택",
+            "description": "<p><strong>적당한 혜택:</strong> 세탁소는 적절한 때가 될 때까지 부패하고 감염시키며 시간을 끌도록 가르칩니다. 생물을 질병에 노출시키고 인내 내성에 성공하면, 치명타에 성공하지 않는 한 여전히 감염된 상태입니다. 그러나 이러한 생물은 일반적으로 빠르게 작용하는 질병이거나 다른 능력을 사용하여 질병을 진행시키더라도 처음 24시간 동안은 아무런 영향을 받지 않으며 질병이 진행되지 않습니다. 첫날에 감염을 감지하는 것은 매우 어려우며, 이를 감지하기 위한 의학 체크 DC는 5가 더 높습니다.</p>"
+        },
+        "Zon-Kuthon - Minor Boon": {
+            "description": "<p><strong>사소한 혜택 (1회 사용)</strong> 한밤의 군주가 자신의 피와 고통을 한밤의 어둠의 사슬로 바꿔 적을 파괴합니다.</p>\n<p>1분 동안 한 번, 베기, 관통, 출혈 피해를 받을 때마다 자신의 몸에서 사슬이 튀어나와 공격한 방향(출혈 피해의 경우 자신이 선택한 방향, 또는 자신이 피해를 준 경우)의 일렬로 있는 생물에게 영향을 주며 @UUID[서문] 효과를 부여합니다.pf2e.spells-srd.Item.k34hDOfIIMAxNL4a]{그림자 덩굴손} 주문의 레벨은 반올림한 레벨의 절반에 해당하고 주문 DC는 자신의 최고 주문 DC(또는 주문 DC가 없는 경우 10 + 자신의 레벨 + 지혜 수정치)입니다.</p>",
+            "name": "존쿠톤 - 사소한 혜택"
+        },
+        "Desna - Moderate Boon": {
+            "description": "<p><strong>보통 혜택 (매일)</strong> 데스나는 행운을 당신에게 유리하게 비틀어줍니다.</p>\n<p>하루에 한 번, 체크 결과를 확인한 후 수표를 다시 굴려 새로운 결과를 가져갈 수 있습니다.</p>",
+            "name": "데스나 - 보통 혜택"
+        },
+        "Lamashtu - Moderate Curse": {
+            "description": "<p><strong>보통 저주</strong> 라마슈투가 당신을 먹잇감으로 표시합니다.</p>\n<p>냄새가 정확하지 않거나 더 좋은 생명체는 평소 냄새의 100배 범위에서 당신을 냄새 맡을 수 있으며, 당신이 먹잇감 냄새를 풍긴다는 느낌을 떨칠 수 없기 때문에 평소에는 같은 조상의 생명체를 공격하지 않던 사람도 당신을 공격할 수 있습니다.</p>\n<p>이 냄새는 마술처럼 그들의 액션을 강제하지 않으며, 먹이의 냄새는 동물 동반자와의 깊은 유대감을 극복하지 못합니다.</p>",
+            "name": "라마슈투 - 보통 저주"
+        },
+        "Erastil - Major Curse": {
+            "name": "에라스틸 - 주요 저주",
+            "description": "<p><strong>주요 저주</strong> 에라스틸은 아이를 가질 수 없게 만듭니다(다른 방법으로 아이를 낳거나 번식할 경우). 이 저주는 가축, 애완동물, 농작물에도 영향을 미칩니다.</p>"
+        },
+        "Urgathoa - Major Curse": {
+            "description": "<p><strong>큰 저주</strong> 우르가토아는 죽음과 도덕의 노예가 된 무의미한 삶은 비극으로 끝날 수밖에 없다고 가르칩니다.</p>\n<p>불치병인 소모성 질병에 걸려 @UUID[전서.pf2e.conditionitems를 남깁니다.Item.i3OJZU2nk64Df3xm]{서투른} 2, @UUID[전서.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{약화됨 2}, @UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{크롤링} 외에는 움직일 수 없는 상태가 됩니다. 이 병은 더 이상 진행되어 플레이어를 죽이지는 않지만, 눈앞에서 친구나 사랑하는 사람에게 전염되어 눈앞에서 죽어가고 언데드로 부활하여 플레이어를 괴롭힙니다.</p>",
+            "name": "우르가토아 - 주요 저주"
+        },
+        "Nethys - Moderate Boon": {
+            "name": "네티스 - 보통 혜택",
+            "description": "<p><strong>보통 혜택 (1회 사용)</strong> 네티스는 마법의 비밀에 대한 통찰력을 부여합니다. 주문 목록에 다른 전통 마법의 주문 하나를 추가할 수 있습니다. 이 주문은 정상적으로 배우거나 목록에 추가해야 합니다.</p>"
+        },
+        "Lamashtu - Moderate Boon": {
+            "description": "<p><strong>보통 혜택(매일)</strong> 가는 곳마다 라마슈투의 악몽을 퍼뜨립니다. 신성한 타고난 주문으로 하루에 한 번 @UUID[전서.pf2e.spells-srd.Item.LiGbewa9pO0yjbsY]{혼란}을 시전할 수 있습니다.</p>",
+            "name": "라마슈투 - 보통 혜택"
+        },
+        "Calistria - Minor Boon": {
+            "name": "칼리스트리아 - 사소한 혜택",
+            "description": "<p><strong>사소한 혜택 (1회 사용)</strong> 칼리스트리아는 가장 위험한 속임수에도 미소를 짓습니다. 한 번, @UUID[전서.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{Lie}로 체크에 실패를 굴리면 대신 대성공을 얻습니다. 칼리스트리아는 일반적으로 매우 중대한 거짓말에 대해 이 혜택을 부여합니다.</p>"
+        },
+        "Pharasma - Minor Curse": {
+            "description": "<p><strong>사소한 저주</strong> 최후의 심판에 대한 끔찍하거나 유혹적인 환영이 당면한 임무에서 주의를 분산시킵니다. 우선권 주사위 굴림에서 -2 상태 페널티를 받습니다.</p>",
+            "name": "파라스마 - 사소한 저주"
+        },
+        "Rovagug - Moderate Curse": {
+            "description": "<p><strong>보통 저주</strong> 파괴적인 분노가 풀리지 않으려 합니다.</p>\n<p>착용하는 모든 방어구가 자동으로 @UUID[전서.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{부러진}이 됩니다. 소지하고 있는 다른 아이템은 시간이 지나면 가끔 @UUID[전서.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{부러진}이 됩니다.</p>",
+            "name": "로바구그 - 보통 저주"
+        },
+        "Gorum - Moderate Curse": {
+            "name": "고룸 - 보통 저주",
+            "description": "<p><strong>보통 저주</strong> 합당한 상대를 처치한 영광을 잃었습니다.</p>\n<p>모든 무기 및 비무장 공격의 피해 주사위가 한 단계 감소하고 모든 공격이 치명타가 되지 않습니다.</p>"
+        },
+        "Torag - Major Boon": {
+            "description": "<p><strong>주요 혜택</strong> 보초를 서거나 위치를 지키는 것도 휴식으로 간주되어 하루에 6시간 이상 보초를 서는 동안에는 휴식 부족으로 인해 @UUID[전서.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{피곤함} 상태가 되지 않습니다.</p>\n<p>다른 옵션과 더불어 보초를 서면 (있는 경우) 집중 포인트를 회복할 수 있습니다.</p>\n<p>보초를 서 있으면 매복이나 다른 위험이 다가오는 것을 알아차리는 지각에 +4 상태 보너스를 받습니다.</p>\n<p>방패를 들고 있는 동안에는 이동 속도의 절반으로 이동할 필요 없이 항상 방어 중이며, 다른 탐험 활동도 수행할 수 있습니다.</p>\n<p>방패를 사용하는 동안에는 방패의 경도가 5만큼 증가합니다.</p>",
+            "name": "토라그 - 주요 혜택"
+        },
+        "Zon-Kuthon - Major Boon": {
+            "name": "존쿠톤 - 주요 혜택",
+            "description": "<p><strong>주요 효과</strong> 주변의 그림자가 더 짙어집니다. 암흑 시야와 향상된 암흑 시야는 60피트 이내의 어둠을 투과할 수 없지만, 정상적으로 투과할 수 있습니다.</p>"
+        },
+        "Sivanah - Major Curse": {
+            "name": "시바나 - 주요 저주",
+            "description": "<p><strong>큰 저주:</strong> 거울을 통과할 때마다 거울이 부러집니다. 어떤 종류의 환영 마법으로도 은폐될 수 없으며(주문은 자동으로 실패합니다), 당신을 보는 모든 생명체가 당신의 정체를 알게 됩니다.</p>"
+        },
+        "Iomedae - Major Boon": {
+            "name": "이오메대 - 주요 혜택",
+            "description": "<p><strong>주요 혜택</strong> 이오메대는 검에 강력한 힘을 불어넣습니다.</p>\n<p>장검을 들고 있는 동안 @UUID[전서.pf2e.equipment-srd.Item.DH0kB9Wbr5pDeunX]{성스러운} 및 @UUID[전서.pf2e.equipment-srd.Item.woxl2FrrgAcJDu0t]{주격투} 룬을 획득할 수 있습니다. 이 속성 룬은 무기에 보유할 수 있는 룬 수에 포함되며, 무기가 한도를 초과할 경우 매일 준비할 때 보유할 룬을 선택합니다.</p>\n<p>장검으로 공격 시 상태 보너스가 +2 증가합니다.</p>"
+        },
+        "Hei Feng - Major Curse": {
+            "name": "헤이 펑 - 주요 저주",
+            "description": "<p><strong>큰 저주:</strong> 천둥 공작의 분노가 어디를 가든 당신을 따라다닙니다. 주변 500피트 반경의 날씨는 항상 폭풍우가 몰아칩니다. 바깥에 있을 때마다 대략 1분에 두 번씩 번개에 맞아 @피해[10d6[전기]] 피해를 입습니다(@체크[유형:반사|DC:40|기본:참] 저장).</p>"
+        },
+        "Irori - Moderate Boon": {
+            "description": "<p>역경을 딛고 몸이 재건되어 더욱 강해집니다. 오컬트 기 주문으로 @UUID[전서.pf2e.spells-srd.Item.qJZZdYBdNaWRJFER]{몸의 온전함}을 시전할 수 있습니다. 아직 집중력 풀이 없다면, 집중력 포인트 1이 있는 집중력 풀을 얻고 오컬트 주문 공격 굴림과 주문 DC에 대해 훈련됩니다.</p>",
+            "name": "이로리 - 보통 혜택"
+        },
+        "Shizuru - Moderate Boon": {
+            "name": "시즈루 - 보통 혜택",
+            "description": "<p><strong>보통의 혜택:</strong> 시즈루의 빛이 검을 통해 흐릅니다. 무기와 비무장 공격으로 추가로 1d6의 화염 피해 또는 1d6의 영혼 피해를 주며, 공격할 때마다 선택할 수 있습니다.</p>"
+        },
+        "Alseta - Minor Curse": {
+            "description": "<p><strong>사소한 저주:</strong> 문을 열려고 하면 문이 걸리거나 자물쇠가 달라붙습니다. 잠기지 않은 문이라도 열려면 @UUID[전서.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{인터랙트} 액션 3번이 필요하며, @UUID[전서.pf2e.actionspf2e.Item.2EE4aF4SZpYf0R6H]{잠금 선택}을 시도할 때마다 2라운드 대신 2회의 액션이 걸립니다.</p>",
+            "name": "알세타 - 사소한 저주"
+        },
+        "Grandmother Spider - Moderate Curse": {
+            "name": "할머니 거미 - 보통 저주",
+            "description": "<p><strong>보통 저주:</strong> 할머니 거미가 거미줄을 엮어 당신을 덫에 걸리게 하고, 당신이 가는 곳마다 거미줄이 뒤따릅니다. 영구적으로 @UUID[전서.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{느려짐 1}이 되고 이동 속도에 -10피트 상황 불이익을 받습니다.</p>"
+        },
+        "Nocticula - Minor Curse": {
+            "description": "<p><strong>사소한 저주:</strong> 한밤중이 다가와 당신의 운명을 가립니다. 조명이나 감각에 관계없이 최대 60피트 거리까지만 볼 수 있습니다.</p>",
+            "name": "녹티큘라 - 사소한 저주"
+        },
+        "Grandmother Spider - Major Boon": {
+            "description": "<p><strong>메이저 분:</strong> 거미 할머니는 자유를 기뻐하며 자유를 제한하려는 자들을 속입니다. 언제든 @UUID[전서.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{잡힌}, @UUID[전서.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{고정된}, 또는 @UUID[전서.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{억제됨}, @Check[type:flat|dc:10]을 시도합니다. 성공하면 효과를 무시하고 대신 효과의 발동자가 잡히거나 고정되거나 억제됨을 받습니다. 단순히 생물이 자신을 붙잡는 경우, 보통은 프리 액션으로 @UUID[전서.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{탈출}이 가능하지만 다른 방식으로 당신을 고정시키려 했다면 붙잡힐 수도 있습니다.</p>",
+            "name": "할머니 거미 - 주요 혜택"
+        },
+        "Erastil - Minor Curse": {
+            "name": "에라스틸 - 사소한 저주",
+            "description": "<p><strong>사소한 저주</strong> 에라스틸이 식탁을 저주하고 다른 사람의 수고에 의존하는 당신을 벌합니다. 직접 재배하거나 채집하거나 수확하지 않은 모든 음식은 재 맛이 나고 @UUID[전서.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{피곤함}을 남깁니다.</p>"
+        },
+        "Sarenrae - Moderate Boon": {
+            "description": "<p><strong>보통의 혜택</strong> 당신의 칼날이 구원받지 못한 자를 불태웁니다. 공격 시 내화 저항을 무시하는 추가 1d6의 화염 피해를 줍니다.</p>",
+            "name": "사렌래 - 보통 혜택"
+        },
+        "Chaldira - Minor Curse": {
+            "name": "칼디라 - 사소한 저주",
+            "description": "<p><strong>사소한 저주:</strong> 선의의 요청을 거절할 때마다 개구리, 쥐 또는 기타 작은 동물을 토해냅니다. 이 저주는 아무런 피해도 입히지 않고 아무런 조건도 일으키지 않지만 모든 방관자에게는 분명합니다.</p>"
+        },
+        "Gruhastha - Major Boon": {
+            "description": "<p><strong>메이저 분:</strong> 당신은 주변 사람들에게 신성한 영감을 줍니다. 지식 회상 체크 시 두 번 굴려서 더 나은 결과를 사용할 수 있으며, 이는 행운 효과입니다. 또한, 60피트 내에 있는 아군은 의지 저장에 +2 상태 보너스를 받습니다.</p>",
+            "name": "그루하스타 - 주요 혜택"
+        }
+    },
+    "label": "신성한 중보기도"
+}
