@@ -1,5 +1,5 @@
 <h1>FoundryVTT-pf2e-lang-ko-KR</h1>
-Foundry VTT 코어 호환 버전 : ~~v11~~ v12<br/>
+Foundry VTT 코어 호환 버전 : v11 -> v12<br/>
 필요 시스템 : Pathfinder Second Edition<br/>
 필요 모듈 : Babele<br/>
 매니페스트 링크 : https://github.com/Ragi-Neuenmuller/FoundryVTT-pf2e-lang-ko-KR/releases/download/release013/module.json<br/>
