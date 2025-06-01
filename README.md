@@ -1,5 +1,5 @@
 <h1>FoundryVTT-pf2e-lang-ko-KR</h1>
-Foundry VTT 코어 호환 버전 : v11<br/>
+Foundry VTT 코어 호환 버전 : ~~v11~~ v12<br/>
 필요 시스템 : Pathfinder Second Edition<br/>
 필요 모듈 : Babele<br/>
 매니페스트 링크 : https://github.com/Ragi-Neuenmuller/FoundryVTT-pf2e-lang-ko-KR/releases/download/release013/module.json<br/>
@@ -38,63 +38,7 @@ DeepL 번역기를 사용하였으며, 번역기로 번역된 파일을 손으�
 <h2>번역 진행 상황</h2>
 
 번역 완료<br>
-0. 기본
-- ko.json
-
-
-1. Bestiaries
-
-- 괴물 도감 1
-- 괴물 도감 2
-- 괴물 도감 3
-
-2. Character Building
-- 유산
-- 액션
-- 조상
-- 조상 특징
-- 배경
-- 클래스
-- 클래스 특징
-
-3. Effects
-- 상태
-
-4. 매크로
-- Action Macros
-- PF2e Macros
-
-번역기 번역됨 (DEEPL)<br/>
-0. 기본
-- action-ko.json
-- re-ko.json
-
-1. Character Building
-- KingmakerFeatures
-
-2. Effects
-- EquipmentEffects
-- Feat/Feature Effects
-- Spell Effects
-
-3. GM Tools
-- Creature Familiar Ability Glossary
-- Adventure-Specific Actions
-
-번역 예정<br/>
-1. Character Building
-- KingmakerFeatures
-
-  
-2. Effects
-- EquipmentEffects
-- Feat/Feature Effects
-- Spell Effects
-
-  
-3. GM Tools
-- Creature Familiar Ability Glossary
-- Adventure-Specific Actions
+대부분 자동 번역기로 번역을 완료했으나, 자동 번역기의 한계로 오역이 있을 수 있습니다.
 
 
 <h3>문의</h3>
