@@ -1,0 +1,198 @@
+{
+  "label": "혈통",
+  "folders": {},
+  "entries": {
+    "Anadi": {
+      "name": "아나디",
+      "description": "<p><em>아나디 사람들은 가룬드 남부 정글 출신의 은둔적인, 지혜로운 거미들입니다. 마치 타고난 변신술사처럼 행동하지만, 그들의 두 가지 형태는 사실 주의 깊게 개발된 마법에서 비롯됩니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.9dpHTBpL3j8ZpqTS]{Anadi}</em></p>"
+    },
+    "Android": {
+      "name": "안드로이드",
+      "description": "<p><em>다른 세계의 기술적 경이로움, 안드로이드는 합성 신체와 살아있는 영혼을 가지고 있습니다. 그들의 이중적인 본성은 그들을 압박감 속에서도 재빠르고 침착하게 만들지만, 고요함과 고독 속에서도 편안함을 느끼게 합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.dyusFHHyaQOaQhZ0]{Android}</em></p>"
+    },
+    "Athamaru": {
+      "name": "아타마루",
+      "description": "<p>아타마루스는 물고기 같은 인간형으로, 밀접한 해저 공동체를 형성합니다. 작은 마을에서는 해초를 재배하고, 뱀장어를 길러 탈것으로 삼으며, 정교한 산호 예술 작품을 만듭니다. 다른 수생 종족과의 관계는 긴장되어 있는데, 아타마루스는 그들로부터 학대를 받았기 때문입니다. 하지만 그들은 여전히 잠재적인 관계와 새로운 기회에 대해 호기심을 가지고 있습니다.</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.19pE89qVIMELrZoY]{Athamaru}</em></p>"
+    },
+    "Automaton": {
+      "name": "오토마톤",
+      "description": "<p><em>이 지능적인 구조체들은 실제 영혼을 담고 있으며, 몰락해 가는 제국의 마지막 위업의 잔재를 나타냅니다. 오토마톤은 기술적인 기발함과 마법의 힘을 결합하여 고라리온에 독특한 혼합체를 만들어 냅니다.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.rsx8cRI20oEDgfQh]{Automaton}</p>"
+    },
+    "Awakened Animal": {
+      "name": "각성한 동물",
+      "description": "<p>당신은 한때 순수하고 복잡하지 않은 마음으로 자연의 단순하고 무한한 즐거움을 누렸습니다. 당신은 다음에 무엇이 일어날지 질문하거나 이전에 일어난 일의 결과를 생각하지 않고 순간순간을 살았습니다. 당신은 야생과 하나였습니다. 그러다 모든 것을 바꾼 사건이 일어났습니다. 당신은 빛나는 호수의 물을 마셨고, 누군가 마법적인 장난을 쳤고, 드루이드는 당신의 마음을 높이려 했습니다. 당신은 야생의 현재 순간에서 생각의 땅으로 끌려나왔습니다.</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.jX3VHEFgpqqUy0aP]{Awakened Animal}</em></p>"
+    },
+    "Azarketi": {
+      "name": "아자케티",
+      "description": "<p>아자케티스는 파괴된 제국의 유산을 이어받은 자들로, 자랑스러운 전통을 굳게 지키면서도 여전히 세상과 교류하기 위해 수면 위로 모습을 드러냅니다.</p>\n<p>내해의 수생 인간형 종족은 슬프고 힘겨운 역사를 공유합니다. 대부분은 이 수생 종족을 길맨 또는 때때로 로우 아즈란티라고 부르지만, 그들은 일반적으로 자신을 아자케티라고 부릅니다. 아즈란티어로 \"바다의 사람들\"이라는 뜻입니다. 어스폴 이후, 이 자랑스러운 인간들은 알골루투 적들에 의해 수생의 하인으로 돌연변이되었습니다. 인간 형제들과도, 자신들을 묶는 바다와도 온전히 속하지 못한다고 느끼는 많은 아자케티스들은 정체성과 목적의식을 찾기 위해 고군분투합니다. 비록 그들이 지상에 사는 사람들에게 여전히 불신을 받고 있지만, 아자케티스는 자신들의 독특한 혈통과 존경받는 아즈란티 문화에서 내려온 것을 자축합니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.SNhp04cirQnnBTbb]{Azarketi}</p>"
+    },
+    "Catfolk": {
+      "name": "캣폴크",
+      "description": "<p><em>호기심 많고 사교적인 방랑자, 캣폴크는 외모와 기질 모두에서 고양잇과 동물과 인간형 생물의 특징을 결합하고 있습니다.  그들은 새로운 것을 배우고, 새로운 이야기와 장신구를 수집하며, 사랑하는 사람들이 안전하고 행복하게 지내도록 하는 것을 즐깁니다. 캣폴크는 자신들을 세상의 자연 장소를 선택받은 수호자로 여기며, 압도적인 반대에 직면하더라도 무모할 정도로 용감합니다. 그들은 강한 공동체, 폭넓은 경험, 그리고 끊임없는 자기 계발이 이 싸움에 도움이 된다고 믿습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.5S1Pq3GoEzLfBbH7]{Catfolk}</em></p>"
+    },
+    "Centaur": {
+      "name": "켄타우르",
+      "description": "<p>켄타우루스는 자신의 조상 대대로 물려받은 영토를 넓게 돌아다니는 자랑스러운 유목민으로, 착취와 침입으로부터 자신의 땅을 보호합니다.  그들은 가족과 공동체와 깊은 유대감을 맺고 위험 앞에서 굳건히 서 있는 생존 전문가들입니다. 많은 켄타우루스들은 활과 강철, 그리고 발굽으로 싸우는 숙련된 사냥꾼이자 추적자, 전사입니다. 용감하고 완고한 그들은 자신의 고향과 친족, 그리고 자신의 영역 내의 땅을 보호하기 위해 가장 사나운 적과 가장 큰 세력에도 도전할 의향이 있습니다.</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.AhKqWjsodDXRUelE]{Centaur}</em></p>"
+    },
+    "Conrasu": {
+      "name": "콘라수",
+      "description": "<p><em>콘라서스는 우주의 힘의 파편으로 의식을 부여받았으며, 필멸의 세계와 교류하기 위해 정교한 외골격을 만들어냅니다. 우주의 근본적인 과정의 필수적인 부분이면서도 이상하게 따로 떨어져 있는 콘라서스는 자신의 존재를 이해하기 위해 영겁의 시간을 바라봅니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.ufWdokSN5W3Einus]{Conrasu}</em></p>"
+    },
+    "Dwarf": {
+      "name": "드워프",
+      "description": "<p><em>드워프는 굳건한 바위로 조각된 요새와 도시 안에 자리 잡은, 금욕적이고 엄격한 사람들로서 명성이 자자합니다. 어떤 사람들은 그들을 돌과 금속을 다루는 침울하고 유머 감각 없는 장인으로 여기지만, 드워프와 그들과 시간을 보낸 사람들은 그들의 타고난 열정을 이해합니다. 그들은 양보다 질을 훨씬 더 중요하게 생각합니다. 낯선 사람에게는 불신하고 배타적으로 보일 수 있지만, 친구와 가족에게는 따뜻하고 다정하며, 그들의 홀은 웃음소리와 모루를 치는 망치 소리로 가득 차 있습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.XzRv30zY3UXRbBho]{Dwarf}</em></p>"
+    },
+    "Elf": {
+      "name": "엘프",
+      "description": "<p><em>고대의 종족으로서 엘프들은 엄청난 변화를 목격하였고, 역사의 흐름을 지켜봄으로써 얻을 수 있는 관점을 가지고 있습니다. 고대 시대에 세상을 떠났다가 변화된 땅으로 돌아온 그들은 여전히 조상 대대로 물려받은 땅을 되찾기 위해 고군분투하고 있으며, 특히 그들의 땅 일부를 침략한 끔찍한 악마들과 싸우고 있습니다. 어떤 이들에게 엘프들은 경외의 대상입니다. 우아하고 아름다우며, 엄청난 재능과 지식을 가진 존재들입니다. 하지만 엘프들은 서로 간에는 이러한 이상에 부합하는 삶보다 개인의 자유를 훨씬 더 중요하게 여깁니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.3cfdiId1IoxLsF9V]{Elf}</em></p>"
+    },
+    "Fetchling": {
+      "name": "펫칭",
+      "description": "<p><em>한때 인간이었으나 이제는 다른 존재가 된 페치링들은 그림자 차원의 고대 영향을 흑백의 피부색, 빛나는 눈, 그리고 초자연적인 그림자의 소환으로 보여줍니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.RlMgeku1FNJjF7YR]{Fetchling}</em></p>"
+    },
+    "Fleshwarp": {
+      "name": "플레시워프",
+      "description": "<p><em>플레시워프는 마법, 연금술 또는 비자연적인 에너지에 의해 형태가 만들어지거나 급격하게 변형된 사람들입니다. 그들의 비정상적인 외모는 세상에서 자신만의 자리를 찾는 것을 어렵게 만들 수 있습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.vTB1bTYVE4onyyy1]{Fleshwarp}</em></p>"
+    },
+    "Ghoran": {
+      "name": "고란",
+      "description": "<p>오래 전 죽은 드루이드가 창조한 이 지능적인 식물형 인간들은, 시간의 흐름 외 다른 외부 사건에 의해 씨앗이 파괴되지 않는 한, 씨앗을 통해 일종의 불멸성을 지니고 있습니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.kRjkrWAqQNXj3LLP]{Ghoran}</p>"
+    },
+    "Gnome": {
+      "name": "놈",
+      "description": "<p><em>옛날 옛적에, 초기 노옴 조상들은 페어이의 영역인 퍼스트 월드에서 이주해 왔습니다. 최초의 노옴들이 골라리온으로 왜 왔는지는 불분명하지만, 이러한 계보는 현대 노옴들에게 기이한 추론, 괴짜스러움, 강박적인 경향, 그리고 어떤 이들이 보기에는 순진함으로 나타납니다. 이러한 특성들은 가느다란 사지, 밝은 색깔의 머리카락, 그리고 어린아이 같고 매우 표정이 풍부한 얼굴 특징과 같이 그들의 신체적 특징에도 반영되어 있으며, 이는 그들의 다른 세계적 기원을 더욱 반영합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.qIu10HByKeRaPPvD]{Gnome}</em></p>"
+    },
+    "Goblin": {
+      "name": "고블린",
+      "description": "<p><em>다른 사람들이 집착하는 복잡한 역사는 고블린들에게 흥미롭지 않습니다. 이 작은 종족들은 현재를 살고 있으며, 사실 기록보다 흥미로운 이야기를 선호합니다. 수십 년 전의 전쟁은 마치 고대의 과거처럼 여겨집니다. 다른 사람들에게 오해받지만, 고블린들은 자신들의 모습에 만족합니다. 고블린의 미덕은 현재에 집중하고, 창의적이며, 정직한 것입니다. 그들은 여정의 끝이 어떻게 될지 걱정하기보다는 충만한 삶을 살아가려고 노력합니다. 사실을 꼬치꼬치 따지기보다는 이야기를 전하고, 작지만 큰 꿈을 꾸는 것입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.Gn0XGCWDb0N4zLE0]{Goblin}</em></p>"
+    },
+    "Goloma": {
+      "name": "골로마",
+      "description": "<p><em>골로마스는 다른 사람들을 대부분 두려워하며, 자신들의 특이한 생물학적 특징을 이용하여 위험한 포식자로 여기는 자들을 고의적으로 겁주곤 합니다. 보기 드물고 잘 알려지지 않은 골로마스의 여러 눈과 나무로 된 얼굴은 마주치는 대부분의 사람들에게 공포를 심어줍니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.jKglnHBFvzI80tIe]{Goloma}</em></p>"
+    },
+    "Halfling": {
+      "name": "하프링",
+      "description": "<p><em>어떤 곳도 자신들의 터전이라고 주장하지 않는 하플링들은 마을보다 큰 정착지를 거의 통제하지 않습니다. 대신, 그들은 더 큰 도시의 성벽 안에서 인간들과 함께 살면서, 키가 큰 사람들 옆에 작은 공동체를 만들곤 합니다. 많은 하플링들은 더 큰 이웃들의 그림자 속에서 완벽하게 만족스러운 삶을 살지만, 다른 하플링들은 유목 생활을 선호하여 세상을 여행하고 기회와 모험을 만날 때마다 이용합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.voI7uPS9vsG74JIn]{Halfling}</em></p>"
+    },
+    "Hobgoblin": {
+      "name": "홉고블린",
+      "description": "<p><em>고블린 친척들보다 키가 크고 힘이 센 호브고블린들은 넓은 어깨와 길고 강력한 팔을 가진 인간과 힘과 크기가 같습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.DuWzeY4zugKFFthl]{Hobgoblin}</em></p>"
+    },
+    "Human": {
+      "name": "휴먼",
+      "description": "<p><em>골라리온의 어떤 민족들만큼이나 예측 불가능하고 다양한 인간들은 뛰어난 추진력과 견디고 확장하는 능력을 가지고 있습니다. 인류가 두각을 나타내기 전에 많은 문명이 번영했지만, 인간들은 역사의 흐름 속에서 가장 위대하고 가장 끔찍한 사회들 중 일부를 건설했으며, 오늘날 그들은 내해 주변 세계에서 가장 많은 인구를 가진 민족입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.7pU8yM7yPMw92SY3]{Human}</em></p>"
+    },
+    "Kashrishi": {
+      "name": "카쉬리쉬",
+      "description": "<p>카쉬리쉬는 세계의 외딴 지역에 거처를 마련합니다. 이 조용한 존재들은 튼튼하고 견고한 체격과 독특한 수정 같은 뿔을 가지고 있습니다. 타고난 심령 능력 덕분에 자연스러운 공감 능력자이지만, 때로는 이웃들의 끊임없는 생각들 때문에 괴로움을 겪기도 합니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.IJOH7nk0w1IybAhp]{Kashrishi}</p>"
+    },
+    "Kholo": {
+      "name": "콜로",
+      "description": "<p><em>콜로는 잔혹한 약탈자이자 악마 숭배자로 악명이 높습니다. 많은 이들이 콜로를 마녀, 식인종, 그리고 그보다 더한 존재로 여깁니다. 하지만 진실은 더 복잡합니다. 콜로는 매우 실용적이고 실리적인 사냥꾼이자 약탈자입니다. 그들에게 명예는 무의미한 위험에 대한 또 다른 말일 뿐입니다. 콜로의 손실은 개인에게만 국한되지 않고, 그들의 무리와 친족에게도 영향을 미칩니다. 승리 외의 어떤 것, 즉 자비나 잔혹함에 시간을 낭비하는 것은 거의 비도덕적인 것으로 여겨집니다. 콜로는 매복, 전술적 기만, 그리고 심리전의 명수입니다. 콜로의 조상 숭배와 내인류식인 풍습 또한 마찬가지로 오해받고 있습니다. 콜로는 존경의 표시로 죽은 자를 먹고, 성대한 축제를 열고 뼈를 예술품이나 무기로 변형시킵니다. 콜로는 존경받는 적에게도 이러한 예우를 베풀어 적의 교활함이나 힘을 부족에 들이고자 합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.xBV8oGvecw7abZxc]</em></p>"
+    },
+    "Kitsune": {
+      "name": "키츠네",
+      "description": "<p><em>키츠네는 카리스마 있고 재치 있는 사람들로서, 영적인 것과의 연결 덕분에 많은 마법 능력, 주로 다른 형태로 변신하는 힘을 얻습니다. 다른 사람들 사이에서 보이지 않게 지나가든 꼬리를 높이 들고 다니든, 키츠네는 주변 사회를 영리하게 관찰하는 존재입니다.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.26YL1jOPQQS6k7A9]{Kitsune}</p>"
+    },
+    "Kobold": {
+      "name": "코볼드",
+      "description": "<p><em>모든 코볼드는 본능적으로 힘의 중요성을 이해하며, 많은 코볼드는 강력한 드래곤이든, 잔혹한 악마든, 오만한 페이든, 아니면 고대 유물이든 힘을 가진 자들을 숭배하는 경향이 있습니다. 코볼드는 실용적인 이유에서 이러한 동맹을 추구합니다. 결국 고대 드래곤을 섬기는 코볼드를 감히 괴롭힐 자가 누가 있겠습니까? 하지만 그 이유 외에도, 그러한 힘의 근원 근처에서 부화한 코볼드 알은 그 워렌의 후원자와 유사한 신체적 특징(그리고 때로는 능력)을 갖게 됩니다. 코볼드는 스스로도 기발한 장인이자 헌신적인 동맹자이지만, 그들의 영역을 침범하는 외부인들에게는 영감을 받은 스커미셔이자 교활한 매복자임을 알게 될 것입니다. 하지만 이 파충류 기회주의자들은 자신들에게 이익이 된다면 다른 인간형과 협력하는 것을 기꺼이 합니다. 그들은 신중함과 교활함을 결합하여 외부 세계에서 자신의 운을 쌓습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.naQrTTE7CXu5lnNt]{Kobold}</em></p>"
+    },
+    "Leshy": {
+      "name": "레쉬",
+      "description": "<p><em>환경의 수호자이자 사절인 레쉬들은 자연의 불멸의 영혼으로, 일시적으로 물리적인 형태를 부여받았습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.SWkwNivrfzWZqas9]{Leshy}</em></p>"
+    },
+    "Lizardfolk": {
+      "name": "리저드폴크",
+      "description": "<p><em>리자드폴크는 엘프조차도 고대의 것으로 여기는 제국들의 상속자로서, 완벽한 생존자들입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.cbLJs37Nc8FveriK]{Lizardfolk}</em></p>"
+    },
+    "Merfolk": {
+      "name": "머포크",
+      "description": "<p>골라리온의 모든 바다에는 다양하고 경이로운 인어들이 살고 있습니다.  그들은 어느 정도의 근거를 가지고 자신들을 바다의 지배자라고 생각합니다. 열병의 바다의 열대 산호초에서는 인어들이 밝은 색깔의 산호로 사원과 궁궐을 짓습니다. 빛나는 바다의 얼음 조각 아래에서는 인어들이 작고 냉담한 부족들로 나뉘어 물개와 고래를 사냥하여 먹습니다. 엠바랄 해양에서는 인어들이 거대한 달팽이의 껍질 안에 지어진, 알로마브라는 거대한 무역 도시에 살고 있습니다. 그 달팽이는 해저를 기어 다닙니다.</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.9hcAMLgnCAKkuyH6]{Merfolk}</em></p>"
+    },
+    "Minotaur": {
+      "name": "미노타우르",
+      "description": "<p>미노타우르스는 자연적인 것이든 인공적인 것이든 복잡한 통로들을 배회하며, 석조 건축의 대가입니다. 호기심 많고 굳건한 이 소 형 인간형들은 자신들을 부르는 추구를 완벽하게 하는 데 삶을 바치며, 때때로 그들이 자란 지역에서 멀리 떨어진 곳으로 이끌기도 합니다. 미노타우르스는 원래 이블리도스 제도 출신이지만 골라리온 전역에 널리 퍼져 있으며, 종종 산악 지대나 지하에 밀접한 공동체를 형성합니다. 때로는 단순한 폭력배로 오해받기도 하지만, 미노타우르스에게는 학자와 전사가 모두 있습니다. 그들의 외모를 넘어서 바라볼 수 있는 사람들은 건축과 항해, 그리고 창의적인 문제 해결에 대한 친화력을 발견할 것입니다.</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.D1SZXGFA8Hh4huax]{Minotaur}</em></p>"
+    },
+    "Nagaji": {
+      "name": "나가지",
+      "description": "<p>인간형의 몸과 뱀의 머리를 가진 나가지는 강력한 나가들의 전령, 동반자, 그리고 시종입니다.  그들은 신성한 지역과 영적인 진리에 대한 깊은 존경심을 가지고 있으며, 이는 많은 다른 이들에게 나가지의 외모만큼이나 위협적으로 느껴집니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.TlTIwW61zK0dk95v]{Nagaji}</p>"
+    },
+    "Orc": {
+      "name": "오크",
+      "description": "<p><em>오크는 폭력과 갈등의 불꽃 속에서, 종종 태어나는 순간부터 단련됩니다. 흔히 잔혹하게 짧은 삶을 살아가는 오크들은, 마을의 상위 구성원에게 지배권을 두고 도전하거나 이웃 마을을 습격하는 등, 강인한 적과 힘을 시험하는 것을 즐깁니다. 많은 오크들은 걷고 칼이나 곤봉을 들 수 있게 되는 즉시 영광을 추구하며, 야생 짐승을 길들이거나 치명적인 괴물을 사냥합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.GCxhDyf1ZNlLiDKZ]{Orc}</em></p>"
+    },
+    "Poppet": {
+      "name": "포펫",
+      "description": "<p><em>포펫은 작고 기본적인 구조체로서 일반적으로 소유주가 단순한 일을 하는 데 도움을 줍니다. 때때로 포펫은 지각, 독립성, 그리고 생명의 불꽃을 얻습니다. 단순한 조력자나 장난감을 넘어선 이 포펫들은 자신의 운명을 개척할 자유가 있습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.Ck8L9livQph1GFal]{Poppet}</em></p>"
+    },
+    "Ratfolk": {
+      "name": "랫폴크",
+      "description": "<p><em>이소키는 대부분 지상에 사는 휴먼오이드들이 \"랫폴크\"라고 부르는 존재입니다. 그들은 공동체적인 민족으로, 비좁은 환경을 선호하며, 최대 100명이 한 집에 살기도 합니다. 마을에서 집을 찾을 수 없다면, 랫폴크는 동굴과 동굴 시스템에 살 수도 있습니다. 이러한 곳은 그들이 무역 원정에서 가져온 다양한 물품들을 보관하는 데 매우 적합하기 때문입니다.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.zoSkNev57C8OEDYL]{Ratfolk}</p>"
+    },
+    "Samsaran": {
+      "name": "삼사란",
+      "description": "<p><em>전해지는 이야기에 따르면, 삼사란들은 치하의 학자들이 마을을 휩쓸고 있는 병의 치료법을 찾기 위해 산으로 들어간 것에서 시작되었습니다. 여러 주간의 위험을 겪은 후, 그들은 순수한 마법 생명 에센스로 가득 찬 담수 샘을 발견했습니다. 이 물은 학자들을 죽음 직전에서 구해냈고 마을 사람들을 치료했습니다. 새로운 삶의 기회를 얻은 모든 사람들은 물을 마신 후 남은 생애를 배우고 세상을 온전히 경험하는 데 바쳤습니다. 죽음과 함께, 이러한 헌신은 이제 그들의 몸에 주입된 마법 에센스와 결합하여 이 사람들을 최초의 삼사란으로 변화시켰습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.pwrptby8NB54A6HQ]{Samsaran}</em></p>"
+    },
+    "Sarangay": {
+      "name": "사랑게이",
+      "description": "<p><em>사랑가이는 카라바오 머리를 가진 사람들로 티엔 시아의 깊은 숲 속에서 오랫동안 생존해 왔습니다. 많은 모험가들이 처음에는 그들을 괴물이라고 생각했지만, 사랑가이는 그들의 공동체와 영혼을 무엇보다 소중히 여기는 번영하는 사회일 뿐입니다. 그들의 문화는 그들의 공동체와 선택된 지도자를 보호하려는 강렬한 열망 위에 세워져 있습니다. 그들의 뿔은 초승달이라고 하고, 그들의 우뚝 솟은 체격은 조상들이 아버지 달에 닿으려고 팔을 뻗어 늘어나고 어머니 지구가 그들을 가까이 품었기 때문이라고 합니다. 그들은 위대한 아버지 달, 그들의 첫 번째 조상을 숭배하며, 그들이 자연의 일부임을 이해하기 때문에 무엇보다 자연을 보호하고 숭상하려고 노력합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.oTRP3yJNZp5KRoHK]{Sarangay}</em></p>"
+    },
+    "Shisk": {
+      "name": "시스크",
+      "description": "<p><em>식스크는 은밀한 산악 주민으로, 뼈로 된 깃털을 가진 휴머노이드이며 어두운 터널과 동굴 속 지하에 숨어 지냅니다.  그들이 지닌 이질적인 지식을 수집하고 보호하려는 매혹은 그들이 외부 세계를 탐험하도록 설득할 수 있는 몇 안 되는 것 중 하나입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.qsbc1ZLCWzfl1sfZ]{Shisk}</em></p>"
+    },
+    "Shoony": {
+      "name": "슈니",
+      "description": "<p><em>땅딸막하고 두 발로 걷는 개를 닮은 작은 휴머노이드인 슈니들은 때때로 약하고 고립된 평화주의자로 오해받습니다. 하지만, 그들의 엄청난 인내심, 놀라운 직업윤리, 그리고 기발한 외교술은 슈니들이 결코 무력하지 않다는 것을 보여줍니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.j2hOTtHcdu2SA8Ha]{Shoony}</em></p>"
+    },
+    "Skeleton": {
+      "name": "스켈레톤",
+      "description": "<p><em>스켈레톤은 가장 하급 언데드에 속합니다. 일반적으로 무지한 생물이며, 다른 언데드를 위협적인 존재로 만드는 많은 능력이 부족합니다. 하지만 드래곤, 거인, 그리고 다른 거대한 짐승의 움직이는 뼈들은 위험한 적이 됩니다. 강력한 생물은 스켈레톤으로 부활하더라도 자신의 힘과 지능을 어느 정도 유지할 수 있습니다. 어떤 네크로맨서들은 자신의 가장 강력한 적들을 스켈레톤 언데드 하수인으로 만들기도 하는데, 그들을 통제할 수 있다면 말입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.EcNSrvwIj22Jxkjz]{Skeleton}</em></p>"
+    },
+    "Sprite": {
+      "name": "스프라이트",
+      "description": "<p><em>스프라이트는 피어리 렐름으로 알려진 퍼스트 월드 출신의 작고, 변덕스럽고, 활기찬 생명체입니다.  그들은 장난을 치고, 새로운 것을 탐험하고, 마법과 관련된 모든 것을 받아들이는 것을 좋아합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.rvbMGyBr6y5K7HDP]{Sprite}</em></p>"
+    },
+    "Strix": {
+      "name": "스트릭스",
+      "description": "<p><em>자신들의 언어로 이타리이라고 알려진 스트릭스는 고향과 부족에 헌신하는 은둔적인 조류형 인간형입니다. 그들은 넓은 날개와 날카로운 발톱으로 소중한 공동체를 수호합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.N8aShsDuf3ur0vZ2]{Strix}</em></p>"
+    },
+    "Surki": {
+      "name": "서키",
+      "description": "<p>서키스는 주변 세계의 잠재된 마법을 먹고 사는 곤충형 종족입니다. 다크랜드 원산의 지하 종족으로서, 서키스는 지표면에서 거의 목격된 적이 없으며, 역사적 목격 사이에는 항상 긴 간격이 있었습니다. 이는 서키스의 생애 주기 때문입니다. 긴 휴면기에 이어 이른바 \"세대 발굴\"이라고 불리는 시기가 있는데, 이때 지하의 사건에 반응하여 장거리 이동을 합니다. 월드운드의 치유는 그들의 역사상 가장 큰 발굴 중 하나를 시작했고, 서키스들을 사르코리스 스카의 동굴과 통로로 불러들여 수년 만에 처음으로 지표면에 나타나게 했습니다. 그들의 출현 이후, 여러 작은 서키스 정착지가 사르코리스의 외딴 곳에 세워졌으며, 그들은 그 지역의 야생 동물, 마법, 그리고 다양한 다른 주민들을 탐험하면서 외계 환경인 지표면을 탐구하며 탐욕스럽게 기록하고 있습니다.</p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.6kuNg9Pr7LdaNPQq]{Surki}</em></p>"
+    },
+    "Tanuki": {
+      "name": "타누키",
+      "description": "<p><em>텐구, 키츠네, 야크샤, 그리고 야오구아이처럼 마법의 재능을 타고난 혈통들이 천하에는 가득합니다. 그들의 능력은 존경을 받게 해주며, 그들은 그 능력을 책임감 있는 목적으로 사용합니다. 타누키는 이러한 혈통 중 하나가 아닙니다. 대신, 형태 변환을 하는 너구리 비슷한 인간형들은 그들의 환영과 변신 능력을 더 많은 사람들이 그래야 하는 방식으로 사용합니다. 바로 즐거움을 위해서 말입니다! 타누키는 장난과 실용적인 농담을 좋아합니다. 특히, 고위층의 사람들을 한 단계 끌어내리고 다른 모든 사람들의 삶이 어떤지 보여줄 수 있는 장난을 좋아합니다. 다른 민족들이 그들의 유서 깊은 역사, 고귀한 전통, 또는 복잡한 의식에 자부심을 느끼는 곳에서 타누키는 그들의 단순함과 세상의 많은 규칙에 대한 무관심에 자부심을 느낍니다. 어떤 사람들은 이러한 관점이 타누키를 무례한 시골뜨기로 전락시킨다고 주장할 수도 있지만, 타누키는 그것이 자신들을 더욱 세련되게 만든다고 생각합니다. 결국, 규칙을 굽히려면 그 규칙을 알아야 하고, 규범을 깨려면 그 규범을 이해해야 하기 때문입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.I1uEGrIhe4zLs8Ei]{Tanuki}</em></p>"
+    },
+    "Tengu": {
+      "name": "텐구",
+      "description": "<p><em>텐구는 야생에서 생활하는 것과 번화한 도시에서 자리를 잡는 것을 똑같이 잘하는 생존 전문가이자 사교적인 존재입니다.  여행을 하면서 지식, 도구, 동료를 모아 자신의 수집품에 추가합니다.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.YGIwmuVOJI7uNhGM]{Tengu}</p>"
+    },
+    "Tripkee": {
+      "name": "트립키",
+      "description": "<p><em>트립키들은 수줍음 많고 신중한 사람들로서 일반적으로 다른 사람들의 일에 휘말리는 것을 피하려고 합니다. 신중한 태도와 작은 키에도 불구하고, 모험심 있는 트립키들은 상황이 요구할 때 대담하고 고귀한 행동을 합니다.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.FhIJtKcINEe7fipX]</p>"
+    },
+    "Vanara": {
+      "name": "바나라",
+      "description": "<p>바나라스는 호기심 많고 장난기 넘치는 원숭이 같은 휴머노이드로, 짧고 부드러운 털, 표정이 풍부한 눈, 그리고 길고 잡을 수 있는 꼬리를 가지고 있습니다. 손과 같은 발과 민첩한 체격은 대부분의 바나라스가 사는 정글 지역에서 그들에게 큰 도움이 됩니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.40koksC576nYV2Tf]{Vanara}</p>"
+    },
+    "Vishkanya": {
+      "name": "비슈카냐",
+      "description": "<p>비슈카냐는 피와 타액에 강력한 독을 지닌 뱀 모습의 휴머노이드입니다. 독성과 타고난 기교에 대한 옛 이야기들 때문에 대부분 오해를 받고 있지만, 비슈카냐들은 이야기들이 자신들을 그리는 것 이상으로 성장하기 위해 노력합니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.1lCAkGgIYYkczZ28]{Vishkanya}</p>"
+    },
+    "Wayang": {
+      "name": "와양",
+      "description": "<p><em>와양들은 그들이 동족인, 빛을 짜는 드지리아크들과 함께 살고 일했던 네더월드에서 온 디아스포라 여행자들입니다. 두 종족 모두 예술적 표현과 영적인 자기 성찰에 대한 친밀감을 공유하여 서로의 색깔, 형태, 기능에 대한 감수성을 고취시켰습니다; 그들은 또한 난폭한 드래곤, 오니, 언데드에 대한 서로의 방어를 강화했습니다. 이러한 평화로운 시대는 디바인의 간섭으로 무너졌습니다; 어떤 이들은 아바다르가 존쿠톤을 네더월드로 추방했을 때, 미드나잇 로드의 신적 존재가 그 차원을 악몽 같은 영역으로 왜곡했다고 말하는 반면, 다른 기록들은 이러한 파멸에 악마적인 근원을 돌립니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.lLXEwzxawJ3Q0tpg]{Wayang}</em></p>"
+    },
+    "Yaksha": {
+      "name": "약샤",
+      "description": "<p>빛나는 성채와 화려한 궁궐에서 멀리 떨어진 곳에서, 과묵한 야크샤들은 티엔 시아의 시골 후미진 곳을 자연재해와 초자연적인 약탈로부터 보호합니다. 굳건한 서약과 프라이멀 마법에 대한 뛰어난 능력으로 유명한 야크샤들은 빈곤한 자들을 보호하고 야생을 지키며, 둘 중 하나를 위협하는 자들을 뼈를 부수는 격노로 처벌합니다. 야크샤 전설은 그들의 기원을 디바인 정령으로 기억하며, 광대한 폭풍의 숲과 거대한 불의 홍수로 이루어진 원시 세계—무한한 잠재력을 가진 퍼스트 월드—에서 길과 거처의 안전을 감독했습니다. 신들이 퍼스트 월드를 떠난 대이탈 기간 동안, 많은 야크샤들은 이러한 탈출을 거부하고 대신 관리자로서의 의무를 수행하기 위해 남았습니다. 영역의 갑작스러운 디바인 힘 부족에도 불구하고, 남은 야크샤들은 원초적인 서약을 맹세하여, 인근 크리에이션스 포지의 힘을 프라이멀 마법으로 전환하고 변형되는 퍼스트 월드의 광대한 지역을 안정적인 지역으로 바꾸어 궁핍한 페어들에게 피난처를 제공했습니다.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.f6IU2EGcJUzVZ4nD]{Yaksha}</p>"
+    },
+    "Yaoguai": {
+      "name": "야오구아이",
+      "description": "<p><em>요괴는 보통 단순한 동물, 식물 또는 사물로 시작하여 지각을 깨닫는 방법을 찾은 후, 기이한 변신 능력을 지닌 존재가 됩니다. 종종 주변 에너지가 원래 형태에 주입됨으로써 시작되는 요괴는 타고난 마법을 훈련하여 힘을 얻습니다. 자신의 진정한 모습과 본성을 드러내지 않도록 주의하면서, 같은 기원이나 종의 요괴들은 때때로 은거지를 형성하여 힘을 갈고 닦거나 쾌락적인 추구에 몰두하는데, 이 둘은 서로 배타적이지 않습니다. 한편, 탄탄한 공동체가 없는 요괴들은 자신의 기원을 초월할 때까지 자신을 계발해야 할 필요성을 느끼는데, 이는 그들이 사회에 편입되어 새로운 자유를 경험할 수 있게 해줄지도 모릅니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.OlqTCYZK9sBDeuKf]{Yaoguai}</em></p>"
+    }
+  }
+}

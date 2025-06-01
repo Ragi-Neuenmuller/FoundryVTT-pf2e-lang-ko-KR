@@ -1,0 +1,638 @@
+{
+  "label": "모험 특정 행동",
+  "folders": {},
+  "entries": {
+    "(Affinity Ablaze) Arms of Balance: Walking the Cardinal Paths": {
+      "name": "(애피니티 어블레이즈) 암스 오브 밸런스: 워킹 더 카디널 패스",
+      "description": "<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p>투기장에서 함께 타격을 주고받으며 서로를 이해하게 된 전사들 사이의 유대감만큼 강력한 유대감은 드뭅니다. 당신은 다른 토너먼트 팀 중 하나와의 감정적 연결에 집중하고, 그들의 힘이 마치 불붙은 끈처럼 당신에게 흘러 들어옵니다. 당신은 원래 팀으로부터 얻었어야 하는 다음 능력을 사용합니다.</p>\n<hr />\n<p>당신 내면의 기가 솟구쳐 당신의 공격을 에너지 물질로 감쌉니다. 1분 동안, 당신의 무기 하나 또는 무장 공격 중 하나는 추가로 2d6 화염, 냉기, 산, 또는 전기 피해를 입힙니다.  공격은 적절한 에너지 특성도 얻습니다.</p>"
+    },
+    "(Affinity Ablaze) Biting Roses: Glimpses to Beyond": {
+      "name": "(어피니티 어블레이즈) 바이팅 로지스: 글림프시스 투 비욘드",
+      "description": "<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p>투기장에서 함께 타격을 주고받으며 서로를 이해하게 된 전사들 사이의 유대감만큼 강력한 유대는 드뭅니다. 당신은 다른 토너먼트 팀 중 하나와의 감정적 연결에 집중하고, 그들의 힘이 마치 불이 붙은 끈처럼 당신에게로 울려 퍼집니다. 당신은 원래 팀으로부터 얻었어야 하는 다음 능력을 사용합니다.</p>\n<hr />\n<p>당신은 초자연적인 것과 운명의 흐름을 감지하게 됩니다. 1시간 동안, 당신은 60피트의 범위를 가진 정확한 감각인 스피릿센스(spiritsense)를 얻습니다. 스피릿센스는 살아있는 생물체를 포함한 생물의 영혼, 대부분의 무의식적인 언데드, 그리고 목록에 있는 범위 내의 유령을 감지할 수 있게 합니다. 당신의 청력 및 기타 부정확한 감각과 마찬가지로, 당신은 여전히 @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}을 하여 탐지되지 않은 생물체를 찾아야 합니다. 스피릿센스는 물리적 몸체가 아닌 영적 본질을 감지하기 때문에, 프로젝트 이미지(project image)와 같은 주문으로 투영된 영혼이나 영혼이 없는 물체에 깃든 영혼을 감지할 수 있습니다. 그러나 영혼이 없는 시체, 구조물 또는 물체는 감지할 수 없습니다. 주문 지속 시간 동안 한 번, 내성 굴림 또는 기술 굴림에서 실패 또는 치명적인 실패를 굴렸을 때, 성공으로 간주됩니다.</p>"
+    },
+    "(Affinity Ablaze) Speakers to the Winds: All is One, One is All": {
+      "name": "(애피니티 어블레이즈) 스피커스 투 더 윈즈: 올 이즈 원, 원 이즈 올",
+      "description": "<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p>투기장에서 함께 타격을 주고받으며 서로를 이해하게 된 전사들 사이의 유대감만큼 강력한 유대감은 드뭅니다. 당신은 다른 토너먼트 팀 중 하나와의 정서적 유대감에 집중하고, 그들의 힘이 마치 불이 붙은 끈처럼 당신에게 울려 퍼집니다. 당신은 원래 팀으로부터 획득해야 하는 다음 능력을 사용합니다.</p>\n<hr />\n<p>마가암비아의 마법을 빌려, 당신은 올드-메이지 자템베 자신이 사용했던 전설적인 주문을 사용합니다. 당신은 @UUID[Compendium.pf2e.spells-srd.Item.gtWxTfMbIN5RHQw6]{All is One, One is All}을 9랭크 아케인 또는 프라이멀 선천 주문으로 시전합니다.</p>"
+    },
+    "(Affinity Ablaze) Steps of the Sun: Grand Harmony": {
+      "name": "(애피니티 어블레이즈) 스텝스 오브 더 선: 그랜드 하모니",
+      "description": "<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p>투기장에서 함께 타격을 주고받으며 서로를 이해하게 된 전사들 사이의 유대감만큼 강력한 유대감은 드뭅니다. 당신은 다른 토너먼트 팀 중 하나와의 감정적 연결에 집중하고, 그들의 힘이 불붙은 끈처럼 당신에게 울려 퍼집니다. 당신은 원래 팀으로부터 얻었어야 하는 다음 능력을 사용합니다.</p>\n<hr />\n<p>당신의 심장은 동료들의 심장과 조화를 이룬 후, 파괴적인 충격파로 한 번 격렬하게 뜁니다. 당신은 @Damage[18d4[sonic]] 피해를 @Template[cone|distance:60]에 입힙니다. 적들은 당신의 직업 DC 또는 주문 DC 중 더 높은 값과 같은 DC로 @Check[fortitude|against:class-spell|basic] 내성 굴림을 시도할 수 있습니다. 당신이 적어도 1명의 아군과 인접해 있다면, 이것은 @Damage[18d6[sonic]]{18d6}를 입히고, 적어도 2명의 아군과 인접해 있다면, 이것은 @Damage[18d8[sonic]]{18d8}를 입힙니다.</p>"
+    },
+    "(Affinity Ablaze) Winter's Roar: Rampaging Glacier Charge": {
+      "name": "(애피니티 어블레이즈) 윈터즈 로어: 램페이징 글래시어 차지",
+      "description": "<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p>투기장에서 함께 타격을 주고받으며 서로를 이해하게 된 전투원들 사이의 유대감만큼 강력한 유대는 드뭅니다. 당신은 다른 토너먼트 팀 중 하나와의 감정적 연결에 집중하고, 그들의 힘이 마치 불이 붙은 끈처럼 당신에게 울려 퍼집니다. 당신은 원래 팀으로부터 얻었어야 하는 다음 능력을 사용합니다.</p>\n<hr />\n<p>당신은 빙하의 멈출 수 없는 움직임을 본뜹니다. 당신은 당신의 스피드만큼 스트라이드하고 근접 스트라이크를 합니다. 당신의 공격이 적중하든 그렇지 않든, 당신의 스트라이드 경로는 9랭크 @UUID[Compendium.pf2e.spells-srd.Item.R5FHRv7VqyRnxg2t]{Wall of Ice}로 채워집니다.</p>"
+    },
+    "Administer": {
+      "name": "관리하다",
+      "description": "<p>당신은 시타델 알타에린 운영과 관련된 행정 업무를 처리하는 데 하루를 보냅니다.  어드민스터 활동은 디셉션이나 인티미데이트를 사용하여 오거나이즈 레이버를 할 때 발생하는 좋지 않은 대외 관계를 해결하는 데 사용될 수 있지만, 애시즈 시대 캠페인 기간 동안 접촉하는 집단과의 관계를 유지하는 데에도 사용됩니다.</p>\n<p>하루에 어드민스터를 시도할 수 있는 사람은 한 명뿐입니다 (다른 사람들은 코어 룰북에 설명된 대로 에이드를 할 수 있지만), 성이 어드민스터된 후에는 결과에 명시된 간격이 지날 때까지 다른 사람이 어드민스터할 수 없습니다. 그러나 예를 들어, 그룹이 모험을 떠나려고 하고 그들이 없는 동안 성이 원활하게 운영되도록 하려는 경우, GM은 이에 대한 예외를 허용할 수 있습니다.</p>\n<p>시타델 알타에린이 성공적으로 어드민스터되지 않은 상태에서 시타델 알타에린과 관련된 다운타임 활동을 수행하는 경우, 당신의 판정에 -4 상황 패널티를 받습니다.</p>\n<p>어드민스터에는 성공적인 @Check[society|dc:20] 판정이 필요합니다 (모험 경로 후반부의 특별 행동의 경우, 이 DC는 변경될 수 있습니다). 당신은 시타델 알타에린의 행정 업무를 처리하기 위해 집사에게 돈을 지불할 수 있습니다. 집사에게 돈을 지불하는 한, 매주 필요한 어드민스터는 자동으로 성공합니다 (하지만 결코 크리티컬 성공은 아닙니다).</p>\n<hr />\n<p><strong>크리티컬 성공</strong> 당신은 성의 번영을 촉진합니다. 성은 1달 동안 원활하게 기능합니다. 또한, 이 기간 동안 당신은 오거나이즈 레이버에 대한 모든 판정에 +2 상황 보너스를 얻습니다.</p>\n<p><strong>성공</strong> 시타델 알타에린은 1주일 동안 원활하게 기능합니다.</p>\n<p><strong>실패</strong> 시타델 알타에린은 어드민스터되지 않았지만, 다음 날 다시 시도할 수 있습니다.</p>\n<p><strong>크리티컬 실패</strong> 시타델 알타에린은 어드민스터되지 않았습니다. 브리치힐의 특정 시민들 사이의 망가진 관계와 격앙된 감정으로 인해 1주일 동안 어드민스터를 다시 시도할 수 없습니다.</p>"
+    },
+    "Ancestors' Call": {
+      "name": "선조의 부름",
+      "description": "<p><strong>측면</strong> 마음</p>\n<p>드워프 정령들은 이 유물에 끌리고, 당신은 조상의 비밀을 전수하기 위해 그들을 불러 당신과 당신의 아군에게 깃들게 할 수 있습니다. 이 능력을 얻을 때, 세 가지 일반적인 1레벨 드워프 조상 업적을 선택하십시오.</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">1</span> 엔비전</p>\n<p><strong>빈도</strong> 시간당 한 번</p>\n<hr />\n<p><strong>효과</strong> 세 가지 조상 업적 중 하나를 선택하십시오. 당신과 당신을 중심으로 한 10피트 반경 폭발 범위 내의 모든 아군은 1분 동안 해당 업적과 드워프 특성을 얻습니다.</p>"
+    },
+    "Appeal to Shadowy Intruders": {
+      "name": "그림자 침입자에게 호소하기",
+      "description": "<p><strong>필요 조건</strong> 당신이 볼 수 있는 페치링 스닉이 최대 히트 포인트의 절반 이하로 줄어드는 등, 눈에 띄게 흔들리고 있습니다.</p>\n<hr />\n<p>당신은 눈에 띄게 흔들리는 적에게 외치며 항복하도록 설득하려고 합니다. 당신의 전략에 따라 적의 의지 DC에 대한 @Check[deception|defense:will], @Check[diplomacy|defense:will] 또는 @Check[intimidation|defense:will] 판정을 시도하여 적의 항복을 위한 주장을 합니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 적은 즉시 항복하고 동료들도 항복하도록 설득하려고 합니다. 당신과 당신의 동료들은 1분 동안 그림자 침입자에게 호소하는 판정에 +1 상황 보너스를 얻습니다.</p>\n<p><strong>성공</strong> 적은 당신의 말을 마음에 새기고 즉시 당신에게 항복합니다.</p>\n<p><strong>실패</strong> 적은 당신의 시도를 무시하고 계속 싸웁니다.</p>\n<p><strong>결정적 실패</strong> 당신의 주장은 심각하게 잘못되었거나 우스꽝스럽습니다. 적은 당신의 말을 무시하고 계속 싸웁니다. 당신은 1분 동안 그림자 침입자에게 호소하는 판정에 -1 상황 패널티를 받습니다.</p>"
+    },
+    "Approach Duneshadow": {
+      "name": "둔섀도우 접근",
+      "description": "<p>PC들이 둔섀도우(Duneshadow)의 흔적을 추적하면, 먼 언덕 위에서 그가 간헐적으로 나타나거나, 그의 울부짖는 소리를 듣거나, 그가 근처에 있음을 알리는 다른 징후들을 감지하기 시작합니다. 그 낙타는 매우 교활하고 은밀하여, 열기 섬광을 이용해 자신의 움직임을 숨기고, 사냥꾼들의 다음 행동을 예측하며, 지형을 능숙하게 이용합니다. 그러는 동안 그의 경로는 PC들을 브레이즌 픽스(Brazen Peaks)의 구릉지대 깊숙이 인도합니다.</p>\n<p>둔섀도우(Duneshadow)에게 접근하려는 시도는 1시간이 걸리는 느리고 신중한 행위이며, 그 동안 각 PC는 다음 옵션 중에서 선택한 기술 숙련도 검사를 시도합니다: @Check[acrobatics|dc:37] 또는 @Check[athletics|dc:37] (지름길을 통해 신속하게 접근하기 위해), @Check[deception|dc:38] (둔섀도우(Duneshadow)가 잘못된 방향으로 도망치도록 속이기 위해), @Check[nature|dc:35] (둔섀도우(Duneshadow)를 진정시키고 위협적이지 않게 보이기 위해), @Check[performance|dc:34] (진정시키는 음악으로 둔섀도우(Duneshadow)의 흥미를 끌기 위해), 또는 @Check[stealth|dc:36] (탐지되지 않고 접근하기 위해).  이러한 기술 중 어느 것에도 전승 기술을 대체할 수 있으며, DC를 2만큼 감소시킵니다. 둔섀도우(Duneshadow)에게 도달하려면, 파티는 네 번 성공적으로 접근해야 합니다. 대성공은 두 번의 성공으로 계산되며, 대실패는 한 번의 성공을 무효화합니다. 이로 인해 총 성공 횟수가 두 번 이하로 줄어들면, 둔섀도우(Duneshadow)는 도망치고 PC들은 그의 위치를 다시 처음부터 탐색해야 합니다.</p>"
+    },
+    "Assessing Tatzlford's Defenses": {
+      "name": "타즐포드의 방어력 평가",
+      "description": "<p>파티는 타즐포드를 둘러보며 마을 방어의 개선 가능성을 평가하는 데 한 시간을 소요합니다.  당신은 방벽 설치가 도움이 된다는 결론을 자동적으로 내리게 되며, 아래의 이렉트 배리케이드 활동에 접근할 수 있게 됩니다. 추가적인 방어 개선 사항을 파악하기 위해 DC 23 방어 능력 검사 또는 DC 27 전쟁 왕국 능력 검사를 한 번 시도하십시오.  이를 통해 아래의 포스트 스나이퍼스, 프리페어 파이어팟츠, 리크루트 와일드라이프, 혹은 셋 트랩 활동에 접근할 수 있게 될 가능성이 있습니다.  만약 플레이어들이 스스로 그러한 아이디어들을 생각해내거나 (혹은 당신의 재량에 따라, 비슷한 아이디어라면) 검사 결과와 관계없이 해당 활동에 접근하게 됩니다.</p>\n<hr />\n<p><strong>극적인 성공</strong> 파티는 네 가지 추가적인 방어 행동 모두를 얻습니다.</p>\n<p><strong>성공</strong> 파티는 무작위로 결정된 두 가지 추가적인 방어 행동을 얻습니다.</p>\n<p><strong>실패</strong> 파티는 무작위로 결정된 한 가지 추가적인 방어 행동을 얻습니다.</p>\n<p><strong>극적인 실패</strong> 이렉트 배리케이드 방어만이 PC들에게 제시됩니다.</p>"
+    },
+    "Azata's Grace": {
+      "name": "아자타의 은총",
+      "description": "<p><strong>측면</strong> 셀레스티얼</p>\n<p><strong>발동</strong> <span class=\"action-glyph\">2</span> 명령, 상호작용</p>\n<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> <em>모나크</em>는 데스나의 시노슈어 궁전으로 통하는 통로를 열고 당신의 영혼에 그 안에서 춤추고 즐거워하는 아자타들의 은총을 불어넣습니다. 당신은 최대 및 현재 체력이 모두 증가하는 50의 추가 체력을 얻으며, 질서 피해에 대한 저항력 10을 얻습니다. 또한 @UUID[Compendium.pf2e.adventure-specific-actions.Item.EbF9U21iMu0JkTzG]{Righteous Call} 기프트의 효과를 얻습니다. 이 기프트의 일일 사용 횟수를 소모하지 않습니다.</p>\n<p>당신은 효과를 해제할 수 있습니다. 그렇게 한다면, 무지개 같은 빛의 파동 형태로 혼돈의 힘을 방출하여 유물이 @UUID[Compendium.pf2e.spells-srd.Item.uEyfLoFQsRKBRIcB]{Confusing Colors}을 시전하게 합니다. <em>스친틸레이팅 패턴</em> 시전 효과는 당신의 아군에게 영향을 미치지 않습니다.</p>"
+    },
+    "Beginner's Luck": {
+      "name": "초보자의 행운",
+      "description": "<p><strong>측면</strong>  럭</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">r</span>  엔비전</p>\n<p><strong>빈도</strong> 하루에 한 번</p>\n<p><strong>발동 조건</strong> 당신이 숙련되지 않은 d20 굴림을 시도할 때</p>\n<hr />\n<p><strong>효과</strong> 당신의 숙련 보너스를 당신의 레벨의 절반과 같게, 또는 유물이 7레벨 이상이라면 당신의 레벨과 같게 취급합니다. 그런 다음 두 번 굴리고, 두 결과 중 더 나은 것을 선택합니다. 이것은 당신이 기술의 숙련된 행동을 사용할 수 있게 해주지 않습니다.</p>"
+    },
+    "Blend In": {
+      "name": "자연스럽게 섞이기",
+      "description": "<p><strong>극복</strong> @Check[deception|dc:35], @Check[society|dc:37], @Check[stealth|dc:35]</p>\n<hr />\n<p>때때로 북적이는 파티를 통과하는 가장 좋은 방법은 자연스럽게 행동하고 군중에 합류하는 것입니다.</p>\n<p>만약 PC가 성공적으로 섞여든다면, 그들에게 손님 중 한 명에게 이상한 점이 있다는 것을 알아차리게 하기 위해 비밀 @Check[perception|dc:34|traits:secret]을 굴립니다. 성공 시, 그들에게 변장 해제 기회에 대해 알려주십시오.</p>"
+    },
+    "Breaking and Entering": {
+      "name": "침입 및 불법 침입",
+      "description": "<p><strong>극복하십시오</strong> @Check[acrobatics|dc:37], @Check[athletics|dc:35], @Check[nature|dc:35],@Check[stealth|dc:35], @Check[thievery|dc:35]</p>\n<hr />\n<p>PC들은 벽을 기어오르고, 경비견들을 진정시키고, 경비병들에게서 숨고, 문을 열었습니다.</p>\n<hr />\n<p><strong>특별히</strong> PC가 성공적으로 침입에 성공한다면, @Check[perception|dc:35|traits:secret]을 시도하여 경비병이 휴대하거나 다소 손이 닿기 어려운 곳에 있는 열쇠 세트를 발견할 수 있으며, 해당 PC는 열쇠 훔치기 기회를 얻게 됩니다.</p>"
+    },
+    "Breaking the Chains": {
+      "name": "쇠사슬을 끊다",
+      "description": "<p><strong>필요 조건</strong> 당신들은 이 단계의 다른 세 가지 난관을 극복하였습니다.</p>\n<p><strong>극복</strong> 성공 2회; @Check[athletics|dc:37], @Check[thievery|dc:33]</p>\n<hr />\n<p>포로들은 쇠창살 뒤에 갇혀 벽에 쇠사슬로 묶여 있습니다. 당신들은 가능한 한 조용히 이 속박을 풀어야 합니다. 당신들이 이 난관을 극복하면, 엑사비수와 그녀의 조수 한 명을 해방시키고 4단계: 탈출을 시작할 수 있습니다.  \"모두가 아닌\" 난관을 참조하십시오.</p>"
+    },
+    "Build Connections": {
+      "name": "관계를 쌓으십시오.",
+      "description": "<p>당신은 하루를 높은 곳에 있는 친구를 사귀는 데 바칩니다. 일반적으로 자신을 파티에 초대하고, 나중에 보답받을 작은 호의를 베풀고, 전반적으로 자신감과 능력의 분위기를 풍기는 방식으로 말입니다. @Check[crafting|dc:36], @Check[diplomacy|dc:36], @Check[performance|dc:36] 또는 적절한 로어 판정을 시도하십시오. 결과는 당신의 노력의 영향을 결정합니다. 당신이 @UUID[Compendium.pf2e.feats-srd.Item.iCv8KTZ5PcF4GqeV]{Leverage Connections} 스킬 특성을 가지고 성공적으로 굴림을 했을 경우, 대신 결정적 성공을 얻습니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 1달 동안, 여기에 나열된 휴식 활동을 추구하는 당신의 기술 판정에 +1 상황 보너스를 얻습니다. 또한 당신 또는 당신과 함께 일하는 아군이 이러한 휴식 활동 중 하나에 대한 기술 판정을 시도할 때 사용할 수 있는 단일 호의를 얻습니다. 그 생물은 두 번 굴릴 수 있으며 더 나은 결과를 사용할 수 있습니다. 그 후 호의는 상환된 것으로 간주됩니다. 호의를 요청하는 것은 행운 효과입니다.</p>\n<p><strong>성공</strong> 1주일 동안, 여기에 나열된 휴식 활동에 대한 당신의 기술 판정에 +1 상황 보너스를 얻습니다.</p>\n<p><strong>결정적 실패</strong> 실수로 당신은 당황스러운 상황에 처하고, 소문은 그 사건을 널리 퍼뜨립니다. 3일 동안, 여기에 나열된 휴식 활동에 대한 기술 판정에 -1 상황 패널티를 받습니다.</p>"
+    },
+    "Build Infirmary": {
+      "name": "병영 건설",
+      "description": "<p><strong>필요 조건</strong> 제작 (숙련), 의술 (숙련), 또는 고용된 의료진; 조직된 전문가들</p>\n<hr />\n<p>시타델 알타에린 내의 방 하나를 전용 의무실로 지정하십시오. 완료되면, 의무실은 의술 기술 행동에 필요한 치료사의 도구 요구 사항을 충족하며, 현장에서 행하는 의술 판정에 +2 상황 보너스를 부여합니다. 이 업그레이드에는 20일의 작업과 @Check[crafting|dc:25] 또는 @Check[medicine|dc:25] 판정이 필요합니다.</p>"
+    },
+    "Build Library": {
+      "name": "빌드 라이브러리",
+      "description": "<p><strong>필요 조건</strong> 제작(숙련), 또는 어떤 전승(숙련), 혹은 고용된 책 제작자; 조직된 전문가들</p>\n<hr />\n<p>시타델 알타에린 내부의 방 하나를 도서관으로 사용할 방을 선택하십시오. 완성되면, 도서관은 PC가 현장에 있는 한 아케인 스펠 빌리기, 위조 생성, 필사 해독, 연금술 식별, 마법 식별, 스펠 습득, 지식 상기와 같은 기술 숙련 검사에 +2 상황 보너스를 제공합니다. 이 업그레이드는 20일의 작업과 @Check[crafting|dc:25] 또는 전승 숙련 검사가 필요합니다.</p>"
+    },
+    "Build Training Facility": {
+      "name": "훈련 시설 건설",
+      "description": "<p><strong>필요 조건</strong> 아래 나열된 기술의 전문가 또는 고용된 강사; 조직적인 전문가들</p>\n<hr />\n<p>시타델 알타에린에서 단일 캐릭터 클래스를 위한 훈련 구역으로 사용할 방을 선택하십시오(각각 다른 클래스에 전념하는 여러 훈련 시설을 가질 수 있습니다). 완료되면 훈련 시설은 선택된 클래스에 대한 재훈련 다운타임 활동을 사용할 때 강사의 역할을 수행하며, 업적 또는 기술 향상 재훈련에 필요한 시간을 2일, 클래스 특징 재훈련에 필요한 시간을 1주일 단축합니다. 이 업그레이드에는 40일의 작업이 필요합니다.</p>\n<p>시설 건설에는 해당 클래스에 따라 아래 나열된 기술을 사용하여 DC 25 기술 숙련 검사가 필요합니다. 클래스에 여러 기술이 나열되어 있는 경우, PC는 원하는 기술을 선택할 수 있습니다(단, 위의 필요 조건 항목에 명시된 대로 선택한 기술의 전문가여야 합니다).</p>\n<ul>\n<li>알케미스트 @Check[crafting|dc:25]</li>\n<li>바바리안 @Check[athletics|dc:25]</li>\n<li>바드 @Check[occultism|dc:25] 또는 @Check[performance|dc:25]</li>\n<li>챔피언 @Check[religion|dc:25]</li>\n<li>클레릭 @Check[religion|dc:25]</li>\n<li>드루이드 @Check[nature|dc:25]</li>\n<li>파이터 @Check[acrobatics|dc:25] 또는 @Check[athletics|dc:25]</li>\n<li>몽크 @Check[acrobatics|dc:25] 또는 @Check[athletics|dc:25]</li>\n<li>레인저 @Check[athletics|dc:25], @Check[nature|dc:25] 또는 @Check[survival|dc:25]</li>\n<li>로그 @Check[acrobatics|dc:25] 또는 @Check[thievery|dc:25]</li>\n<li>소서러 @Check[arcana|dc:25], @Check[nature|dc:25], @Check[occultism|dc:25] 또는 @Check[religion|dc:25]</li>\n<li>위저드 @Check[arcana|dc:25]</li>\n</ul>"
+    },
+    "Build Workshop (Crafting)": {
+      "name": "빌드 워크숍 (크래프팅)",
+      "description": "<p><strong>필요 조건</strong> 제작(숙련), 특수 제작(어떤 것이든), 또는 고용된 전문가; 조직된 전문가들</p>\n<hr />\n<p>@UUID[Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]{Specialty Crafting} 특성 아래 나열된 특수 제작 기술 중 하나를 선택하여 시타델 알타에린의 방 하나를 특정 제작 기술을 위한 제작 구역으로 사용할 수 있습니다.  각각 고유한 기술에 전념하는 여러 개의 작업장을 가질 수 있습니다. 작업장 사용은 제작 판정에 +1 상황 보너스 또는 해당 작업장의 특수 기술과 관련된 제작 기술 판정에 +3 상황 보너스를 부여합니다. 이 업그레이드는 완료하는 데 20일의 작업과 @Check[crafting|dc:25] 판정이 필요합니다.</p>"
+    },
+    "Chained Charge": {
+      "name": "체인드 차지",
+      "description": "<p>당신은 스트라이드를 하고, 이동의 끝에 터스크 스트라이크를 합니다. 만약 당신이 사슬로 연결된 아군으로부터 15피트 이상 멀리 이동한다면, 그들을 당신 뒤 15피트 거리의 가장 가까운 개방된 공간으로 끌어옵니다. 당신이 공격한 생명체는 @Check[reflex|dc:35] 내성 굴림에 성공해야 하며, 그렇지 않으면 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} 합니다.</p>"
+    },
+    "Check the Walls": {
+      "name": "벽을 확인하십시오.",
+      "description": "<p>플레이어 캐릭터(PC)는 하루 종일 벽을 연구하고 순찰합니다. 그 후 PC는 @Check[arcana|dc:32] 검사 또는 @Check[crafting|dc:27] 검사를 시도합니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> PC는 서쪽 벽면의 보호 주문에 이상을 발견합니다. 돌과 마법의 미묘한 왜곡으로, 반복적인 긴장의 징후입니다. 이러한 긴장의 명확한 원인은 보이지 않지만, 왜곡은 숨겨진 원인이 인근 지하 어딘가에 있음을 시사합니다. 불행히도, 도시 문서와 건축 계획에 대한 추가 조사에서 해당 지역에 지하 챔버가 존재한다는 사실이 밝혀지지 않았습니다. 따라서 그러한 챔버가 존재하지 않거나, 만약 존재한다면 기록이 잘못되었거나 누락되었음을 시사합니다.</p>\n<p><strong>성공</strong> PC는 서쪽 벽면의 장벽에 이상을 발견합니다. Alljoiner Garnis의 우려를 확인하기에 충분하지만, 긴장의 원인을 암시하기에는 충분하지 않습니다.</p>\n<p><strong>실패</strong> PC는 도시 장벽에 대한 기본적인 정보를 파악할 수 있었지만, 구조적 결함을 찾기에는 충분하지 않습니다. PC가 Alljoiner Garnis에게 보고하면, 그녀는 여전히 알아야 할 것이 더 있다고 느끼기 때문에 PC에게 의심을 확인하기 위해 다시 시도할 것을 제안합니다.</p>\n<p><strong>결정적 실패</strong> PC는 동쪽 벽면을 따라 결함이라고 믿는 것을 발견하지만, 실제로는 고대 마법 디자인의 특징일 뿐입니다. PC가 이러한 발견을 Alljoiner Garnis에게 보고하면, 그녀는 Archmage Nalruven에게 정보를 전달하고, 그는 즉시 해당 지역을 조사하여 PC의 오류를 정확하게 지적합니다. PC의 이러한 실패는 Alljoiner Garnis와 Mountainheart Chiselrock 모두가 Kovlar에서 PC의 노력을 덜 지원하게 만듭니다.</p>"
+    },
+    "Chilling Paralysis": {
+      "name": "칠링 패럴리시스",
+      "description": "<p><strong>빈도</strong> 시간당 한 번</p>\n<hr />\n<p>당신의 비정상적으로 차가운 손길이 근육을 얼리고 관절을 고정시켜 피해자들이 떨며 움직이지 못하게 합니다. 근접 무기 또는 무장 해제 스트라이크를 목표물에 시도하십시오. 적중하면 모든 스트라이크의 일반 효과 외에도, 목표물은 @Check[fortitude|against:class-spell] 내성 굴림을 시도해야 합니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 목표물은 영향을 받지 않습니다.</p>\n<p><strong>성공</strong> 초자연적인 추위로 인해 목표물이 떨고 흔들리며, 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} 합니다.</p>\n<p><strong>실패</strong> 초자연적인 추위로 목표물이 1라운드 동안 마비되고, 그 후 1라운드 동안 속도가 1 감소합니다.</p>\n<p><strong>결정적 실패</strong> 목표물은 추위에 의해 제자리에 얼어붙고, 1분 동안 @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} 입니다. 각 턴이 끝날 때마다 새로운 내성 굴림을 시도할 수 있으며, DC는 각 시도마다 누적적으로 1씩 감소합니다. 목표물이 회복되면 1라운드 동안 속도가 1 감소합니다.</p>"
+    },
+    "Clean": {
+      "name": "깨끗한",
+      "description": "<p>당신은 하루 종일 부서진 가구를 치우고, 쓰레기를 버리고, 수리를 시작할 수 있을 만큼 방을 정리하는 데 시간을 보냅니다. 시타델 알타에레인은 다른 기본적인 수리 활동을 시작하기 전에 8일의 청소가 필요합니다. 청소에는 제작 확인이 필요하지 않으며, 금화가 들지도 않습니다.</p>"
+    },
+    "Clear Courtyard": {
+      "name": "맑은 안뜰",
+      "description": "<p><strong>필요 조건</strong> 제작(숙련) 또는 고용된 석공; 조직적인 노동자</p>\n<hr />\n<p>당신은 무너진 북쪽 벽을 수리하고, 침수된 움푹 들어간 지역의 물을 빼내고 메우며, 잡초를 제거하는 작업을 합니다. 이 활동에는 6일의 작업과 @Check[crafting|dc:15] 확인이 필요합니다.</p>"
+    },
+    "Communicate From Beyond": {
+      "name": "저승에서의 교신",
+      "description": "<p><strong>필요조건</strong> 당신의 의사소통 시도를 목격할 학생들이 있어야 합니다. 무시할 만한 부피의 물건을 조작하거나, 가루로 글씨를 쓰거나, 불빛으로 패턴을 만드는 등 적절한 의사소통 수단이 있어야 합니다.</p>\n<hr />\n<p>당신은 당신의 현실 단계에서 학생들에게 간단한 메시지를 전달하려고 합니다. 다음 중 시도하십시오.</p>\n<p><span style=\"text-decoration: underline;\">1-2레벨</span></p>\n<ul>\n<li>@Check[athletics|dc:15],</li>\n<li>@Check[diplomacy|dc:15]</li>\n<li>@Check[occultism|dc:15], 또는</li>\n<li>@Check[thievery|dc:15] 확인</li>\n</ul>\n<p><span style=\"text-decoration: underline;\">3-4레벨</span></p>\n<ul>\n<li>@Check[athletics|dc:18],</li>\n<li>@Check[diplomacy|dc:18]</li>\n<li>@Check[occultism|dc:18], 또는</li>\n<li>@Check[thievery|dc:18]</li>\n</ul>\n<p>다음과 같은 결과를 얻습니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 최대 10단어의 구절을 전달합니다.</p>\n<p><strong>성공</strong> 학생들에게 한 단어를 명확하게 전달합니다.</p>\n<p><strong>실패</strong> 학생들은 당신의 의사소통을 이해하지 못합니다.</p>\n<p><strong>결정적 실패</strong> 학생들은 당신의 메시지를 잘못 해석하여 GM이 결정한 잘못된 정보를 얻습니다.</p>"
+    },
+    "Contact Steel Falcons": {
+      "name": "강철 매(Steel Falcons)에 연락하십시오.",
+      "description": "<p><strong>극복</strong> @Check[andoran-lore|dc:32], @Check[diplomacy|dc:36], @Check[society|dc:34]</p>\n<hr />\n<p>플레이어 캐릭터는 카타페시에서 강철 매(Steel Falcons)에게 은밀히 접촉하려고 합니다.</p>\n<hr />\n<p><strong>성공</strong> 플레이어 캐릭터는 강철 매와의 만남을 주선합니다. 그들은 억압받는 자들을 해방한다는 명목으로 플레이어 캐릭터와 같은 강력한 작전 요원들과 힘을 합치기를 열망하며, 정보 수집 성공과 동등한 수준의 다가오는 경매에 대한 정보를 제공할 수 있습니다.  게다가, 강철 매는 플레이어 캐릭터에게 엣지 포인트(Edge Point) 1개를 줍니다.</p>\n<p><strong>실패</strong> 플레이어 캐릭터는 접촉하는 데 실패합니다.</p>\n<p><strong>치명적인 실패</strong> 플레이어 캐릭터의 서투른 시도가 강철 매를 놀라게 합니다. 이 활동에 대한 향후 시도에는 -2 상황 패널티가 적용됩니다.</p>\n<hr />\n<p><strong>특수</strong> 플레이어 캐릭터가 이 기회에서 성공하지 못하면, 강철 매는 독자적으로 플레이어 캐릭터의 훔치기와 겹치고, 잠재적으로 방해할 수 있는 자체적인 훔치기를 시작하기로 결정합니다.</p>"
+    },
+    "Convince Mengkare": {
+      "name": "멩카레를 설득하십시오.",
+      "description": "<p>당신은 금룡 멩카레와 몇 분 동안 논쟁을 벌이고, 그의 의심 점수를 높여 프라미스 시민들을 희생시키려는 그의 계획을 재고하게 만들 수 있는 정보를 제시했습니다. 당신이 제시한 주장과 관련된 주요 기술 중 하나를 선택하고, 해당 기술을 사용하여 판정을 시도하십시오. 필요한 DC는 주장 대 영광 섹션에 표시된 대로 사용된 기술에 따라 다릅니다.</p>\n<hr />\n<p><strong>극적인 성공</strong> 멩카레의 의심 점수가 2 증가합니다.</p>\n<p><strong>성공</strong> 멩카레의 의심 점수가 1 증가합니다.</p>\n<p><strong>실패</strong> 멩카레의 의심 점수를 증가시키지 못합니다.</p>\n<p><strong>극적인 실패</strong> 당신의 주장이 약화됩니다. 멩카레의 의심 점수가 1 감소합니다.</p>"
+    },
+    "Costar": {
+      "name": "코스타",
+      "description": "<p><strong>발동</strong> 당신과 같은 공연에서 다른 공연자가 트릭 확인을 시도하려고 합니다.</p>\n<p><strong>필요 조건</strong> 그 공연자는 당신의 도움을 받아들이려고 합니다.</p>\n<hr />\n<p>당신은 공연에서 다른 공연자가 트릭을 성공시키도록 도와, 트릭 확인에 보너스를 부여할 수도 있습니다. 당신이 도우려는 트릭 확인과 같은 확인을 시도하십시오. 코스타의 DC는 트릭 확인의 DC와 같습니다. NPC는 코스타를 할 수 없습니다. 이 반응은 그 외에는 @UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{Aid} 행동과 같습니다.</p>"
+    },
+    "Cram": {
+      "name": "크램",
+      "description": "<p><strong>필요 조건</strong> 당신은 이니시에이트, 어텐던트, 또는 컨버전트이며, 당신의 주요 또는 보조 분야의 분야 레벨이 제한보다 2레벨 이상 낮습니다.</p>\n<hr />\n<p>당신은 학업이 뒤처지고 있다는 것을 깨닫고, 아마도 해서는 안 될 정도로 더 많은 공부를 합니다. 당신은 활동 요구 사항을 충족하는 분야에서 각각 두 번씩 공부합니다. 하지만 추가적인 공부에는 대가가 따릅니다. 다음 번에 당신이 공부 휴식 활동을 할 때까지, 당신은 추가적인 시간을 벼락치기 공부하는 것으로 인해 특히 피곤합니다; 모험의 각 날이 시작될 때, 당신은 @Check[flat|dc:8] 확인에 성공해야 하거나 그 날 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued} 합니다.</p>"
+    },
+    "Creative Spark": {
+      "name": "창조적 스파크",
+      "description": "<p><strong>능력</strong> 포지</p>\n<p><strong>발동</strong> 2 명령, 상호작용</p>\n<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 당신은 유물을 부싯돌에 부딪혀 당신을 도울 @UUID[Compendium.pf2e.pathfinder-bestiary-3.Actor.9KZRWATLOGP7QGyM]{Fire Wisp}을 소환합니다. 이것은 당신 옆의 비어있는 칸에 나타납니다. 불의 요정은 전투에서 행동하지 않지만, 당신이 제작할 때 당신을 도울 수 있습니다. 당신은 대장장이 및 일반 금속 세공과 관련된 제작 확인에 +1 보너스를 얻습니다. 이것은 9레벨에서 +2, 17레벨에서 +3으로 증가합니다. 하루에 한 번, 대장장이와 관련된 제작 확인에서 치명적인 실패를 굴리면 실패 대신 실패가 됩니다. 요정은 대장장이 작업 시 작업대의 필요성을 대체하지만, 다른 장비와 도구는 여전히 필요합니다. 요정은 최대 10분 동안 또는 당신이 해산시킬 때까지 남아 있습니다. 당신은 요정에게 작은 크기의 숯이나 장작 하나, 또는 기름 한 파인트를 먹이면 이 지속 시간을 추가로 10분 연장할 수 있습니다.</p>"
+    },
+    "Cunning Disguise": {
+      "name": "교활한 변장",
+      "description": "<p><strong>극복</strong> @Check[deception|dc:35] 또는 DC 33 (아래 참조)</p>\n<hr />\n<p>PC들은 자신의 진짜 정체를 숨기고, 거짓 인물에 의존하여 저택에 들어갑니다. PC는 속임수 대신 선택한 변장과 밀접하게 관련된 기술을 사용할 수 있습니다. 예를 들어, 경비병에게는 위협, 상인에게는 길드 지식, 또는 음식과 관련된 어떤 지식이라도 출납 담당자에게 사용할 수 있습니다.</p>\n<p>만약 PC가 교묘한 변장에 성공하면, 그들에게 손님 중 한 명에 대해 이상한 점을 알아차리도록 비밀 @Check[perception|dc:34|traits:secret]을 굴립니다. 성공하면, 그들에게 변장 해제 기회에 대해 알려줍니다.</p>"
+    },
+    "Curiosity": {
+      "name": "호기심",
+      "description": "<p>지식에 대한 갈망은 강력한 동기가 될 수 있습니다. 이러한 집중은 세상을 조금 더 오래 보고 싶어하는 욕망에 주로 얽매여 있는 젊거나 순수한 영혼들에게서 흔히 나타납니다. 당신은 인접한 살아있는 대상에 손을 뻗어 닿고, 잠시 동안 당신의 손은 그들의 몸을 통과하면서 비물질적인 상태가 됩니다. 대상은 @Check[will|against:class-spell] 내성 굴림을 시도해야 하며, 그 후에는 이 힘에 면역이 됩니다.</p>\n<hr />\n<p><strong>극적인 성공</strong> 대상은 영향을 받지 않습니다.</p>\n<p><strong>성공</strong> 당신은 대상의 모호한 표면적인 생각을 감지하고, 그들의 지능 수정치가 당신의 지능 수정치보다 높은지, 같은지, 낮은지 알아냅니다.</p>\n<p><strong>실패</strong> 성공과 같지만, 당신은 대상의 마음속을 탐색하여 당신이 텔레파시로 그들에게 던지는 질문에 대한 답을 알아낼 수 있습니다. 대상은 당신의 영혼 힘의 DC에 대한 @Check[deception|against:class-spell] 판정을 시도할 수 있습니다. 대상이 성공하면 당신은 답을 알지 못하며, 극적인 성공 시에는 대상이 당신이 사실이라고 믿는 거짓된 답을 합니다.</p>\n<p><strong>극적인 실패</strong> 실패와 같지만, 당신이 텔레파시 질문과 그 답을 알아낸 후에 대상은 이 사건에 대한 모든 기억을 잃습니다.</p>"
+    },
+    "Dancing Shadow": {
+      "name": "춤추는 그림자",
+      "description": "<p><strong>측면(Aspect)</strong> 섀도우</p>\n<p><strong>선행 조건(Prerequisites)</strong> 유물이 무기입니다.</p>\n<p><strong>발동(Activate)</strong> <span class=\"action-glyph\">2</span> 명령, 상호 작용</p>\n<p><strong>빈도(Frequency)</strong> 시간당 한 번</p>\n<hr />\n<p><strong>효과(Effect)</strong> 당신의 유물의 그림자가 당신의 유물에서 분리되어 공중을 통해 춤을 추며 적을 공격합니다. 당신이 유물을 발동할 때, 목표를 지정하십시오. 유물의 그림자는 적과 인접할 때까지 최대 60피트 날아간 다음, 그것에 대해 스트라이크(Strike)를 가하여 성공 시 [[/r 5d8]] 피해를 입히거나 치명타 성공 시 두 배의 피해를 입힙니다. 피해 유형은 일반적으로 당신의 유물이 입히는 모든 유형입니다. 그림자는 유물을 사용한 당신의 공격 보너스를 사용하며, 다중 공격 패널티에 사용되고 기여합니다. 이 발동이 효력을 가지는 동안, 당신은 단일 액션을 사용할 수 있는데, 이것은 공격과 집중 특성을 가지며, 그림자가 같은 목표에 대해 또 다른 스트라이크(Strike)를 가하도록 정신적으로 지시합니다. 그림자는 그 목표가 0 히트 포인트로 감소하거나, 그 목표가 당신으로부터 400피트 이상 이동하거나, 그 목표가 완전한 어둠과 같은 그림자가 드리울 수 없는 지역으로 이동할 때까지 지속됩니다. 어느 것이 먼저 오든 상관없습니다.</p>\n<p>그림자는 공간을 차지하지 않으며, 측면 공격을 허용하거나, 생물이 가질 수 있는 다른 속성을 가지지 않으며, 선택된 적을 자동으로 따릅니다. 그림자는 스트라이크(Strike) 이외의 다른 공격을 할 수 없으며, 무기에 영향을 미치는 업적이나 주문은 그림자에 적용되지 않습니다.</p>"
+    },
+    "De-Animating Gestures (False)": {
+      "name": "디애니메이팅 제스처 (거짓)",
+      "description": "<p>당신은 당신이 볼 수 있거나 들을 수 있는 30피트 이내의 단일 구조체를 지정합니다. 그 구조체는 1분 동안 @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened 1}이 되며, 24시간 동안 이 능력에 일시적으로 면역이 됩니다. 그것은 추가 행동을 스트라이드 또는 스트라이크에만 사용할 수 있습니다.</p>"
+    },
+    "De-Animating Gestures (True)": {
+      "name": "디애니메이팅 제스처 (진실)",
+      "description": "<p>당신은 30피트 이내에 당신이 볼 수 있거나 들을 수 있는 단일 구조체를 지정합니다. 그 구조체는 1분 동안 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}입니다.</p>"
+    },
+    "Deadly Spark": {
+      "name": "치명적인 스파크",
+      "description": "<p><strong>측면</strong> 에어</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 명령, 상호작용</p><hr /><p><strong>효과</strong> 유물에서 20피트 이내의 생명체를 향해 불꽃이 튀어나옵니다. 이 불꽃은 @Damage[(1+max(0,floor((@actor.level -2)/4)))d12[electricity]] 피해를 입힙니다 (@Check[reflex|against:class-spell|basic] 내성 굴림). 피해량은 6레벨에 1d12만큼 증가하고, 그 후 4레벨마다 1d12씩 추가로 증가합니다.</p>"
+    },
+    "Deadly Traps": {
+      "name": "치명적인 함정",
+      "description": "<p><strong>극복</strong> 성공 2회; @Check[arcana|dc:34] 또는 @Check[thievery|dc:34]</p>\n<hr />\n<p>PC들은 도둑을 죽이기 위해 설치된 위험한 함정을 무력화하거나 비활성화하고 폭발적인 소란을 일으킵니다.</p>\n<p><strong>특수</strong> PC가 이 장면을 극복하기 위한 판정에 실패하면, 해당 PC에게 @Damage[16d6[untyped]] 피해를 입히는 함정이 발동합니다 (@Check[reflex|dc:36|basic]). PC가 치명적으로 실패하면, 이 피해는 장면에 있는 모든 PC에게 입힙니다.</p>"
+    },
+    "Deduce Traditions": {
+      "name": "디듀스 트래디션즈",
+      "description": "<p>당신은 통치자의 성격을 해석하고, 드워프 전통에 대한 당신의 지식을 활용하며, 추론을 통해 드워프 통치자 길드에서 가장 중요하게 여기는 기술이 무엇인지, 그리고 그 통치자의 호의를 얻을 가능성이 가장 높은 기술 유형이 무엇인지를 추측합니다.  전통 추론에는 정확한 결과를 얻기 위해 성공적인 @Check[perception|dc:30] 또는 성공적인 @Check[society|dc:25] 판정이 필요합니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 길드가 선호하는 기술 중 하나와 그 통치자의 회의주의(Skepticism) 값을 알게 됩니다.</p>\n<p><strong>성공</strong> 당신은 길드가 선호하는 기술 중 하나를 알게 됩니다.</p>\n<p><strong>실패</strong> 당신은 길드가 선호하는 기술을 하나도 알지 못합니다.</p>\n<p><strong>결정적 실패</strong> 당신은 잘못된 선호 기술을 알게 됩니다.</p>"
+    },
+    "Delusion": {
+      "name": "망상",
+      "description": "<p>당신은 속세의 감각을 속이는 환영을 짜냅니다. 하지만 영계와 현세 사이의 형이상학적 거리는 살아있는 관찰자에게 이 환영이 어떻게 보이는지 왜곡합니다. 언데드와 진실된 시각과 같은 환영 간파 능력을 가진 생물에게는 당신이 의도한 대로 이미지가 나타납니다. 다른 관찰자에게는 이러한 환영은 항상 섬뜩한 분위기를 띠게 됩니다. 피, 뼈, 그리고 그림자가 더 평범한 재료를 구성에서 대체합니다. 말은 날카로운 비명이나 저음의 으르렁거림과 비슷하게 왜곡되며 일반적으로 알아들을 수 없습니다. 당신은 속임수 판정에 +2 상태 보너스를 얻습니다.</p>\n<p>하루에 한 번, 당신은 다음 주문 중 하나를 5랭크 타고난 오컬트 주문으로 시전할 수 있습니다: @UUID[Compendium.pf2e.spells-srd.Item.HBJPsonQnWcC3qdX]{Mirage}, @UUID[Compendium.pf2e.spells-srd.Item.f8SBoXiXQjlCKqly]{Illusory Creature}, 또는 @UUID[Compendium.pf2e.spells-srd.Item.2oH5IufzdESuYxat]{Illusory Object}.</p>"
+    },
+    "Dematerialize": {
+      "name": "디머터리얼라이즈",
+      "description": "<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p>당신은 자신의 몸이 깜빡이고 희미해지도록 하여, 실제로 유령 같은 모습이 되고, 차례로 만지거나 만져질 수 없게 됩니다. 당신은 1라운드 동안 비물질적이 되며, 최대 5라운드까지 이 효과를 유지할 수 있습니다.</p>"
+    },
+    "Dispel a Disguise": {
+      "name": "변장  dispel",
+      "description": "<p><strong>필요조건</strong> 당신이 Blending In이나 Cunning Disguise를 사용할 때, 플레이어 캐릭터(PC)는 손님에게 이상한 점을 알아챘습니다.</p>\n<p><strong>극복</strong> @Check[arcana|dc:35], @Check[occultism|dc:33], @Check[perception|dc:37]</p>\n<hr />\n<p>PC는 에프미니아 팔스파 여남작에게는 보이는 것 이상의 무언가가 있다고 확신합니다. 그들은 옳습니다—그녀는 변장한 락샤샤, 릴룬입니다!</p>\n<hr />\n<p><strong>결정적 성공</strong> PC는 변장을 간파하고 마법 없이 락샤샤의 정체를 밝힐 방법을 찾습니다. 락샤샤들은 여기서 환영받지 못하는 존재는 아니지만, 릴룬의 본래 모습이 갑자기 드러나고 그녀가 놀라 소리를 지르자 많은 파티 참석자들의 주의를 끌게 됩니다. 인지도를 2 감소시킵니다 (최소 0).</p>\n<p><strong>성공</strong> PC는 마법 변장을 감지합니다. 이 기회를 극복하려면, PC는 마법으로 변장을 무효화하거나 @Check[deception|dc:40] 또는 @Check[intimidation|dc:40] 판정에 성공하여 여남작의 집중력을 흐트러뜨려 변장을 잠시 깨뜨려야 합니다. 이로 인해 그녀의 정체가 드러나며, 결정적 성공에서 설명한 대로 진행됩니다.</p>\n<p><strong>실패</strong> PC는 변장의 증거를 발견하지 못합니다.</p>\n<p><strong>결정적 실패</strong> PC는 변장의 증거를 발견하지 못하고, 그들의 면밀한 조사가 여남작의 큰 질책을 불러옵니다.</p>"
+    },
+    "Distract Guards": {
+      "name": "경비병들을 Distract 합니다",
+      "description": "<p>당신은 특정 경비병 집단을 순찰 경로 또는 근무 위치에서 벗어나게 하려고 시도합니다.  @Check[deception|dc:41] 판정을 시도하거나, 주문 효과를 사용할 수 있습니다. 주문 효과를 사용하는 경우 @Check[arcana|dc:41], @Check[nature|dc:41], @Check[occultism|dc:41] 또는 @Check[religion|dc:41] 판정(적절한 것)을 시도하여 성공 여부를 결정합니다. 경비병을 혼란시키려는 각 시도는 처음 혼란을 일으킨 순간부터 경비병의 반응까지 1분이 걸립니다.</p>\n<hr />\n<p><strong>극적인 성공</strong> 당신은 경비병들을 순찰 지역이나 근무 위치에서 당신이 선택한 성채 내의 어떤 지역으로 상당히 벗어나게 합니다. 경비병들은 1시간 후에 원래의 근무 위치로 돌아옵니다.</p>\n<p><strong>성공</strong> 당신은 경비병들을 순찰 지역이나 근무 위치에서 당신이 선택한 성채 내의 어떤 지역으로 벗어나게 합니다. 경비병들은 20분 후에 원래의 근무 위치로 돌아옵니다.</p>\n<p><strong>실패</strong> 당신은 경비병들을 혼란시키는 데 실패합니다. 다음 10분 안에 같은 경비병들을 혼란시키려는 시도는 판정에 -2의 패널티를 받습니다.</p>\n<p><strong>극적인 실패</strong> 위의 실패와 같지만, 경비병들은 당신이 그들을 혼란시키려 한다는 것을 깨닫고 건물 밖으로 당신을 에스코트합니다. 만약 특정 경비병 집단에 대해 이것이 당신의 세 번째 극적인 실패라면, 경비병은 당신을 체포합니다.</p>"
+    },
+    "Divine Retribution": {
+      "name": "디바인 레트리뷰션",
+      "description": "<p><strong>측면</strong> 셀레스티얼</p>\n<p><strong>선행 조건</strong> 유물은 무기입니다.</p>\n<p><strong>발동</strong> <span class=\"action-glyph\">2</span> 명령</p>\n<hr />\n<p><strong>효과</strong> 당신은 신성한 분노를 이용하여 지난 라운드에 당신이나 아군에게 피해를 입힌 대상을 골라내고 그 대상에 대한 신성한 복수심으로 당신의 유물을 채웁니다. 그 적에게 타격을 가하여 명중 시 추가 피해 주사위를 입힙니다. 만약 대상이 악이라면, 명중 시 당신의 다음 턴이 시작될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} (또는 치명타 시 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2}) 입니다.</p>"
+    },
+    "Diviner on Duty": {
+      "name": "디바이너 근무 중",
+      "description": "<p><strong>트리거</strong> 당신이 잠입 중 장애물 극복에 마법을 사용합니다.</p>\n<p><strong>극복</strong> 성공 3회: @Check[arcana|dc:35], @Check[deception|dc:37], @Check[nature|dc:35], @Check[occultism|dc:35], @Check[religion|dc:35]</p>\n<hr />\n<p>스칼렛 트라이어드의 보안 요원 중에는 매우 능숙한 디바이너가 있습니다! @UUID[Compendium.pf2e.spells-srd.Item.uNsliWpl8Q1JdFcM]{Discern Lies}, @UUID[Compendium.pf2e.spells-srd.Item.KHnhPHL4x1AQHfbC]{Mind Reading}, @UUID[Compendium.pf2e.spells-srd.Item.jwK43yKsHTkJQvQ9]{See the Unseen}, 그리고 @UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{Truesight} 와 같은 주문으로 이 디바이너는 당신이 사용할지도 모르는 대부분의 마법 계획을 간파할 수 있습니다.</p>\n<p>디바이너는 독이 아닌 마법의 위협을 감시하고 있습니다. 성공적인 @Check[deception|dc:33], @Check[thievery|dc:33] 또는 음식 관련 지식 확인을 통해 당신은 그녀가 섭취하는 독을 몰래 먹일 수 있습니다. 그녀의 인내 내성 굴림 보너스는 [[/r (1d20+23) #Fortitude Saving Throw]]{+23}이며, 성공적으로 독이 든 것을 먹이면 물러납니다. 성공적으로 독을 먹이지 못하면 당신의 인지력 포인트가 2 증가합니다.</p>"
+    },
+    "Dream Research": {
+      "name": "꿈 연구",
+      "description": "<p><strong>발동 조건</strong> 당신이 샤르윈 저택으로부터 5마일 이내에서 잠이 들 경우.</p>\n<p><strong>빈도</strong> 12시간에 한 번</p>\n<hr />\n<p>당신이 잠든 동안, 악몽에 가까운 꿈을 경험합니다. 이 꿈 속에서, 당신의 정신은 당신의 영혼으로부터 떠돌아다니며, 당신이 알고 있는 모든 것이 별들 사이의 어두운 곳으로 빨려 들어가 삼켜지는 것처럼 느껴집니다. 꿈을 꾸는 동안, 당신은 아직 완전히 조사하지 않은, 잠금 해제한 연구 주제 하나에 집중할 수 있습니다. 만약 당신이 파티가 이미 모든 연구 임계값을 발견한 주제를 선택한다면, 다른 주제로 즉시 변경할 수 있습니다.</p>\n<p>당신이 사용하는 기술과 판정의 DC는 해당 주제의 꿈 장소에 자세히 설명된 대로 다릅니다. 만약 당신이 저택 부지 내에서 꿈을 꾸지 않는다면, 악의에 대한 영적인 연결이 약해지고 당신은 판정에 -2 상태 패널티를 받습니다.</p>\n<hr />\n<p><strong>극적인 성공</strong> 당신은 2 RP를 얻습니다.</p>\n<p><strong>성공</strong> 당신은 1 RP를 얻습니다.</p>\n<p><strong>극적인 실패</strong> 당신은 악의를 너무 깊이 들여다보고, 악의가 당신의 시도를 눈치챕니다. 당신은 탐욕스러운 욕심에 기억을 잃기 직전에 정신적 연결을 끊는 데 성공합니다. 당신의 악의 조건 값을 1 증가시킵니다.</p>"
+    },
+    "Duty": {
+      "name": "의무",
+      "description": "<p>금욕적인 결의 또는 단순한 완고함이 이 집중의 핵심을 이룹니다. 죽은 자들은 자신의 육체가 그들의 시간을 넘어 지속되도록 요구할 수 없지만, 여전히 다른 사람들에게 그들의 강철 같은 의지를 부과할 수 있습니다. 이 집중은 살아있는 자들의 귀에 속삭이는 능력으로 표현됩니다. 당신은 당신이 볼 수 있는 30피트 이내의 목표물에게 속삭입니다. 그러면 목표물은 @Check[will|against:class-spell] 내성 굴림을 시도해야 하며, 그 후에는 이 힘에 면역이 됩니다.</p>\n<hr />\n<p><strong>극적인 성공</strong> 목표물은 당신의 속삭임을 듣지만, 그 외에는 영향을 받지 않습니다.</p>\n<p><strong>성공</strong> 목표물은 당신의 속삭임에 불안해하며 @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} 됩니다.</p>\n<p><strong>실패</strong> 목표물은 당신의 속삭임을 듣고 1분 동안, 또는 과업을 완료할 때까지, 또는 과업이 자기 파괴적이 되거나 다른 명백한 부정적인 영향을 미칠 때까지 당신이 제안한 행동 방침에 따라야 합니다. 당신이 제안하는 행동 방침은 목표물에게 논리적인 행동 방침처럼 보이도록 표현되어야 합니다.</p>\n<p><strong>극적인 실패</strong> 실패와 같지만 기본 지속 시간은 1시간입니다.</p>"
+    },
+    "Ease Burden": {
+      "name": "짐 덜기",
+      "description": "<p><strong>어스펙트</strong> 어스</p>\n<p>당신의 렐릭은 발밑의 땅에서 힘을 끌어와 짐을 가볍게 합니다. 당신의 렐릭이 당신의 몸에 있고 땅 위에 서 있는 동안, 당신은 과부하가 되기 전에 평소보다 1 더 많은 볼크를 운반할 수 있으며, 최대 볼크량이 2 증가합니다. 6레벨과 그 이후 4레벨마다 과부하가 되기 전에 운반할 수 있는 볼크량이 1 증가하고 최대 볼크량이 2 증가합니다.</p>"
+    },
+    "Elemental Attack": {
+      "name": "엘리멘탈 어택",
+      "description": "<p>공기, 흙, 불, 금속, 물, 나무 중에서 선택하십시오 (일단 당신이 모방자에게 이것을 선택하면 변경할 수 없습니다). 노페라보 모방자는 60피트 이내의 생명체를 목표로 삼고 그 속성의 폭발을 생성합니다. 그 생명체는 @Damage[4d6[@item.flags.pf2e.rulesSelections.damage]] (베기 (공기), 둔기 (흙, 물, 또는 나무), 관통 (금속), 또는 불 (불)) 피해를 입습니다 (@Check[reflex|dc:24|basic] 내성 굴림). 원소 공격은 적절한 원소 특성을 얻습니다.</p>"
+    },
+    "Elements of Creation": {
+      "name": "창조의 요소들",
+      "description": "<p><strong>능력</strong> 포지</p>\n<p><strong>선행 조건</strong> 크리에이티브 스파크 재능</p>\n<hr />\n<p>당신이 크리에이티브 스파크를 활성화하면, 불꽃 요정 외에 @UUID[Compendium.pf2e.pathfinder-bestiary-3.Actor.0HTju4vf8ADAAh2g]{Air Wisp}, @UUID[Compendium.pf2e.pathfinder-bestiary-3.Actor.YX0CqhKKtRzoLkuP]{Water Wisp}, 그리고 @UUID[Compendium.pf2e.pathfinder-bestiary-3.Actor.OPRuZ1cEuKkJGPMV]{Earth Wisp}를 당신 옆의 비어있는 칸에 소환할 수 있습니다. 일반적인 대지 요정과 달리, 소환된 대지 요정은 모루와 뿔 달린 딱정벌레가 합쳐진 작은 철제 생명체의 형상을 하고 있습니다. 불꽃 요정과 마찬가지로, 이 추가적인 요정들은 전투에 참여하지 않지만 당신이 제작 아이템을 만드는 동안 도울 수 있습니다. 네 마리의 요정이 모두 당신을 돕는 동안, 당신이 크리에이티브 스파크로부터 얻는 보너스는 두 배가 되고, 대장간과 관련된 제작 굴림의 결과는 굴림보다 한 단계 더 성공적인 결과를 얻게 됩니다.  게다가, 네 마리의 요정의 도움으로 금속 아이템 제작 시 대장간 도구 외의 다른 장비가 필요하지 않습니다. 요정들은 최대 10분 동안 지속되거나, 당신이 행동으로 모두 해산시킬 때까지 지속됩니다. 만약 당신이 불꽃 요정의 지속 시간을 연장한다면, 다른 요정들의 지속 시간 또한 연장됩니다.</p>"
+    },
+    "Erect Barricades": {
+      "name": "바리케이드를 세우다",
+      "description": "<p>벽, 골목, 심지어 길에 있는 틈도 나무, 나무토막, 통, 마차, 쓰레기, 심지어 뾰족한 막대기를 사용하여 바리케이드로 강화하여 마을로의 쉬운 통과를 막을 수 있습니다. 바리케이드를 세우려면 크래프팅 판정이 필요합니다. 이 활동은 하나 이상의 PC가 수행하여 하나 이상의 바리케이드를 만들 수 있습니다.</p>\n<hr />\n<p><strong>극적인 성공</strong> 바리케이드는 성공입니다. 방어군이 가드 액션을 취할 때, 그것은 기동 판정에 +2 아이템 보너스를 얻습니다. 바리케이드는 적의 공격으로 파괴되기 전에 두 번만 이 보너스를 줄 수 있습니다.</p>\n<p><strong>성공</strong> 극적인 성공과 같지만, 바리케이드는 가드 액션 한 번에만 효과가 있습니다.</p>\n<p><strong>극적인 실패</strong> 대형 사고가 발생합니다! 바리케이드가 파괴될 뿐만 아니라, 바리케이드를 세우려고 시도한 PC는 @Damage[10d6[bludgeoning]] 피해(@Check[reflex|dc:25|basic])를 입습니다.</p>"
+    },
+    "Exhale Poison": {
+      "name": "독 기체 내뿜기",
+      "description": "<p><strong>빈도</strong> 한 시간에 한 번</p>\n<p><strong>필요 조건</strong> 당신은 지난 1분 안에 흡입성 독의 영역 안에 있었습니다; @UUID[Compendium.pf2e.feats-srd.Item.8PMxl8o5YXET58Pn]{Iron Lung}</p>\n<hr />\n<p>당신은 이전에 당신을 둘러쌌던 독을 @Template[cone|distance:15]로 힘차게 내뱉습니다. 그 지역의 생물들은 독의 영향을 받습니다. 독의 DC와 효과는 변하지 않습니다.</p>"
+    },
+    "Explore the Electric Castle": {
+      "name": "일렉트릭 캐슬을 탐험하십시오.",
+      "description": "<p><strong>희귀</strong></p>\n<hr />\n<p>당신은 애슬린의 요새에서 주변을 돌아다니며 지역을 탐험합니다. 당신이 일렉트릭 캐슬을 탐험할 때, 당신이 수색하는 지역에 표시된 기술 중에서 선택하여 기술 확인을 시도하십시오. GM의 재량에 따라 다른 전승 확인이 적절할 수 있습니다. 대부분의 기술 확인의 DC는 23입니다 (9~10레벨의 경우 DC 26); 적절한 전승 기술을 사용하는 확인의 경우, DC를 20으로 낮춥니다 (9~10레벨의 경우 DC 23). 당신은 기술 확인을 시도하는 대신 @UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{Cast a Spell} 할 수 있습니다. 만약 당신이 작업에 적합한 비주문 마법을 사용한다면, 당신은 성공을 얻습니다; 만약 그 마법이 최소 3랭크(또는 9~10레벨의 경우 4랭크)라면, 당신은 대신 극적인 성공을 얻습니다. 당신이 시전할 수 있는 마법의 예로는 잠입을 돕기 위한 투명화나 은폐의 안개, 통로를 열기 위한 목재 변형이나 석재 변형, 어려운 지역을 이동하기 위한 거미 등반이나 차원 이동이 있습니다. 당신의 확인 결과에 따라, 방에 도착하고 탐험하는 데 걸리는 시간을 결정하십시오.</p>\n<hr />\n<p><strong>극적인 성공</strong> 당신은 걸리는 시간을 5분 단축합니다 (최소 15분).</p>\n<p><strong>성공</strong> 당신은 걸리는 시간을 늘리지 않습니다.</p>\n<p><strong>실패</strong> 당신은 걸리는 시간을 5분 늘립니다.</p>\n<p><strong>극적인 실패</strong> 당신은 걸리는 시간을 10분 늘립니다 (최대 1시간).</p>"
+    },
+    "Explore the Vault of Boundless Wonder": {
+      "name": "무한한 경이의 금고를 탐험하십시오.",
+      "description": "<p>금고 지역을 수색하는 데는 약 10분이 소요됩니다. 당신이 무한한 경이의 금고(Vault of Boundless Wonder)를 탐색할 때는, 수색 중인 지역에 표시된 기술 중에서 선택하여 기술 숙련도 확인을 시도하십시오. 게임 마스터의 재량에 따라 다른 전승(Lore) 확인이 적절할 수도 있습니다. 대부분의 기술 숙련도 확인의 DC는 15입니다 (3~4레벨의 경우 DC 18); 적절한 전승(Lore) 기술을 사용하는 확인의 경우, DC를 12로 낮춥니다 (3~4레벨의 경우 DC 15). 금고에 압도적인 마법의 존재로 인해 마법 감지(detect magic) 및 유사한 마법이 평소보다 정확도가 떨어지지만, 이러한 주문을 사용하는 경우 확인에 +1 상태 보너스를 얻습니다. 확인 결과에 따라 유용한 것을 발견할 수도 있습니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 수색 중인 지역에서 중요한 발견을 합니다.</p>\n<p><strong>성공</strong> 당신은 수색 중인 지역에서 발견을 합니다.</p>\n<p><strong>결정적 실패</strong> 당신은 수색 중인 지역에서 잘못된 발견을 합니다.</p>"
+    },
+    "Feral Claws": {
+      "name": "페럴 클로즈",
+      "description": "<p><strong>면(Aspect)</strong> 비스트(beast)</p>\n<p><strong>전제조건(Prerequisite)</strong> 유물은 낡은 아이템(item)입니다.</p>\n<p><strong>활성화(Activate)</strong> <span class=\"action-glyph\">1</span> (집중(concentrate))</p>\n<hr />\n<p><strong>효과(Effect)</strong> 당신의 손이 한 쌍의 발톱으로 변합니다. 이것으로 당신은 1d6 베는 피해(slashing damage)를 주는 발톱 무장 공격(claw unarmed attack)을 얻게 되며, 민첩(agile)과 섬세함(finesse) 특성(traits)을 지닙니다. 이 효과는 당신이 효과를 해제(Dismiss)할 때까지 지속됩니다.</p>"
+    },
+    "Fey Luck": {
+      "name": "페이 럭",
+      "description": "<p><strong>발동 조건</strong> 당신이 내성 굴림에 실패하거나 대실패합니다.</p>\n<p><strong>빈도</strong> 한 번</p>\n<hr />\n<p>잔혹한 우리에서 요정들을 해방시킨 후 당신에게 주어진 행운이 불운한 운명으로부터 당신을 구합니다. 실패한 내성 굴림을 성공으로, 또는 대실패한 내성 굴림을 실패로 변경합니다.</p>"
+    },
+    "Fight Fires": {
+      "name": "화재 진압",
+      "description": "<p>당신은 불타는 파편을 차서 분리하거나, 작은 불을 덮어 끄거나, 타지 않은 물건을 불길에서 치우는 방법으로 불을 끄려고 시도합니다. 성공 정도를 결정하기 위해 @Check[acrobatics|dc:15], @Check[athletics|dc:15] 또는 @Check[survival|dc:15] 판정을 시도하십시오. 이 행동에 물을 사용하면 이 판정에 +2 아이템 보너스를 얻습니다. 또는, 주문을 사용하여 불을 끄려고 시도할 수 있습니다. 주문 공격 굴림을 시도하여 주문을 시전하지만, 어떻게 주문을 사용할 것인지 GM에게 설명해야 하며, GM은 그 계획이 성공할 가능성이 있는지 결정합니다. 주문에 물 특성이 있다면, 이 판정에 +2 상황 보너스를 얻습니다. GM의 재량에 따라 특정 주문은 자동으로 대성공을 부여하거나 불길을 즉시 소멸시킬 수 있습니다.</p>\n<hr />\n<p><strong>대성공</strong> 당신은 2 소화 포인트를 얻습니다.</p>\n<p><strong>성공</strong> 당신은 1 소화 포인트를 얻습니다.</p>\n<p><strong>대실패</strong> 당신은 1 소화 포인트를 잃습니다.</p>"
+    },
+    "Fight the Fire": {
+      "name": "불과 싸우십시오.",
+      "description": "<p>당신은 화재를 진압하기 위해 노력합니다. 건물을 빠르게 통과하여 불이 난 지역을 기회적으로 진압하려면 @Check[acrobatics|dc:36] 판정을, 화재 확산을 방지하기 위해 장애물을 제거하거나 물이나 모래가 담긴 양동이를 사용하여 불길을 진압하려면 @Check[athletics|dc:38] 판정을, 또는 구경꾼들을 조직하여 화재 진압을 돕도록 하려면 @Check[diplomacy|dc:40] 또는 @Check[intimidation|dc:40] 판정을 시도하십시오.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 상당한 진전을 이루어 [[/r 1d6]]{1d6 citizens}가 스스로 안전하게 탈출할 수 있도록 하고, 이 단계가 끝날 때까지 건물에 갇혀 있던 시민들은 모두 목숨을 건집니다. 이 단계의 나머지 기간 동안 시민 구출 판정은 +2 상황 보너스를 얻습니다. 건물 붕괴 전까지 남은 단계 수를 1 증가시킵니다.</p>\n<p><strong>성공</strong> 당신은 시민들이 여전히 갇혀 있는 지역의 불길을 줄입니다. 이 단계가 끝날 때까지 건물에 갇혀 있던 시민들은 모두 목숨을 건집니다. 이 단계의 나머지 기간 동안 시민 구출 판정은 +1 상황 보너스를 얻습니다.</p>\n<p><strong>실패</strong> 당신은 @Damage[4d6[fire]] 피해를 입습니다.</p>\n<p><strong>결정적 실패</strong> 당신의 화재 진압 시도가 오히려 불길을 확산시켰습니다. 당신은 @Damage[8d6[fire]] 피해를 입습니다. 건물 붕괴 전까지 남은 단계 수를 1 감소시킵니다.</p>"
+    },
+    "Find the Cells": {
+      "name": "세포들을 찾으십시오.",
+      "description": "<p><strong>극복</strong> 3 성공; @Check[architecture-lore|dc:33], @Check[perception|dc:35], @Check[survival|dc:35]</p>\n<hr />\n<p>플레이어 캐릭터들은 저택을 통과하는 효율적인 경로를 파악하고 지하실에 있는 구금실과 금고에 도달합니다—너무 많은 문을 열거나, 너무 많은 소음을 내거나, 비밀 문을 찾는 데 시간을 낭비하지 않고.</p>"
+    },
+    "Fire the Cannons! (3-4)": {
+      "name": "대포를 발사하십시오! (3-4)",
+      "description": "<p>당신은 <em>언싱커블</em>(Unsinkable)의 승무원이 퀵살(Qxal)의 현현체를 향해 함포를 발사하도록 돕습니다. 함포는 100피트의 사거리 내에서 포탄이나 작살을 발사할 수 있습니다. 현현체를 대상으로 [[/r {1d20+17} #Attack roll]]{attack roll with a +17 bonus}을 시도하십시오.</p>\n<hr />\n<p><strong>결정적 성공</strong> 성공과 같지만, 현현체는 두 배의 피해를 입습니다. 작살에 맞으면, 현현체는 <em>언싱커블</em>(Unsinkable) 쪽으로 30피트 끌려옵니다.</p>\n<p><strong>성공</strong> 현현체는 포탄에 맞으면 @Damage[(2d8+9)[bludgeoning]]의 피해를 입거나, 작살에 맞으면 @Damage[(1d8+4)[piercing]]의 피해를 입고 <em>언싱커블</em>(Unsinkable) 쪽으로 15피트 끌려옵니다.</p>\n<p><strong>실패</strong> 공격은 피해를 주지 않습니다.</p>\n<p><strong>결정적 실패</strong> 공격은 피해를 주지 않으며, 함포는 다음 라운드에서 다시 발사할 수 없습니다.</p>"
+    },
+    "Fire the Cannons! (5-6)": {
+      "name": "대포를 발사하십시오! (5-6)",
+      "description": "<p>당신은 <em>언싱커블</em>의 승무원이 Qxal의 현현체에 함포를 발사하도록 돕습니다. 함포는 100피트의 사정거리 내에서 대포알이나 작살을 발사할 수 있습니다. 현현체에 대해 [[/r {1d20+17} #Attack roll]]{attack roll with a +17 bonus}을 시도하십시오.</p>\n<hr />\n<p><strong>결정적 성공</strong> 성공과 같지만, 현현체는 두 배의 피해를 입습니다. 작살에 맞으면, 현현체는 <em>언싱커블</em> 쪽으로 30피트 끌려옵니다.</p>\n<p><strong>성공</strong> 현현체는 대포알에 맞으면 @Damage[(4d8+7)[bludgeoning]]의 피해를 입거나, 작살에 맞으면 @Damage[(2d8+3)[piercing]]의 피해를 입고 <em>언싱커블</em> 쪽으로 15피트 끌려옵니다.</p>\n<p><strong>실패</strong> 공격은 아무런 피해를 입히지 않습니다.</p>\n<p><strong>결정적 실패</strong> 공격은 아무런 피해를 입히지 않으며, 다음 라운드에는 함포를 다시 발사할 수 없습니다.</p>"
+    },
+    "Flare Bolt": {
+      "name": "플레어 볼트",
+      "description": "<p><strong>측면</strong> 파이어</p>\n<p><strong>발동</strong> <span class=\"action-glyph\">2</span> (집중, 조작)</p>\n<hr />\n<p><strong>효과</strong> 유물에서 불꽃 번개가 솟아납니다. 30피트 이내의 목표물에 대해 당신의 유물로 주문 공격 굴림을 합니다. 번개는 유물의 레벨 2당 @Damage[1d6[fire]] 피해를 입힙니다 (최소 1d6).</p>\n<p><strong>극적인 성공</strong> 번개는 두 배의 피해를 입히고, 유물의 레벨과 같은 지속적인 화염 피해를 입힙니다.</p>\n<p><strong>성공</strong> 번개는 전체 피해를 입힙니다.</p>"
+    },
+    "Flickering Figure": {
+      "name": "깜빡이는 형상",
+      "description": "<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p>당신은 자신의 몸을 변형시켜 반투명하게 보이도록 하여, 당신의 모습이 빛나면서 주변 환경과 섞이게 합니다. 당신은 @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}이 되며, 이 은폐 효과를 이용하여 @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide} 할 수 있습니다. 이 효과는 10분 동안 지속됩니다.</p>"
+    },
+    "Flight": {
+      "name": "플라이트",
+      "description": "<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p>살과 뼈의 무게로부터 자유로워져, 당신은 가장 기본적인 필멸자의 경험인 중력의 영향조차 받지 않습니다. 당신은 10분 동안 당신의 속도 또는 30피트 중 더 큰 값에 해당하는 비행 속도를 얻습니다. 비행하는 동안 당신의 모습은 더 유령같아 보일 수도 있고, 혹은 당신이 이동하는 동안 공중에 일시적인 흔적을 남길 수도 있습니다. 당신이 원하는 대로 하십시오.</p>"
+    },
+    "Forge Documents": {
+      "name": "위조 문서",
+      "description": "<p><strong>극복</strong> @Check[society|dc:34]</p>\n<hr />\n<p>플레이어 캐릭터(PC)는 습격 중 설득력 있는 소품으로 사용될 수 있는 여러 위조품을 준비합니다.</p>\n<hr />\n<p><strong>성공</strong> PC는 설득력 있는 문서를 만들어 적절한 자격 증명, 작업 주문 또는 초대장을 제시할 때 사용할 수 있는 엣지 포인트 1점을 PC에게 부여합니다.</p>\n<p><strong>실패</strong> PC는 다소 설득력이 없는 문서를 만듭니다.  PC에게 위조품이 엣지 포인트 1점을 부여한다고 알려주십시오. 그러나 그들이 그 엣지 포인트를 사용할 때, 아무런 이점도 주지 않습니다.</p>\n<p><strong>치명적 실패</strong> 실패와 같지만, 실패 시 엣지 포인트를 사용하는 PC는 대신 치명적인 실패를 얻습니다.</p>"
+    },
+    "Forgive Foe": {
+      "name": "적을 용서하다",
+      "description": "<p>당신은 적에게 그 행동에 대한 죄책감과 수치심을 직면하도록 강요하려고 시도합니다. 그렇게 할 때, @Check[diplomacy|defense:will] 판정 또는 생물의 수치 항목에 명시된 다른 판정을 시도합니다. DC는 해당 생물의 의지 DC입니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신의 말은 적중하여 생물이 시간의 경계에 있는 집에 대한 속박에서 벗어날 수 있도록 합니다. 이에 대한 구체적인 효과는 생물의 수치 항목에 나와 있습니다.</p>\n<p><strong>성공</strong> 당신의 말은 적에게 잠시 망설이게 합니다. 다음 턴이 끝날 때까지 모든 공격, 효과 DC, 그리고 추가적인 용서 시도에 대한 의지 DC에 -2 상태 패널티를 받습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.tWFcPYueuOdSgSgg]{Effect: Forgive Foe}</p>\n<p><strong>결정적 실패</strong> 당신의 시도는 너무나도 극적으로 실패하여 오히려 생물의 분노를 부채질하고 수치심과 죄책감에 대한 감각을 효과적으로 흐리게 합니다. 다음 24시간 동안, 그것은 당신을 공격할 때 수치의 영향을 더 이상 받지 않으며, 당신은 더 이상 그 적을 용서하려고 시도할 수 없습니다.</p>"
+    },
+    "Form of Fury": {
+      "name": "분노의 형태",
+      "description": "<p><strong>측면</strong> 짐승</p>\n<p><strong>선행조건</strong> 유물은 낡은 아이템입니다.</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> (집중)</p>\n<p><strong>빈도</strong> 하루에 두 번</p>\n<hr />\n<p><strong>효과</strong> 당신 내면의 짐승 같은 본성을 불러일으켜, 당신은 동물의 형상으로 변신합니다. 유물은 당신에게 @UUID[Compendium.pf2e.spells-srd.Item.wp09USMB3GIW1qbp]{Animal Form}을 걸어, 매번 같은 종류의 동물로 변신시킵니다. 변신하는 동물의 종류는 선물을 얻을 때 선택하며, 주문의 등급은 아이템 레벨의 절반으로 내림 처리됩니다.</p>"
+    },
+    "Grudge": {
+      "name": "원한",
+      "description": "<p>당신의 증오는 너무나 강력하여 다른 이의 정신을 압도할 수 있습니다. 당신으로부터 30피트 이내에 당신을 인지하고 있는 생물을 하나 선택하십시오. 그 생물은 당신의 표정이 초자연적으로 왜곡된 증오의 모습으로 갑자기 변하는 것을 보고 @Check[will|against:class-spell] 내성 굴림을 시도해야 합니다. 이 증오에 대한 인식은 모두 대상의 정신에서 직접적으로 인지되므로, 시각적인 특징은 없습니다. 만약 대상이 당신을 볼 수 없다면, 당신의 증오는 대상이 관찰하는 데 어려움이 없는 다른 방식으로 나타납니다. 어쩌면 당신의 목소리가 그들의 귀에 사악한 속삭임으로 나타나거나, 혹은 당신이 그들에게 끔찍한 기억을 불러일으키는 냄새를 퍼뜨릴지도 모릅니다. 그 생물은 그 후 24시간 동안 그러지(Grudge)에 면역됩니다.</p>\n<hr />\n<p><strong>극적인 성공</strong> 그 생물은 영향을 받지 않습니다.</p>\n<p><strong>성공</strong> 그 생물은 @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}가 됩니다.</p>\n<p><strong>실패</strong> 그 생물은 @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}가 되고, 충격으로 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}하며, 공포에 질리는 동안 @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing}입니다.</p>\n<p><strong>극적인 실패</strong> 그 생물은 공포로 기절하여 @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}가 됩니다. 그 생물은 공포 2가 되고, 더 이상 의식이 없어지는 즉시 도망칩니다.</p>"
+    },
+    "Guild Investigation": {
+      "name": "길드 조사",
+      "description": "<p>플레이어 캐릭터 한 분이 하루를 보내며 길드에 대한 조사를 진행하기 위해 DC 30 기술 숙련 검사를 시도합니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 플레이어 캐릭터들의 조사 결과, 브리그벤이 조악한 무기의 배후 인물이며 그의 상점 위치를 알아냅니다. 이 증거는 플레이어 캐릭터들이 그의 상점에서 브리그벤과 대면했을 때 그를 자백하도록 설득할 필요 없이 곧바로 항복하게 만듭니다.</p>\n<p><strong>성공</strong> 조사 결과 브리그벤이 조악한 무기의 배후에 있음을 암시하며 그의 상점 위치를 플레이어 캐릭터들에게 알려줍니다.</p>\n<p><strong>실패</strong> 조사는 아무런 결과도 얻지 못하지만 브리그벤에게 위협이 있음을 알리지는 않습니다.</p>\n<p><strong>결정적 실패</strong> 조사는 아무런 결과도 얻지 못하고 브리그벤은 플레이어 캐릭터들이 자신을 추적하고 있음을 알게 됩니다. 그는 자신의 상점을 버리고 다른 드로스카르 추종자들과 함께 피난처를 찾기 위해 숨겨진 대장간으로 도망칩니다. 이 경우, 플레이어 캐릭터들은 D2 구역에서 브리그벤을 만날 수 있습니다—그를 해당 조우에서 테아의 능력치로 나타낼 수 있습니다.</p>"
+    },
+    "Haul Supplies": {
+      "name": "보급품을 운반하다",
+      "description": "<p>당신은 운반할 수 있는 만큼 많은 보급품을 챙겨 음식과 물을 가지고 바잘 분지로 돌아갑니다. 폭풍 속에서 손상되는 것을 막고 운반하는 데 성공한 음식의 양과 질을 결정하기 위해 @Check[athletics|dc:34] 검사를 시도하십시오. 강력한 마법(예: 텔레포트)을 사용하여 음식 운반을 돕는 캐릭터는 자동으로 굴림 결과보다 한 단계 높은 결과를 얻습니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 15 Bulk의 보급품을 가지고 돌아옵니다.</p>\n<p><strong>성공</strong> 당신은 10 Bulk의 보급품을 가지고 돌아옵니다.</p>\n<p><strong>실패</strong> 일부 음식이 운반 중 손상되어 5 Bulk의 보급품만 가지고 돌아옵니다.</p>\n<p><strong>결정적 실패</strong> 당신이 운반하려고 했던 모든 보급품이 망가졌습니다.</p>"
+    },
+    "Heat Haze": {
+      "name": "열기 왜곡",
+      "description": "<p><strong>측면</strong> 화염</p>\n<hr />\n<p>당신의 유물의 열기는 당신 주변의 공기를 쾌적하게 따뜻하게 유지합니다. 당신이 유물을 쥐고 있거나 착용하고 있는 동안, 그것은 당신을 심각한 환경적 추위로부터 보호합니다. 9레벨에서는 극심한 추위로부터도 보호하고, 17레벨에서는 엄청난 추위로부터도 보호합니다. 4레벨에서는 유물이 다음 활성화 능력을 얻습니다.</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> (집중)</p>\n<p><strong>빈도</strong> 하루에 한 번</p>\n<p><strong>효과</strong> 당신의 유물은 당신 주변의 기온을 불규칙하게 높여, 당신의 모습을 왜곡하는 열기 잔상을 만들고 1분 동안 @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} 상태를 부여합니다. 이 효과의 특성상 당신의 위치가 여전히 명확하기 때문에, 이 은폐를 사용하여 @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}하거나 @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak}할 수 없습니다.</p>"
+    },
+    "Holy Light": {
+      "name": "홀리 라이트",
+      "description": "<p><strong>측면</strong> 셀레스티얼</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 명령, 상호작용</p>\n<hr />\n<p><strong>효과</strong> 당신의 유물이 신성한 빛으로 빛납니다. 이것은 아이템 주위 @Template[emanation|distance:30]에 밝은 빛을 생성합니다. 그 지역의 악마 생물들은 @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}하며, 빛 속에 있는 동안 공포 수치를 1 이하로 낮출 수 없습니다. 그 지역의 악마들은 신성에 대한 어떤 약점이라도 5만큼 증가시킵니다. 당신은 최대 1분 동안 이 활성화를 유지할 수 있습니다.</p>"
+    },
+    "Host Event": {
+      "name": "호스트 이벤트",
+      "description": "<p>당신은 축제, 작은 기념제, 또는 공개 공연과 같은 특별한 행사를 계획하고 주최하는 데 하루를 바칩니다. 그렇게 하려면 250 gp를 소비해야 합니다. @Check[diplomacy|dc:36], @Check[performance|dc:36], @Check[society|dc:36] 또는 적절한 지식 확인을 시도하십시오. 결과는 당신의 노력의 영향을 결정합니다. 행사에 추가로 250 gp를 지출할 때마다 이 확인에 누적 +1 상황 보너스를 얻습니다(최대 +4).</p>\n<hr />\n<p><strong>결정적 성공</strong> 각 PC는 다음 3일 동안 휴식 시간 활동을 수행하는 기술 확인에 +2 상황 보너스를 얻습니다. 또한, 당신이 선택한 두 개의 서로 다른 길드의 지원 점수를 1씩 감소시킵니다.</p>\n<p><strong>성공</strong> 각 PC는 다음 날 휴식 시간 활동을 수행하는 기술 확인에 +1 상황 보너스를 얻습니다. 또한, 당신이 선택한 한 개의 길드의 지원 점수를 1씩 감소시킵니다.</p>\n<p><strong>결정적 실패</strong> 파티는 재앙입니다. 각 PC는 다음 날 휴식 시간 활동을 수행하는 기술 확인에 -2 상황 패널티를 받습니다.</p>"
+    },
+    "Hunt the Animals": {
+      "name": "짐승을 사냥하십시오.",
+      "description": "<p>사냥이 시작되면, 에쿠자에 엘프들과 당신들은 함께 사냥감을 잡습니다.</p>\n<ul>\n<li>인상적인 사냥감에 대해서는, 적극적으로 참여하는(단순히 돕는 것만이 아닌) 당신 각자는 @Check[survival|dc:25] 검사를 시도합니다</li>\n<li>일반적인 사냥감에 대해서는, @Check[survival|dc:20] 검사를 합니다</li>\n<li>강가의 거북이나 박쥐를 사냥하는 데는 검사가 필요하지 않습니다—이러한 사냥감 사냥은 자동으로 성공합니다(하지만 결코 대성공이 될 수는 없습니다).</li>\n</ul>\n<hr />\n<p><strong>대성공</strong> 당신은 동물들을 빠르고 비교적 고통 없이 사냥하여 자비를 베풉니다.</p>\n<p><strong>성공</strong> 당신의 사냥 참여는 사냥꾼들이 동물들을 빠르게 사냥하는 데 도움이 됩니다.</p>\n<p><strong>실패</strong> 당신의 참여는 사냥을 복잡하게 만듭니다—심지어 한두 마리의 동물이 부상 없이 도망칩니다. 당신은 각자 동물의 공격으로 [[/r 2d6]]의 피해를 입습니다 (혹은 사냥감이 인상적인 것이었다면 [[/r 4d6]]의 피해를 입습니다).</p>\n<p><strong>대실패</strong> 여러 마리의 동물들이 비참하게 죽고, 많은 동물들이 치명적인 부상을 입고 도망칩니다. 축제에 필요한 만큼의 동물은 간신히 잡았지만, 고통 속에 죽거나 부상을 입고 도망친 사실 때문에 에쿠자에의 수치가 됩니다—당신들은 2 IP를 잃습니다. 당신은 각자 동물의 공격으로 [[/r (2d6+6)]]의 피해를 입습니다 (혹은 사냥감이 인상적인 것이었다면 [[/r (4d6+12)]]의 피해를 입습니다).</p>"
+    },
+    "Influence Guild": {
+      "name": "인플루언스 길드",
+      "description": "<p>당신께서는 특정 길드 회원들과 친분을 쌓고, 그 조직을 돕고, 스칼렛 트라이어드를 지지하지 않도록 길드 회원들을 설득하는 데 하루를 바칩니다. 그 조직이 선호하는 기술 중 하나와 연관된 DC 34 기술 굴림을 시도하십시오.</p>\n<hr />\n<p><strong>극적인 성공</strong> 해당 조직의 지지 점수를 3만큼 감소시킵니다.</p>\n<p><strong>성공</strong> 해당 조직의 지지 점수를 1만큼 감소시킵니다.</p>\n<p><strong>극적인 실패</strong> 해당 조직의 지지 점수를 1만큼 증가시킵니다.</p>"
+    },
+    "Influence Regent": {
+      "name": "인플루언스 리전트",
+      "description": "<p>당신은 코블라르의 섭정 중 한 명에게 호감을 얻으려고 시도합니다. 외교력 검사를 시도하여 그들의 질문에 재치와 존중으로 답하거나 다른 기술에 대한 당신의 재능을 활용하는 방법 중 하나를 선택할 수 있습니다. 후자의 전략은 보통 그 섭정의 길드가 선호하는 기술이 아닌 경우 성공할 수 없습니다. GM의 선택에 따라, 당신은 외교력 검사 대신 적절한 지식 기술 검사를 대체할 수 있습니다. 당신이 외교력 또는 지식 검사를 시도하는 경우, 성공을 위한 @Check[diplomacy|dc:32] 또는 @Check[lore|dc:32] 검사입니다; 선호하는 기술 검사를 시도하는 경우, 성공을 위한 @Check[diplomacy|dc:28] 또는 @Check[lore|dc:28] 검사입니다.</p>\n<p>GM의 선택에 따라, 섭정에게 영향을 미치려는 시도에서 설득력 있는 점을 제기하거나 특히 역할 연기를 잘하는 플레이어는 검사에 +2 상황 보너스를 얻을 수 있습니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 섭정의 회의감을 2 감소시킵니다.</p>\n<p><strong>성공</strong> 당신은 섭정의 회의감을 1 감소시킵니다.</p>\n<p><strong>실패</strong> 당신은 섭정의 회의감을 조정하지 않습니다.</p>\n<p><strong>결정적 실패</strong> 당신은 섭정의 회의감을 1 증가시킵니다.</p>"
+    },
+    "Investigate Chamber": {
+      "name": "조사실을 조사하십시오.",
+      "description": "<p>당신은 황금 성채의 특정 방을 조사하여 그에 대한 정보를 얻는 데 10분이 걸립니다. 만약 당신이 공공 구역을 조사한다면 경비병들은 일반적으로 귀찮아하지 않겠지만, 사적인 구역을 조사하는 것을 본다면 조사를 완료하기 전에 당신을 내보내려 할 것입니다. 성공 정도를 결정하기 위해 @Check[perception|dc:36]을 시도하십시오.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 방의 읽어주는 텍스트, 기본 정보 및 모든 비밀 정보를 알게 됩니다.</p>\n<p><strong>성공</strong> 당신은 방의 읽어주는 텍스트와 기본 정보를 알게 됩니다.</p>\n<p><strong>실패</strong> 당신은 읽어주는 텍스트를 제외하고는 방에 대한 어떤 정보도 알아내지 못합니다.</p>\n<p><strong>결정적 실패</strong> 위의 실패와 같지만, 당신을 관찰할 수 있는 경비병들은 수상한 활동을 눈치채고 의회 회의실이나 건물 밖으로 당신을 내보내려 할 것입니다.</p>"
+    },
+    "Invoke Eiseth": {
+      "name": "아이세스를 소환하십시오.",
+      "description": "<p><strong>빈도</strong> 라운드당 한 번</p>\n<hr />\n<p><strong>효과</strong> 당신은 그의 숙적을 불러내어 로르핵트의 사기를 꺾으려 합니다. @Check[deception|dc:33], @Check[intimidation|dc:33], @Check[performance|dc:33] 또는 @Check[religion|dc:33] 판정을 시도하십시오. 결과에 관계없이 로르핵트는 당신의 추가적인 아이세스 소환 시도에 대해 10분 동안 일시적으로 면역이 됩니다. 다만 다른 사람의 시도에는 영향을 받지 않습니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 로르핵트는 @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}하고 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}합니다.</p>\n<p><strong>성공</strong> 로르핵트는 공포 2가 됩니다.</p>\n<p><strong>실패</strong> 로르핵트는 @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}합니다.</p>\n<p><strong>결정적 실패</strong> 당신의 허둥지둥하는 시도는 역효과를 내어 로르핵트를 즐겁게 합니다. 그는 당신의 다음 턴이 끝날 때까지 모든 아이세스 소환 시도에 대해 일시적으로 면역이 됩니다.</p>"
+    },
+    "Issue Challenge": {
+      "name": "도전을 제시하십시오.",
+      "description": "<p>당신은 하루를 보내며 당신의 전투 능력을 홍보하고, 경쟁자들을 비난하며, 글래디에이터 길드의 지도부를 질타하거나, 또는 글래디에이터 길드의 길드장으로 하여금 당신의 경기장 지배권 도전을 받아들이도록 강요하는 과시적인 공개 행위를 합니다. 이 행위는 특히 과제 3: 피 묻은 모래와 관련이 있습니다. @Check[athletics|dc:36], @Check[deception|dc:36], @Check[intimidation|dc:36], @Check[performance|dc:36] 또는 적절한 전승 기술 숙련도 검사를 시도하십시오.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 브셰즈 샤크가 당신의 도전을 받아들이도록 유도합니다.</p>\n<p><strong>성공</strong> 당신은 브셰즈의 의지를 약화시킵니다. 향후 7일 동안, 당신의 도전 제기 검사는 누적 +1 상황 보너스를 얻습니다 (최대 +4).</p>\n<p><strong>결정적 실패</strong> 당신의 과도한 활기는 실수로 당신의 위신을 훼손하는 굴욕으로 이어집니다. 당신은 성공적인 도전 제기 결과로 얻은 모든 상황 보너스를 잃고, 다음 날에는 도전을 제기할 수 없습니다.</p>"
+    },
+    "Kick Dust": {
+      "name": "먼지 차기",
+      "description": "<p><strong>필요 조건</strong> 당신은 느슨한 흙이 많은 지역에 서 있습니다.</p>\n<hr />\n<p>발로 흙을 파고 차서 인접한 공간으로 먼지 구름을 날립니다. @Check[acrobatics|dc:15] 또는 @Check[athletics|dc:15] 판정을 시도하십시오. 구름의 크기는 판정 결과에 따라 달라집니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 구름은 @Template[cone|distance:15]을 채웁니다. 원뿔 안에 있는 생물들은 2라운드 동안 먼지로 뒤덮이고, 먼지로 뒤덮인 생물들은 @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}보다는 @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible}합니다. 행동으로 생물은 먼지를 털어내기 위해 @Check[reflex|dc:15] 내성 굴림을 시도할 수 있습니다.</p>\n<p><strong>성공</strong> 결정적 성공과 같지만, 구름은 @Template[cone|distance:10]을 채웁니다.</p>\n<p><strong>실패</strong> 당신은 무시할 만한 양의 먼지만 찹니다.</p>\n<p><strong>결정적 실패</strong> 당신은 발차기를 잘못 판단하여 다음 턴이 시작될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}하게 됩니다.</p>"
+    },
+    "Linguistic Nexus": {
+      "name": "언어적 넥서스",
+      "description": "<p><strong>측면</strong> 마음</p>\n<hr />\n<p>당신의 유물은 당신에게 강력한 신경 가소성을 부여하며, 그 결과 당신은 언어를 더 쉽게 배울 수 있습니다. 당신은 유물의 레벨 2당 하나의 추가 언어를 선택하여 배울 수 있습니다 (최소 1개). 유물에서 배운 언어 중 하나를 단 1주일의 휴식 시간만으로 재교육할 수 있습니다.</p>"
+    },
+    "Liralarue's Glimpse": {
+      "name": "리랄라루의 일견",
+      "description": "<p><strong>빈도</strong> 하루에 한 번</p>\n<p><strong>발동</strong> 당신이 내성 굴림이나 공격 굴림에 실패하거나 대실패할 경우.</p>\n<p><strong>요구사항</strong> 당신이 멍해지지 않은 상태여야 합니다.</p>\n<hr />\n<p>당신은 자신의 실패라고 생각했던 것이 사실은 바로 앞 미래의 초자연적으로 사실적인 환영이었다는 것을 갑자기 깨닫습니다. 이 반응을 발동시킨 내성 굴림이나 공격 굴림을 다시 굴립니다. 재굴림에 실패하면 대신 성공하고, 재굴림에 대실패하면 대신 단순히 실패합니다.</p>\n<p>당신은 리랄라루의 일별을 하루에 한 번 사용할 수 있지만, 일주일에 한 번 이상 이 반응을 사용하면 미래를 보는 것을 남용하여 앞으로 반드시 겪게 될 끔찍하고 불가피한 고통과 파멸을 보게 됩니다. 이러한 환영은 추가적인 도움이나 이점을 제공하지 않지만, 산만하게 만드는 성질 때문에 당신은 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}이 되어 7일 동안 리랄라루의 일별을 다시 사용할 수 없게 됩니다.</p>"
+    },
+    "Little Ripple's Blessing": {
+      "name": "작은 파문의 축복",
+      "description": "<p><strong>빈도</strong> 한 번</p>\n<hr />\n<p>당신은 리틀 리플과의 유대감을 활용하여 물 정령을 일시적으로 현현시킵니다. 반투명한 물의 구체가 당신을 감싸고, 마법적으로 당신의 정신을 정화하고 몸속의 독소를 제거합니다. 리틀 리플은 [[/r 1d20+21 #Counteract]]{+21}의 저항치 수정치와 10의 저항 단계로 당신에게 걸린 단일 질병이나 독을 상쇄하려고 시도합니다. 리틀 리플의 존재는 당신의 정신에 진정 효과를 줍니다. 당신은 1분 동안 의지 내성 굴림에 +1 상태 보너스를 얻습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.GBaN8XZrzFp7C7fL]{Effect: Little Ripple's Blessing}</p>"
+    },
+    "Locked Doors": {
+      "name": "잠긴 문",
+      "description": "<p><strong>극복</strong> 2 성공; @Check[athletics|dc:35],@Check[thievery|dc:35]</p>\n<hr />\n<p>대저택의 대부분은 손님들이 출입 제한 구역으로 들어가는 것을 막기 위해 잠겨 있습니다. PC들은 조용히 방에 침입하거나 문을 엽니다.</p>"
+    },
+    "Loot the Vaults": {
+      "name": "금고를 약탈하십시오.",
+      "description": "<p><strong>필요 조건</strong> 플레이어 캐릭터들은 \"감옥 찾기\" 난관을 극복하여 지하실에 도착했습니다.</p>\n<p><strong>극복</strong> 성공 2회: @Check[arcana|dc:33], @Check[perception|dc:35], @Check[thievery|dc:35]</p>\n<hr />\n<p>포로들 외에도, 주홍 삼두는 저택 지하실에 수많은 보물을 저장해 두었습니다. 플레이어 캐릭터들은 금고의 잠금을 해제하고 가장 좋은 물건들을 훔칠 수 있도록 몇 분간 시간을 할애합니다. 이 기회는 두 번 완료할 수 있습니다. 첫 번째로, 플레이어 캐릭터들은 @UUID[Compendium.pf2e.equipment-srd.Item.EKXRigmEZgqmFA62]{Nethysian Bulwark}, 이집트쇠기러기 무늬가 새겨진 넓은 수정 그릇 (300gp 상당), 그리고 네시스의 오닉스와 대리석 조각상 (200gp 상당)을 찾습니다.  또한, 플레이어 캐릭터들은 주홍 삼두의 많은 거래 내역을 기록한 장부도 찾습니다. 성공적인 @Check[guild-lore|dc:28] 또는 @Check[society|dc:35] 판정을 통해, 장부를 훑어보는 플레이어 캐릭터는 주홍 삼두가 탈세를 하고, 경쟁업체를 헐값에 짓누르고, 매우 빠르게 많은 돈을 축적하려고 시도하고 있음을 알게 됩니다 - 이 모든 행위는 육류 도매업자 연맹, 아스피스 컨소시엄, 그리고 아바다르 교회에 조용히 피해를 주고 있습니다. 길드 하나당 한 번, 플레이어 캐릭터는 길드에 영향력을 행사할 때 해당 조직의 지원 점수를 추가로 2점 감소시키기 위해 장부를 사용할 수 있습니다. 플레이어 캐릭터들이 두 번째로 이 기회를 완료하면, @UUID[Compendium.pf2e.equipment-srd.Item.K2rMmiBlzcysNuj6]{Belt of Regeneration}와 @UUID[Compendium.pf2e.pathfinder-bestiary.Actor.GyigGu36XLPV72nW]{Djinni} 현자 팔카리 비지어가 봉인된  설화석고와 은으로 만든 향유병을 발견합니다. 주홍 삼두는 팔카리를 가두고 세 가지 소원을 들어주는 대신 자유를 제안했습니다. 우리 잔디바르는 이미 이 소원 중 두 가지를 골드 드래곤 종족의 구슬 수리에 사용했지만, 마지막 소원은 사용하지 않았습니다. 팔카리는 플레이어 캐릭터들이 탈출하도록 도와준다면 마지막 소원을 들어주는 데 동의합니다; 그때까지 그는 향유병에서 20피트 이상 벗어날 수 없으며, 스스로 움직일 수도 없습니다. 이 소원은 모든 노예들을 자동으로 구출하는 데 사용할 수 있지만, 플레이어 캐릭터들은 여전히 스스로 탈출해야 합니다. 팔카리는 공중계로 돌아가기를 간절히 원하지만, 당신의 재량에 따라 모험 후반에 반복적으로 동맹이 될 수 있습니다.</p>\n<p><strong>치명적인 실패</strong> 플레이어 캐릭터들은 경비대에게 발각됩니다. 전투 라운드가 끝날 때마다, 인지력이 1 증가합니다.</p>"
+    },
+    "Love": {
+      "name": "사랑",
+      "description": "<p>강력하고 모든 것을 압도하는 헌신으로, 타인에 대한 사랑은 때때로 무덤 너머까지 당신을 이끌 수 있습니다. 낭만적인 사랑, 가족애, 또는 플라토닉한 사랑이 이러한 집중의 원동력이 될 수 있습니다. 이것은 동물에 대한 공감의 아우라로 표현되는데, 동물들은 다른 세계의 존재들에게 민감하며 논리적인 생물들보다 유령 같은 감정으로 더 쉽게 영향을 받습니다. 당신은 동물들에게 질문하고, 답을 얻고, 외교 기술을 사용할 수 있습니다. 신뢰하는 동료(다른 PC 등) 30피트 이내에 있을 때, 당신은 의지 내성 굴림에 +1 상태 보너스를 얻습니다. 사랑하는 신뢰하는 동료가 이 범위 내에 있다면 +2 상태 보너스로 증가합니다.</p>"
+    },
+    "Make General Repairs": {
+      "name": "일반 수리를 합니다",
+      "description": "<p><strong>필요 조건</strong> 제작(숙련), 전문 제작(목공), 또는 고용된 목수; 조직적인 노동자</p>\n<hr />\n<p>당신은 요새 가구에 대한 일반적인 수리를 진행하여 가구를 교체하거나 수리하고, 썩은 마루판을 교체하며, 건물 전체의 문을 다시 다는 작업을 합니다. 이 작업에는 14일의 작업과 @Check[crafting|dc:15] 확인이 필요합니다.</p>"
+    },
+    "Mental Ward": {
+      "name": "정신 병동",
+      "description": "<p><strong>빈도</strong> 한 번</p>\n<p><strong>발동 조건</strong> 당신이 정신 효과에 대한 내성 굴림에 실패하거나 대실패할 경우</p>\n<hr />\n<p><strong>효과</strong> 당신은 발동 효과에 영향을 받지 않습니다.</p>"
+    },
+    "Mesmerizing Performance": {
+      "name": "매혹적인 공연",
+      "description": "<p><strong>요구 사항</strong> 동료의 마지막 행동은 성공적인 퍼포먼스 판정으로 @UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{Perform}였습니다. 동료는 성공적인 퍼포먼스를 목격한 30피트 이내의 단일 대상을 사로잡기 위해 퍼포먼스를 유지합니다. 대상은 의지 내성 굴림을 시도해야 합니다.</p>\n<hr />\n<p><strong>성공</strong> 대상은 영향을 받지 않으며 1시간 동안 일시적으로 면역됩니다.</p>\n<p><strong>실패</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinated} 동료에게 다음 행동 동안 @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinated}되고 1시간 동안 일시적으로 면역됩니다.</p>\n<p><strong>치명적 실패</strong> 대상은 1라운드 동안 동료에게 매료됩니다. 매료된 상태에서는 반응을 사용할 수 없습니다.</p>"
+    },
+    "Navigate Steamgrotto": {
+      "name": "스팀그로토를 이동하십시오.",
+      "description": "<p>당신께서는 스팀그로토에서 간헐천 분출 패턴을 관찰한 후, 위험에 노출되지 않도록 최선을 다해 지역을 통과하는 방법을 계획하십니다. 당신은 자연, 지각 또는 생존을 사용하고 DC 35 판정에 성공하여 스팀그로토를 탐색하려고 시도할 수 있지만, 지각을 사용하는 것은 위험의 본질에 대한 더 깊은 통찰력을 제공하지 않으며 그 결과 -4 상황 패널티를 받습니다.</p>\n<hr />\n<p><strong>극적인 성공</strong> 당신은 위험을 피하고, 전문가를 따르는 모든 사람은 해당 활동으로부터 받는 일반적인 보너스의 두 배를 굴림에 얻습니다.</p>\n<p><strong>성공</strong> 당신은 위험을 피합니다.</p>\n<p><strong>실패</strong> 당신은 간헐천 몇 개에 너무 가까이 다가가고 움직임의 타이밍을 놓칩니다. 당신은 @Damage[10d6[fire]] 피해(@Check[reflex|dc:36|basic])를 입습니다.</p>\n<p><strong>극적인 실패</strong> 당신은 움직임을 심하게 잘못 판단하여 간헐천에 정면으로 맞습니다. 당신은 @Damage[20d6[fire]] 피해(@Check[reflex|dc:36|basic])를 입습니다.</p>"
+    },
+    "Obscure": {
+      "name": "오브스큐어",
+      "description": "<p><strong>측면</strong> 섀도우</p>\n<hr />\n<p>당신의 유물은 빛을 흡수하고 그림자를 당신에게 감싸서 어둠 속에 숨깁니다. 당신이 그림자가 드리운 지역의 어둑한 빛 속에 있는 한, @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}에 은신 굴림을 시도할 수 있습니다.  이는 당신이 생물에 대해 @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}, 예를 들어 암시야를 가진 생물에게, 그렇지 않더라도 가능합니다.</p>"
+    },
+    "Obsession": {
+      "name": "집착",
+      "description": "<p>이 정령 능력은 특정 물건에 대한 극단적인 집착을 나타냅니다. 이는 대부분 탐욕의 결과이지만, 소중한 가보에 대한 애정이나 자신이 창조한 예술 작품에 대한 애착을 나타낼 수도 있습니다. 이러한 집중은 특히 자신의 부나 특정 장비에 애착이 있는 캐릭터에게 적합합니다. 이는 작은 물체를 염력으로 조종하는 능력으로 표현됩니다. 당신은 @UUID[Compendium.pf2e.spells-srd.Item.60sgbuMWN0268dB7]{Telekinetic Projectile}을 타고난 오컬트 주문으로 자유롭게 시전할 수 있습니다.</p>\n<p>하루에 한 번, 당신은 다음 주문 중 하나를 5랭크 타고난 오컬트 주문으로 시전할 수 있습니다: @UUID[Compendium.pf2e.spells-srd.Item.rVANhQgB8Uqi9PTl]{Animate Rope}, @UUID[Compendium.pf2e.spells-srd.Item.WqPhJNzLa8vSjrH6]{Animated Assault}, 또는 @UUID[Compendium.pf2e.spells-srd.Item.tpLTLbJUrYcMWGld]{Telekinetic Haul}.</p>"
+    },
+    "Organize Labor": {
+      "name": "노동을 조직하십시오.",
+      "description": "<p>당신은 브리치힐에서 하루를 보내며 시타델 알타에린의 수리 또는 업그레이드를 돕기 위한 노동자를 모집합니다. 노동자를 조직하기 위해 @Check[deception|dc:13], @Check[diplomacy|dc:13] 또는 @Check[intimidation|dc:13] 판정을 시도하거나, 전문가를 위해 @Check[deception|dc:18], @Check[diplomacy|dc:18] 또는 @Check[intimidation|dc:18] 판정을 시도하십시오.</p>\n<p>만약 당신이 이 판정에 속임수 또는 위협을 사용한다면, 당신은 +2 상황 보너스를 얻지만, 아래에 자세히 설명된 대로 실패에는 추가적인 위험이 따릅니다. 외교를 사용하면 판정에 보너스가 없지만 추가적인 위험도 없습니다. 노동자를 조직할 때는 수행할 수리 또는 업그레이드 활동 하나를 지정해야 합니다; 일단 노동자를 성공적으로 조직하면 일주일 이내에 그 활동을 시작해야 합니다.</p>\n<p>조직된 노동자들의 비용은 하루에 1gp이며, 조직된 전문가들의 비용은 하루에 5gp입니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 수리 또는 업그레이드 활동의 전체 기간 동안 노동자를 조직하고, 노동자에게 지불하는 비용은 그 기간 동안 절반으로 줄어듭니다.</p>\n<p><strong>성공</strong> 당신은 수리 또는 업그레이드 활동의 전체 기간 동안 노동자를 조직합니다.</p>\n<p><strong>실패</strong> 당신은 수리 또는 업그레이드 활동 하루 동안만 노동자를 조직합니다. 당신이 외교를 사용하지 않았다면, 당신의 기만적이거나 위협적인 성격에 대한 소문이 퍼지고, 앞으로 노동자를 조직하기 위한 모든 판정에 -1 상황 패널티를 받게 됩니다. 이 패널티는 이후 실패할 때마다 증가하여 최대 -4 패널티까지 증가합니다.</p>\n<p><strong>결정적 실패</strong> 당신은 노동자를 조직하는 데 완전히 실패합니다. 당신이 속임수 또는 위협을 사용했다면, 당신의 신뢰할 수 없음 또는 잔혹함에 대한 소문이 퍼지고, 더 이상 그 기술을 사용하여 노동자를 조직할 수 없습니다.</p>"
+    },
+    "Pander to the Crowd": {
+      "name": "군중의 환심을 사십시오.",
+      "description": "<p><strong>요구사항</strong> 당신이 검투사 시합에서 처음으로 행하는 행동이거나, 검투사 시합 중에 적에게 피해를 입히거나 눈에 띄게 방해했을 경우입니다.</p>\n<hr />\n<p>조롱하는 제스처, 승리의 자랑, 또는 대담한 도전으로 당신은 군중이 당신을 응원하도록 고무합니다.  DC는 일반적으로 전투 레벨에 의해 설정되며, 곡예, 육상, 위협, 또는 연기 숙련 검정을 시도하십시오. 하지만 군중은 반복에 지루해합니다.  마지막으로 누군가 이 행동을 사용했을 때 사용된 것과 동일한 숙련으로 군중 환심 사기(Pander to the Crowd)를 시도하면 검정에 -2 상황 패널티를 받습니다. 이번 턴에 공격 굴림에서 치명적인 성공을 거두었다면, 당신은 군중 환심 사기(Pander to the Crowd) 시도에 +2 상황 보너스를 얻습니다.</p>\n<hr />\n<p><strong>치명적 성공</strong> 군중은 열광합니다! 다음 턴이 끝날 때까지 공격 굴림, 피해 굴림, 내성 굴림, 숙련 검정에 +3 상태 보너스를 부여하거나, 다음 턴이 끝날 때까지 자신과 모든 아군에게 동일한 굴림에 +2 상태 보너스를 부여할 수 있습니다.</p>\n<p><strong>성공</strong> 당신은 군중에게 호소합니다. 치명적 성공과 같지만, 보너스는 당신에게만 +2이거나, 당신과 당신의 아군에게 +1입니다.</p>\n<p><strong>실패</strong> 당신은 인상을 주지 못했습니다.</p>\n<p><strong>치명적 실패</strong> 당신의 아첨은 우스꽝스럽고, 군중은 당신의 상대를 지지하기 시작합니다. 당신에게 적대적인 다음 생물이 군중 환심 사기(Pander to the Crowd)를 시도하면 검정에 +4 상황 보너스를 얻습니다.</p>"
+    },
+    "Passion": {
+      "name": "열정",
+      "description": "<p>죽음 속에서도 흥분의 불꽃은 뜨겁게 타오릅니다. 불타오르는 열정의 결과이든, 다른 사람에 대한 사랑으로 인한 격렬한 분노이든, 혹은 그 이상의 무언가이든, 무덤의 냉기는 영웅의 감정을 잠재울 수 없습니다. 당신은 1분 동안 당신의 열정을 실제 불꽃으로 일으킵니다. 이 시간 동안 당신의 몸은 당신이 선택한 색깔의 불꽃에 휩싸이며, 40피트 반경 내에 밝은 빛을, 그리고 그 다음 40피트까지는 어두운 빛을 발합니다. 당신의 근접 스트라이크는 추가로 1d6의 화염 피해를 입히고, 당신은 화염에 대한 저항 10을 얻으며, 다음 반응을 얻습니다.</p>"
+    },
+    "Perception Filter": {
+      "name": "지각 필터",
+      "description": "<p><strong>측면</strong> 마인드</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 엔비전</p>\n<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 당신의 유물이 근처 생물들의 마음속에 다가가 당신의 존재를 그들의 인식에서 차단합니다. 다음 10분 동안, 당신을 중심으로 한 @Template[emanation|distance:120] 내에 들어온 생물은 비밀 @Check[will|against:class-spell|traits:secret] 내성 굴림을 시도해야 하며, 그 후 해당 생물은 1일 동안 일시적으로 면역됩니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 생물은 영향을 받지 않습니다.</p>\n<p><strong>성공</strong> 생물은 당신을 @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}하거나 다른 방법으로 탐지하기 위한 지각 능력 검사에 -2 상태 패널티를 받습니다.</p>\n<p><strong>실패</strong> 당신은 생물의 모든 감각을 걸러내어 생물이 당신을 알아채기 어렵게 만듭니다. 당신이 @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden}하거나 생물에게서 탐지되지 않을 때, 당신이 @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}, @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak} 또는 스텝 이외의 행동을 할 때까지 당신을 관찰하지 않습니다. 만약 그것이 당신을 찾거나 다른 방법으로 탐지하기 위해 지각 능력 검사를 굴리면, 굴린 결과보다 한 단계 낮은 성공 결과를 얻게 되며, 만약 당신이 숨기거나, 잠입하거나, 다른 방법으로 그 생물의 주의를 피하기 위해 은신 능력 검사를 굴리면, 그 생물에 대해 굴린 결과보다 한 단계 높은 성공 결과를 얻게 됩니다. 당신이 해당 생물에 대해 적대적인 행동을 사용하면, 당신의 적대적인 행동이 완료된 후 해당 생물에 대한 효과가 종료됩니다.</p>\n<p><strong>결정적 실패</strong> 실패와 같지만, 당신이 그 생물에 대해 적대적인 행동을 사용하더라도 해당 생물에 대한 효과는 종료되지 않습니다.</p>"
+    },
+    "Perform a Trick": {
+      "name": "트릭을 시도하십시오.",
+      "description": "<p>당신은 당신의 시그니처 서커스 트릭을 선보입니다. 당신의 트릭과 관련된 트릭 체크 중 하나를 시도하십시오. 트릭 체크의 DC는 당신의 레벨에 따라 결정됩니다. 각 트릭 체크의 결과에 따라 당신은 흥분을 생성하거나, 흥분과 기대감을 생성하거나, 흥분을 잃게 됩니다.</p>\n<hr />\n<p><strong>극적인 성공</strong> 당신은 트릭의 레벨과 같은 양의 흥분을 생성합니다; 이 흥분은 공연을 위한 서커스의 총 흥분량에 더해집니다. 당신은 또한 트릭 레벨의 절반(올림)과 같은 양의 기대감을 생성합니다; 이 기대감은 공연을 위한 서커스의 총 기대감에 더해집니다.</p>\n<p><strong>성공</strong> 당신은 트릭의 레벨과 같은 양의 흥분을 생성합니다; 이 흥분은 공연을 위한 서커스의 총 흥분량에 더해집니다.</p>\n<p><strong>실패</strong> 아무런 효과가 없습니다.</p>\n<p><strong>극적인 실패</strong> 서커스의 흥분 값이 트릭 레벨의 절반(올림)과 같은 값만큼 감소합니다.</p>\n<hr />\n<p>당신은 한 회차에 트릭을 여러 번 선보일 수 있으며, 각 시도마다 다른 가능한 트릭 체크를 선택할 수 있습니다. 같은 회차에 트릭을 두 번 선보이는 경우, 두 번째 트릭 체크에 -5 패널티를 받습니다. 트릭을 세 번 선보이는 경우, 세 번째 체크에 대한 패널티는 -10입니다. 당신의 트릭에 민첩(agile) 특성이 있다면 패널티는 각각 -4와 -8로 감소합니다.</p>\n<p>이 액션은 항상 서커스(circus) 특성을 가지고 있습니다. 1레벨부터 당신은 당신의 시그니처 트릭에 사용할 수 있는 추가적인 트릭 특성 하나를 선택하여 이 액션에도 적용할 수 있습니다. 레벨이 증가함에 따라 추가적인 특성을 더할 수 있습니다.</p>"
+    },
+    "Position the Hunters": {
+      "name": "헌터들을 배치하십시오.",
+      "description": "<p>목표로 하는 사냥감의 위치를 파악하셨으니, 놀라게 하지 않고 유리한 위치로 이동해야 합니다. 스텔스 첵을 시도하십시오.</p>\n<ul>\n<li>인상적이고 위험한 사냥감에 대해: @Check[stealth|dc:25]</li>\n<li>일반적인 사냥감에 대해: @Check[stealth|dc:20]</li>\n<li>강거북, 박쥐, 그리고 하급 사냥감에 대해: @Check[stealth|dc:15]</li>\n</ul>\n<hr />\n<p><strong>극적인 성공</strong> 동물들은 위험에 처했다는 것을 전혀 알아채지 못하며, 당신은 사냥 단계에서 행하는 굴림에 +2 상황 보너스를 얻습니다.</p>\n<p><strong>성공</strong> 당신은 좋은 위치를 선점하여 사냥 시 패널티를 받지 않습니다.</p>\n<p><strong>실패</strong> 당신의 시끄럽고 어설픈 움직임으로 동물들이 당신의 존재를 알아차리게 되며, 사냥 단계에서 행하는 굴림에 -2 상황 패널티를 받습니다.</p>\n<p><strong>극적인 실패</strong> 당신은 크게 넘어지며 대부분의 동물들을 놀라게 하여, 동물들은 도망치고 파티는 잡을 수 있는 동물이 매우 적게 됩니다. 파티는 2 IP를 잃습니다.</p>"
+    },
+    "Post Snipers": {
+      "name": "포스트 스나이퍼스",
+      "description": "<p>날름마치 수호자들은 숙련된 사냥꾼들이지만, 군대의 계급에서 이 궁수들을 몇 명 빼내어 전장 곳곳의 지붕이나 나무들 위 @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} 위치에 배치함으로써, 당신은 그들의 잠재력을 극대화할 수 있습니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 저격수들은 몇몇 중요한 위치에 배치됩니다. 타즐포드 전투 중 한 턴이 끝날 때, 교전 중이 아닌 어떤 군대에 대해서도 [[/r 1d20+18 #Ranged Strike]]{+18} 원거리 타격을 시도하십시오. 저격수들은 명중 시 1의 피해(치명타 시 2의 피해)를 입힙니다. 저격수들은 타즐포드 전투 중 최대 3번까지 이 보너스 공격을 수행할 수 있지만, 어떤 한 턴의 끝에도 한 번 이상은 할 수 없습니다.</p>\n<p><strong>성공</strong> 결정적 성공과 같지만, 저격수들은 전투 중 단 한 번만 보너스 공격을 수행할 수 있습니다.</p>\n<p><strong>결정적 실패</strong> 저격수들은 결국 유리하지 않은 지역에 배치되었을 뿐만 아니라, 당신은 계급에서 너무 많은 궁수들을 뽑았습니다. 날름마치 사냥꾼들은 타즐포드 전투 중 원거리 공격에 -2의 패널티를 받습니다.</p>"
+    },
+    "Practical Research": {
+      "name": "실용적인 연구",
+      "description": "<p><strong>요구 사항</strong> 당신은 박식가 또는 전승 담당자입니다.</p>\n<hr />\n<p>당신은 들판에서 흥미로운 것을 발견하고 그것에 대한 특별한 조사를 수행합니다. 이것은 적절한 판정을 요구하며, 기회가 생기면 GM이 설명해 줄 것입니다. 판정 결과는 다양합니다. 일반적으로 연구 활동의 모든 이점을 포함하지만, 어떤 실용적 연구 기회는 새로운 캐릭터 옵션에 대한 접근 권한과 같은 고유한 이점을 제공하기도 합니다.</p>"
+    },
+    "Prepare Firepots": {
+      "name": "파이어팟을 준비하십시오.",
+      "description": "<p>군대에 트롤이 있다는 것을 알고 있으니, 연금술의 불, 기름 또는 빠르게 연소될 수 있는 물질이 담긴 화로를 준비하는 것이 전투에 매우 귀중할 수 있습니다. 화로 준비에는 제작(숙련) 판정이 필요합니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 전장의 모든 지점에서 신속하게 사용할 수 있을 만큼 충분한 화로가 만들어지며, 그 결과 타즐포드를 공격하는 트롤 군대는 재생 전술을 잃습니다.</p>\n<p><strong>성공</strong> 신속한 배치를 보장할 만큼 충분한 화로가 만들어지지 않습니다. 트롤 군대의 턴이 끝날 때, DC 20 기동성 판정을 시도해야 합니다. 실패하면 다음 턴이 끝날 때까지 재생 전술을 잃습니다.</p>\n<p><strong>결정적 실패</strong> 화로를 준비하려는 시도는 엄청난 폭발로 이어져 PC(@Check[reflex|dc:25|basic])에게 @Damage[10d6[fire]] 피해를 입힙니다.</p>"
+    },
+    "Prepare the Processional": {
+      "name": "행렬을 준비하십시오.",
+      "description": "<p>당신은 4일 동안 다음 요소들을 당신의 프로세셔널(최대 4개)에 통합하는 데 시간을 할애합니다. 당신이 프로세셔널에 통합하기로 선택한 각 요소에 대해 목록에 있는 기술 숙련도 검사를 한 번씩 시도하십시오. 이 검사 결과에 따라 당신이 획득하는 준비 포인트의 수가 결정됩니다.</p>\n<p><strong>테마</strong>: 당신은 프로세셔널에 필수적인 하나의 테마를 생각해내고 축하 행사의 모든 측면에 그것을 어떻게 주입할지 결정합니다. 다음 기술 숙련도 검사 중 하나를 시도하십시오:  (주제 관련 지식을 활용하는 경우) 로어, (테마가 종교적 영감을 포함하거나 어떤 식으로든 언데드에 크게 의존하는 경우) 릴리전, 또는 (게브의 역사, 정치, 시대정신에 초점을 맞추는 경우) 소사이어티.</p>\n<p><strong>전시물</strong>: 당신은 프로세셔널의 전시물의 물리적 요소, 예를 들어 높이 들린 조각상이나 성상, 장식된 마차, 화려한 인형극, 훈련된 동물 등을 만들거나 배열하기 위해 노력합니다. 다음 기술 숙련도 검사 중 하나를 시도하십시오: (육체 노동을 제공하는 경우) 애슬레틱스, (인형을 만들거나, 조각상을 조각하거나, 차량을 장식하는 경우) 크래프팅, 또는 (동물을 훈련시켜 프로세셔널에 참여하게 하는 경우) 네이처.</p>\n<p><strong>행렬</strong>: 당신은 프로세셔널 기간 동안 참가자들이 휴대하거나 착용하는 의상과 액세서리를 만듭니다. 다음 기술 숙련도 검사 중 하나를 시도하십시오: (의상이나 휴대할 물품을 디자인하는 경우) 크래프팅, (의상이 변장 형태로 특정 개인을 나타내는 것이 되도록 의도하는 경우) 디셉션, 또는 (춤을 안무하거나 독창적인 음악을 작곡하는 경우) 퍼포먼스.</p>\n<p><strong>축제 참가자들</strong>: 당신은 당신의 프로세셔널에 참여할 많은 지역 주민들을 모집합니다. 다음 기술 숙련도 검사 중 하나를 시도하십시오: (사람들을 설득하여 당신의 프로세셔널에 참여하도록 하는 경우) 디플로머시, (참여하지 않으면 심각한 결과를 겪을 것이라고 위협하는 경우) 인티미데이션, 또는 (당신의 예술적 비전을 공유하도록 영감을 주는 경우) 퍼포먼스.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 파티를 위해 2개의 준비 포인트를 얻습니다.</p>\n<p><strong>성공</strong> 당신은 파티를 위해 1개의 준비 포인트를 얻습니다.</p>\n<p><strong>결정적 실패</strong> 당신은 파티를 위해 1개의 준비 포인트를 잃습니다.</p>"
+    },
+    "Promote the Circus": {
+      "name": "서커스를 홍보하십시오.",
+      "description": "<p>당신은 다음 서커스 쇼를 위해 마을에서 2일 연속으로 Anticipation을 생성하는 데 시간을 보냅니다. @Check[society] 판정을 시도하십시오. 이 판정의 DC는 그룹의 파티 레벨에 적합한 DC와 같습니다. 다른 PC 한 명이 2일의 휴식 시간을 사용하여 당신을 도울 수 있으며, 만약 그들이 @Check[society|dc:20] 판정에 성공한다면 당신의 Society 판정에 +2 상황 보너스를 제공합니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 당신의 레벨과 당신의 카리스마 수정치의 합계의 두 배만큼의 Anticipation을 생성합니다 (최소 2).</p>\n<p><strong>성공</strong> 당신은 당신의 레벨과 당신의 카리스마 수정치만큼의 Anticipation을 생성합니다 (최소 1).</p>\n<p><strong>실패</strong> 당신은 Anticipation 1을 생성합니다.</p>\n<p><strong>결정적 실패</strong> 당신은 Anticipation을 생성하지 않습니다.</p>"
+    },
+    "Propelling Winds": {
+      "name": "프로펠링 윈즈",
+      "description": "<p><strong>측면</strong> 에어</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 명령, 상호작용</p>\n<p><strong>빈도</strong> 시간당 한 번</p>\n<hr />\n<p><strong>효과</strong> 유물이 당신을 대상으로 @UUID[Compendium.pf2e.spells-srd.Item.A2JfEKe6BZcTG1S8]{Fly}을 발동합니다.</p>"
+    },
+    "Protector's Interdiction": {
+      "name": "프로텍터의 인터딕션",
+      "description": "<p><strong>트리거</strong> 인접한 아군이 공격을 받거나 치명타를 입습니다</p>\n<hr />\n<p><strong>이펙트</strong> 당신은 아군과 공격 사이에 끼어듭니다. 공격은 당신에게 적중하거나, 아군이 치명타를 입었다면 당신에게 치명타를 입힙니다.</p>"
+    },
+    "Prove Peace": {
+      "name": "평화를 증명하십시오.",
+      "description": "<p><strong>필요 조건</strong> 당신은 특정 공성 파편을 만들어낸 갈등을 알고 있으며, 그 공성 파편은 @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}입니다.</p>\n<hr />\n<p>당신은 공성 파편에 손을 대고 정신적 연결을 수립한 후 갈등 해결에 대한 사실을 전달합니다.</p>\n<p>파편을 만든 갈등에 대한 @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}을 공성 파편의 의지 DC를 사용하여 시도하십시오. 성공하면 갈등의 종식을 증명하고 공성 파편은 평범한 돌로 되돌아갑니다. 치명적인 실패 시 과거 갈등의 이미지가 당신을 압도하고 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused}됩니다.</p>"
+    },
+    "Raise Ramparts": {
+      "name": "레이즈 램파츠",
+      "description": "<p><strong>측면</strong> 어스</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 명령, 상호작용</p>\n<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 당신의 유물이 당신 주변의 땅을 재구성합니다. 당신은 5랭크 @UUID[Compendium.pf2e.spells-srd.Item.kOa055FIrO9Smnya]{Wall of Stone}을(를) 시전합니다.</p>"
+    },
+    "Rallying Display": {
+      "name": "랠링 디스플레이",
+      "description": "<p>당신은 포효하거나 다른 방법으로 짐승의 힘을 과시합니다. 당신은 자동으로 군중을 당신의 팀에 결집시키는 데 성공적인 굴림을 합니다.</p>"
+    },
+    "Reactive Scorch": {
+      "name": "반응형 스코치",
+      "description": "<p><strong>트리거</strong> 당신을 공격하는 생물</p>\n<hr />\n<p><strong>이펙트</strong> 그 생물은 @Damage[2d6[fire]] 피해를 입습니다 (@Check[reflex|against:class-spell|basic] 내성 굴림).</p>"
+    },
+    "Rebuild Battlements": {
+      "name": "성벽 재건",
+      "description": "<p><strong>필요 조건</strong> 제작(숙련), 전문 제작(석공술), 또는 고용된 석공; 조직적인 노동자</p>\n<hr />\n<p>당신은 중앙 탑 북쪽 구역의 무너진 흉벽을 재건하고 복구합니다. 이 작업에는 28일의 작업과 @Check[crafting|dc:20] 확인이 필요합니다.</p>"
+    },
+    "Rebuild Collapsed Stairs": {
+      "name": "무너진 계단 재건",
+      "description": "<p><strong>필요 조건</strong> 제작(숙련), 전문 제작(석공), 또는 고용된 석공; 조직적인 노동자</p>\n<hr />\n<p>당신은 성채 층을 연결하는 계단의 잔해를 치우고 재건하기 위해 노력하며, 이는 @Check[crafting|dc:20] 판정이 필요합니다. 안뜰에서 흉벽까지의 계단(지역 A12와 A22 연결)을 수리하는 데는 4일이 걸립니다. 안뜰에서 금고까지의 계단(지역 A12와 B1 연결)을 수리하는 데는 4일이 걸립니다. 알세타의 반지까지 이어지는 긴 계단(지역 B1과 D7 연결)을 파내는 데는 8일이 걸립니다.</p>"
+    },
+    "Recruit Wildlife": {
+      "name": "야생 동물 모집",
+      "description": "<p>타즐포드를 둘러싼 숲에는 상당한 수의 야생 동물이 서식하고 있습니다. 비록 동물들을 실제 군대로 조직할 수는 없지만, 당신은 여전히 자신의 기술을 사용하여 현지 동물들을 자신의 이점으로 활용하려고 시도할 수 있습니다. 야생 동물 모집에는 자연(숙련) 판정이 필요합니다. 당신이 야생 공감을 가지고 있거나 동물과 대화하기와 같은 주문을 시전할 수 있다면, 외교(숙련) 판정으로 이 판정을 시도하는 것을 선택할 수 있습니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 적 군대의 접근에 대한 동물들의 반응을 해석하여 타즐포드 전투 중에 이루어지는 주도권 판정에 +3 상황 보너스를 부여합니다.  게다가, 전투 중 한 시점에서, 배고픈 브러시 틸라신 무리가 적 군대를 공격합니다. 이 공격은 당신이 선택한 턴이 끝나는 시점에 발생하며, 그 시점에서 당신은 어떤 교전 중이 아닌 군대에 대해 [[/r {1d20+20} #melee strike]]{+20} 근접 타격을 시도할 수 있습니다. 틸라신들은 적중 시 그 군대에 1의 피해(혹은 치명타 시 2의 피해)를 입히고 다시 숲 속으로 도망칩니다.</p>\n<p><strong>성공</strong> 성공(틸라신 공격 포함)과 같지만, 주도권 판정에 대한 상황 보너스는 +1뿐입니다.</p>\n<p><strong>결정적 실패</strong> 현지 동물들은 돕기를 거부할 뿐만 아니라, 당신의 행동으로 인해 미쳐 날뛰는 브러시 틸라신 무리가 마을을 공격하도록 실수로 보내게 됩니다. 타즐포드 마을 수비대가 공격을 물리치지만, 전투 시작 시 1의 피해를 받은 상태로 시작합니다.</p>"
+    },
+    "Repair Crumbled Walls": {
+      "name": "무너진 벽 수리",
+      "description": "<p><strong>필요 조건</strong> 제작(숙련), 전문 제작(석공술), 또는 고용된 석공; 조직적인 노동자</p>\n<hr />\n<p>당신은 훈련장(구역 A8), 못 박는 법정(구역 A13), 또는 기록 보관실(구역 A17) 중 한 곳의 무너진 벽을 수리하기 위해 작업합니다. 각 방의 수리는 8일의 작업과 @Check[crafting|dc:20] 확인이 필요합니다.</p>"
+    },
+    "Repair Huntergate": {
+      "name": "헌터게이트 수리",
+      "description": "<p><strong>선행 조건</strong> 제작 또는 도둑질 숙련</p>\n<p><strong>필요 조건</strong> 당신은 Huntergate 포탈 키 (@UUID[Compendium.pf2e.equipment-srd.Item.JCGsj7iY88o9uTP5]{Hunter's Arrowhead})를 가지고 있습니다.</p>\n<hr />\n<p>당신은 사냥꾼의 화살촉을 사용하여 Huntergate의 어긋난 마법을 돌의 복잡한 조각과 장식을 통해 적절한 경로로 되돌립니다. 당신은 수리 (이 경우 사냥꾼의 화살촉이 이 활동에 필요한 수리 키트 역할을 합니다)에 대한 @Check[crafting|dc:24] 판정 또는 자물쇠 따기 (이 경우 사냥꾼의 화살촉이 도둑 도구 역할을 합니다)에 대한 @Check[thievery|dc:24] 판정을 시도해야 합니다. 사용된 기술에 관계없이 활동에는 1시간이 걸리며, 판정의 DC는 24이고, 다음과 같은 효과가 있습니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> Huntergate가 수리되고, Huntergate 중계소 내부의 Dahak 위험의 환영의 힘이 감소합니다. 위험의 모든 수정자와 DC를 2만큼 감소시킵니다.</p>\n<p><strong>성공</strong> Huntergate가 수리됩니다.</p>\n<p><strong>실패</strong> Huntergate가 수리되지 않고, 수리를 시도한 캐릭터는 주황색 마법 에너지 아크가 몸을 고통스럽게 관통하면서 1시간 동안 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2} 상태가 됩니다. 포탈 수리 시도는 24시간 동안 다시 할 수 없습니다.</p>\n<p><strong>결정적 실패</strong> 실패와 같지만, 마법적 반발은 또한 수리를 시도한 캐릭터에게 @Damage[6d6[fire]] 피해를 입힙니다.</p>"
+    },
+    "Reposition Chains": {
+      "name": "리포지션 체인즈",
+      "description": "<p>당신은 사슬을 당겨 기꺼이 협력하는 사슬로 묶인 아군을 당신의 손이 닿는 거리 내 10피트까지 이동시킵니다.</p>"
+    },
+    "Repository of Knowledge": {
+      "name": "지식의 보고",
+      "description": "<p><strong>측면</strong> 마음</p>\n<hr />\n<p>당신의 유물에는 과거 시대의 정신적 인상이 스며 있습니다. 유물이 당신의 소지품에 있는 동안, 당신은 GM이 선택하는 유물의 역사에 맞는 3가지 추가적인 전승 기술을 숙련하게 됩니다. 이 능력을 얻는 시점에 결정됩니다. 유물이 9레벨이라면, 당신은 대신 이러한 전승 기술에 전문가 수준의 숙련도를 가지게 되고, 유물이 17레벨이라면, 당신은 이러한 전승 기술에 숙련자 수준의 숙련도를 가지게 됩니다.</p>"
+    },
+    "Rescue Citizens": {
+      "name": "시민들을 구출하십시오.",
+      "description": "<p>당신은 시민들의 탈출이나 부상 회복을 돕는 데 집중합니다. 시민들을 안전한 곳으로 안내하기 위해 @Check[diplomacy|dc:36] 혹은 @Check[intimidation|dc:36] 판정을 시도하거나, 부상당한 생존자들을 치료하기 위해 @Check[medicine|dc:38] 판정을 시도하거나, 건물과 주변 골목길에서의 특이한 탈출 경로를 알아내기 위해 @Check[society|dc:40] 판정을 시도하십시오.</p>\n<hr />\n<p><strong>극적인 성공</strong> 당신의 노력은 대성공입니다. [[/r {2d6}]]{2d6}을 굴립니다 – 이것은 당신이 안전한 곳으로 인도한 건물에 갇힌 시민의 수 또는 이 단계 또는 이전 단계에서 사망한 시민 중 당신이 죽음 직전에서 구해낸 시민의 수이며, 원하는 대로 나눕니다.</p>\n<p><strong>성공</strong> 당신은 불길에서 [[/r 1d6 #Citizens Rescued]]{1d6 citizens}을 구출합니다.</p>\n<p><strong>실패</strong> 당신은 불에서 시민들을 구출하는 데 실패하고 @Damage[2d6[fire]]의 피해를 입습니다.</p>\n<p><strong>극적인 실패</strong> 불꽃과 떨어지는 파편이 당신을 강타하여 @Damage[4d6[fire]]의 피해를 입습니다. 이로 인해 받는 화염 피해 5당 건물에 여전히 갇혀 있는 시민 한 명이 사망합니다.</p>"
+    },
+    "Resist Death": {
+      "name": "죽음에 저항하십시오",
+      "description": "<p>당신의 정신은 목표에 너무나도 집중되어 있어서, 환생한 당신의 육체가 소멸하더라도 멈추지 않습니다. 앞으로 24시간 안에 당신의 히트 포인트가 0이 되면, 대신 10의 히트 포인트로 감소하고 Soul Degradation에 노출됩니다.</p>"
+    },
+    "Righteous Call": {
+      "name": "의로운 부름",
+      "description": "<p><strong>측면</strong> 셀레스티얼</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> (집중, 조작)</p>\n<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 신성한 마법이 당신의 무기를 채워, 그것들을 악에 대한 진정한 무기로 만듭니다. 1분 동안, 당신이 무기를 쥐고 있는 동안 당신의 무기와 무장 공격은 신성 무기 룬을 얻습니다. 만약 무기가 속성 룬의 한계에 도달했다면, 신성 룬이 효과를 발휘하는 동안 무기의 속성 룬 하나를 휴면 상태로 선택할 수 있습니다.  게다가, 당신으로부터 30피트 이내에 있는 당신의 아군이 하는 공격은 신성 특성을 얻습니다.</p>"
+    },
+    "River's Reflection": {
+      "name": "리버스 리플렉션",
+      "description": "<p>삶과 죽음 사이에 존재하는 것은 생명과 죽음의 에너지를 다루는 데 통찰력을 제공할 수 있습니다. 당신이 다음으로 사용하는 행동이 긍정적이거나 부정적인 특성을 가진 주문을 시전하는 것이라면, 그 주문의 살아있는 대상과 언데드 대상에 대한 효과는 반전됩니다. 모든 부정적인 피해는 긍정적인 피해가 되고 그 반대도 마찬가지입니다. 살아있는 생물이나 언데드 생물을 치유하는 모든 능력도 마찬가지로 바뀝니다.</p>"
+    },
+    "Rotate the Wheel": {
+      "name": "바퀴를 돌리십시오.",
+      "description": "<p>당신의 캐릭터는 바퀴를 회전시키는 데 시간을 소비합니다. 그렇게 하는 것은 매우 힘들며, 라운드가 끝날 때 당신은 @Check[fortitude|dc:25] 내성 굴림을 시도해야 합니다. 이 내성 굴림의 DC는 바퀴를 회전시키려는 시도가 진행됨에 따라 증가합니다. 7회전을 완전히 완료하면 이 방의 두 개의 이중문이 열립니다 (24시간 후 자동으로 닫힙니다).</p>\n<hr />\n<p><strong>극적인 성공</strong> 바퀴가 2회전 합니다. 바퀴를 회전시키는 DC가 1 증가합니다.</p>\n<p><strong>성공</strong> 바퀴가 1회전 합니다. 바퀴를 회전시키는 DC가 1 증가합니다.</p>\n<p><strong>실패</strong> 당신의 캐릭터는 회전을 완료하지 못합니다. 바퀴를 회전시키는 DC가 2 증가합니다.</p>\n<p><strong>극적인 실패</strong> 당신의 캐릭터는 비틀거리며 바퀴를 놓쳐 지구력 시험 위험을 유발합니다. 바퀴는 되돌아가고 회전 수는 0으로, DC는 25로 재설정됩니다.</p>"
+    },
+    "Sap Life": {
+      "name": "수액 생명",
+      "description": "<p>일부 언데드가 생명을 갈망하듯이, 당신은 살아있는 자로부터 생명력을 끌어내고자 하는 충동을 느낍니다. 적에게 무장 해제 스트라이크를 시도하십시오. 적중하면 @Damage[4d6[void]] 피해를 입히고 자신에게 @Damage[10[healing]] 히트 포인트를 회복합니다.</p>"
+    },
+    "Scout Duneshadow": {
+      "name": "스카웃 듀네섀도우",
+      "description": "<p>던섀도우는 카타페시 북중부의 넓은 지역을 이동하는 것으로 알려져 있으며, 당신들은 먼저 그의 현재 위치를 수 마일 이내로 좁혀야 합니다. 완전한 정찰 시도에는 4시간이 걸리며, 그 동안 각 PC는 어떻게 정찰할 것인지에 따라 다음 옵션 중에서 선택한 기술 숙련도 검사를 시도합니다: @Check[diplomacy|dc:40] (현지 유목민들에게 목격에 대해 묻기) 또는 @Check[nature|dc:36] (낙타의 행동과 던섀도우가 가장 잘 발견될 수 있는 곳을 알기 위해). 당신의 재량에 따라, PC는 이러한 기술 중 어느 하나에 대해 적절한 지식 기술을 대체할 수 있으며, 이 경우 DC는 2만큼 감소합니다.</p>\n<p>낙타의 흔적을 찾으려면, 파티는 던섀도우를 세 번 성공적으로 정찰해야 합니다. 대성공은 두 번의 성공으로 계산되며, 대실패는 한 번의 성공을 무효화합니다. 모든 PC가 이 임무를 포기하고 아무도 던섀도우를 정찰하지 않으면, 누적된 성공 횟수는 0으로 재설정됩니다. @UUID[Compendium.pf2e.spells-srd.Item.CeSh8QcVnqP5OlLj]{Pinpoint} 와 같은 마법은 던섀도우를 찾는 데 두 번의 성공을 제공하지만, 그는 너무 자주 그리고 이상한 방식으로 이동하기 때문에 @UUID[Compendium.pf2e.spells-srd.Item.69L70wKfGDY66Mk9]{Teleport}하는 데 걸리는 10분 안에도 그의 흔적만 남을 것입니다. 세 번의 성공을 거두면, 당신은 그런 다음 @UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{Track} 그를 (@Check[survival|dc:40]) 수 있습니다. 당신은 연속으로 두 번 성공하거나 한 번 대성공해야 하며, 실패 시 다시 시도할 수 있습니다. 대실패 시, 당신은 던섀도우를 다시 정찰하기 전에 최소 24시간을 기다려야 합니다.</p>"
+    },
+    "Scout the Facility": {
+      "name": "시설을 정찰하십시오.",
+      "description": "<p><strong>극복</strong> @Check[perception|dc:36], @Check[society|dc:38], @Check[stealth|dc:34]</p>\n<hr />\n<p>플레이어 캐릭터(PC)는 하루의 일부를 베츠샴탈 저택을 관찰하고, 순찰 경로를 기록하며, 탈출 경로를 확인하고, 정신적인 지도를 만드는 데 보냅니다.</p>\n<hr />\n<p><strong>성공</strong> PC는 결정적인 관찰을 하여 PC들에게 저택을 잠입하거나 이동하는 데 사용할 수 있는 에지 포인트 1개를 제공합니다.</p>\n<p><strong>실패</strong> PC는 주목할 만한 것을 아무것도 배우지 못합니다.</p>\n<p><strong>치명적인 실패</strong> PC는 보안의 어떤 요소를 잘못 판단합니다. PC들에게 정찰이 에지 포인트 1개를 제공한다고 알려주십시오. 그들이 그 에지 포인트를 사용할 때, 그들은 일반적인 이점을 얻지 못하며, 만약 그들이 일반적인 실패를 굴렸다면 대신 치명적인 실패를 얻습니다.</p>"
+    },
+    "Search the Laughing Jungle": {
+      "name": "웃는 정글을 수색하십시오.",
+      "description": "<p>웃는 정글의 코리르 강 지류를 따라 여행하는 동안, 당신은 해당 지역이나 자연 지형에 대한 당신의 지식을 사용하여 길을 찾고, 최적의 경로를 찾고, 주민들의 흔적을 찾습니다. 자연, 스카우팅 전승, 사회 또는 정글 전승이나 강 전승과 같은 다른 관련 전승 확인(5-6레벨의 경우 DC 20)을 DC 18로 시도하십시오.</p>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>스킬</th>\n<th>3-4 티어</th>\n<th>5-6 티어</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>자연</td>\n<td>@Check[nature|dc:18]</td>\n<td>@Check[nature|dc:20]</td>\n</tr>\n<tr>\n<td>사회</td>\n<td>@Check[society|dc:18]</td>\n<td>@Check[society|dc:20]</td>\n</tr>\n<tr>\n<td>스카우팅 전승</td>\n<td>@Check[scouting-lore|dc:18]</td>\n<td>@Check[scouting-lore|dc:20]</td>\n</tr>\n<tr>\n<td>정글 전승</td>\n<td>@Check[jungle-lore|dc:18]</td>\n<td>@Check[jungle-lore|dc:20]</td>\n</tr>\n<tr>\n<td>강 전승</td>\n<td>@Check[river-lore|dc:18]</td>\n<td>@Check[river-lore|dc:20]</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 탐색에서 상당한 진전을 이룹니다. 탐험 포인트 2점을 얻습니다.</p>\n<p><strong>성공</strong> 당신은 탐색에서 약간의 진전을 이룹니다. 탐험 포인트 1점을 얻습니다.</p>\n<p><strong>결정적 실패</strong> 당신은 실수를 하고 시간을 낭비합니다. 탐험 포인트 1점을 잃습니다.</p>"
+    },
+    "Searing Wave": {
+      "name": "시어링 웨이브",
+      "description": "<p><strong>측면</strong> 파이어</p>\n<p><strong>발동</strong> <span class=\"action-glyph\">2</span> (집중, 조작)</p>\n<hr />\n<p><strong>효과</strong> 당신은 당신의 유물에 담긴 불 마법의 일부를 당신이 선택한 방향으로 방출합니다. 당신은 유물의 레벨 2당 @Damage[1d10[fire]] 피해를 @Template[cone|distance:30] (@Check[reflex|against:class-spell|basic]) 안의 모든 생물에게 입힙니다. 당신은 [[/r 1d4 #Recharge Searing Wave]] 라운드 동안 시어링 웨이브를 다시 사용할 수 없습니다.</p>"
+    },
+    "Seasonal Boon (Close Ties)": {
+      "name": "계절의 은혜 (깊은 유대)",
+      "description": "<p><strong>빈도</strong> 계절당 한 번만</p>\n<p><strong>유발 조건</strong> 파티원 중 누군가가 윌로우쇼어의 NPC와 친하게 됩니다</p>\n<hr />\n<p><strong>효과</strong> 당신의 명성이 당신보다 앞서 나갑니다. 비록 당신이 NPC에게 영향을 미치려고 시도하는 사람이 아니더라도 말입니다. NPC는 친근한 대신 도움이 되는 상태가 됩니다. NPC를 도움이 되게 만드는 것은 윌로우쇼어에서 그들의 위치로부터 추가적인 지원을 얻을 수 있게 합니다—이 메커니즘에 대한 자세한 내용은 GM에게 문의하십시오.</p>"
+    },
+    "Seasonal Boon (Folklore Enthusiast)": {
+      "name": "계절의 은혜 (민속광 연구가)",
+      "description": "<p><strong>빈도</strong> 계절당 한 번만</p>\n<p><strong>유발 조건</strong> 당신이 지식 회상에 대한 어떤 판정이든 굴리려고 할 때</p>\n<hr />\n<p><strong>효과</strong> 당신은 옛날 우화, 무명의 전설 또는 현재 주제에 적용 가능한 이야기를 떠올리면서 통찰력의 순간을 경험합니다. 이 지식 회상 판정은 비밀 특성을 잃습니다. 당신의 지식 회상 판정 결과를 성공 단계 하나만큼 증가시킵니다.</p>"
+    },
+    "Seasonal Boon (Northridge Scholar)": {
+      "name": "시즌 보온 (노스리지 스칼라)",
+      "description": "<p><strong>빈도</strong> 계절당 한 번만</p>\n<p><strong>유발 조건</strong> 당신 일행의 노스리지 평판이 증가합니다</p>\n<hr />\n<p><strong>효과</strong> 당신 일행의 노스리지 평판을 추가로 2 포인트 증가시킵니다 (당신의 GM은 윌로우쇼어 평판에 대한 정보를 가지고 있습니다).</p>"
+    },
+    "Seasonal Boon (Outskirt Dweller)": {
+      "name": "계절의 은총 (변방 거주자)",
+      "description": "<p><strong>빈도</strong> 계절당 한 번만</p>\n<p><strong>발동 조건</strong> 당신이 곧 선제 공격 주사위를 굴리려고 할 때</p>\n<hr />\n<p><strong>효과</strong> 상황에 대한 어떤 것이 당신의 방어를 자극하여 갑작스러운 위험에 더 빨리 반응할 수 있게 합니다. 당신은 고스트의 계절을 시작한 이후 지난 계절 수와 같은 수치의 상태 보너스를 당신의 선제 공격 주사위 굴림에 얻습니다 (+1은 첫 번째 모험 동안, 최대 +4는 네 번째이자 마지막 모험 동안). 당신이 다른 PC들에게 경고를 전달할 수 있다면, 그들은 이 보너스를 그들의 선제 공격 주사위 굴림에도 얻습니다.</p>"
+    },
+    "Seasonal Boon (Southbank Traditionalist)": {
+      "name": "시즌 보온 (사우스뱅크 트래디셔널리스트)",
+      "description": "<p><strong>빈도</strong> 계절당 한 번만</p>\n<p><strong>트리거</strong> 파티의 사우스뱅크 평판이 증가합니다</p>\n<hr />\n<p><strong>효과</strong> 파티의 사우스뱅크 평판을 추가로 2포인트 증가시킵니다 (당신의 GM은 윌로우쇼어 평판에 대한 정보를 가지고 있습니다).</p>"
+    },
+    "Seasonal Boon (Willowshore Urchin)": {
+      "name": "계절의 은혜 (윌로우쇼어 어친)",
+      "description": "<p><strong>빈도</strong> 계절당 한 번만</p>\n<p><strong>발동 조건</strong> 당신(혹은 인접한 PC)이 회복 판정을 굴리려고 할 때</p>\n<hr />\n<p><strong>효과</strong> 당신은 회복 판정을 굴리는 대신 자동으로 대성공을 얻습니다. 당신의 건강한 체격, 끈기 있는 태도, 혹은 단순한 행운이 어린 시절처럼 당신이 생존하는 것을 계속해서 돕기 때문입니다. 만약 회복 판정을 굴리려는 PC 옆에 있다면, 이 효과를 그들에게 부여하는 데 이 혜택을 사용할 수 있습니다.</p>"
+    },
+    "Secure Disguises": {
+      "name": "완벽한 변장",
+      "description": "<p><strong>극복</strong> @Check[crafting|dc:35], @Check[deception|dc:33], @Check[performance|dc:35], @Check[society|dc:37]</p>\n<hr />\n<p>플레이어 캐릭터(PC)는 특정 유형(예: 경비병이나 사교계 인사)의 변장을 찾으려고 합니다.</p>\n<hr />\n<p><strong>성공</strong> PC는 유용한 변장을 찾거나 만들어내어, PC들이 은밀한 신분을 유지하는 데 사용할 수 있는 에지 포인트 1개를 얻습니다.</p>\n<p><strong>실패</strong> PC는 변장을 찾지 못합니다.</p>"
+    },
+    "Secure Invitation": {
+      "name": "확보된 초대장",
+      "description": "<p><strong>극복</strong> @Check[diplomacy|dc:35], @Check[society|dc:35]</p>\n<hr />\n<p>플레이어 캐릭터는 초대장을 팔 의향이 있는 사람을 찾습니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 플레이어 캐릭터는 초대장을 가진 사람을 찾아 무료로 초대장을 주도록 설득합니다. 플레이어 캐릭터들은 추가 행동 포인트 1점을 얻습니다.</p>\n<p><strong>성공</strong> 플레이어 캐릭터는 초대장을 250gp에 팔 의향이 있는 사람을 찾습니다. 당신이 지불하면, 그룹은 추가 행동 포인트 1점을 얻습니다. 당신은 대신 그것을 훔치려고 시도할 수 있습니다 (@Check[thievery|dc:34]). 하지만 그렇게 한다면, 2단계: 침투 시작 시 경계심을 2만큼 증가시킵니다.</p>\n<p><strong>실패</strong> 플레이어 캐릭터는 초대장을 찾을 수 없습니다.</p>"
+    },
+    "Seek the Animals": {
+      "name": "동물을 찾으십시오.",
+      "description": "<p>당신은 엘프 사냥꾼들이 동물의 흔적을 찾도록 돕습니다. @Check[nature|dc:17] 판정 또는 @Check[perception|dc:17]을 시도하십시오.</p>\n<hr />\n<p><strong>결정적 성공</strong> 당신은 인상적이고 잠재적으로 위험한 발견을 합니다. 예를 들어, 특히 건강하고 (따라서 성격이 사나운) 붉은 강멧돼지 무리 또는 날카로운 뿔을 가진 큰 물영양 등입니다. 또한, 인상적이고 맛있는 발견보다 사냥하기에 더 안전한 동물의 흔적도 찾습니다.</p>\n<p><strong>성공</strong> 당신은 사냥하기에 안전한 동물의 흔적을 발견합니다.</p>\n<p><strong>실패</strong> 당신의 노력으로 가장 좋은 사냥감이 놀라 달아났고, 사냥꾼들은 자라와 박쥐를 노려야 합니다.</p>\n<p><strong>결정적 실패</strong> 당신의 노력으로 너무 많은 동물이 놀라 달아나 사냥꾼들이 잡을 수 있는 사냥감이 부족합니다. 파티는 IP 2를 잃습니다.</p>"
+    },
+    "Seek the Hidden Forge": {
+      "name": "숨겨진 대장간을 찾으십시오.",
+      "description": "<p><strong>필요 조건</strong> 히든 포지 단서 하나 이상.</p>\n<hr />\n<p>하루 동안 히든 포지 단서를 조사하고, 현지 주민들과 상담하고, 코블라 지도를 연구하고, 그 외에도 미스터리를 조사함으로써, PC는 드워프 도시에 있는 드로스카르의 비밀 사당 위치를 알아내려고 시도합니다. 캐릭터는 인식, 사회, 또는 생존 능력 검사를 사용하여 이러한 단서를 해석하려고 시도할 수 있습니다. DC는 단서를 해석하는 데 사용되는 검사에 관계없이 36으로 유지됩니다. 이 DC는 첫 번째 단서를 초과하여 소지하고 있는 히든 포지 단서 하나당 2씩 감소합니다. 따라서 캐릭터가 히든 포지 단서 두 개를 가지고 있다면, DC는 34로 감소하며, 캐릭터가 히든 포지 단서 8개를 가지고 있다면 최대 DC 22까지 감소합니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> PC는 히든 포지의 입구를 정확히 찾아냅니다.</p>\n<p><strong>성공</strong> PC는 히든 포지의 위치를 ​​결정하는 데 상당한 진전을 이루고, 다음 히든 포지 탐색 검사에 +4 상황 보너스를 얻습니다.</p>\n<p><strong>실패</strong> PC는 단서에서 유익한 정보를 얻지 못합니다.</p>\n<p><strong>결정적 실패</strong> 실패와 같지만, 드로스카르 추종자들이 조사 사실을 알게 되어 방어 준비를 할 수 있습니다.</p>"
+    },
+    "Send in the Clowns": {
+      "name": "클라운들을 보내십시오.",
+      "description": "<p><strong>요구 사항</strong> 당신 또는 다른 공연자가 현재 막 동안 트릭 체크에서 실패하거나 대실패하였습니다.</p>\n<hr />\n<p>당신은 서커스의 광대 곡예단이 무대에 올라 실패한 트릭을 구해내도록 신호를 보냅니다. 실패한 트릭은 성공이 되거나, 대실패였을 경우 실패가 됩니다. 광대들은 막당 한 번만 보낼 수 있으며, 오직 하나의 트릭 체크에만 영향을 미칩니다.</p>"
+    },
+    "Set Traps": {
+      "name": "함정 설치",
+      "description": "<p>주변 숲이나 좁은 골목에 신속하게 함정을 여러 개 설치함으로써, 당신은 공격자들의 이동을 방해하고 심지어 일부를 부상입힐 수 있습니다. 함정 설치에는 생존(숙련) 판정이 필요합니다.</p>\n<hr />\n<p><strong>결정적 성공</strong> 타즐포드 전투 중 각 턴이 끝날 때마다, 당신이 선택한 적군 하나가 1만큼 꼼짝 못하게 되고 1의 피해를 입습니다.</p>\n<p><strong>성공</strong> 타즐포드 전투 중 각 턴이 끝날 때마다, 당신이 선택한 적군 하나가 1만큼 꼼짝 못하게 되거나 1의 피해를 입습니다.</p>\n<p><strong>결정적 실패</strong> 함정 설치 시도는 실패할 뿐만 아니라, 설치 과정에서 함정 하나가 엄청나게 오작동합니다. 스파이크로 뒤덮인 통나무를 설치하려는 시도가 실패하여, 당신은 건물 벽에 부딪힙니다. 당신은 @Damage[5d6[piercing],5d6[bludgeoning]]{5d6 piercing and 5d6 bludgeoning damage} (@Check[reflex|dc:25|basic])을 입습니다.</p>"
+    },
+    "Shadow Smith": {
+      "name": "섀도우 스미스",
+      "description": "<p><strong>측면</strong> 섀도우</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">1</span> 상호작용</p>\n<hr />\n<p><strong>효과</strong> 당신의 유물이 근처 그림자를 끌어당겨, 그것을 밧줄이나 쇠지렛대와 같은 간단한 무기 또는 간단한 도구나 아이템의 형태로 비틀어 만듭니다.  그것은 단일 활동에 사용될 때까지, 당신이 섀도우 스미스를 다시 사용할 때까지, 또는 1분, 어느 것이 먼저이든, 그 후에 소멸될 때까지 지속됩니다.</p>"
+    },
+    "Shattered Earth": {
+      "name": "산산조각난 대지",
+      "description": "<p><strong>측면</strong> 어스</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 명령, 상호작용</p>\n<p><strong>빈도</strong> 시간당 한 번</p>\n<hr />\n<p><strong>효과</strong> 당신의 유물에서 나오는 지진파가 근처 지면을 통해 퍼져 날카로운 파편들을 표면으로 흔듭니다. 60피트 이내의 10피트 반경의 돌이나 흙 지역이 어려운 지형으로 변합니다. 이동 행동 중에 영향을 받는 칸에 들어온 생명체는 곡예 숙련 검사 또는 반사 내성 굴림에 성공해야 하거나 @Damage[1d6[piercing]] 피해를 받습니다; 여러 칸을 이동하더라도 이동 행동당 한 번만 굴림을 할 필요가 있습니다. 6레벨과 그 이후 4레벨마다 피해량이 [[/r 1d6]] 증가합니다.</p>"
+    },
+    "Shed Time": {
+      "name": "시간 흘리기",
+      "description": "<p><strong>트리거</strong> 당신이 내성 굴림에 실패하거나 치명적으로 실패하거나, 스트라이크를 맞거나, 죽어가는 상태의 값이 증가할 경우입니다.</p>\n<p><strong>필요 조건</strong> 당신은 시간의 경계에 있는 집(니리사의 우화를 포함)에 있으며 현재 헬릭스 정리의 보호를 받고 있습니다. 당신은 현재 차지하고 있는 시간대를 벗어났다가, 트리거 이벤트가 지나면 다시 돌아옵니다. 정확한 효과는 아래에 자세히 설명된 대로 트리거 효과의 성격에 따라 달라집니다. 당신은 더 이상 헬릭스 정리의 보호를 받지 않습니다. 이 보호가 사라지면 다시 얻을 수 없습니다.</p>\n<hr />\n<ul>\n<li><strong>내성 굴림 실패.</strong> 트리거가 된 내성 굴림에 대해 실패에서 성공으로, 또는 치명적 실패에서 실패로 성공 단계를 변경합니다.</li>\n<li><strong>스트라이크 적중.</strong> 트리거가 된 스트라이크가 치명적 성공이었다면 성공으로 변경합니다. 트리거가 된 스트라이크가 성공이었다면 실패로 변경합니다.</li>\n<li><strong>죽어가는 상태 증가.</strong> 죽어가는 상태가 증가하는 대신, 죽어가는 상태를 잃습니다.</li>\n</ul>"
+    },
+    "Shootist's Draw": {
+      "name": "슈티스트 드로우",
+      "description": "<p><strong>빈도</strong> 라운드당 한 번</p>\n<hr />\n<p><strong>효과</strong> 당신은 상호작용하여 @UUID[Compendium.pf2e.equipment-srd.Item.XyA6PKV46aNlLXOd]{Hand Crossbow}을 꺼내 공격하거나, 이미 장착한 장전된 핸드 크로스보우로 공격한 후 상호작용하여 그것을 수납합니다.</p>"
+    },
+    "Shortcut Through the Wastes": {
+      "name": "황무지를 가로지르는 지름길",
+      "description": "<p>육로 이동 중 당신은 지역이나 자연 지형에 대한 지식을 사용하여 게임 트레일, 빠른 물살 또는 다른 자연적인 지름길을 이용하여 최적의 경로를 찾습니다.  DC 20 (서브티어 7-8에서는 DC 22)의 자연, 스카우팅 로어 또는 관련 로어 판정 (예: 누메리아 로어)을 시도하십시오. 이 활동을 사용하는 PC는 한 명만 판정을 시도할 수 있습니다. 다른 PC는 돕기 (DC 20)를 시도할 수 있습니다.</p>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>티어 1-2</th>\n<th>티어 3-4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>\n<p>@Check[nature|dc:20]</p>\n</td>\n<td>@Check[nature|dc:22]</td>\n</tr>\n<tr>\n<td>@Check[scouting-lore|dc:20]{Scouting Lore}</td>\n<td>@Check[scouting-lore|dc:22]</td>\n</tr>\n<tr>\n<td>@Check[numeria-lore|dc:20]{Numeria Lore}</td>\n<td>@Check[numeria-lore|dc:22]{Numeria Lore}</td>\n</tr>\n</tbody>\n</table>\n<p><strong>결정적 성공</strong> 당신은 엄청난 시간을 절약하는 길을 찾았습니다. 탐험 포인트 2점을 얻습니다.</p>\n<p><strong>성공</strong> 당신은 지름길을 찾았습니다. 탐험 포인트 1점을 얻습니다.</p>\n<p><strong>결정적 실패</strong> 당신은 특히 위험한 지형에 발을 들여놓았습니다. 탐험 포인트 1점을 잃습니다.</p>"
+    },
+    "Smooth the Path": {
+      "name": "길을 순화하다",
+      "description": "<p><strong>요구 사항</strong> 당신은 저택에 성공적으로 잠입했습니다.</p>\n<hr />\n<p>이제 내부에 있는 당신은 아직 잠입 중인 아군을 돕습니다. 당신은 어떻게 돕고 있는지 설명하고, 아군에게 @UUID[Compendium.pf2e.actionspf2e.Item.tfa4Sh7wcxCEqL29]{Following the Expert}의 이점을 제공합니다. 게임 마스터는 당신에게 길을 순조롭게 하기 위해 관련 기술 굴림(보통 DC 32)을 시도하도록 요구할 수 있습니다.</p>"
+    },
+    "Smuggled": {
+      "name": "밀수입된",
+      "description": "<p><strong>극복</strong> @Check[stealth|dc:33]</p>\n<hr />\n<p>PC들은 영지로 향하는 수레, 와인통, 또는 다른 큰 용기 안에 숨습니다. 이렇게 하면 영지 벽 안에 있지만 저택과는 거리가 떨어진 곳에 도착하게 됩니다.</p>\n<hr />\n<p><strong>특수</strong> 이 과정을 거치면 참여하는 PC들은 옷매무새가 흐트러져 단정하거나 전문적인 외모를 필요로 하는 판정에 -1 상황 패널티를 받습니다.</p>"
+    },
+    "Soul Ward": {
+      "name": "소울 워드",
+      "description": "<p><strong>빈도</strong> 한 번</p>\n<p><strong>발동 조건</strong> 당신이 @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} 또는 @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying} 상태가 되거나, 파괴될 경우</p><hr /><p><strong>효과</strong> 당신은 최대 체력까지 @Damage[200[healing]] 히트 포인트를 회복합니다.  게브에 의해 당신에게 부여된 모든 저항력과 일시적 히트 포인트는 즉시 종료됩니다.</p>"
+    },
+    "Spite": {
+      "name": "스파이트",
+      "description": "<p>당신이 살아생전 친절한 사람이었다 할지라도, 죽은 자에게는 산 자를 괴롭히고 싶은 이유가 많으며, 죽은 자의 격렬한 원한 때문에 유령이 두려움의 대상이 되는 경우가 많습니다. 이러한 집중은 증오만으로 연료를 공급받는 것이 아닙니다. 의로운 분노는 이러한 능력을 강화할 수 있지만, 가장 덕이 높은 감정조차도 시간이 지남에 따라 뒤틀릴 수 있습니다. 원한은 저주 형태를 취하며, 다양한 신체 질환으로 목표물을 벌합니다. 30피트 이내에 당신이 볼 수 있는 목표물을 가리키십시오. 그러면 목표물은 @Check[will|against:class-spell] 내성 굴림을 시도해야 하며, 그 후에는 이 힘에 면역됩니다.</p>\n<hr />\n<p><strong>극적인 성공</strong> 목표물은 영향을 받지 않습니다.</p>\n<p><strong>성공</strong> 목표물의 피부가 통제할 수 없이 가렵습니다. 목표물이 가려움을 긁는 행동을 소비하지 않으면 다음 턴이 시작될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}이 됩니다. 이 효과는 1분 동안 지속됩니다.</p>\n<p><strong>실패</strong> 목표물의 피부에 고통스러운 병변과 보기 흉한 종기가 생깁니다. 피해자는 24시간 동안 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2}, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}, 그리고 @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 2}이 됩니다.</p>\n<p><strong>극적인 실패</strong> 실패와 같지만, 목표물은 또한 지속 시간 동안 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}이 됩니다.</p>"
+    },
+    "Steal Keys": {
+      "name": "열쇠 훔치기",
+      "description": "<p><strong>요구 사항</strong> 당신이 잠입과 침입 중에 열쇠를 발견했습니다.</p>\n<p><strong>극복</strong> @Check[thievery|dc:35]</p>\n<hr />\n<p>플레이어 캐릭터는 저택의 많은 문을 열 수 있는 열쇠 꾸러미를 훔칩니다.</p>\n<hr />\n<p><strong>성공</strong> 당신은 자물쇠를 여는 데 사용할 수 있는 에지 포인트 1개를 얻습니다.</p>"
+    },
+    "Steal Luck": {
+      "name": "행운 훔치기",
+      "description": "<p><strong>측면</strong> 럭</p>\n<p><strong>발동</strong> <span class=\"action-glyph\">r</span> 인비전</p>\n<p><strong>빈도</strong> 하루에 한 번</p>\n<p><strong>발동 조건</strong> 당신 또는 당신으로부터 30피트 이내의 생명체가 행운 또는 불운 효과를 위해 20면체 주사위 두 개를 굴리고 당신이 더 높은 숫자를 원할 경우</p>\n<hr />\n<p><strong>효과</strong> 당신은 발동 대상이 굴린 두 숫자 중 더 높은 숫자를 가져갑니다. 대상은 다른 결과를 사용해야 합니다. 다음 일일 준비를 할 때까지, 당신은 적, 위험 또는 환경에 의해 생성된 효과에 대해 당신이 해야 하는 내성 굴림 또는 기술 숙련 검사에 대해 20면체 주사위 한 번 굴림을 대체하기 위해 그 숫자를 사용할 수 있습니다. 그렇게 하는 것은 행운 효과입니다. 다음 일일 준비를 하기 전에 그렇게 하지 못하면 저장된 숫자를 잃습니다.</p>"
+    },
+    "Study": {
+      "name": "공부하십시오.",
+      "description": "<p><strong>요구 사항</strong> 당신은 이니시에이트, 어텐던트, 또는 컨버전트입니다.</p>\n<hr />\n<p>당신은 당신의 분야를 지키며 당신의 모든 것을 당신의 학업에 쏟습니다. 당신의 주요 또는 보조 분야 중 하나를 선택하고 해당 분야와 관련된 기술 중 하나를 사용하여 해당 분야의 레벨과 동일한 표준 DC에 대한 기술 숙련도 확인을 시도하십시오.</p>\n<hr />\n<p><strong>결정적 성공</strong> 놀라운 결과입니다! 당신은 모든 시험에서 뛰어난 성적을 거두고 모든 강사들이 주목하는 센세이션을 일으킵니다. 당신이 선택한 분야의 레벨을 2 증가시키십시오.</p>\n<p><strong>성공</strong> 당신은 당신의 학업에서 훌륭하게 성공했습니다. 당신이 선택한 분야의 레벨을 1 증가시키십시오.</p>\n<p><strong>실패</strong> 당신은 더 열심히 노력하고 다시 시도해야 합니다. 당신의 분야 레벨은 동일하게 유지됩니다.</p>\n<p><strong>결정적 실패</strong> 당신은 중대한 실수를 저질러 보충 학습을 수행해야 합니다. 다음에 이 활동을 시도할 기회가 생길 때, 당신은 그 기회를 건너뛰고 학업을 따라잡아야 합니다.</p>"
+    },
+    "Topple Crates": {
+      "name": "상자 넘어뜨리기",
+      "description": "<p><strong>필요 조건</strong> 당신은 상자 기둥에 인접해 있습니다.</p>\n<hr />\n<p>당신은 무거운 상자 더미를 적에게 넘어뜨리려고 시도합니다. @Check[athletics|dc:22] 판정을 시도하십시오.</p>\n<hr />\n<p><strong>성공</strong> 당신은 상자 기둥으로부터 @Template[line|distance:15]{15-foot line} 이내의 목표물을 향해 상자를 넘어뜨립니다. 넘어지는 상자는 @Damage[(3d10+6)[bludgeoning]] 피해를 입히며 @Check[reflex|dc:26|basic] 내성 굴림을 합니다. 치명적인 실패를 한 생물은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}됩니다. 상자가 떨어진 모든 칸은 험준한 지형이 됩니다.</p>\n<p><strong>실패</strong> 당신은 상자를 넘어뜨릴 수 없습니다.</p>\n<p><strong>치명적인 실패</strong> 상자가 당신에게 넘어집니다. 성공과 동일한 효과가 있지만 당신과 당신의 칸에만 영향을 미칩니다.</p>"
+    },
+    "Underground Bounty": {
+      "name": "지하 보상",
+      "description": "<p><strong>측면</strong> 어스</p>\n<hr />\n<p>당신의 유물은 당신의 무기를 강화하기 위해 금속과 돌을 생성합니다. 매일 준비하는 동안, 당신의 유물은 은, 차가운 철, 금, 또는 당신이 선택한 비귀금속 광물이나 금속 재료(예: 청동이나 화강암)의 마법 조각을 만들어냅니다. 당신의 유물이 무기라면, 즉시 조각을 흡수하여 다음 준비까지 그 금속이나 돌의 마법 광채를 얻게 됩니다. 당신의 유물이 무기가 아니라면, 조각은 즉시 사용되지 않으며, 상호 작용 액션을 사용하여 돌이나 금속 무기에 조각을 접촉시켜 10분 동안 그 금속이나 돌의 마법 광채를 부여할 수 있습니다. 마법 광채로 코팅되는 동안, 무기는 마치 그것이 자신의 재료가 아닌 조각의 돌이나 금속으로 만들어진 것처럼 약점, 저항 등과 상호 작용합니다. 광채와 조각은 분명히 마법적인 성질이며, 조각을 사용하지 않으면 다음 준비를 할 때 사라집니다. 17레벨에 이르면 아다만타이트와 돈실버를 사용 가능한 옵션에 추가합니다.</p>"
+    },
+    "Undying Flesh": {
+      "name": "언다잉 플레시",
+      "description": "<p>당신은 무시무시하고 복수심에 불타는 영혼이며, 특정 물리적 무기는 당신에게 거의 효과가 없는 것처럼 보입니다.  둔기, 베기, 또는 꿰뚫기 중 하나를 선택하십시오; 당신은 해당 피해 유형에 대해 10의 저항력을 얻습니다. 해당 피해에 대한 당신의 저항력이 무기가 당신의 몸을 무사히 통과하는 것처럼 보이는 형태로 나타나는지, 아니면 당신이 무시하는 심각한 상처를 남기는 것처럼 보이는 형태로 나타나는지는 당신이 결정할 문제이지만, 일단 결정이 내려지면 변경할 수 없습니다.</p>"
+    },
+    "Uniter of Clans Enhancement": {
+      "name": "클랜 통합 강화",
+      "description": "<p>클랜 통합자(Uniter of Clans)를 위해 외교관 배지(diplomat's badge)의 외교(Diplomacy) 아이템 보너스를 +2로 증가시켜 주십시오.</p>"
+    },
+    "Upgrade Defenses": {
+      "name": "방어력 강화",
+      "description": "<p><strong>필요 조건</strong> 크래프팅(마스터), 스페셜티 크래프팅(석공술), 또는 고용된 석공; 조직된 전문가들</p>\n<hr />\n<p>당신은 금속 보강재, 숙련된 기술, 그리고 다른 지지대를 사용하여 시타델 알타에린의 성벽을 보강합니다. 이 업그레이드에는 40일의 작업과 @Check[crafting|dc:25] 확인이 필요합니다.</p>"
+    },
+    "Wind Barrier": {
+      "name": "윈드 배리어",
+      "description": "<p><strong>측면(Aspect)</strong> 에어(air)</p>\n<p><strong>활성화(Activate)</strong> <span class=\"action-glyph\">1</span> 컨센트레이트(concentrate)</p>\n<hr />\n<p><strong>효과(Effect)</strong> 보이지 않는 공기 장벽이 원거리 공격을 막아 당신에게 다음 턴이 시작될 때까지 원거리 공격에 대한 +2 상황 보너스를 AC에 부여합니다. 13레벨에 이르면 이것은 원거리 공격에 대한 AC에 +3 상황 보너스로 증가합니다.</p>"
+    },
+    "Word of Faith": {
+      "name": "믿음의 말씀",
+      "description": "<p><strong>측면</strong> 셀레스티얼</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 명령, 상호작용</p>\n<p><strong>빈도</strong> 시간당 한 번</p><hr /><p><strong>효과</strong> 당신 자신이나 아군에게 손을 얹으면, 당신은 그들의 상처를 치유하고 그들의 정신을 강화합니다. 대상은 아이템 레벨당 @Damage[1d8[healing]] HP를 회복하고 그들의 @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened} 값을 1 감소시킵니다.</p>"
+    },
+    "Wrestle": {
+      "name": "레슬",
+      "description": "<p>당신은 짐승 @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} 또는 다른 방법으로 @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} 당신에 의해 클로 스트라이크를 합니다. 당신이 적중하면, 평소처럼 피해를 입히고 그 짐승은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} 넘어집니다.</p>"
+    }
+  }
+}

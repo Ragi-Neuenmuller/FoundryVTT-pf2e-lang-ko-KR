@@ -1,0 +1,178 @@
+{
+  "label": "상태",
+  "folders": {},
+  "entries": {
+    "Blinded": {
+      "name": "실명",
+      "description": "<p>당신은 아무것도 볼 수 없습니다. 모든 일반 지형은 당신에게 험지입니다. 당신은 시각을 사용하여 어떤 것도 감지할 수 없습니다. 당신은 시각을 필요로 하는 인지 굴림에 자동으로 대실패하며, 시각이 당신의 유일한 정밀 감각이라면 인지 굴림에 -4의 상태 패널티를 받습니다. 당신은 시각 효과에 면역입니다. 실명은 @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}을 무시합니다.</p>"
+    },
+    "Broken": {
+      "name": "부서진",
+      "description": "<p>파손은 오직 물체에만 영향을 미치는 상태입니다. 물체는 피해를 입어 현재 내구도가 파손 임계치 이하가 되면 파손됩니다. 파손된 물체는 정상적인 기능을 수행할 수 없으며, 보너스도 제공하지 않습니다. 단, 방어구는 예외입니다. 파손된 방어구는 여전히 방어 등급에 대한 아이템 보너스를 제공하지만, 종류에 따라 방어 등급에 상태 패널티를 부여합니다. 가벼운 방어구는 -1, 중간 방어구는 -2, 무거운 방어구는 -3의 패널티를 부여합니다.</p>\n<p>파손된 아이템은 여전히 휴대, 소지 또는 착용으로 인해 일반적으로 발생하는 패널티와 제한을 부여합니다. 예를 들어, 파손된 방어구는 여전히 민첩성 수정치 상한, 판정치 감소 등을 부여합니다. 어떤 효과로 인해 아이템이 자동으로 파손되고 그 아이템의 현재 내구도가 파손 임계치보다 높다면, 그 효과는 아이템의 현재 내구도를 파손 임계치로 감소시킵니다.</p>"
+    },
+    "Clumsy": {
+      "name": "어설픈",
+      "description": "<p>당신의 움직임이 어설프고 부정확해집니다. 어설픔에는 항상 값이 포함됩니다. 당신은 컨디션 값과 동일한 수치만큼 민첩성 기반 판정과 DC에 상태 패널티를 받습니다. 여기에는 AC, 반사 내성 굴림, 원거리 공격 굴림, 그리고 곡예, 은신, 도둑질 기술 숙련 검사가 포함됩니다.</p>"
+    },
+    "Concealed": {
+      "name": "은폐",
+      "description": "<p>당신은 짙은 안개나 다른 가리는 특징 때문에 하나 이상의 생물에게 보기 어렵습니다. 당신은 어떤 생물에게는 숨겨질 수 있지만 다른 생물에게는 그렇지 않을 수 있습니다. 숨겨진 동안에도 당신은 여전히 @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observed} 할 수 있지만, 공격 대상이 되기는 더 어렵습니다. 당신에게 숨겨진 생물은 당신을 공격, 주문 또는 다른 효과의 대상으로 삼을 때 @Check[flat|showDC:all|dc:5]에 성공해야 합니다. 검사에 실패하면 당신은 영향을 받지 않습니다. 면적 효과는 이 단순 검사의 적용을 받지 않습니다.</p>"
+    },
+    "Confused": {
+      "name": "혼란스러우십니다.",
+      "description": "<p>당신은 제정신이 아니며, 마구잡이로 공격합니다. 당신은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}이며, 아무도 당신의 아군으로 여기지 않습니다 (비록 그들이 당신을 그들의 아군으로 여길 수는 있지만). 그리고 당신은 지연, 준비, 반응을 사용할 수 없습니다.</p>\n<p>당신은 모든 행동을 공격하거나 공격적인 캔트립을 시전하는 데 사용하지만, GM은 무기를 뽑거나, 목표물이 사정거리에 들어오도록 이동하는 등의 다른 행동을 공격을 용이하게 하도록 당신에게 시킬 수 있습니다. 당신의 목표는 GM에 의해 무작위로 결정됩니다. 다른 실행 가능한 목표가 없다면, 당신은 자신을 목표로 삼고, 자동으로 명중하지만 치명타는 입히지 않습니다. 만약 당신이 공격하거나 주문을 시전하는 것이 불가능하다면, 당신은 앞뒤가 맞지 않는 말을 지껄이며 행동을 낭비합니다.</p>\n<p>공격이나 주문으로 피해를 입을 때마다, 당신은 @Check[flat|showDC:all|dc:11]을 시도하여 혼란에서 벗어나 상태를 종료할 수 있습니다.</p>"
+    },
+    "Controlled": {
+      "name": "제어된",
+      "description": "<p>당신은 마법에 지배당하거나, 다른 방법으로 의지가 굴복당했습니다. 조종자는 당신의 행동을 지시하며, 공격, 반응, 또는 심지어 @UUID[Compendium.pf2e.actionspf2e.Item.A72nHGUtNXgY5Ey9]{Delay}을 포함한 당신의 모든 행동을 사용하게 할 수 있습니다. 보통 조종자는 당신을 조종하는 데 자신의 행동을 소모할 필요가 없습니다.</p>"
+    },
+    "Cursebound": {
+      "name": "저주받은",
+      "description": "<p>당신의 오라큘러 저주가 당신 주위를 조이고 있으며, 당신이 자신의 미스터리 힘을 너무 많이 사용했기 때문에 디바인 벌을 받고 있습니다. 저주받음(Cursebound)은 오라큘러 저주가 있는 생명체에게만 영향을 미치는 상태이며, 항상 값을 포함합니다. 당신의 특정 오라큘러 저주는 당신의 저주받음(Cursebound) 값에 따라 고유한 부정적인 효과를 부과합니다. 당신은 리포커싱(Refocusing)을 통해서만 저주받음(Cursebound) 상태를 제거할 수 있습니다.</p>"
+    },
+    "Dazzled": {
+      "name": "눈부심",
+      "description": "<p>당신의 눈이 과도하게 자극되었거나 시야가 흐릿합니다. 시각이 당신의 유일한 정확한 감각이라면, 모든 생물과 사물은 당신에게서 @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}합니다.</p>"
+    },
+    "Deafened": {
+      "name": "청각 상실",
+      "description": "<p>당신은 들을 수 없습니다. 당신은 청각이 필요한 지각 능력 검사에 자동적으로 대실패합니다. 소리에 의존하지만 다른 감각에도 의존하는, 주도권 능력 검사나 능력 검사에는 지각 능력 검사에 -2의 상태 패널티를 받습니다. 청각 특성을 가진 행동을 수행하는 경우, @Check[flat|showDC:all|dc:5]에 성공해야 하며, 그렇지 않으면 행동이 실패합니다; 행동을 소모한 후, 어떤 효과가 적용되기 전에 검사를 시도하십시오. 당신은 귀가 먹었을 때 청각 효과에 면역됩니다.</p>"
+    },
+    "Doomed": {
+      "name": "멸망한",
+      "description": "<p>당신의 영혼은 죽음에 더 가까이 다가가도록 부르는 강력한 힘에 사로잡혔습니다. 두움드(Doomed)에는 항상 값이 포함됩니다. 당신이 죽는 @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying} 값은 당신의 두움드(Doomed) 값만큼 감소합니다. 당신의 최대 죽음 값이 0으로 감소하면, 당신은 즉시 죽습니다. 당신이 죽으면, 더 이상 두움드(Doomed) 상태가 아닙니다.</p>\n<p>당신의 두움드(Doomed) 값은 숙면을 취할 때마다 1씩 감소합니다.</p>"
+    },
+    "Drained": {
+      "name": "드레인드",
+      "description": "<p>당신의 건강과 활력이 고갈되었습니다. 출혈, 생명력 또는 다른 어떤 정수를 잃었기 때문입니다. 고갈은 항상 값을 포함합니다. 당신은 체력 기반 판정과 DC, 예를 들어 인내 내성 굴림에 고갈 값과 같은 상태 패널티를 받습니다. 또한 당신의 레벨(최소 1)에 고갈 값을 곱한 만큼의 히트 포인트를 잃고, 당신의 최대 히트 포인트도 같은 양만큼 감소합니다. 예를 들어, 당신이 3 고갈되고 3레벨 캐릭터라면, 9 히트 포인트를 잃고 최대 히트 포인트를 9만큼 감소시킵니다. 이 히트 포인트를 잃는 것은 피해를 입는 것으로 간주되지 않습니다.</p>\n<p>매번 밤잠을 충분히 자면, 당신의 고갈 값이 1 감소합니다. 이것은 당신의 최대 히트 포인트를 증가시키지만, 당신은 잃어버린 히트 포인트를 즉시 회복하지 않습니다.</p>"
+    },
+    "Dying": {
+      "name": "죽음",
+      "description": "<p>당신은 과다출혈을 하거나 죽음 직전에 있습니다. 이 상태가 지속되는 동안 당신은 @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}입니다. 죽어가는 상태에는 항상 값이 있으며, 그 값이 4에 도달하면 사망합니다. 죽어가는 상태일 때는 매 라운드 자신의 턴 시작 시 회복 확인을 시도하여 상태가 호전되는지 악화되는지 결정해야 합니다. 죽어가는 상태일 때 피해를 입으면 상태 값이 1 증가하고, 적의 치명타 또는 내성 굴림 실패로 피해를 입으면 2 증가합니다.</p>\n<p>회복 확인에 성공하여 죽어가는 상태에서 벗어나더라도 체력이 0인 경우에는 의식을 잃은 상태로 남지만, 해당 상태에 설명된 대로 깨어날 수 있습니다. 체력이 1 이상이 되면 죽어가는 상태가 자동으로 해제되고 깨어납니다. 죽어가는 상태가 해제될 때마다 @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded 1} 상태가 됩니다. 이미 해당 상태가 있다면 부상 상태 값이 1 증가합니다.</p>"
+    },
+    "Encumbered": {
+      "name": "짐이 많습니다",
+      "description": "<p>당신은 감당할 수 있는 것보다 더 많은 무게를 지니고 있습니다. 과중한 짐을 지고 있는 동안 당신은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}이며 모든 속도에 3미터의 감소가 적용됩니다. 속도 감소에 적용되는 모든 감소처럼, 이것은 당신의 속도를 1.5미터 이하로 낮출 수 없습니다.</p>"
+    },
+    "Enfeebled": {
+      "name": "약화됨",
+      "description": "<p>당신은 육체적으로 약화되었습니다. 인피블드는 항상 값을 포함합니다. 당신이 인피블드 상태일 때, 당신은 컨디션 값과 동일한 상태 패널티를 힘 기반 판정 및 DC에 받습니다. 여기에는 힘 기반 근접 공격 굴림, 힘 기반 피해 굴림, 그리고 능숙함(Athletics) 판정이 포함됩니다.</p>"
+    },
+    "Fascinated": {
+      "name": "매료되어",
+      "description": "<p>당신은 어떤 것에 주의를 집중하도록 강요받아, 주변에서 일어나는 다른 모든 일들로부터 당신의 주의가 산만해집니다. 당신은 지각 및 기술 판정에 –2 상태 패널티를 받으며, GM이 결정한 바에 따라, 그 대상과 관련이 없는 한 집중 행동을 사용할 수 없습니다 (혹은 그 의도된 결과가 그 대상과 관련이 없다면 사용할 수 없습니다). 예를 들어, 당신은 @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}하고 @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge} 할 수 있지만, 다른 생물을 대상으로 하는 주문을 시전할 수는 없을 것입니다.  어떤 생물이 당신이나 당신의 아군에게 적대적인 행동을 사용하면 이 상태는 종료됩니다.</p>"
+    },
+    "Fatigued": {
+      "name": "피로한",
+      "description": "<p>당신은 피곤하여 많은 에너지를 불러일으킬 수 없습니다. 당신은 AC와 내성 굴림에 –1 상태 패널티를 받습니다. 당신은 여행 중에 수행되는 탐험 활동을 사용할 수 없습니다.</p>\n<p>당신은 밤잠을 충분히 잔 후에 피로에서 회복합니다.</p>"
+    },
+    "Fleeing": {
+      "name": "도망치는 것",
+      "description": "<p>당신은 공포나 다른 강제적인 요인으로 인해 도망쳐야 합니다. 당신의 턴에, 당신은 도주 조건의 근원에서 가능한 한 신속하게 벗어나기 위해 각 행동을 사용해야 합니다 (이동 행동을 사용하여 도망치거나 탈출을 막는 문을 여는 것과 같이). 근원은 보통 당신에게 조건을 부여한 효과 또는 생물이지만, 어떤 효과는 다른 것을 근원으로 정의할 수도 있습니다. 당신은 도망치는 동안 @UUID[Compendium.pf2e.actionspf2e.Item.A72nHGUtNXgY5Ey9]{Delay} 또는 @UUID[Compendium.pf2e.actionspf2e.Item.dLgAMt3TbkmLkUqE]{Ready} 할 수 없습니다.</p>"
+    },
+    "Friendly": {
+      "name": "친절한",
+      "description": "<p>이 상태는 특정 캐릭터에 대한 생명체의 성향을 반영하며, 초자연적인 효과(주문과 같은)만이 PC에 이 상태를 부여할 수 있습니다. 캐릭터에게 우호적인 생명체는 그 캐릭터를 좋아합니다.  단순하고 안전하며 이행하는 데 큰 비용이 들지 않는 한, 그 캐릭터의 @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Requests}에 동의할 가능성이 높습니다. 만약 캐릭터(또는 그들의 동맹)가 그 생명체에 적대적인 행동을 사용한다면, GM이 결정하는 적대 행위의 심각도에 따라 생명체는 더 나쁜 태도 상태가 됩니다.</p>"
+    },
+    "Frightened": {
+      "name": "겁먹은",
+      "description": "<p>당신은 공포에 사로잡혀 극도의 불안감을 느끼고 있습니다.  공포 상태에는 항상 값이 포함됩니다. 당신은 모든 판정과 DC에 이 값과 같은 상태 감소를 받습니다. 따로 명시되지 않는 한, 당신의 턴이 끝날 때마다 공포 상태의 값은 1씩 감소합니다.</p>"
+    },
+    "Grabbed": {
+      "name": "잡았습니다.",
+      "description": "<p>당신은 다른 생명체에게 붙잡혀 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 및 @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} 상태가 됩니다. 붙잡힌 상태에서 조작 행동을 시도하는 경우, @Check[flat|showDC:all|dc:5]에 성공해야 하며, 실패 시에는 행동이 실패합니다. 행동을 사용한 후, 효과가 적용되기 전에 판정을 굴립니다.</p>"
+    },
+    "Helpful": {
+      "name": "도움이 되는",
+      "description": "<p>이 상태는 특정 캐릭터에 대한 생명체의 성향을 반영하며, 초자연적인 효과(예: 주문)만이 PC에 이 상태를 부여할 수 있습니다. 캐릭터에게 도움이 되는 생명체는 그 캐릭터를 적극적으로 돕고자 합니다. 그러한 요청이 도움을 주는 생명체의 목표 또는 삶의 질을 해치지 않는 한, 그 생명체는 캐릭터로부터 합리적인 @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Requests}을 받아들일 것입니다. 만약 캐릭터(또는 그들의 동료)가 그 생명체에 대해 적대적인 행동을 사용하면, GM이 결정하는 적대적인 행동의 심각도에 따라 생명체는 더 나쁜 태도 상태가 됩니다.</p>"
+    },
+    "Hidden": {
+      "name": "숨겨진",
+      "description": "<p>당신이 어떤 생물에게 숨겨져 있는 동안, 그 생물은 당신이 있는 공간을 알지만 당신의 정확한 위치는 알 수 없습니다. 당신은 일반적으로 스텔스를 사용하여 @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide} 합니다. @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seeking}  생물을 부정확한 감각만으로 인지할 때, 그 생물은 @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observed} 대신 숨겨진 상태를 유지합니다. 당신에게 숨겨져 있는 생물은 당신에게 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 하며, 당신을 공격, 주문 또는 다른 효과의 대상으로 삼을 때 @Check[flat|showDC:all|dc:11]에 성공해야만 합니다. 그렇지 않으면 효과가 당신에게 적용되지 않습니다. 면적 효과는 이러한 단순 확인에 적용되지 않습니다.</p>\n<p>생물은 탐색 액션을 사용하여 당신을 관찰하려고 시도할 수 있습니다.</p>"
+    },
+    "Hostile": {
+      "name": "적대적인",
+      "description": "<p>이 상태는 특정 캐릭터에 대한 생물의 성향을 반영하며, 초자연적인 효과(예: 주문)만이 PC에게 부여할 수 있습니다. 캐릭터에게 적대적인 생물은 적극적으로 그 캐릭터에게 해를 끼치려고 합니다. 반드시 공격하는 것은 아니지만, 그 캐릭터로부터 @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Requests}을 받아들이지는 않을 것입니다.</p>"
+    },
+    "Immobilized": {
+      "name": "움직일 수 없음",
+      "description": "<p>당신은 이동할 수 없습니다. 당신은 이동 특성을 가진 어떤 행동도 사용할 수 없습니다. 만약 당신이 무언가에 붙잡혀서 움직이지 못하는 상태이고 외부 힘이 당신을 현재 공간에서 벗어나게 한다면, 그 힘은 당신을 붙잡고 있는 효과의 DC 또는 당신을 붙잡고 있는 몬스터의 관련 방어력(대개 인내 내성 굴림 DC)에 대한 판정에서 성공해야 합니다.</p>"
+    },
+    "Indifferent": {
+      "name": "무관심한",
+      "description": "<p>이 상태는 특정 캐릭터에 대한 생명체의 성향을 반영하며, 초자연적인 효과(예: 주문)만이 PC에 이 상태를 부여할 수 있습니다. 캐릭터에 무관심한 생명체는 그 캐릭터에 대해 좋고 나쁨을 전혀 신경 쓰지 않습니다. 달리 명시되지 않는 한, 주어진 캐릭터에 대한 생명체의 태도는 무관심하다고 가정합니다.</p>"
+    },
+    "Invisible": {
+      "name": "인비저블",
+      "description": "<p>당신은 보이지 않습니다. 당신은 모든 사람에게 @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected}입니다. 생물들은 당신을 탐지하기 위해 @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} 할 수 있습니다; 만약 생물이 당신의 스텔스 DC에 대한 인지력 검사에 성공하면, 당신은 그 생물에게 @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} 될 때까지 @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak} 하지 않습니다. 만약 이미 당신을 볼 수 있는 누군가가 있는 동안 당신이 투명해진다면, 당신은 성공적으로 스니크를 할 때까지 그들에게 숨겨진 상태(탐지되지 않은 상태가 아닌)로 시작합니다. 당신은 특별한 능력이나 마법을 통해서가 아니면 투명한 동안 @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observed} 될 수 없습니다.</p>"
+    },
+    "Observed": {
+      "name": "관찰되었습니다.",
+      "description": "<p>당신의 시야에 있는 모든 것은 당신에게 보입니다. 어떤 생명체가 스텔스를 사용하여 @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}하는 등 탐지되지 않도록 조치를 취하면, 관찰 대상이 되는 대신 @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} 또는 @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected}이 될 수 있습니다. 시각 이외에 다른 정밀한 감각이 있다면, 그 감각을 사용하여 생명체나 물체를 관찰할 수도 있습니다. 당신은 오직 당신의 정밀한 감각만으로 생명체를 관찰할 수 있습니다. @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seeking}을 사용하여 생명체를 관찰할 때는 관찰 대상이 되는 대신 숨겨진 상태로 남아 있습니다.</p>"
+    },
+    "Off-Guard": {
+      "name": "오프가드",
+      "description": "<p>당신은 방해를 받거나 집중력을 방어에 완전히 쏟을 수 없습니다. 당신은 AC에 –2 상황 패널티를 받습니다. 어떤 효과는 특정 생물이나 특정 공격에 대해서만 방심 상태를 부여합니다. 다른 효과들, 특히 상태들은 모든 것에 대해 당신을 방심하게 만들 수 있습니다. 규칙이 특정 상황에만 적용된다고 명시하지 않는 경우, \"대상은 방심 상태이다\"와 같이 모든 상황에 적용됩니다.</p>"
+    },
+    "Paralyzed": {
+      "name": "마비",
+      "description": "<p>당신은 제자리에 얼어붙었습니다. 당신은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 상태이며, @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}하고 GM이 판단했을 때 마음만으로 할 수 있는 행동만 할 수 있습니다. 감각은 여전히 작동하지만, 움직이지 않고도 인지할 수 있는 영역에서만 작동하므로 @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} 수 없습니다.</p>"
+    },
+    "Persistent Damage": {
+      "name": "지속 피해",
+      "description": "<p>당신은 불에 타는 것과 같이 지속 효과로 인해 피해를 받고 있습니다. 이는 \"X 지속 [type] 피해\"로 표시되며, 여기서 \"X\"는 입은 피해량이고 \"[type]\"는 피해 종류입니다. 일반적인 피해와 마찬가지로 공격 굴림이나 내성 굴림 결과에 따라 두 배 또는 절반으로 줄어들 수 있습니다. 지속 피해는 즉시 입는 대신, 해당 상태가 지속되는 동안 당신의 턴이 끝날 때마다 피해를 입게 되며, 매번 피해 주사위를 새로 굴립니다. 지속 피해를 입은 후에는 @Check[flat|showDC:all|dc:15]를 굴려 지속 피해에서 회복되었는지 확인합니다. 성공하면 상태가 종료됩니다.</p>"
+    },
+    "Petrified": {
+      "name": "석화",
+      "description": "<p>당신은 돌로 변했습니다. 당신은 행동할 수 없으며, 어떤 것도 감지할 수 없습니다. 당신은 평소 부피의 두 배인 부피(보통 중형 크기의 석화된 생명체는 12, 소형 크기의 석화된 생명체는 6)를 가진, AC 9, 경도 8, 그리고 생존 시와 동일한 현재 히트 포인트를 가진 물체가 됩니다. 당신은 브로큰 쓰레숄드를 가지고 있지 않습니다. 석화 상태가 끝나면, 당신은 조각상일 때와 동일한 수의 히트 포인트를 가지게 됩니다. 조각상이 파괴되면, 당신은 즉시 죽습니다. 석화되는 동안, 당신의 마음과 몸은 정지 상태이므로, 나이를 먹거나 시간의 흐름을 알아채지 못합니다.</p>"
+    },
+    "Prone": {
+      "name": "엎드린",
+      "description": "<p>당신은 땅에 누워 있습니다. 당신은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}이며 공격 굴림에 –2 상황 패널티를 받습니다.  엎드린 상태에서 사용할 수 있는 유일한 이동 동작은 @UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{Crawl}와 @UUID[Compendium.pf2e.actionspf2e.Item.OdIUybJ3ddfL7wzj]{Stand}입니다. 일어서면 엎드린 상태가 종료됩니다.  당신은 @UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{Take Cover} 동안 몸을 낮추어 원거리 공격에 대한 더 큰 은폐를 얻을 수 있습니다.  뒤에 가릴 물체가 없더라도 마찬가지이며, 이는 원거리 공격에 대한 AC에 +4 상황 보너스를 제공합니다 (하지만 방심 상태로 남아 있습니다).</p>\n<p>당신이 @UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{Climbing} 또는 @UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{Flying} 상태일 때 넘어지게 될 경우,  넘어집니다. 당신은 @UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{Swimming} 때는 넘어지지 않습니다.</p>"
+    },
+    "Quickened": {
+      "name": "퀵커닝",
+      "description": "<p>당신은 더 빠르게 행동할 수 있습니다. 당신은 매 라운드 자신의 턴 시작 시 추가 행동 1개를 얻습니다. 당신을 퀵큰드(quickened)하게 만드는 많은 효과들은 당신이 이 추가 행동을 특정한 방식으로만 사용하도록 요구합니다. 만약 당신이 여러 원천으로부터 퀵큰드(quickened)하게 된다면, 당신을 퀵큰드(quickened)하게 만든 어떤 효과라도 허용하는 어떤 단일 행동에 대해서 당신이 부여받은 추가 행동을 사용할 수 있습니다. 퀵큰드(quickened)는 당신의 턴 시작 시 효과를 발휘하기 때문에, 당신의 턴 중에 퀵큰드(quickened)하게 된다면 즉시 행동을 얻지는 않습니다.</p>"
+    },
+    "Restrained": {
+      "name": "속박당함",
+      "description": "<p>당신은 묶여서 거의 움직일 수 없거나, 혹은 어떤 생물이 당신을 꼼짝 못하게 붙잡고 있습니다. 당신은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 및 @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} 상태이며, @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}하거나 @UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{Force Open}하려는 시도를 제외하고는 어떤 공격이나 조작 행동도 할 수 없습니다. 속박은 @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}를 무효화합니다.</p>"
+    },
+    "Sickened": {
+      "name": "메스꺼움",
+      "description": "<p>당신은 몸이 좋지 않습니다. 질병 상태에는 항상 값이 포함됩니다. 당신은 모든 판정과 DC에 이 값과 같은 상태 감소를 받습니다. 당신은 질병 상태일 동안에는 엘릭서나 포션을 포함하여 어떤 것도 의도적으로 섭취할 수 없습니다.</p>\n<p>당신은 단일 액션을 사용하여 구토를 함으로써 회복을 시도할 수 있습니다. 이를 통해 당신은 즉시 당신을 질병 상태로 만든 효과의 DC에 대한 @Check[fortitude] 내성 굴림을 시도할 수 있습니다. 성공 시, 당신은 질병 상태 값을 1 감소시킵니다 (치명적 성공 시에는 2 감소). </p>"
+    },
+    "Slowed": {
+      "name": "느려짐",
+      "description": "<p>당신은 더 적은 액션을 가지고 있습니다. 슬로우드는 항상 값을 포함합니다. 당신이 액션을 회복할 때, 슬로우드 값만큼 회복되는 액션의 수를 줄입니다. 당신은 자신의 턴 시작 시 액션을 회복하기 때문에, 턴 도중 슬로우드 상태가 되더라도 즉시 액션을 잃지는 않습니다.</p>"
+    },
+    "Stunned": {
+      "name": "기절",
+      "description": "<p>당신은 무감각해졌습니다. 행동할 수 없습니다. 스턴은 보통 값을 포함하는데, 이는 스턴으로 인해 몇 턴에 걸쳐 잃게 되는 총 행동 수를 나타냅니다. 행동을 회복할 때마다 회복하는 행동 수에서 스턴 값을 빼고, 그다음 스턴 값에서 잃은 행동 수를 뺍니다. 예를 들어, 당신이 스턴 4였다면, 당신의 턴에서 3개의 모든 행동을 잃고 스턴 1이 됩니다. 다음 턴에는 1개의 행동을 더 잃고, 나머지 2개의 행동을 정상적으로 사용할 수 있습니다. 스턴에는 \"1분 동안 스턴\"과 같이 지속 시간이 있을 수도 있으며, 이 경우 지속 시간 동안 모든 행동을 잃게 됩니다.</p>\n<p>스턴은 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed}을 무효화합니다. 스턴 상태의 지속 시간이 느려짐 상태일 때 끝나면, 스턴으로 인해 잃은 행동 수를 느려짐으로 인해 잃은 행동 수에 포함합니다. 따라서, 턴 시작 시 스턴 1이고 느려짐 2였다면, 스턴으로 인해 1개의 행동을 잃고, 느려짐으로 인해 추가로 1개의 행동만 잃게 되므로, 그 턴에 사용할 수 있는 행동이 1개 남게 됩니다.</p>"
+    },
+    "Stupefied": {
+      "name": "멍해진",
+      "description": "<p>당신의 생각과 본능이 흐릿합니다.  혼미 상태에는 항상 값이 포함됩니다. 당신은 지능, 지혜, 그리고 카리스마 기반 판정과 DC에 이 값과 같은 상태 감소를 받습니다.  이는 의지 내성 굴림, 주문 공격 수정치, 주문 DC, 그리고 이 능력치 수정치를 사용하는 기술 숙련 검사를 포함합니다. 혼미 상태일 때 @UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{Cast a Spell}을 시도할 때마다, DC 5 + 당신의 혼미 값에 대한 @Check[flat|showDC:all|dc:resolve(5+@item.badge.value)]에 성공하지 않는 한 주문이 방해받습니다.</p>"
+    },
+    "Unconscious": {
+      "name": "의식불명",
+      "description": "<p>당신은 잠들어 있거나 기절했습니다. 행동할 수 없습니다. 당신은 AC, 인지력, 그리고 반사 내성 굴림에 –4의 상태 페널티를 받으며, @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} 및 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 상태가 됩니다. 이 상태가 되면 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}  그리고 효과가 다르게 명시하지 않거나 GM이 당신의 위치 때문에 그렇지 않을 것이라고 판단하지 않는 한, 당신이 들고 있는 물건을 떨어뜨립니다.</p>\n<p>당신이 @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying} 때문에 의식을 잃은 경우, 체력이 0인 동안에는 깨어날 수 없습니다. 체력이 1 이상으로 회복되면, 죽음 직전 및 의식불명 상태가 사라지고 다음 턴에 정상적으로 행동할 수 있습니다.</p>\n<p>의식을 잃고 체력이 0이지만 죽음 직전 상태가 아닌 경우, 충분한 시간이 지나면 체력이 1로 회복되고 깨어납니다. GM은 최소 10분에서 수 시간까지 당신이 의식을 잃는 시간을 결정합니다. 치료를 받으면 의식불명 상태가 사라지고 다음 턴에 정상적으로 행동할 수 있습니다.</p>\n<p>의식을 잃었지만 체력이 1보다 많은 경우(일반적으로 수면이나 효과로 인한 의식불명인 경우), 다음과 같은 방법 중 하나로 깨어납니다.</p>\n<ul>\n<li>피해를 입습니다. 단, 피해로 인해 체력이 0이 되면 의식불명 상태를 유지하고 일반적으로 죽음 직전 상태가 됩니다.</li>\n<li>휴식으로 얻는 자연 회복 외의 치료를 받습니다.</li>\n<li>누군가 @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Interact} 행동으로 당신을 깨웁니다.</li>\n<li>주변의 큰 소음으로 깨어날 수 있습니다. 당신의 턴이 시작될 때, 당신은 자동으로 소음의 DC(소음이 여러 개인 경우 가장 낮은 DC)에 대한 인지력 판정을 시도하고, 성공하면 깨어납니다. 생물들이 당신 주변에서 조용히 있으려고 시도하는 경우, 이 인지력 판정은 그들의 은신 DC를 사용합니다. 어떤 효과는 당신을 너무 깊이 잠들게 하여 이 인지력 판정을 허용하지 않습니다.</li>\n<li>단순히 잠들어 있는 경우, GM은 당신이 편안한 밤잠을 잤거나 무언가가 그 휴식을 방해했기 때문에 깨어난다고 결정합니다.</li>\n</ul>"
+    },
+    "Undetected": {
+      "name": "탐지되지 않음",
+      "description": "<p>당신이 어떤 생명체에게 발각되지 않았을 때, 그 생명체는 당신을 전혀 볼 수 없으며, 당신이 어떤 공간을 차지하고 있는지 전혀 알지 못하고, 당신을 목표로 삼을 수 없습니다. 하지만 당신은 여전히 영역을 목표로 하는 능력의 영향을 받을 수 있습니다. 당신이 어떤 생명체에게 발각되지 않았을 때, 그 생명체는 당신에게 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 입니다.</p>\n<p>당신에게 발각되지 않은 생명체는 당신이 어떤 칸에 있는지 추측하여 당신을 목표로 삼을 수 있습니다. 그 생명체는 칸을 선택하고 공격을 시도해야 합니다. 이것은 @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} 생명체를 목표로 삼는 것과 같습니다 (@Check[flat|showDC:all|dc:11|traits:secret] 필요). 하지만 고정 확인과 공격 굴림은 GM이 비밀리에 굴립니다. GM은 고정 확인 실패, 공격 굴림 실패, 또는 잘못된 칸을 선택했는지 여부를 공개하지 않습니다. 그들은 @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} 당신을 찾으려고 시도할 수 있습니다.</p>"
+    },
+    "Unfriendly": {
+      "name": "비우호적인",
+      "description": "<p>이 상태는 특정 캐릭터에 대한 생명체의 성향을 반영하며, 초자연적인 효과(예: 주문)만이 PC에 이 상태를 부여할 수 있습니다. 캐릭터에게 비우호적인 생명체는 그 캐릭터를 싫어하고 불신합니다. 비우호적인 생명체는 캐릭터로부터 @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Requests}을 받아들이지 않을 것입니다.</p>"
+    },
+    "Unnoticed": {
+      "name": "알아채지 못한",
+      "description": "<p>당신이 어떤 생물에게 발각되지 않으면, 그 생물은 당신의 존재를 전혀 알지 못합니다. 당신이 발각되지 않을 때, 당신은 @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} 입니다. 이것은 당신의 존재를 전혀 눈치채지 못하는 대상에게만 사용할 수 있는 능력에 중요합니다.</p>"
+    },
+    "Wounded": {
+      "name": "부상당한",
+      "description": "<p>당신은 심각한 부상을 입었습니다. 만약 당신이 @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying} 상태를 잃고 부상 상태가 아니라면, 부상 1이 됩니다. 만약 당신이 죽어가는 상태를 잃을 때 이미 부상 상태라면, 당신의 부상 상태 값이 1 증가합니다. 만약 당신이 부상 상태일 때 죽어가는 상태가 된다면, 당신의 죽어가는 상태 값을 당신의 부상 값만큼 증가시키십시오.</p>\n<p>다른 사람이 @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}을 사용하여 당신의 히트 포인트를 성공적으로 회복시키거나, 어떤 방법으로든 당신의 히트 포인트가 완전히 회복되고 10분 동안 휴식을 취하면 부상 상태는 종료됩니다.</p>"
+    }
+  }
+}

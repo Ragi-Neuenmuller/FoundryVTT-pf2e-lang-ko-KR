@@ -1,0 +1,60 @@
+{
+  "id": "pf2e-ko-kr",
+  "title": "Translation: Korean [PF2e]",
+  "description": "pf2e 시스템의 한국어화 모듈입니다.",
+  "version": "0.1.4",
+  "esmodules": [
+    "babele-register.js"
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12.343"
+  },
+  "languages": [
+    {
+      "lang": "ko",
+      "name": "한국어 (Korean)",
+      "path": "ko.json",
+      "flags": {}
+    },
+    {
+      "lang": "ko",
+      "name": "한국어 (Korean)",
+      "path": "re-ko.json",
+      "flags": {}
+    },
+    {
+      "lang": "ko",
+      "name": "한국어 (Korean)",
+      "path": "action-ko.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Ragi_Neuenmuller",
+      "email": "neuenmuller19@gmail.com",
+      "discord": "라기",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Ragi-Neuenmuller/pf2e-ko-kr",
+  "manifest": "https://github.com/Ragi-Neuenmuller/FoundryVTT-pf2e-lang-ko-KR/releases/download/release014/module.json",
+  "download": "https://github.com/Ragi-Neuenmuller/FoundryVTT-pf2e-lang-ko-KR/releases/download/release014/pf2e-ko-kr.zip"
+}

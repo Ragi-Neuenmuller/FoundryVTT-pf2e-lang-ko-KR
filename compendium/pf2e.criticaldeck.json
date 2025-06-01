@@ -1,0 +1,960 @@
+{
+  "label": "크리티컬 히트/펌블 덱",
+  "folders": {},
+  "entries": {
+    "Critical Fumble Deck #1": {
+      "name": "크리티컬 펌블 덱 #1",
+      "pages": {
+        "Critical Fumble Deck #1": {
+          "name": "크리티컬 펌블 덱 #1",
+          "text": "<section class=\"fumble-deck\"><h1>Meant to do That</h1><blockquote><p>당신은 GM이 결정하는 무작위 방향으로 10피트 이동합니다. 이 이동은 반응을 유발합니다.</p></blockquote><p><code>Melee</code></p><h1>Misjudged the Distance</h1><blockquote><p>당신의 다음 턴이 끝날 때까지, 당신의 모든 사거리 증분 패널티는 두 배가 됩니다.</p></blockquote><p><code>Ranged</code></p><h1>Not the Weak Point</h1><blockquote><p>당신은 @Damage[1d6[bleed]]을 받고 다음 턴이 끝날 때까지 이 공격을 사용할 수 없습니다.</p></blockquote><p><code>Unarmed</code></p><h1>How did that Happen?</h1><blockquote><p>당신은 GM이 결정하는 당신 공간의 모서리를 중심으로 @UUID[Compendium.pf2e.spells-srd.Item.GKpEcy9WId6NJvtx]{Stinking Cloud} 효과의 안개를 불러냅니다.</p></blockquote><p><code>Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #10": {
+      "name": "치명적 실패 카드 #10",
+      "pages": {
+        "Critical Fumble Deck #10": {
+          "name": "크리티컬 펌블 덱 #10",
+          "text": "<section class=\"fumble-deck\"><h1>오프 밸런스</h1><blockquote><p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.5gX3PZztMecmWxX9]{-2 circumstance penalty to attack rolls}를 받습니다.</p></blockquote><p><code>밀리</code></p><h1>프렌들리 파이어</h1><blockquote><p>당신은 목표물과 가장 가까운 아군을 공격합니다.</p></blockquote><p><code>레인지드</code></p><h1>섬싱즈 브로큰</h1><blockquote><p>당신은 @Damage[1d4[bludgeoning]]의 피해를 받으며, 치료될 때까지 이 공격을 사용할 수 없습니다.</p></blockquote><p><code>언아머드</code></p><h1>파워 드레인</h1><blockquote><p>당신은 준비된 주문 또는 주문 슬롯 하나를 잃습니다 (GM에 의해 무작위로 결정됨).</p></blockquote><p><code>스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #11": {
+      "name": "크리티컬 펌블 덱 #11",
+      "pages": {
+        "Critical Fumble Deck #11": {
+          "name": "크리티컬 펌블 덱 #11",
+          "text": "<section class=\"fumble-deck\"><h1>실패</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} 넘어집니다.</p></blockquote><p><code>근접</code></p><h1>역효과</h1><blockquote><p>당신은 대상이 아닌 자신을 공격합니다.</p></blockquote><p><code>원거리</code></p><h1>멍든 자존심</h1><blockquote><p>당신은 대상이 기절하거나 당신의 다음 턴이 끝날 때까지 다른 생물을 공격할 수 없습니다.</p></blockquote><p><code>맨손</code></p><h1>코피</h1><blockquote><p>당신은 @Localize[PF2E.PersistentDamage.Bleed1.success] 피해를 입습니다.</p></blockquote><p><code>주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #12": {
+      "name": "크리티컬 펌블 덱 #12",
+      "pages": {
+        "Critical Fumble Deck #12": {
+          "name": "크리티컬 펌블 덱 #12",
+          "text": "<section class=\"fumble-deck\">\n<h1>세컨드 쏘츠</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 3}입니다.</p>\n</blockquote>\n<p><code>밀리</code></p>\n<h1>믹스 잇 업</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 원거리 공격을 할 수 없습니다.</p>\n</blockquote>\n<p><code>레인지드</code></p>\n<h1>행네일</h1>\n<blockquote>\n<p>당신이 발톱이나 주먹으로 공격했다면, 다음 턴이 끝날 때까지 그 공격을 사용할 수 없습니다.</p>\n</blockquote>\n<p><code>언암드</code></p>\n<h1>매직 벡윰</h1>\n<blockquote>\n<p>당신에게 영향을 미치는 모든 유익한 주문의 효과가 즉시 끝납니다.</p>\n</blockquote>\n<p><code>스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #13": {
+      "name": "크리티컬 펌블 덱 #13",
+      "pages": {
+        "Critical Fumble Deck #13": {
+          "name": "크리티컬 펌블 덱 #13",
+          "text": "<section class=\"fumble-deck\">\n<h1>버터핑거스</h1>\n<blockquote>\n<p>당신은 공격에 사용했던 무기를 떨어뜨립니다.</p>\n</blockquote>\n<p><code>Melee</code></p>\n<h1>스냅트 스트링</h1>\n<blockquote>\n<p>만약 공격이 활 그룹의 무기를 사용했다면, 활시위가 끊어져 수리하는데 3개의 인터랙트 액션이 필요합니다.</p>\n</blockquote>\n<p><code>Ranged</code></p>\n<h1>토른 머슬</h1>\n<blockquote>\n<p>치유될 때까지 당신은 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1}입니다.</p>\n</blockquote>\n<p><code>Unarmed</code></p>\n<h1>매직 피티그</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 어떤 주문도 발동할 수 없습니다.</p>\n</blockquote>\n<p><code>Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #14": {
+      "name": "크리티컬 펌블 덱 #14",
+      "pages": {
+        "Critical Fumble Deck #14": {
+          "name": "크리티컬 펌블 덱 #14",
+          "text": "<section class=\"fumble-deck\"><h1>Notched</h1><blockquote><p>당신의 무기가 @Damage[1d6]의 피해를 입습니다. 경도는 무시합니다.</p></blockquote><p><code>Melee</code></p><h1>Notched Fingers</h1><blockquote><p>당신은 @Damage[1d4[bleed]]를 입습니다.</p></blockquote><p><code>Ranged</code></p><h1>Hit the Wall</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p></blockquote><p><code>Unarmed</code></p><h1>Electrical Feedback</h1><blockquote><p>당신은 @Damage[2d6[electricity]]의 피해를 입습니다.</p></blockquote><p><code>Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #15": {
+      "name": "크리티컬 펌블 덱 #15",
+      "pages": {
+        "Critical Fumble Deck #15": {
+          "name": "크리티컬 펌블 덱 #15",
+          "text": "<section class=\"fumble-deck\"><h1>Broken Weapon</h1><blockquote><p>당신의 무기 현재 히트 포인트가 파손 임계값으로 감소합니다. 이미 @UUID[Compendium.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{Broken}인 경우, 무기는 경도를 무시하고 @Damage[3d6]의 피해를 입습니다.</p></blockquote><p><code>Melee</code></p><h1>My Spleeny Bits!</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded 1}가 되거나 부상 값이 1 증가합니다.</p></blockquote><p><code>Ranged</code></p><h1>Frustration</h1><blockquote><p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.5gX3PZztMecmWxX9]{-2 circumstance penalty to attack rolls}를 받습니다.</p></blockquote><p><code>Unarmed</code></p><h1>Beastly Rift</h1><blockquote><p>당신의 주문이 같은 등급의 @UUID[Compendium.pf2e.spells-srd.Item.4YnON9JHYqtLzccu]{Summon Animal} 주문이 됩니다. 동물이 당신을 공격합니다.</p></blockquote><p><code>Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #16": {
+      "name": "크리티컬 펌블 덱 #16",
+      "pages": {
+        "Critical Fumble Deck #16": {
+          "name": "크리티컬 펌블 덱 #16",
+          "text": "<section class=\"fumble-deck\"><h1>플링</h1><blockquote><p>당신은 공격에 사용한 무기를 떨어뜨립니다. 무기는 당신으로부터 [[/r 1d6*5]] 피트 떨어진 곳에 무작위 방향으로 [[/r 1d8]] 떨어집니다.</p></blockquote><p><code>밀리</code></p><h1>헤드 러쉬</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}입니다.</p></blockquote><p><code>레인지드</code></p><h1>오버익스텐디드</h1><blockquote><p>당신은 이동 동작을 사용한 것처럼 반응을 유발합니다.</p></blockquote><p><code>언암드</code></p><h1>리플렉션</h1><blockquote><p>주문이 목표 대상 대신 당신에게 적중합니다.</p></blockquote><p><code>스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #17": {
+      "name": "크리티컬 펌블 덱 #17",
+      "pages": {
+        "Critical Fumble Deck #17": {
+          "name": "크리티컬 펌블 덱 #17",
+          "text": "<section class=\"fumble-deck\"><h1>근육이 찢어졌습니다</h1><blockquote><p>치유될 때까지 당신은 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2}입니다.</p></blockquote><p><code>근접전</code></p><h1>어색한 공격</h1><blockquote><p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}입니다.</p></blockquote><p><code>원거리</code></p><h1>혀를 깨물었습니다!</h1><blockquote><p>당신은 @Localize[PF2E.PersistentDamage.Bleed1.success]을/를 받습니다.</p></blockquote><p><code>맨손</code></p><h1>자연발화</h1><blockquote><p>당신은 @Damage[2d6[fire]] 피해를 받습니다.</p></blockquote><p><code>주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #18": {
+      "name": "크리티컬 펌블 덱 #18",
+      "pages": {
+        "Critical Fumble Deck #18": {
+          "name": "크리티컬 펌블 덱 #18",
+          "text": "<section class=\"fumble-deck\">\n<h1>오버익스텐디드</h1>\n<blockquote>\n<p>당신은 이동 액션을 사용한 것처럼 반응을 유발합니다.</p>\n</blockquote>\n<p><code>밀리</code></p>\n<h1>에이킹 백</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p>\n</blockquote>\n<p><code>레인지드</code></p>\n<h1>업셋 스토맥</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}입니다.</p>\n</blockquote>\n<p><code>언아머드</code></p>\n<h1>크리티컬 백래쉬</h1>\n<blockquote>\n<p>당신은 대상 대신 자신에게 치명타를 입힙니다.</p>\n</blockquote>\n<p><code>스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #19": {
+      "name": "크리티컬 펌블 덱 #19",
+      "pages": {
+        "Critical Fumble Deck #19": {
+          "name": "크리티컬 펌블 덱 #19",
+          "text": "<section class=\"fumble-deck\"><h1>어색한 공격</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.other-effects.Item.y1GwyXv7iOf8DhBg]{Effect: Off-Guard until end of your next turn}입니다.</p></blockquote><p><code>근접</code></p><h1>눈알을 뽑았습니다</h1><blockquote><p>당신은 대상이 아닌 자신을 치명타로 공격했습니다.</p></blockquote><p><code>원거리</code></p><h1>지치는 공격</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p></blockquote><p><code>맨손</code></p><h1>산성 반발</h1><blockquote><p>당신은 @Damage[2d6[acid]] 피해를 입습니다.</p></blockquote><p><code>주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #2": {
+      "name": "크리티컬 펌블 덱 #2",
+      "pages": {
+        "Critical Fumble Deck #2": {
+          "name": "크리티컬 펌블 덱 #2",
+          "text": "<section class=\"fumble-deck\"><h1>Wrong End</h1><blockquote><p>당신이 베는 무기를 사용하고 있다면, @Damage[1d6[slashing]] 피해와 1 지속 출혈 피해를 입습니다.</p></blockquote><p><code>Melee</code></p><h1>Phantom Wind</h1><blockquote><p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.wVGSlZEGxsg1s8AZ]{-2 circumstance penalty to ranged attacks}를 받습니다.</p></blockquote><p><code>Ranged</code></p><h1>Overthink It</h1><blockquote><p>당신의 목표는 다음 턴이 끝날 때까지 당신이 하는 공격에 대한 @UUID[Compendium.pf2e.other-effects.Item.QGTMOcJ1Dq5bk0GG]{+2 circumstance bonus to AC}를 얻습니다.</p></blockquote><p><code>Unarmed</code></p><h1>Power Down</h1><blockquote><p>치유될 때까지, 당신은 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2}입니다.</p></blockquote><p><code>Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #20": {
+      "name": "치명적 실패 카드 #20",
+      "pages": {
+        "Critical Fumble Deck #20": {
+          "name": "치명적 실패 카드 #20",
+          "text": "<section class=\"fumble-deck\"><h1>This sword is Heavy</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p></blockquote><p><code>Melee</code></p><h1>Errant Aim</h1><blockquote><p>공격 굴림을 다시 합니다. 당신을 제외하고 목표 대상과 가장 가까운 생물을 대상으로 합니다.</p></blockquote><p><code>Ranged</code></p><h1>Awkward Attack</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.other-effects.Item.y1GwyXv7iOf8DhBg]{Effect: Off-Guard until end of your next turn}입니다.</p></blockquote><p><code>Unarmed</code></p><h1>Bleeding Eyes</h1><blockquote><p>당신은 @Damage[1d6[bleed]]을/를 받습니다.</p></blockquote><p><code>Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #21": {
+      "name": "크리티컬 펌블 덱 #21",
+      "pages": {
+        "Critical Fumble Deck #21": {
+          "name": "치명적 실패 카드 #21",
+          "text": "<section class=\"fumble-deck\"><h1>백스윙</h1><blockquote><p>당신은 대상이 아닌 자신에게 공격의 일반적인 피해를 입힙니다.</p></blockquote><p><code>근접</code></p><h1>와이드 오픈</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.other-effects.Item.y1GwyXv7iOf8DhBg]{Effect: Off-Guard until end of your next turn}입니다.</p></blockquote><p><code>원거리</code></p><h1>트립트</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}니다.</p></blockquote><p><code>맨손</code></p><h1>장비에 걸림</h1><blockquote><p>당신은 자신을 해방시키기 위해 2 @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Interact} 액션을 소비할 때까지 @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Encumbered}입니다.</p></blockquote><p><code>주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #22": {
+      "name": "크리티컬 펌블 덱 #22",
+      "pages": {
+        "Critical Fumble Deck #22": {
+          "name": "크리티컬 펌블 덱 #22",
+          "text": "<section class=\"fumble-deck\"><h1>와이드 오픈</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.other-effects.Item.y1GwyXv7iOf8DhBg]{Effect: Off-Guard until end of your next turn}입니다.</p></blockquote><p><code>밀리</code></p><h1>크랙드</h1><blockquote><p>당신이 사용하는 원거리 무기(탄약이 아님)는 @Damage[ 1d6]의 피해를 입고, 경도는 무시합니다.</p></blockquote><p><code>레인지드</code></p><h1>피스트 미트 페이스</h1><blockquote><p>당신은 공격으로 자신을 치명타로 공격했습니다.</p></blockquote><p><code>언암드</code></p><h1>디스턴스 리프트</h1><blockquote><p>당신은 당신의 주문의 대상과 인접한 가장 가까운 공간으로 순간이동합니다.</p></blockquote><p><code>스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #23": {
+      "name": "크리티컬 펌블 덱 #23",
+      "pages": {
+        "Critical Fumble Deck #23": {
+          "name": "크리티컬 펌블 덱 #23",
+          "text": "<section class=\"fumble-deck\">\n<h1>스트레인드</h1>\n<blockquote>\n<p>치유될 때까지 당신은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}입니다.</p>\n</blockquote>\n<p><code>밀리</code></p>\n<h1>웁스!</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}니다.</p>\n</blockquote>\n<p><code>레인지드</code></p>\n<h1>아웃 오브 포지션</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 이 공격을 사용할 수 없습니다.</p>\n</blockquote>\n<p><code>언암드</code></p>\n<h1>마인드 드레인</h1>\n<blockquote>\n<p>치유될 때까지 당신은 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}입니다.</p>\n</blockquote>\n<p><code>스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #24": {
+      "name": "크리티컬 펌블 덱 #24",
+      "pages": {
+        "Critical Fumble Deck #24": {
+          "name": "크리티컬 펌블 덱 #24",
+          "text": "<section class=\"fumble-deck\"><h1>너무 많은 물건!</h1><blockquote><p>당신은 장비와 희귀한 @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Encumbered}에 휘말려 자신을 해방시키기 위해 상호작용 액션 2개를 소모할 때까지 꼼짝 못하게 됩니다.</p></blockquote><p><code>근접</code></p><h1>염좌</h1><blockquote><p>치료될 때까지 당신은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}입니다.</p></blockquote><p><code>원거리</code></p><h1>출혈 주먹</h1><blockquote><p>당신은 @Damage[1d6[bleed]]을 입습니다.</p></blockquote><p><code>맨손</code></p><h1>현기증</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}입니다.</p></blockquote><p><code>주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #25": {
+      "name": "크리티컬 펌블 덱 #25",
+      "pages": {
+        "Critical Fumble Deck #25": {
+          "name": "크리티컬 펌블 덱 #25",
+          "text": "<section class=\"fumble-deck\"><h1>스피닝 스윙</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}입니다.</p></blockquote><p><code>근접</code></p><h1>닉드</h1><blockquote><p>당신은 @Localize[PF2E.PersistentDamage.Bleed1.success]을 받습니다.</p></blockquote><p><code>원거리</code></p><h1>트위스티드 업</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Encumbered} 상태가 됩니다. 자신을 해방하려면 2 @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Interact} 액션을 사용해야 합니다.</p></blockquote><p><code>무장 해제</code></p><h1>어프렌티스 무브</h1><blockquote><p>공격 굴림을 다시 굴립니다. (당신을 제외하고) 목표 대상과 가장 가까운 생명체를 목표로 합니다.</p></blockquote><p><code>주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #26": {
+      "name": "크리티컬 펌블 덱 #26",
+      "pages": {
+        "Critical Fumble Deck #26": {
+          "name": "크리티컬 펌블 덱 #26",
+          "text": "<section class=\"fumble-deck\"><h1>제가 말씀드렸잖습니까, 날카롭다고요!</h1><blockquote><p>당신은 @Damage[1d6[bleed]]을/를 받습니다.</p></blockquote><p><code>근접</code></p><h1>어설픈 녀석</h1><blockquote><p>당신은 사용하던 무기를 떨어뜨립니다.</p></blockquote><p><code>원거리</code></p><h1>자해하지 마세요</h1><blockquote><p>당신은 대상이 아닌 자신을 공격합니다.</p></blockquote><p><code>맨손</code></p><h1>내가 아니라 당신 바보야!</h1><blockquote><p>당신은 대상과 가장 가까운 아군을 공격합니다.</p></blockquote><p><code>주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #27": {
+      "name": "크리티컬 펌블 덱 #27",
+      "pages": {
+        "Critical Fumble Deck #27": {
+          "name": "크리티컬 펌블 덱 #27",
+          "text": "<section class=\"fumble-deck\">\n<h1>핀 프릭</h1>\n<blockquote>\n<p>당신은 @Localize[PF2E.PersistentDamage.Bleed1.success]을/를 입습니다.</p>\n</blockquote>\n<p><code>밀리</code></p>\n<h1>스필드 애모</h1>\n<blockquote>\n<p>당신이 사용하는 무기의 탄약이 용기에서 땅에 떨어집니다. 당신은 1 @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Interact} 액션을 사용하여 이렇게 떨어진 탄약 하나를 집을 수 있습니다.</p>\n</blockquote>\n<p><code>레인지드</code></p>\n<h1>저스트 어 테이스트</h1>\n<blockquote>\n<p>당신은 당신이나 목표물과 인접한 아군을 공격합니다.</p>\n</blockquote>\n<p><code>언암드</code></p>\n<h1>타이어링 스펠</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p>\n</blockquote>\n<p><code>스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #28": {
+      "name": "크리티컬 펌블 덱 #28",
+      "pages": {
+        "Critical Fumble Deck #28": {
+          "name": "크리티컬 펌블 덱 #28",
+          "text": "<section class=\"fumble-deck\">\n<h1>아머 스매쉬</h1>\n<blockquote>\n<p>당신은 방어구에 공격의 일반적인 피해를 입히고, 경도를 적용합니다.</p>\n</blockquote>\n<p><code>밀리</code></p>\n<h1>로스트 그립</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 2} 다음 턴이 끝날 때까지입니다.</p>\n</blockquote>\n<p><code>레인지드</code></p>\n<h1>배터드</h1>\n<blockquote>\n<p>치유될 때까지, 당신은 @UUID[Compendium.pf2e.other-effects.Item.c6cwOc4Zri6QiqsR]{-2 circumstance penalty to checks and saving throws}을 받습니다.</p>\n</blockquote>\n<p><code>언아밍드</code></p>\n<h1>언익스펙티드 블래스트</h1>\n<blockquote>\n<p>당신의 주문은 당신으로부터 30피트 이내의 모든 목표에 영향을 미칩니다. 당신은 이 효과에 면역입니다.</p>\n</blockquote>\n<p><code>스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #29": {
+      "name": "크리티컬 펌블 덱 #29",
+      "pages": {
+        "Critical Fumble Deck #29": {
+          "name": "크리티컬 펌블 덱 #29",
+          "text": "<section class=\"fumble-deck\">\n<h1>숨을 고르세요</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 2}가 다음 턴이 끝날 때까지 지속됩니다.</p>\n</blockquote>\n<p><code>근접</code></p>\n<h1>잘못된 무기</h1>\n<blockquote>\n<p>당신이 투척 공격을 했다면, 대신 GM이 무작위로 결정한 당신 장비의 물건을 던집니다.</p>\n</blockquote>\n<p><code>원거리</code></p>\n<h1>너무 가까이 다가갔습니다</h1>\n<blockquote>\n<p>이 공격은 적에게 반응으로 @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple} 또는 @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Grab}를 부여하고 발동시킵니다.</p>\n</blockquote>\n<p><code>맨손</code></p>\n<h1>더 강하게 만들었습니다</h1>\n<blockquote>\n<p>목표는 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.lTwF7aCtQ6napqYu]{+2 status bonus to attack rolls}를 얻습니다.</p>\n</blockquote>\n<p><code>주문</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #3": {
+      "name": "크리티컬 펌블 덱 #3",
+      "pages": {
+        "Critical Fumble Deck #3": {
+          "name": "크리티컬 펌블 덱 #3",
+          "text": "<section class=\"fumble-deck\"><h1>Bad Fall</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} 넘어지고 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}됩니다.</p></blockquote><p><code>Melee</code></p><h1>Spraining Shot</h1><blockquote><p>치유될 때까지, 당신은 @UUID[Compendium.pf2e.other-effects.Item.NU5wAbJLZO6T86eB]{-10-foot circumstance penalty to your land Speed}을 받고 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}됩니다.</p></blockquote><p><code>Ranged</code></p><h1>Bad Jam</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}이고 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2}입니다.</p></blockquote><p><code>Unarmed</code></p><h1>Exploding Skull</h1><blockquote><p>당신은 @Check[fortitude] 내성 굴림을 시도해야 합니다. 성공하면 @Damage[3d6[mental]] 피해를 입습니다. <strong>실패하면 머리가 터져 죽습니다.</strong></p></blockquote><p><code>Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #30": {
+      "name": "크리티컬 펌블 덱 #30",
+      "pages": {
+        "Critical Fumble Deck #30": {
+          "name": "크리티컬 펌블 덱 #30",
+          "text": "<section class=\"fumble-deck\">\n<h1>심각한 오판</h1>\n<blockquote>\n<p>당신은 공격으로 자신에게 치명타를 입혔습니다.</p>\n</blockquote>\n<p><code>Melee</code></p>\n<h1>노새처럼 되받아치기</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}입니다.</p>\n</blockquote>\n<p><code>Ranged</code></p>\n<h1>공격할 틈을 찾을 수 없음</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 이 공격을 사용할 수 없습니다.</p>\n</blockquote>\n<p><code>Unarmed</code></p>\n<h1>빈손</h1>\n<blockquote>\n<p>치유될 때까지 당신은 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}입니다.</p>\n</blockquote>\n<p><code>Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #31": {
+      "name": "크리티컬 펌블 덱 #31",
+      "pages": {
+        "Critical Fumble Deck #31": {
+          "name": "크리티컬 펌블 덱 #31",
+          "text": "<section class=\"fumble-deck\">\n<h1>Stuck</h1>\n<blockquote>\n<p>당신의 무기가 근처 표면이나 물건에 박혔습니다. 무기를 빼려면, @Check[athletics|dc:20|name:Unlodge Weapon] 판정에 성공해야 하며 @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Interact} 액션으로 진행해야 합니다.</p>\n</blockquote>\n<p><code>Melee</code></p>\n<h1>Archer's Elbow</h1>\n<blockquote>\n<p>치료될 때까지, 당신은 원거리 공격에 -2 상황 패널티를 받습니다.</p>\n</blockquote>\n<p><code>Ranged</code></p>\n<h1>Off Balance</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 2} 입니다.</p>\n</blockquote>\n<p><code>Unarmed</code></p>\n<h1>Spell Shield</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.other-effects.Item.PaS2kwv4vueI4PC7]{+2 status bonus to saving throws against spells for 1 min}을 얻습니다.</p>\n</blockquote>\n<p><code>Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #32": {
+      "name": "크리티컬 펌블 덱 #32",
+      "pages": {
+        "Critical Fumble Deck #32": {
+          "name": "크리티컬 펌블 덱 #32",
+          "text": "<section class=\"fumble-deck\">\n<h1>벤트</h1>\n<blockquote>\n<p>당신의 무기의 현재 히트 포인트가 파손 임계값으로 감소합니다. 이미 파손된 경우, 무기는 경도를 무시하고 [[/r 3d6]]의 피해를 입습니다.</p>\n</blockquote>\n<p><code>근접</code></p>\n<h1>더블 미스</h1>\n<blockquote>\n<p>이 공격이 탄약을 사용하는 경우, 당신은 이 공격에 두 배의 탄약을 사용합니다.</p>\n</blockquote>\n<p><code>원거리</code></p>\n<h1>공격을 막다</h1>\n<blockquote>\n<p>이 공격은 적에게 @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip} 또는 @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove} 반응으로서 부여하고 발동시킵니다.</p>\n</blockquote>\n<p><code>맨손</code></p>\n<h1>휘청거리다</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}입니다.</p>\n</blockquote>\n<p><code>스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #33": {
+      "name": "치명적 실패 카드 #33",
+      "pages": {
+        "Critical Fumble Deck #33": {
+          "name": "크리티컬 펌블 덱 #33",
+          "text": "<section class=\"fumble-deck\">\n<h1>Funny Bone</h1>\n<blockquote>\n<p>당신이 들고 있는 아이템 하나를 (GM이 무작위로 결정합니다) 떨어뜨립니다.</p>\n</blockquote>\n<p><code>Melee</code></p>\n<h1>Not my Pony!</h1>\n<blockquote>\n<p>당신은 가장 가까운 동물 동반자, 탈것, 또는 정령에게 타격을 입힙니다.</p>\n</blockquote>\n<p><code>Ranged</code></p>\n<h1>Bad Headbutt</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}입니다.</p>\n</blockquote>\n<p><code>Unarmed</code></p>\n<h1>Caster's Block</h1>\n<blockquote>\n<p>당신은 휴식을 취하고 매일 준비를 할 때까지 어떤 레벨에서도 이 주문을 다시 시전할 수 없습니다.</p>\n</blockquote>\n<p><code>Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #34": {
+      "name": "크리티컬 펌블 덱 #34",
+      "pages": {
+        "Critical Fumble Deck #34": {
+          "name": "크리티컬 펌블 덱 #34",
+          "text": "<section class=\"fumble-deck\">\n<h1>무기 엉킴</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 이 무기를 사용하여 공격할 수 없습니다.</p>\n</blockquote>\n<p><code>근접</code></p>\n<h1>놀라운 미스</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}입니다.</p>\n</blockquote>\n<p><code>원거리</code></p>\n<h1>뼈 멍</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded 1}가 되거나 상처 값이 1 증가합니다.</p>\n</blockquote>\n<p><code>맨손</code></p>\n<h1>당신은 그것들을 더 크게 만들었습니다</h1>\n<blockquote>\n<p>대상의 크기가 증가하며, 2레벨 @UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{Enlarge} 주문의 효과를 받습니다. @UUID[Compendium.pf2e.spell-effects.Item.sPCWrhUHqlbGhYSD]{Spell Effect: Enlarge}</p>\n</blockquote>\n<p><code>주문</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #35": {
+      "name": "크리티컬 펌블 덱 #35",
+      "pages": {
+        "Critical Fumble Deck #35": {
+          "name": "크리티컬 펌블 덱 #35",
+          "text": "<section class=\"fumble-deck\">\n<h1>Bonk!</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2}입니다.</p>\n</blockquote>\n<p><code>Melee</code></p>\n<h1>Shot your Foot</h1>\n<blockquote>\n<p>치료될 때까지 당신은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}이며 @UUID[Compendium.pf2e.other-effects.Item.RcMZr0wSjrir1AnS]{-5-foot circumstance penalty to your land speed}을 받습니다.</p>\n</blockquote>\n<p><code>Ranged</code></p>\n<h1>Overexertion</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p>\n</blockquote>\n<p><code>Unarmed</code></p>\n<h1>Side Effect</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}입니다. 당신은 또한 치료될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2}입니다.</p>\n</blockquote>\n<p><code>Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #36": {
+      "name": "크리티컬 펌블 덱 #36",
+      "pages": {
+        "Critical Fumble Deck #36": {
+          "name": "크리티컬 펌블 덱 #36",
+          "text": "<section class=\"fumble-deck\">\n<h1>죄송합니다!</h1>\n<blockquote>\n<p>당신은 당신에게 인접한 아군 또는 목표에게 인접한 아군을 공격했습니다.</p>\n</blockquote>\n<p><code>밀리</code></p>\n<h1>목표를 놓침</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.5gX3PZztMecmWxX9]{-2 circumstance penalty to attack rolls}을 받습니다.</p>\n</blockquote>\n<p><code>레인지드</code></p>\n<h1>염좌</h1>\n<blockquote>\n<p>치유될 때까지 당신은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}입니다.</p>\n</blockquote>\n<p><code>언아머드</code></p>\n<h1>약화됨</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.BjkhK1nFUw3vNKg2]{-2 circumstance penalty to spell attack rolls and spell DC's}을 받습니다.</p>\n</blockquote>\n<p><code>스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #37": {
+      "name": "크리티컬 펌블 덱 #37",
+      "pages": {
+        "Critical Fumble Deck #37": {
+          "name": "크리티컬 펌블 덱 #37",
+          "text": "<section class=\"fumble-deck\">\n<h1>주는 것이 낫다</h1>\n<blockquote>\n<p>당신은 대상이 아닌 자신을 공격합니다.</p>\n</blockquote>\n<p><code>밀리</code></p>\n<h1>무기 문제</h1>\n<blockquote>\n<p>만약 공격에 투사 무기를 사용했다면, 무기의 고장으로 인해 수리하는 데 2 @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Interact} 액션을 소모해야 합니다.</p>\n</blockquote>\n<p><code>원거리</code></p>\n<h1>재채기</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} 입니다.</p>\n</blockquote>\n<p><code>맨손</code></p>\n<h1>마법 쇄도</h1>\n<blockquote>\n<p>당신은 치유될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} 입니다.</p>\n</blockquote>\n<p><code>주문</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #38": {
+      "name": "크리티컬 펌블 덱 #38",
+      "pages": {
+        "Critical Fumble Deck #38": {
+          "name": "크리티컬 펌블 덱 #38",
+          "text": "<section class=\"fumble-deck\">\n<h1>자신의 종을 울리세요</h1>\n<blockquote>\n<p>치유될 때까지 당신은 @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened}입니다.</p>\n</blockquote>\n<p><code>근접</code></p>\n<h1>내려진 방어</h1>\n<blockquote>\n<p>당신은 이동 액션을 사용한 것처럼 반응을 유발합니다.</p>\n</blockquote>\n<p><code>원거리</code></p>\n<h1>맹렬한 실수</h1>\n<blockquote>\n<p>당신은 당신의 사정거리 내에 있는 아군을 치명타로 공격합니다 (GM에 의해 무작위로 결정됨).</p>\n</blockquote>\n<p><code>맨손</code></p>\n<h1>마법은 사라졌습니다</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.other-effects.Item.fqk0ESqJACXqz21k]{-1 circumstance penalty to attack rolls until you score a critical hit}을 받습니다.</p>\n</blockquote>\n<p><code>주문</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #39": {
+      "name": "크리티컬 펌블 덱 #39",
+      "pages": {
+        "Critical Fumble Deck #39": {
+          "name": "크리티컬 펌블 덱 #39",
+          "text": "<section class=\"fumble-deck\">\n<h1>피해를 받는 쪽</h1>\n<blockquote>\n<p>당신은 대상 대신 자신에게 피해를 입힙니다.</p>\n</blockquote>\n<p><code>Melee</code></p>\n<h1>사격선상에</h1>\n<blockquote>\n<p>당신은 가장 가까운 아군에게 치명타를 입힙니다.</p>\n</blockquote>\n<p><code>Ranged</code></p>\n<h1>머리, 벽에 부딪히다</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}입니다.</p>\n</blockquote>\n<p><code>Unarmed</code></p>\n<h1>들리십니까?</h1>\n<blockquote>\n<p>치유될 때까지 당신은 @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened}입니다.</p>\n</blockquote>\n<p><code>Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #4": {
+      "name": "크리티컬 펌블 덱 #4",
+      "pages": {
+        "Critical Fumble Deck #4": {
+          "name": "크리티컬 펌블 덱 #4",
+          "text": "<section class=\"fumble-deck\">\n<h1>잠깐, 뭐라고요?</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused}입니다.</p>\n</blockquote>\n<p><code>밀리</code></p>\n<h1>나를 치지 마세요!</h1>\n<blockquote>\n<p>당신의 다음 턴이 끝날 때까지, 당신의 아군과 인접한 적을 향한 원거리 공격이 빗나갈 때마다, 그 인접한 아군 중 하나를 대신 타격합니다 (GM이 무작위로 결정). </p>\n</blockquote>\n<p><code>레인지드</code></p>\n<h1>꼬인 신경</h1>\n<blockquote>\n<p>치료될 때까지, 당신은 @UUID[Compendium.pf2e.other-effects.Item.NU5wAbJLZO6T86eB]{-10-foot circumstance penalty to your land Speed}을 받고 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}입니다.</p>\n</blockquote>\n<p><code>언아머드</code></p>\n<h1>정신적 실수</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 대상에게 @UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{Controlled}됩니다.</p>\n</blockquote>\n<p><code>스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #40": {
+      "name": "크리티컬 펌블 덱 #40",
+      "pages": {
+        "Critical Fumble Deck #40": {
+          "name": "크리티컬 펌블 덱 #40",
+          "text": "<section class=\"fumble-deck\"><h1>크리핑 헤지테이션</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.other-effects.Item.y1GwyXv7iOf8DhBg]{Effect: Off-Guard until end of your next turn}입니다.</p></blockquote><p><code>밀리</code></p><h1>인시큐어</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.other-effects.Item.fqk0ESqJACXqz21k]{-1 circumstance penalty to attack rolls until you score a critical hit}을(를) 받습니다.</p></blockquote><p><code>레인지드</code></p><h1>그레이트 로어</h1><blockquote><p>치유될 때까지, 당신은 @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened}입니다.</p></blockquote><p><code>언아메드</code></p><h1>에러!</h1><blockquote><p>당신은 대상이 아닌 자신에게 주문의 일반적인 피해를 입힙니다.</p></blockquote><p><code>스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #41": {
+      "name": "크리티컬 펌블 덱 #41",
+      "pages": {
+        "Critical Fumble Deck #41": {
+          "name": "크리티컬 펌블 덱 #41",
+          "text": "<section class=\"fumble-deck\"><h1>올 오어 낫싱</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.other-effects.Item.fqk0ESqJACXqz21k]{-1 circumstance penalty to attack rolls until you score a critical hit}입니다.</p></blockquote><p><code>근접</code></p><h1>클로즈 투 디 이어</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.other-effects.Item.W2OF7VeLHqc7p3DO]{Effect: Deafened until end of your next turn}입니다.</p></blockquote><p><code>원거리</code></p><h1>핀스 앤 니들스</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 3}입니다.</p></blockquote><p><code>맨손</code></p><h1>와이 미?</h1><blockquote><p>당신은 움직임 행동을 사용한 것처럼 반응을 유발합니다.</p></blockquote><p><code>주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #42": {
+      "name": "크리티컬 펌블 덱 #42",
+      "pages": {
+        "Critical Fumble Deck #42": {
+          "name": "크리티컬 펌블 덱 #42",
+          "text": "<section class=\"fumble-deck\">\n<h1>윈디드</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p>\n</blockquote>\n<p><code>밀리</code></p>\n<h1>배드 얼라인먼트</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.UZabiyynJWuUblMk]{-2 circumstance penalty to attack rolls with this weapon}를 받습니다.</p>\n</blockquote>\n<p><code>레인지드</code></p>\n<h1>잇 빗 유어 피스트</h1>\n<blockquote>\n<p>목표는 당신에게 죠즈 데미지를 입힙니다.</p>\n</blockquote>\n<p><code>언암드</code></p>\n<h1>푸어 트레이드</h1>\n<blockquote>\n<p>당신은 적중하지만, 사용 가능한 최고 등급의 준비된 주문 또는 주문 슬롯을 잃습니다 (당신이 주문을 선택합니다).</p>\n</blockquote>\n<p><code>스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #43": {
+      "name": "크리티컬 펌블 덱 #43",
+      "pages": {
+        "Critical Fumble Deck #43": {
+          "name": "크리티컬 펌블 덱 #43",
+          "text": "<section class=\"fumble-deck\"><h1>쉴드 크래시</h1><blockquote><p>당신은 방패에 공격의 일반적인 피해를 입히고, 경도를 적용합니다.</p></blockquote><p><code>근접</code></p><h1>에브리씽 유 갓</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p></blockquote><p><code>원거리</code></p><h1>하드-에지드 애드버서리</h1><blockquote><p>당신은 @Damage[2d6[piercing]] 피해 또는 @Damage[2d6[slashing]] 피해(GM에 의해 결정됨)를 입습니다.</p></blockquote><p><code>무장 해제</code></p><h1>유 메이드 뎀 터퍼</h1><blockquote><p>목표는 다음 턴 시작까지 @UUID[Compendium.pf2e.other-effects.Item.WqgtMWgM9nUjwQiI]{Resistance 5 to all damage}을 얻습니다.</p></blockquote><p><code>주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #44": {
+      "name": "크리티컬 펌블 덱 #44",
+      "pages": {
+        "Critical Fumble Deck #44": {
+          "name": "크리티컬 펌블 덱 #44",
+          "text": "<section class=\"fumble-deck\"><h1>핸드 잇 오버</h1><blockquote><p>당신이 @Check[reflex]에 성공하지 못하면, 당신의 목표는 당신의 무기를 소유하게 됩니다.</p></blockquote><p><code>밀리</code></p><h1>브로큰</h1><blockquote><p>당신의 무기의 현재 히트 포인트는 파손 임계값으로 감소합니다. 이미 @UUID[Compendium.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{Broken}인 경우, 무기는 경도를 무시하고 @Damage[3d6]의 피해를 입습니다.</p></blockquote><p><code>레인지드</code></p><h1>스매쉬 더 플로어</h1><blockquote><p>당신은 먼지 구름을 일으켜, 당신의 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}됩니다.</p></blockquote><p><code>언아머드</code></p><h1>유 메이드 뎀 패스터</h1><blockquote><p>목표는 2라운드 동안 @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened}됩니다.</p></blockquote><p><code>스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #45": {
+      "name": "크리티컬 펌블 덱 #45",
+      "pages": {
+        "Critical Fumble Deck #45": {
+          "name": "크리티컬 펌블 덱 #45",
+          "text": "<section class=\"fumble-deck\"><h1>이것은 나쁩니다</h1><blockquote><p>당신은 @Damage[1d10[bleed]]을/를 받습니다.</p></blockquote><p><code>근접</code></p><h1>확률은 어떻습니까?</h1><blockquote><p>만약 이것이 투척 무기 공격이고 목표물이 무기를 잡을 수 있다면, 목표물은 공중에서 무기를 낚아채어 휘두릅니다.</p></blockquote><p><code>원거리</code></p><h1>수치의 회오리</h1><blockquote><p>당신은 목표물을 제외한 당신에게 인접한 모든 생물에게 적중합니다.</p></blockquote><p><code>맨손</code></p><h1>뒤섞인 구성 요소들</h1><blockquote><p>당신은 당신의 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 2}입니다.</p></blockquote><p><code>주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #46": {
+      "name": "크리티컬 펌블 덱 #46",
+      "pages": {
+        "Critical Fumble Deck #46": {
+          "name": "크리티컬 펌블 덱 #46",
+          "text": "<section class=\"fumble-deck\"><h1>손이 잘렸습니다</h1><blockquote><p>당신은 @Damage[1d8[bleed]]을/를 입습니다.</p></blockquote><p><code>근접</code></p><h1>앗 실수!</h1><blockquote><p>당신은 대상이 아닌 자신을 공격했습니다.</p></blockquote><p><code>원거리</code></p><h1>박힌 손톱</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.other-effects.Item.fqk0ESqJACXqz21k]{-1 circumstance penalty to attack rolls until you score a critical hit}을/를 입습니다.</p></blockquote><p><code>맨손</code></p><h1>클래토 베라타 넥타이</h1><blockquote><p>당신은 가장 가까운 아군에게 치명타를 입힙니다.</p></blockquote><p><code>주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #47": {
+      "name": "크리티컬 펌블 덱 #47",
+      "pages": {
+        "Critical Fumble Deck #47": {
+          "name": "크리티컬 펌블 덱 #47",
+          "text": "<section class=\"fumble-deck\">\n<h1>결정 마비</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} 다음 턴이 끝날 때까지 입니다.</p>\n</blockquote>\n<p><code>근접</code></p>\n<h1>찢어진 힘줄</h1>\n<blockquote>\n<p>치료될 때까지, 당신은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}입니다.</p>\n</blockquote>\n<p><code>원거리</code></p>\n<h1>따가운 실패</h1>\n<blockquote>\n<p>치료될 때까지, 당신은 @UUID[Compendium.pf2e.other-effects.Item.i5WccD9u62QPRZI8]{-2 circumstance penalty to attack rolls made with this attack until healed}을 받습니다.</p>\n</blockquote>\n<p><code>맨손</code></p>\n<h1>저주받음</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Doomed 1}입니다.</p>\n</blockquote>\n<p><code>주문</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #48": {
+      "name": "크리티컬 펌블 덱 #48",
+      "pages": {
+        "Critical Fumble Deck #48": {
+          "name": "크리티컬 펌블 덱 #48",
+          "text": "<section class=\"fumble-deck\">\n<h1>캐터스트로픽 페이러</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} 깨어나거나 다음 턴이 끝날 때까지 넘어집니다.</p>\n</blockquote>\n<p><code>밀리</code></p>\n<h1>오버스로우</h1>\n<blockquote>\n<p>만약 공격에 투척 무기가 사용되었다면, 무기는 GM에 의해 결정되는 무작위 방향으로 사거리의 세 배만큼 날아갑니다.</p>\n</blockquote>\n<p><code>레인지드</code></p>\n<h1>돈트 픽 잇 잇</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded 1} 가 되거나 부상 값이 1 증가합니다.</p>\n</blockquote>\n<p><code>언암드</code></p>\n<h1>매지컬 스맥다운</h1>\n<blockquote>\n<p>당신은 다음 내성 굴림에 자동으로 실패합니다 (하지만 치명타 실패는 아닙니다).</p>\n</blockquote>\n<p><code>스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #49": {
+      "name": "크리티컬 펌블 덱 #49",
+      "pages": {
+        "Critical Fumble Deck #49": {
+          "name": "크리티컬 펌블 덱 #49",
+          "text": "<section class=\"fumble-deck\">\n<h1>Pointy End goes There</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded 1}이 되거나 부상 수치가 1 증가합니다.</p>\n</blockquote>\n<p><code>Melee</code></p>\n<h1>Tunnel Vision</h1>\n<blockquote>\n<p>3 라운드 동안 당신은 @UUID[Compendium.pf2e.other-effects.Item.IUvO6CatanKAgmNr]{+1 circumstance bonus to attack rolls}을 얻지만 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}입니다.</p>\n</blockquote>\n<p><code>Ranged</code></p>\n<h1>Head First!</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}까지 기절합니다. 깨어나거나 다음 턴이 끝날 때까지 기절합니다.</p>\n</blockquote>\n<p><code>Unarmed</code></p>\n<h1>Wild Magic</h1>\n<blockquote>\n<p>@UUID[Compendium.pf2e.rollable-tables.RollTable.uYDzWM5ji52r4mSD]{Rod of Wonder} 표에서 두 번 굴립니다. 당신이 그 효과의 대상입니다.</p>\n</blockquote>\n<p><code>Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #5": {
+      "name": "크리티컬 펌블 덱 #5",
+      "pages": {
+        "Critical Fumble Deck #5": {
+          "name": "크리티컬 펌블 덱 #5",
+          "text": "<section class=\"fumble-deck\">\n<h1>Bad Grip</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.UZabiyynJWuUblMk]{-2 circumstance penalty to attack rolls with this weapon} 상태가 됩니다.</p>\n</blockquote>\n<p><code>Melee</code></p>\n<h1>Huh?</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} 상태입니다.</p>\n</blockquote>\n<p><code>Ranged</code></p>\n<h1>Eye Strain</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} 상태가 됩니다.</p>\n</blockquote>\n<p><code>Unarmed</code></p>\n<h1>Blastoff</h1>\n<blockquote>\n<p>당신은 @Check[ will] 내성 굴림에 성공해야 합니다. 실패하면 [[/r 1d6*5]] 피트 공중으로 날아갑니다 (혹은 비행 중인 경우 GM이 결정하는 무작위 방향으로 날아갑니다).</p>\n</blockquote>\n<p><code>Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #50": {
+      "name": "크리티컬 펌블 덱 #50",
+      "pages": {
+        "Critical Fumble Deck #50": {
+          "name": "크리티컬 펌블 덱 #50",
+          "text": "<section class=\"fumble-deck\"><h1>Broken Haft</h1><blockquote><p>당신의 무기 현재 히트 포인트가 파손 임계치로 감소합니다. 이미 파손된 경우, 무기는 경도를 무시하고 @Damage[3d6]의 피해를 입습니다. 당신의 무기가 도달 무기인 경우, 도달 능력을 잃습니다.</p></blockquote><p><code>Melee</code></p><h1>All Thumbs</h1><blockquote><p>치유될 때까지, 당신은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}입니다.</p></blockquote><p><code>Ranged</code></p><h1>Whiff</h1><blockquote><p>당신은 대상 대신 자신을 공격합니다.</p></blockquote><p><code>Unarmed</code></p><h1>Draining Magic</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1}입니다.</p></blockquote><p><code>Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #51": {
+      "name": "크리티컬 펌블 덱 #51",
+      "pages": {
+        "Critical Fumble Deck #51": {
+          "name": "치명적 실패 카드 #51",
+          "text": "<section class=\"fumble-deck\"><h1>Fog of War</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.other-effects.Item.uwYGEeqvt8pwjhXa]{Effect: Dazzled until end of your next turn}입니다.</p></blockquote><p><code>Melee</code></p><h1>Bull's Eye</h1><blockquote><p>당신의 공격이 되튀어 당신의 눈 근처를 맞힙니다. 당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}입니다.</p></blockquote><p><code>Ranged</code></p><h1>Jam a Finger</h1><blockquote><p>당신은 공격으로 입힐 수 있는 최소 피해량만큼 적에게 피해를 입힙니다. 당신은 공격의 일반적인 피해량을 받습니다.</p></blockquote><p><code>Unarmed</code></p><h1>Everything to Fear</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3}입니다.</p></blockquote><p><code>Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #52": {
+      "name": "크리티컬 펌블 덱 #52",
+      "pages": {
+        "Critical Fumble Deck #52": {
+          "name": "크리티컬 펌블 덱 #52",
+          "text": "<section class=\"fumble-deck\"><h1>Go for the Eyes</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.other-effects.Item.uwYGEeqvt8pwjhXa]{Effect: Dazzled until end of your next turn}입니다.</p></blockquote><p><code>Melee</code></p><h1>Pinch a Finger</h1><blockquote><p>당신은 @Damage[1d6[bleed]]을(를) 취합니다.</p></blockquote><p><code>Ranged</code></p><h1>Winds of Change</h1><blockquote><p>당신은 다음 턴이 끝날 때까지 같은 대상을 다시 공격할 수 없습니다.</p></blockquote><p><code>Unarmed</code></p><h1>Now I see You...</h1><blockquote><p>당신의 대상은 다음 턴이 끝날 때까지 또는 적대적인 행동을 사용할 때까지 @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible}이 됩니다.</p></blockquote><p><code>Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #53": {
+      "name": "크리티컬 펌블 덱 #53",
+      "pages": {
+        "Critical Fumble Deck #53": {
+          "name": "크리티컬 펌블 덱 #53",
+          "text": "<section class=\"fumble-deck\"><h1>Punt</h1><blockquote><p>당신의 무기가 [[/r 1d4*5]] 피트 떨어진 무작위 방향 [[/r 1d8#1 equals North, going clockwise]] (GM이 결정)으로 날아갑니다.</p></blockquote><p><code>Melee</code></p><h1>So much Blood</h1><blockquote><p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 3}입니다.</p></blockquote><p><code>Ranged</code></p><h1>Unintentional Move</h1><blockquote><p>당신은 무작위 방향 [[/r 1d8#1 equals North, going clockwise]] (GM이 결정)으로 10피트 이동합니다. 이 이동은 반응을 유발합니다.</p></blockquote><p><code>Unarmed</code></p><h1>It's so Sparkly!</h1><blockquote><p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}입니다.</p></blockquote><p><code>Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #6": {
+      "name": "크리티컬 펌블 덱 #6",
+      "pages": {
+        "Critical Fumble Deck #6": {
+          "name": "크리티컬 펌블 덱 #6",
+          "text": "<section class=\"fumble-deck\">\n<h1>Eat Dirt</h1>\n<blockquote>\n<p>당신은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} 넘어져서 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} 있습니다.</p>\n</blockquote>\n<p><code>Melee</code></p>\n<h1>Overcompensate</h1>\n<blockquote>\n<p>엄폐물은 1분 동안 당신의 원거리 공격에 대한 @UUID[Compendium.pf2e.other-effects.Item.pbKvPM4cnmGTkDiZ]{+4 circumstance bonus to AC against your ranged attacks}을 제공합니다.</p>\n</blockquote>\n<p><code>Ranged</code></p>\n<h1>That tastes Awful!</h1>\n<blockquote>\n<p>만약 이것이 턱 공격(또는 유사한 것)이었다면, 당신은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 3}입니다.</p>\n</blockquote>\n<p><code>Unarmed</code></p>\n<h1>Strange Transference</h1>\n<blockquote>\n<p>준비된 주문 또는 주문 슬롯 하나를 잃습니다. GM이 무작위로 결정합니다. 당신의 목표는 주문을 걸 수 없더라도 당신의 레벨, 주문 공격 수정치 및 주문 DC를 사용하여 다음 턴에 이 주문을 시전할 수 있습니다.</p>\n</blockquote>\n<p><code>Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #7": {
+      "name": "크리티컬 펌블 덱 #7",
+      "pages": {
+        "Critical Fumble Deck #7": {
+          "name": "크리티컬 펌블 덱 #7",
+          "text": "<section class=\"fumble-deck\"><h1>바이브레이션</h1><blockquote><p>당신이 둔기 무기를 사용하고 있다면, 그 무기를 떨어뜨리고 치유될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2}가 됩니다.</p></blockquote><p><code>밀리</code></p><h1>리코일</h1><blockquote><p>당신은 뒤로 5피트 밀려나서 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}니다.</p></blockquote><p><code>레인지드</code></p><h1>펑처드 풋</h1><blockquote><p>당신은 @Damage[1d4[bleed]]을 입습니다. 이 효과가 끝날 때까지, 당신은 @UUID[Compendium.pf2e.other-effects.Item.NU5wAbJLZO6T86eB]{-10-foot circumstance penalty to your land Speed}을 받습니다.</p></blockquote><p><code>언아암드</code></p><h1>멘탈 백래쉬</h1><blockquote><p>치유될 때까지, 당신은 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 3}입니다.</p></blockquote><p><code>스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #8": {
+      "name": "크리티컬 펌블 덱 #8",
+      "pages": {
+        "Critical Fumble Deck #8": {
+          "name": "크리티컬 펌블 덱 #8",
+          "text": "<section class=\"fumble-deck\">\n<h1>누구였을까요?</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}입니다.</p>\n</blockquote>\n<p><code>근접</code></p>\n<h1>이중으로 보임</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}입니다.</p>\n</blockquote>\n<p><code>원거리</code></p>\n<h1>부러진 이빨</h1>\n<blockquote>\n<p>치료될 때까지, 당신은 @UUID[Compendium.pf2e.other-effects.Item.Ck0MQP9og75AWix7]{-2 circumstance penalty to attack rolls}을 받습니다.</p>\n</blockquote>\n<p><code>맨손</code></p>\n<h1>산산조각난 마법</h1>\n<blockquote>\n<p>당신의 목표는 @UUID[Compendium.pf2e.spells-srd.Item.j8vIoIEWElvpwkcI]{Mirror Image} 주문의 효과를 얻습니다.</p>\n</blockquote>\n<p><code>주문</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Fumble Deck #9": {
+      "name": "크리티컬 펌블 덱 #9",
+      "pages": {
+        "Critical Fumble Deck #9": {
+          "name": "크리티컬 펌블 덱 #9",
+          "text": "<section class=\"fumble-deck\">\n<h1>어둠 공격</h1>\n<blockquote>\n<p>당신의 적들은 당신으로부터 @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} 떨어져 있습니다. 다음 턴이 끝날 때까지입니다.</p>\n</blockquote>\n<p><code>근접</code></p>\n<h1>다음에는 조준을 잘 하세요</h1>\n<blockquote>\n<p>다음 턴이 끝날 때까지 당신의 공격은 추가 행동을 필요로 합니다.</p>\n</blockquote>\n<p><code>원거리</code></p>\n<h1>잔혹한 충돌</h1>\n<blockquote>\n<p>@Check[ fortitude] 내성 굴림을 시도하십시오. 성공하면 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}입니다. 실패하면 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2}입니다.</p>\n</blockquote>\n<p><code>맨손</code></p>\n<h1>힘 전이</h1>\n<blockquote>\n<p>당신에게 현재 적용 중인 최고 레벨의 유익한 주문 효과가 당신의 목표 대상에게 전이됩니다.</p>\n</blockquote>\n<p><code>주문</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #1": {
+      "name": "크리티컬 히트 덱 #1",
+      "pages": {
+        "Critical Hit Deck #1": {
+          "name": "크리티컬 히트 덱 #1",
+          "text": "<section class=\"critical-deck\"><h1>크런치</h1><blockquote><p><strong>치명타 효과:</strong> 목표는 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 3}입니다.</p></blockquote><p><code>블러징</code></p><h1>포암 피어싱</h1><blockquote><p><strong>치명타 효과:</strong> 목표는 자신이 들고 있는 무기 하나를 버립니다 (GM이 무작위로 선택).</p></blockquote><p><code>피어싱</code></p><h1>서프라이즈 오프닝</h1><blockquote><p><strong>치명타 효과:</strong> 당신은 자신의 턴이 끝나기 전에 사용할 수 있는 1개의 액션을 얻습니다. 이 액션을 사용하여 목표에 대한 공격 액션을 사용할 수 있습니다.</p></blockquote><p><code>슬래싱</code></p><h1>알러지 반응</h1><blockquote><p>목표는 @Damage[1d8[poison]] 피해를 입습니다.</p></blockquote><p><code>봄 또는 스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #10": {
+      "name": "크리티컬 히트 덱 #10",
+      "pages": {
+        "Critical Hit Deck #10": {
+          "name": "크리티컬 히트 덱 #10",
+          "text": "<section class=\"critical-deck\"><h1>I See Stars</h1><blockquote><p>일반 피해. <strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}이 치유될 때까지  됩니다.</p></blockquote><p><code>Bludgeoning</code></p><h1>Pinhole</h1><blockquote><p><strong>치명타 효과:</strong> 대상은 치유될 때까지 제거할 수 없는 @Localize[PF2E.PersistentDamage.Bleed1.success]을 받습니다.</p></blockquote><p><code>Piercing</code></p><h1>Disembowel</h1><blockquote><p>삼중 피해.</p></blockquote><p><code>Slashing</code></p><h1>Conduit</h1><blockquote><p>대상은 당신의 다음 턴이 끝날 때까지 당신의 폭탄이나 주문에 대한 AC와 내성 굴림에 -2 상태 페널티를 받습니다.</p></blockquote><p><code>Bomb or Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #11": {
+      "name": "크리티컬 히트 덱 #11",
+      "pages": {
+        "Critical Hit Deck #11": {
+          "name": "크리티컬 히트 덱 #11",
+          "text": "<section class=\"critical-deck\"><h1>Broken Nose</h1><blockquote><p>목표는 @Damage[1d4[bleed]]를 받습니다.</p></blockquote><p><code>Bludgeoning</code></p><h1>Two in a Row</h1><blockquote><p><strong>Crit Effect:</strong> 추가적인 목표에게 일반적인 피해를 입힙니다. 추가적인 목표는 원래 목표와 인접해 있어야 합니다.</p></blockquote><p><code>Piercing</code></p><h1>Weapon Strike</h1><blockquote><p><strong>Crit Effect:</strong> 목표의 무기 하나에 일반적인 피해를 입힙니다 (경도는 정상적으로 적용됩니다).</p></blockquote><p><code>Slashing</code></p><h1>Nerve Damage</h1><blockquote><p>일반적인 피해입니다. 목표는 치유될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}입니다.</p></blockquote><p><code>Bomb or Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #12": {
+      "name": "크리티컬 히트 덱 #12",
+      "pages": {
+        "Critical Hit Deck #12": {
+          "name": "크리티컬 히트 덱 #12",
+          "text": "<section class=\"critical-deck\"><h1>크러쉬드 토우</h1><blockquote><p>일반 데미지. 대상은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}이고 @UUID[Compendium.pf2e.other-effects.Item.zDV1wo2ytNTbyTB0]{-10-foot status penalty to your land Speed}를 받습니다. 두 효과 모두 치유될 때까지 지속됩니다.</p></blockquote><p><code>블러징</code></p><h1>스팅거</h1><blockquote><p>일반 데미지. 대상은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 3}입니다.</p></blockquote><p><code>피어싱</code></p><h1>미싱 디짓츠</h1><blockquote><p>일반 데미지. <strong>크릿 효과:</strong> 대상은 한 손의 [[/r 1d4#Lost Fingers]] 손가락을 잃고 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}가 됩니다. @UUID[Compendium.pf2e.spells-srd.Item.2Vkd1IxylPceUAAF]{Regenerate} 주문이나 유사한 효과를 받을 때까지 지속됩니다.</p></blockquote><p><code>슬래싱</code></p><h1>스트레인지 구</h1><blockquote><p>일반 데미지이며 대상은 @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained}이고, 당신의 클래스 DC를 탈출 DC로 사용합니다.</p></blockquote><p><code>봄브 오어 스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #13": {
+      "name": "크리티컬 히트 덱 #13",
+      "pages": {
+        "Critical Hit Deck #13": {
+          "name": "크리티컬 히트 덱 #13",
+          "text": "<section class=\"critical-deck\"><h1>크럼플링 블로우</h1><blockquote><p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}됩니다.</p></blockquote><p><code>블러징</code></p><h1>피어스트</h1><blockquote><p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}됩니다.</p></blockquote><p><code>피어싱</code></p><h1>쓰로트 슬래쉬</h1><blockquote><p>일반 피해. <strong>치명타 효과:</strong> 대상은 @Damage[1d8[bleed]]을 받습니다. 대상은 이 출혈 피해를 받는 동안 말을 하거나, 언어 성분이 있는 주문을 시전하거나, 숨을 쉴 수 없습니다.</p></blockquote><p><code>슬래싱</code></p><h1>라이프 리치</h1><blockquote><p>이것이 주문이라면, 대상은 @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Doomed 1}되고 당신은 [[/r 1d8]] 히트 포인트를 회복합니다.</p></blockquote><p><code>봄 또는 스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #14": {
+      "name": "크리티컬 히트 덱 #14",
+      "pages": {
+        "Critical Hit Deck #14": {
+          "name": "크리티컬 히트 덱 #14",
+          "text": "<section class=\"critical-deck\">\n<h1>Shattered Hand</h1>\n<blockquote>\n<p>일반 피해입니다. 치유될 때까지, 대상은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}이며 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2}이고, 한쪽 손을 사용할 수 없습니다 (GM이 무작위로 선택합니다).</p>\n</blockquote>\n<p><code>Bludgeoning</code></p>\n<h1>Right in the Ear</h1>\n<blockquote>\n<p>일반 피해입니다. 대상은 치유될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened}입니다.</p>\n</blockquote>\n<p><code>Piercing</code></p>\n<h1>Stand Aside</h1>\n<blockquote>\n<p>대상을 5피트 밀쳐냅니다.</p>\n</blockquote>\n<p><code>Slashing</code></p>\n<h1>Vampiric Feedback</h1>\n<blockquote>\n<p>일반 피해입니다. 당신은 자신이 입힌 피해의 절반만큼 히트 포인트를 회복합니다.</p>\n</blockquote>\n<p><code>Bomb or Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #15": {
+      "name": "크리티컬 히트 덱 #15",
+      "pages": {
+        "Critical Hit Deck #15": {
+          "name": "크리티컬 히트 덱 #15",
+          "text": "<section class=\"critical-deck\">\n<h1>넘빙 블로우</h1>\n<blockquote>\n<p>일반 데미지. <strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} 상태가 되어 1분 동안 @Check[reflex]에 성공하지 못하면 가지고 있는 아이템 하나를 무작위로 떨어뜨려야 합니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>석킹 체스트 운드</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued} 상태가 됩니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>오버핸드 찹</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 1d8 지속 피해 출혈.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>낙백</h1>\n<blockquote>\n<p>대상을 최대 10피트 밀쳐냅니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #16": {
+      "name": "크리티컬 히트 덱 #16",
+      "pages": {
+        "Critical Hit Deck #16": {
+          "name": "크리티컬 히트 덱 #16",
+          "text": "<section class=\"critical-deck\">\n<h1>투 포 원</h1>\n<blockquote>\n<p><strong>크릿 효과:</strong> 원래 목표물과 인접한 하나의 목표물에게 일반적인 피해를 입힙니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>핀드 암</h1>\n<blockquote>\n<p>활 크리티컬 특수 효과로서, 목표물은 풀릴 때까지 한쪽 팔을 사용할 수 없습니다. 근접 무기를 사용하는 경우, 이 효과를 얻으려면 무기를 떨어뜨려야 합니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>컷 스트랩스</h1>\n<blockquote>\n<p><strong>크릿 효과:</strong> 방어구가 수리될 때까지 (DC 15) 목표물의 방어구 확인 패널티가 두 배가 됩니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>일렉트로큐티드</h1>\n<blockquote>\n<p>만약 이것이 전기 주문이나 폭탄이라면, 목표물은 두 배의 피해를 입고, 다음 턴 시작 시에 일반적인 피해를 입습니다. 다른 어떤 폭탄이나 주문도 두 배의 피해를 입힙니다.</p>\n</blockquote>\n<p><code>봄 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #17": {
+      "name": "크리티컬 히트 덱 #17",
+      "pages": {
+        "Critical Hit Deck #17": {
+          "name": "크리티컬 히트 덱 #17",
+          "text": "<section class=\"critical-deck\">\n<h1>앤드 스테이 다운</h1>\n<blockquote>\n<p>일반 피해. <strong>치명 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}되고 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2}됩니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>벤틸레이티드</h1>\n<blockquote>\n<p>삼중 피해입니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>넉백</h1>\n<blockquote>\n<p>대상을 최대 10피트 밀쳐냅니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>프로즌</h1>\n<blockquote>\n<p>만약 이것이 콜드 봄 또는 주문이라면, 대상은 삼중 피해를 입고 1라운드 동안 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 2}됩니다. 다른 봄 또는 주문은 이중 피해를 입힙니다.</p>\n</blockquote>\n<p><code>봄 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #18": {
+      "name": "크리티컬 히트 덱 #18",
+      "pages": {
+        "Critical Hit Deck #18": {
+          "name": "크리티컬 히트 덱 #18",
+          "text": "<section class=\"critical-deck\">\n<h1>랫틀드</h1>\n<blockquote>\n<p>일반 피해. <strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} 상태가 1 라운드 동안 지속됩니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>가디드 스트라이크</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 당신의 다음 턴이 끝날 때까지 AC에 +2 상황 보너스를 얻습니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>세버드 텐던</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 치유될 때까지 대상은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} 상태이며 @UUID[Compendium.pf2e.other-effects.Item.HTwG0F0LDu5ihBUm]{-5-foot status penalty to land Speed}를 받습니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>파워 서지</h1>\n<blockquote>\n<p>피해량 3배.</p>\n</blockquote>\n<p><code>봄 또는 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #19": {
+      "name": "크리티컬 히트 덱 #19",
+      "pages": {
+        "Critical Hit Deck #19": {
+          "name": "크리티컬 히트 덱 #19",
+          "text": "<section class=\"critical-deck\"><h1>나이티 나이트</h1><blockquote><p>일반 데미지. <strong>크릿 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} 그리고 다음 턴이 끝날 때까지 깨어날 수 없습니다.</p></blockquote><p><code>블러징</code></p><h1>페인풀 포크</h1><blockquote><p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}입니다.</p></blockquote><p><code>피어싱</code></p><h1>댓츠 릴 리브 어 마크!</h1><blockquote><p>일반 데미지. <strong>크릿 효과:</strong> 대상은 @Damage[2d6[bleed]]을 받습니다.</p></blockquote><p><code>슬래싱</code></p><h1>데베스테이팅 스트라이크</h1><blockquote><p>삼중 데미지. 대상은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}입니다.</p></blockquote><p><code>봄 오어 스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #2": {
+      "name": "크리티컬 히트 덱 #2",
+      "pages": {
+        "Critical Hit Deck #2": {
+          "name": "크리티컬 히트 덱 #2",
+          "text": "<section class=\"critical-deck\">\n<h1>어디에 있습니까?</h1>\n<blockquote>\n<p>일반 피해. <strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2}입니다.</p>\n</blockquote>\n<p><code>Bludgeoning</code></p>\n<h1>깜짝 개시</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 당신은 자신의 턴이 끝나기 전에 사용할 수 있는 1개의 액션을 얻습니다. 이 액션을 사용하여 대상에게 공격 액션을 할 수 있습니다.</p>\n</blockquote>\n<p><code>Piercing</code></p>\n<h1>잃어버린 귀</h1>\n<blockquote>\n<p>일반 피해. 대상은 치유될 때까지 지각 굴림과 카리스마 기반 굴림에 -2 상황 패널티를 받습니다 (위협 제외).</p>\n</blockquote>\n<p><code>Slashing</code></p>\n<h1>마음 구름</h1>\n<blockquote>\n<p>대상은 치유될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2}입니다.</p>\n</blockquote>\n<p><code>Bomb or Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #20": {
+      "name": "크리티컬 히트 덱 #20",
+      "pages": {
+        "Critical Hit Deck #20": {
+          "name": "크리티컬 히트 덱 #20",
+          "text": "<section class=\"critical-deck\">\n<h1>브레인드</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}입니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>키드니 피어싱</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}입니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>핑거팁드</h1>\n<blockquote>\n<p>일반 데미지. 치유될 때까지 대상은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}이며, 한 손을 사용할 수 없습니다 (GM이 무작위로 선택).</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>아이번</h1>\n<blockquote>\n<p>대상은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}입니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #21": {
+      "name": "크리티컬 히트 덱 #21",
+      "pages": {
+        "Critical Hit Deck #21": {
+          "name": "크리티컬 히트 덱 #21",
+          "text": "<section class=\"critical-deck\">\n<h1>붕괴된 폐</h1>\n<blockquote>\n<p>일반 피해. <strong>치명타 효과:</strong> 치유될 때까지, 대상은 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2}이고 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p>\n</blockquote>\n<p><code>둔기</code></p>\n<h1>절대 집중 금지</h1>\n<blockquote>\n<p>일반 피해. <strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2}입니다.</p>\n</blockquote>\n<p><code>관통</code></p>\n<h1>복부 공동 파열</h1>\n<blockquote>\n<p>삼중 피해. 대상은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p>\n</blockquote>\n<p><code>베기</code></p>\n<h1>전치</h1>\n<blockquote>\n<p>만약 이것이 주문 공격이라면, 당신과 대상의 위치가 바뀝니다. 이것은 순간이동 효과입니다.</p>\n</blockquote>\n<p><code>폭탄 또는 주문</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #22": {
+      "name": "크리티컬 히트 덱 #22",
+      "pages": {
+        "Critical Hit Deck #22": {
+          "name": "크리티컬 히트 덱 #22",
+          "text": "<section class=\"critical-deck\">\n<h1>본 매셔</h1>\n<blockquote>\n<p>일반 데미지. <strong>치명타 효과:</strong> 대상이 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}이고 @UUID[Compendium.pf2e.other-effects.Item.zDV1wo2ytNTbyTB0]{-10-foot status penalty to your land Speed}을 받거나, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}이고 팔 하나를 사용할 수 없습니다 (당신이 선택). 어느 효과든 치유될 때까지 지속됩니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>펑처드 렁</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 마법 치유를 받을 때까지 대상은 질식 상태가 됩니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>페인 앤 심플</h1>\n<blockquote>\n<p>3배 데미지.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>히프노틱 링크</h1>\n<blockquote>\n<p>만약 이것이 주문이라면, 대상은 일반 데미지를 받고 다음 턴이 끝날 때까지 당신에게 @UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{Controlled}됩니다.</p>\n</blockquote>\n<p><code>봄 또는 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #23": {
+      "name": "크리티컬 히트 덱 #23",
+      "pages": {
+        "Critical Hit Deck #23": {
+          "name": "크리티컬 히트 덱 #23",
+          "text": "<section class=\"critical-deck\"><h1>압도적인 분쇄 (Apdojeokin Bunsoe)</h1><blockquote><p>삼중 피해 (Samjung Pihae).</p></blockquote><p><code>Bludgeoning</code></p><h1>동맥 손상 (Dongmaek Son sang)</h1><blockquote><p>일반 피해 (Ilban Pihae). <strong>치명 효과 (Chimyeong Hyogwa):</strong> 대상은 @Damage[2d6[bleed]]을/를 받습니다.</p></blockquote><p><code>Piercing</code></p><h1>당신의 이니셜을 기입하세요 (Dangsinui Inisheol-eul Giiphaseyo)</h1><blockquote><p>일반 피해 (Ilban Pihae). 대상은 너무 수치스러워 당신만 공격할 수 있습니다. 대상의 턴이 끝날 때마다, @Check[will]을/를 시도하여 이 효과를 종료할 수 있습니다.</p></blockquote><p><code>Slashing</code></p><h1>주의 분산 (Juui Bun-san)</h1><blockquote><p>대상은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}입니다.</p></blockquote><p><code>Bomb or Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #24": {
+      "name": "크리티컬 히트 덱 #24",
+      "pages": {
+        "Critical Hit Deck #24": {
+          "name": "크리티컬 히트 덱 #24",
+          "text": "<section class=\"critical-deck\"><h1>Ruptured Spleen</h1><blockquote><p>일반 피해. <strong>치명타 효과:</strong> 대상은 @Localize[PF2E.PersistentDamage.Bleed1.success]을 받습니다. 이는 대상이 마법 치유를 받을 때까지 제거할 수 없습니다.</p></blockquote><p><code>Bludgeoning</code></p><h1>Muscle Severed</h1><blockquote><p>일반 피해. <strong>치명타 효과:</strong> 치유될 때까지, 대상은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 3}이며 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 3}입니다.</p></blockquote><p><code>Piercing</code></p><h1>Lean into the Blow</h1><blockquote><p>삼중 피해. 당신은 무기를 떨어뜨립니다.</p></blockquote><p><code>Slashing</code></p><h1>Funny Bone</h1><blockquote><p>대상은 다음 턴이 끝날 때까지 걷잡을 수 없이 웃습니다. 웃는 동안, 대상은 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}이며 반응을 사용할 수 없습니다.</p></blockquote><p><code>Bomb or Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #25": {
+      "name": "크리티컬 히트 덱 #25",
+      "pages": {
+        "Critical Hit Deck #25": {
+          "name": "크리티컬 히트 덱 #25",
+          "text": "<section class=\"critical-deck\">\n<h1>오프 밸런스</h1>\n<blockquote>\n<p>일반 데미지입니다. 대상은 마치 이동 액션을 사용한 것처럼 반응을 발동합니다. 또한 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 다음 턴이 끝날 때까지입니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>칩드 본</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} 치유될 때까지입니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>핵 앤 슬래시</h1>\n<blockquote>\n<p>삼중 데미지입니다. 대상은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 다음 턴이 끝날 때까지입니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>슈링크 애프터이펙트</h1>\n<blockquote>\n<p>일반 데미지입니다. 대상은 @UUID[Compendium.pf2e.spells-srd.Item.PjhUmyKnq6K5uDby]{Shrink} 주문의 영향을 받은 것처럼 크기가 줄어듭니다. 다음 턴이 끝날 때까지입니다. @UUID[Compendium.pf2e.spell-effects.Item.LXf1Cqi1zyo4DaLv]{Spell Effect: Shrink}</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #26": {
+      "name": "크리티컬 히트 덱 #26",
+      "pages": {
+        "Critical Hit Deck #26": {
+          "name": "크리티컬 히트 덱 #26",
+          "text": "<section class=\"critical-deck\"><h1>크러쉬드 인테스틴즈</h1><blockquote><p>일반 데미지. <strong>크릿 이펙트:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded 2}이고 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} 더 이상 상처입지 않을 때까지 지속됩니다.</p></blockquote><p><code>블러징</code></p><h1>로지드 인 더 본</h1><blockquote><p><strong>크릿 이펙트:</strong> 대상은 @Damage[1d6[bleed]]을 받습니다.</p></blockquote><p><code>피어싱</code></p><h1>세버드 스파인</h1><blockquote><p><strong>크릿 이펙트:</strong> 대상은 @Check[fortitude]에 성공해야 하며, 그렇지 않으면 치유될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed}입니다.</p></blockquote><p><code>슬래싱</code></p><h1>싸이킥 오버플로우</h1><blockquote><p>대상은 @Damage[1d8[mental]] 데미지를 받습니다.</p></blockquote><p><code>봄브 오어 스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #27": {
+      "name": "크리티컬 히트 덱 #27",
+      "pages": {
+        "Critical Hit Deck #27": {
+          "name": "크리티컬 히트 덱 #27",
+          "text": "<section class=\"critical-deck\"><h1>크러쉬드 트래키아</h1><blockquote><p><strong>크리티컬 효과:</strong> 대상은 마법 치유를 받을 때까지 질식하고 있습니다. 질식하는 동안에는 말할 수 없습니다.</p></blockquote><p><code>블러저닝</code></p><h1>피어스트 엘보우</h1><blockquote><p>대상은 현재 들고 있는 아이템 하나를 떨어뜨립니다 (GM에 의해 무작위로 결정됨).</p></blockquote><p><code>피어싱</code></p><h1>롱 개쉬</h1><blockquote><p>일반 피해. <strong>크리티컬 효과:</strong> 대상은 @Damage[1d4[bleed]]을 받습니다. 이 출혈 피해를 제거하기 위한 평정 굴림의 DC는 정상보다 5 높습니다.</p></blockquote><p><code>슬래싱</code></p><h1>벌너러빌리티</h1><blockquote><p>대상은 1분 동안 폭탄이나 주문이 가하는 모든 피해 유형에 대해 5의 약점을 얻습니다.</p></blockquote><p><code>봄 오어 스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #28": {
+      "name": "크리티컬 히트 덱 #28",
+      "pages": {
+        "Critical Hit Deck #28": {
+          "name": "크리티컬 히트 덱 #28",
+          "text": "<section class=\"critical-deck\"><h1>스컬 크러시</h1><blockquote><p><strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 3} 치유될 때까지 입니다.</p></blockquote><p><code>블러저닝</code></p><h1>핸드 운드</h1><blockquote><p><strong>치명타 효과:</strong> 치유될 때까지 대상은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}이며, 한 손을 사용할 수 없습니다 (GM이 무작위로 결정). </p></blockquote><p><code>피어싱</code></p><h1>브로드 스와이프</h1><blockquote><p>대상은 @Damage[1d4[bleed]]를 받습니다.</p></blockquote><p><code>슬래싱</code></p><h1>링거링 데미지</h1><blockquote><p>대상은 폭탄이나 주문의 피해와 같은 종류의 @Damage[1d6[persistent]] 피해를 받습니다.</p></blockquote><p><code>봄 오어 스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #29": {
+      "name": "크리티컬 히트 덱 #29",
+      "pages": {
+        "Critical Hit Deck #29": {
+          "name": "크리티컬 히트 덱 #29",
+          "text": "<section class=\"critical-deck\">\n<h1>케이브드 스컬</h1>\n<blockquote>\n<p>삼중 피해. <strong>치명 효과:</strong> 목표는 @Check[fortitude]에 성공해야 하며, 실패 시 사망합니다.</p>\n</blockquote>\n<p><code>블러저닝</code></p>\n<h1>오버리액션</h1>\n<blockquote>\n<p>일반 피해. 목표는 마치 이동 액션을 사용한 것처럼 반응을 발동합니다. 또한 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}입니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>페이퍼 컷</h1>\n<blockquote>\n<p>목표는 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.5gX3PZztMecmWxX9]{-2 circumstance penalty to attack rolls}입니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>언내추럴 셀렉션</h1>\n<blockquote>\n<p>이상 존재, 천상 존재, 악마, 감시자에게 삼중 피해. 다른 모든 생물에게는 이중 피해입니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #3": {
+      "name": "크리티컬 히트 덱 #3",
+      "pages": {
+        "Critical Hit Deck #3": {
+          "name": "크리티컬 히트 덱 #3",
+          "text": "<section class=\"critical-deck\">\n<h1>서프라이즈 오프닝</h1>\n<blockquote>\n<p><strong>크릿 효과:</strong> 당신은 자신의 턴이 끝나기 전에 사용할 수 있는 1개의 액션을 얻습니다. 이 액션을 사용하여 대상에게 공격 액션을 사용할 수 있습니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>텅 피어싱</h1>\n<blockquote>\n<p>대상은 @Check[flat|dc:5]에 성공해야만 언어 성분이 있는 주문을 시전할 수 있습니다. 치료될 때까지 이 효과는 지속됩니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>브로우 투 친</h1>\n<blockquote>\n<p><strong>크릿 효과:</strong> 치료될 때까지 대상은 지각과 원거리 공격 굴림에 -2의 상태 패널티를 받습니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>올팩토리 오버로드</h1>\n<blockquote>\n<p>대상은 후각과 모든 후각 능력 또는 다른 후각 감각을 잃습니다. 치료될 때까지 이 효과는 지속됩니다.</p>\n</blockquote>\n<p><code>봄 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #30": {
+      "name": "크리티컬 히트 덱 #30",
+      "pages": {
+        "Critical Hit Deck #30": {
+          "name": "크리티컬 히트 덱 #30",
+          "text": "<section class=\"critical-deck\">\n<h1>당신의 생각하는 부분에</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2} 치유될 때까지 입니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>꿰뚫는 일격</h1>\n<blockquote>\n<p>피해량 3배.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>활짝 열린</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 다음 턴이 끝날 때까지 입니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>축재자의 분노</h1>\n<blockquote>\n<p>드래곤에게는 피해량 3배, 다른 모든 생물에게는 피해량 2배.</p>\n</blockquote>\n<p><code>폭탄 또는 주문</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #31": {
+      "name": "크리티컬 히트 덱 #31",
+      "pages": {
+        "Critical Hit Deck #31": {
+          "name": "크리티컬 히트 덱 #31",
+          "text": "<section class=\"critical-deck\">\n<h1>데이징 써드</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}입니다.</p>\n</blockquote>\n<p><code>블러저닝</code></p>\n<h1>칙 피어스트</h1>\n<blockquote>\n<p>대상은 @Check[flat|dc:5]에 성공해야 구체적인 성분이 있는 주문을 시전할 수 있습니다. 치료될 때까지 적용됩니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>어크로스 더 아이즈</h1>\n<blockquote>\n<p>일반 데미지. <strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}입니다. 치료될 때까지 적용됩니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>슬로우드 다운</h1>\n<blockquote>\n<p>대상은 1라운드 동안 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 2}입니다.</p>\n</blockquote>\n<p><code>봄 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #32": {
+      "name": "크리티컬 히트 덱 #32",
+      "pages": {
+        "Critical Hit Deck #32": {
+          "name": "크리티컬 히트 덱 #32",
+          "text": "<section class=\"critical-deck\">\n<h1>클락드!</h1>\n<blockquote>\n<p>삼중 피해. 대상은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}됩니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>헤드 샷</h1>\n<blockquote>\n<p>삼중 피해. <strong>치명타 효과:</strong> 대상은 @Check[fortitude]에 성공해야 하며, 그렇지 않으면 사망합니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>프롬 찹스 투 그로인</h1>\n<blockquote>\n<p>삼중 피해. <strong>치명타 효과:</strong> 대상은 @Check[fortitude]에 성공해야 하며, 그렇지 않으면 사망합니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>둠드!</h1>\n<blockquote>\n<p>대상은 1라운드 동안 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}되며, 또한 @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Doomed 1}됩니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #33": {
+      "name": "크리티컬 히트 덱 #33",
+      "pages": {
+        "Critical Hit Deck #33": {
+          "name": "크리티컬 히트 덱 #33",
+          "text": "<section class=\"critical-deck\"><h1>부러진 갈비뼈</h1><blockquote><p>일반 피해. <strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} 될 때까지 치유됩니다.</p></blockquote><p><code>둔기</code></p><h1>척추 천공</h1><blockquote><p>일반 피해. <strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 3} 입니다.</p></blockquote><p><code>관통</code></p><h1>신경 절단</h1><blockquote><p><strong>치명타 효과:</strong> 대상은 1 라운드 동안 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 2} 입니다.</p></blockquote><p><code>베기</code></p><h1>강력한 폭발</h1><blockquote><p>폭탄이나 주문은 추가적인 @Damage[1d8[force]] 피해를 입힙니다.</p></blockquote><p><code>폭탄 또는 주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #34": {
+      "name": "크리티컬 히트 덱 #34",
+      "pages": {
+        "Critical Hit Deck #34": {
+          "name": "크리티컬 히트 덱 #34",
+          "text": "<section class=\"critical-deck\"><h1>Staggering Blow</h1><blockquote><p><strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2}입니다.</p></blockquote><p><code>Bludgeoning</code></p><h1>Heart Shot</h1><blockquote><p>피해량 3배. <strong>치명타 효과:</strong> 대상은 @Damage[1d4[bleed]]입니다.</p></blockquote><p><code>Piercing</code></p><h1>Leg Swipe</h1><blockquote><p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}됩니다.</p></blockquote><p><code>Slashing</code></p><h1>Terrifying Display</h1><blockquote><p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3}됩니다.</p></blockquote><p><code>Bomb or Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #35": {
+      "name": "크리티컬 히트 덱 #35",
+      "pages": {
+        "Critical Hit Deck #35": {
+          "name": "크리티컬 히트 덱 #35",
+          "text": "<section class=\"critical-deck\">\n<h1>썬더 스트라이크</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} 될 때까지 치유됩니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>네일드 인 플레이스</h1>\n<blockquote>\n<p>활 치명타 특수 효과와 같습니다. 근접 무기라면 이 효과를 얻으려면 무기를 떨어뜨려야 합니다. 이 공격에 이미 해당 효과가 있다면, 벗어나기 위한 능숙함 검사의 DC는 10이 아닌 20입니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>디캡테이션</h1>\n<blockquote>\n<p>피해량 3배. <strong>치명타 효과:</strong> 대상은 @Check[fortitude]에 성공해야 하며, 그렇지 않으면 사망합니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>리터닝 스펠</h1>\n<blockquote>\n<p>주문 공격인 경우, 주문이나 주문 슬롯이 소모되지 않습니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #36": {
+      "name": "크리티컬 히트 덱 #36",
+      "pages": {
+        "Critical Hit Deck #36": {
+          "name": "크리티컬 히트 덱 #36",
+          "text": "<section class=\"critical-deck\">\n<h1>Box the Ears</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} 치유될 때까지 입니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>Javelin Catcher</h1>\n<blockquote>\n<p>공격이 원거리 또는 투척 공격이었다면 삼중 피해입니다. 다른 모든 공격에는 이중 피해입니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>Lip Cut</h1>\n<blockquote>\n<p>대상은 치유될 때까지 언어적 요소가 있는 주문을 시전하려면 @Check[flat|dc:5]에 성공해야 합니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>Call of the Wild</h1>\n<blockquote>\n<p>동물, 짐승, 그리고 페이에게는 삼중 피해입니다. 다른 모든 생물에게는 이중 피해입니다.</p>\n</blockquote>\n<p><code>봄 또는 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #37": {
+      "name": "크리티컬 히트 덱 #37",
+      "pages": {
+        "Critical Hit Deck #37": {
+          "name": "크리티컬 히트 덱 #37",
+          "text": "<section class=\"critical-deck\"><h1>컨커션</h1><blockquote><p>일반 피해. 대상은 @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} 동안 1분간 그리고 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2} 치유될 때까지 지속됩니다.</p></blockquote><p><code>블러징</code></p><h1>인펙션</h1><blockquote><p>대상은 @Check[fortitude]에 성공해야 하며, 실패 시 더러움 열병(Pathfinder Bestiary 258)에 걸립니다.</p></blockquote><p><code>피어싱</code></p><h1>플레이</h1><blockquote><p>일반 피해. 대상은 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 3} 치유될 때까지 지속됩니다.</p></blockquote><p><code>슬래싱</code></p><h1>코로시브</h1><blockquote><p>산성 폭탄이나 주문인 경우, 대상은 3배의 피해를 입고 @Damage[1d6[persistent,acid]]. 다른 폭탄이나 주문은 2배의 피해를 입힙니다.</p></blockquote><p><code>폭탄 또는 주문</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #38": {
+      "name": "크리티컬 히트 덱 #38",
+      "pages": {
+        "Critical Hit Deck #38": {
+          "name": "크리티컬 히트 덱 #38",
+          "text": "<section class=\"critical-deck\">\n<h1>아머 덴트</h1>\n<blockquote>\n<p>일반 데미지. <strong>치명타 효과:</strong> 대상의 방어구에 동일한 양의 데미지를 입히고, 방어구의 경도를 무시합니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>아이 패치 포 유</h1>\n<blockquote>\n<p>3배 데미지. <strong>치명타 효과:</strong> 대상은 치유될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} 상태가 됩니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>플랫-블레이드 스왱크</h1>\n<blockquote>\n<p>3배 데미지. 당신은 베기 데미지 대신 타격 데미지를 입힐 수 있습니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>매지컬 글로우</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.spells-srd.Item.HRb2doyaLtaoCfi3]{Faerie Fire} 주문의 효과를 지닌 채로 1분 동안 빛납니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #39": {
+      "name": "크리티컬 히트 덱 #39",
+      "pages": {
+        "Critical Hit Deck #39": {
+          "name": "크리티컬 히트 덱 #39",
+          "text": "<section class=\"critical-deck\">\n<h1>소울-크러싱 블로우</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 목표는 @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Doomed 1}이며, 저주받는 동안 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}입니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>넉백</h1>\n<blockquote>\n<p>목표는 10피트 밀려납니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>아머 데미지</h1>\n<blockquote>\n<p>목표의 방어구도 피해를 입습니다 (방어구의 경도는 정상적으로 적용됩니다).</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>드레이닝 스트라이크</h1>\n<blockquote>\n<p>목표는 GM이 결정하는 대로 준비된 주문이나 주문 슬롯 하나를 잃습니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #4": {
+      "name": "크리티컬 히트 덱 #4",
+      "pages": {
+        "Critical Hit Deck #4": {
+          "name": "크리티컬 히트 덱 #4",
+          "text": "<section class=\"critical-deck\">\n<h1>크랙드 립</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>모멘텀</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.HLBhINtyRcHk6d7h]{+2 circumstance bonus to attack rolls}을 얻습니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>고리</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}입니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>스턴드</h1>\n<blockquote>\n<p>일반 데미지. 대상은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2}입니다.</p>\n</blockquote>\n<p><code>봄 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #40": {
+      "name": "크리티컬 히트 덱 #40",
+      "pages": {
+        "Critical Hit Deck #40": {
+          "name": "크리티컬 히트 덱 #40",
+          "text": "<section class=\"critical-deck\"><h1>Breathless</h1><blockquote><p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p></blockquote><p><code>Bludgeoning</code></p><h1>Spun Around</h1><blockquote><p>대상은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}입니다.</p></blockquote><p><code>Piercing</code></p><h1>Sliced Hand</h1><blockquote><p>일반적인 피해입니다. 치유될 때까지 대상은 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1}이며, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}이고, 한 손을 사용할 수 없습니다 (GM이 무작위로 결정). </p></blockquote><p><code>Slashing</code></p><h1>Combustion</h1><blockquote><p>화염폭탄이나 주문인 경우, 대상은 피해의 세 배를 받고 @Damage[1d6[persistent,fire]]입니다. 다른 폭탄이나 주문은 피해의 두 배를 줍니다.</p></blockquote><p><code>Bomb or Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #41": {
+      "name": "크리티컬 히트 덱 #41",
+      "pages": {
+        "Critical Hit Deck #41": {
+          "name": "크리티컬 히트 덱 #41",
+          "text": "<section class=\"critical-deck\">\n<h1>부러진 다리</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 대상은 치유될 때까지 @UUID[Compendium.pf2e.other-effects.Item.0r8MznJe5UugViee]{-15-foot circumstance penalty to your land Speed}을 받습니다.</p>\n</blockquote>\n<p><code>Bludgeoning</code></p>\n<h1>스치는 일격</h1>\n<blockquote>\n<p>일반 데미지. <strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 3}입니다.</p>\n</blockquote>\n<p><code>Piercing</code></p>\n<h1>관통</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 원래 대상과 인접한 적에게 원래 공격과 같은 공격 수정치를 사용하여 추가 공격을 합니다.</p>\n</blockquote>\n<p><code>Slashing</code></p>\n<h1>최대 효과</h1>\n<blockquote>\n<p>데미지를 굴리지 않습니다. 당신은 이 공격으로 가능한 최대 치명타 피해를 입힙니다.</p>\n</blockquote>\n<p><code>Bomb or Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #42": {
+      "name": "크리티컬 히트 덱 #42",
+      "pages": {
+        "Critical Hit Deck #42": {
+          "name": "크리티컬 히트 덱 #42",
+          "text": "<section class=\"critical-deck\">\n<h1>쉴드 스맥</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 대상은 @Check[reflex]에 성공해야 하며, 실패 시 대상이 들고 있는 방패를 떨어뜨립니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>페네트레이팅 운드</h1>\n<blockquote>\n<p>이 공격은 모든 저항을 무시합니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>머슬 운드</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2}이 될 때까지 치유되지 않습니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>인텐스 스트라이크</h1>\n<blockquote>\n<p>이 공격은 모든 저항을 무시합니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #43": {
+      "name": "크리티컬 히트 덱 #43",
+      "pages": {
+        "Critical Hit Deck #43": {
+          "name": "크리티컬 히트 덱 #43",
+          "text": "<section class=\"critical-deck\"><h1>My Teef!</h1><blockquote><p>대상은 @Check[flat|dc:5]에 성공해야 구체적인 요소를 사용하는 주문을 시전할 수 있습니다. 치유될 때까지.</p></blockquote><p><code>Bludgeoning</code></p><h1>Gusher</h1><blockquote><p>대상은 @Damage[1d6[bleed]]을 받습니다.</p></blockquote><p><code>Piercing</code></p><h1>Terrible Cut</h1><blockquote><p>피해량이 세 배가 됩니다.</p></blockquote><p><code>Slashing</code></p><h1>Excruciating</h1><blockquote><p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 3}입니다.</p></blockquote><p><code>Bomb or Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #44": {
+      "name": "크리티컬 히트 덱 #44",
+      "pages": {
+        "Critical Hit Deck #44": {
+          "name": "크리티컬 히트 덱 #44",
+          "text": "<section class=\"critical-deck\"><h1>넉백</h1><blockquote><p><strong>치명타 효과:</strong> 대상은 [[/r 1d4*5#feet]] 피트 뒤로 밀려납니다.</p></blockquote><p><code>블러징</code></p><h1>딥 허팅</h1><blockquote><p><strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p></blockquote><p><code>피어싱</code></p><h1>갓 슬래시</h1><blockquote><p>대상은 @Damage[1d4[bleed]]을 입고, 대상이 삼켜 버린 모든 생물은 즉시 풀려납니다.</p></blockquote><p><code>슬래싱</code></p><h1>인텐스 스플래시</h1><blockquote><p>대상은 일반적인 피해를 입고, 대상과 인접한 모든 생물은 동일한 종류의 피해의 절반을 입습니다.</p></blockquote><p><code>봄브 오어 스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #45": {
+      "name": "크리티컬 히트 덱 #45",
+      "pages": {
+        "Critical Hit Deck #45": {
+          "name": "크리티컬 히트 덱 #45",
+          "text": "<section class=\"critical-deck\">\n<h1>로우 블로우</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 목표는 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}이고 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} 입니다.  목표가 질병 상태인 동안 지속됩니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>하블드</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 치유될 때까지 목표는 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}이고 @UUID[Compendium.pf2e.other-effects.Item.ScZGg91ri19H4IIc]{-10-foot circumstance penalty to all Speeds}를 받습니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>배드 패리</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 목표는 @Check[reflex]에 성공해야 하며, 그렇지 못하면 목표가 들고 있는 무기 하나를 떨어뜨립니다 (GM이 무작위로 결정). </p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>플래너 리프트</h1>\n<blockquote>\n<p>만약 이것이 주문이라면, 목표는 일반적인 피해를 받고 @Check[will]에 성공해야 합니다. 그렇지 못하면 무작위 차원으로 보내집니다 (GM이 결정).</p>\n</blockquote>\n<p><code>봄 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #46": {
+      "name": "크리티컬 히트 덱 #46",
+      "pages": {
+        "Critical Hit Deck #46": {
+          "name": "크리티컬 히트 덱 #46",
+          "text": "<section class=\"critical-deck\">\n<h1>부스트 신</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 치유될 때까지, 대상은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}이고 @UUID[Compendium.pf2e.other-effects.Item.zDV1wo2ytNTbyTB0]{-10-foot status penalty to your land Speed}를 받습니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>퍼펙트 스트라이크</h1>\n<blockquote>\n<p>피해량 삼중화.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>새핑 슬래시</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>라이트 블래스트</h1>\n<blockquote>\n<p>대상은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}입니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #47": {
+      "name": "크리티컬 히트 덱 #47",
+      "pages": {
+        "Critical Hit Deck #47": {
+          "name": "크리티컬 히트 덱 #47",
+          "text": "<section class=\"critical-deck\"><h1>백 브레이커(Back Breaker)</h1><blockquote><p><strong>치명타 효과:</strong> 치유될 때까지, 대상은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}이며 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2}입니다.</p></blockquote><p><code>블러징(Bludgeoning)</code></p><h1>딥 운드(Deep Wound)</h1><blockquote><p><strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 3}입니다.</p></blockquote><p><code>피어싱(Piercing)</code></p><h1>브로우 컷(Brow Cut)</h1><blockquote><p>일반 피해. <strong>치명타 효과:</strong> 대상은 @Damage[1d4[bleed]]을 받습니다. 출혈이 끝날 때까지, 모든 생명체는 대상에게 @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}입니다.</p></blockquote><p><code>슬래싱(Slashing)</code></p><h1>미스티컬 스워트(Mystical Thwart)</h1><blockquote><p>대상은 다음 턴이 끝날 때까지 마법 아이템을 활성화하거나, 주문을 시전하거나, 퀵 알케미를 사용할 수 없습니다.</p></blockquote><p><code>봄 or 스펠(Bomb or Spell)</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #48": {
+      "name": "크리티컬 히트 덱 #48",
+      "pages": {
+        "Critical Hit Deck #48": {
+          "name": "크리티컬 히트 덱 #48",
+          "text": "<section class=\"critical-deck\">\n<h1>Earth Rumble</h1>\n<blockquote>\n<p>일반 피해. <strong>치명타 효과:</strong> 대상과 인접한 모든 적은 @Check[reflex] 추락 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} 내성 굴림에 성공해야 합니다.</p>\n</blockquote>\n<p><code>Bludgeoning</code></p>\n<h1>Vulnerable Spot</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 치유될 때까지 입니다.</p>\n</blockquote>\n<p><code>Piercing</code></p>\n<h1>Shield Cleave</h1>\n<blockquote>\n<p>대상의 방패에 일반 피해를 입힙니다 (경도는 정상적으로 적용됩니다).</p>\n</blockquote>\n<p><code>Slashing</code></p>\n<h1>Wild Surge</h1>\n<blockquote>\n<p>일반 피해를 입히고, 무작위 에너지 타입의 일반 피해를 한 번 더 입힙니다 ([[/r 1d4#1-acid; 2-cold; 3-fire; 4-electricity]]{1d4; 1-acid; 2-cold; 3-fire; 4-electricity} 굴림).</p>\n</blockquote>\n<p><code>Bomb or Spell</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #49": {
+      "name": "크리티컬 히트 덱 #49",
+      "pages": {
+        "Critical Hit Deck #49": {
+          "name": "크리티컬 히트 덱 #49",
+          "text": "<section class=\"critical-deck\">\n<h1>솔리드 블로우</h1>\n<blockquote>\n<p>삼중 피해.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>테네이셔스 운드</h1>\n<blockquote>\n<p>일반 피해. <strong>치명타 효과:</strong> 목표는 최소 8시간 동안 휴식을 취할 때까지 이 피해를 회복할 수 없습니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>패링 스트라이크</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 당신의 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.QGTMOcJ1Dq5bk0GG]{+2 circumstance bonus to AC}을 얻습니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>페이즈드</h1>\n<blockquote>\n<p>목표는 당신의 다음 턴이 끝날 때까지 비물질적(Pathfinder Bestiary 346)이 됩니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #5": {
+      "name": "크리티컬 히트 덱 #5",
+      "pages": {
+        "Critical Hit Deck #5": {
+          "name": "크리티컬 히트 덱 #5",
+          "text": "<section class=\"critical-deck\">\n<h1>피블 파리(Feeble Parry)</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> GM이 결정하는 무기를 하나 떨어뜨립니다.</p>\n</blockquote>\n<p><code>블러징(Bludgeoning)</code></p>\n<h1>숄더 운드(Shoulder Wound)</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 치료될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}이며 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2}입니다.</p>\n</blockquote>\n<p><code>피어싱(Piercing)</code></p>\n<h1>햄스트링(Hamstring)</h1>\n<blockquote>\n<p>일반 피해. <strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} 넘어집니다. 또한 치료될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}입니다.</p>\n</blockquote>\n<p><code>슬래싱(Slashing)</code></p>\n<h1>컷 오프 프롬 매직(Cut off from Magic)</h1>\n<blockquote>\n<p>일반 피해. 대상은 [[/r 1d4#rounds]]{1d4 rounds} 동안 주문을 시전하거나 마법 아이템을 사용할 수 없습니다.</p>\n</blockquote>\n<p><code>봄 오어 스펠(Bomb or Spell)</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #50": {
+      "name": "크리티컬 히트 덱 #50",
+      "pages": {
+        "Critical Hit Deck #50": {
+          "name": "크리티컬 히트 덱 #50",
+          "text": "<section class=\"critical-deck\">\n<h1>타이어링 블로우</h1>\n<blockquote>\n<p>목표는 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p>\n</blockquote>\n<p><code>블러저닝</code></p>\n<h1>레그 운드</h1>\n<blockquote>\n<p><strong>크릿 효과:</strong> 목표는 치유될 때까지 @UUID[Compendium.pf2e.other-effects.Item.HTwG0F0LDu5ihBUm]{-5-foot status penalty to land Speed}를 받습니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>스펀 어라운드</h1>\n<blockquote>\n<p>목표는 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}입니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>타임 보텍스</h1>\n<blockquote>\n<p>만약 이것이 주문이라면, 일반적인 피해와 함께 목표는 사라졌다가 [[/r 1d4#rounds]]{1d4 rounds} 후에 다시 나타납니다. 목표는 어떤 행동도 할 수 없으며, 지속 시간이 있는 모든 효과는 사라지는 동안 지속되지 않습니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #51": {
+      "name": "크리티컬 히트 덱 #51",
+      "pages": {
+        "Critical Hit Deck #51": {
+          "name": "크리티컬 히트 덱 #51",
+          "text": "<section class=\"critical-deck\">\n<h1>풋 스매쉬</h1>\n<blockquote>\n<p>대상은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}입니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>오르건 스크램블</h1>\n<blockquote>\n<p>피해량 3배. <strong>크릿 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}입니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>윙 티어</h1>\n<blockquote>\n<p>대상은 치유될 때까지 비행 속도를 잃습니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>에너지 마이트</h1>\n<blockquote>\n<p>폭탄이나 주문이 산, 냉기, 전기, 화염 또는 음파 피해를 입히는 경우, 피해량이 3배가 됩니다. 다른 모든 폭탄이나 주문은 피해량이 2배가 됩니다.</p>\n</blockquote>\n<p><code>폭탄 또는 주문</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #52": {
+      "name": "크리티컬 히트 덱 #52",
+      "pages": {
+        "Critical Hit Deck #52": {
+          "name": "크리티컬 히트 덱 #52",
+          "text": "<section class=\"critical-deck\">\n<h1>라이트스 아웃</h1>\n<blockquote>\n<p><strong>크릿 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}  다음 턴이 끝날 때까지입니다.</p>\n</blockquote>\n<p><code>블러저닝</code></p>\n<h1>바이셉 훈드</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} 치유될 때까지입니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>비윌더링 디스플레이</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 다음 턴이 끝날 때까지입니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>로어링 블래스트</h1>\n<blockquote>\n<p>대상은 @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} 치유될 때까지입니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #53": {
+      "name": "크리티컬 히트 덱 #53",
+      "pages": {
+        "Critical Hit Deck #53": {
+          "name": "크리티컬 히트 덱 #53",
+          "text": "<section class=\"critical-deck\"><h1>라운드하우스</h1><blockquote><p><strong>치명타 효과:</strong> 원래 목표물과 인접한 적에게 원래 공격과 같은 공격 수정치를 사용하여 추가 공격 한 번을 합니다.</p></blockquote><p><code>블러징</code></p><h1>래기드 운드</h1><blockquote><p>목표물은 @Damage[1d6[bleed]]을 받습니다.</p></blockquote><p><code>피어싱</code></p><h1>딜레이드 운드</h1><blockquote><p>일반 피해. <strong>치명타 효과:</strong> 목표물은 다음 두 턴이 끝날 때 같은 양의 피해를 받습니다.</p></blockquote><p><code>슬래싱</code></p><h1>컨커시브 블래스트</h1><blockquote><p>목표물은 최대 10피트 밀려나고 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}합니다.</p></blockquote><p><code>봄브 오어 스펠</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #6": {
+      "name": "크리티컬 히트 덱 #6",
+      "pages": {
+        "Critical Hit Deck #6": {
+          "name": "크리티컬 히트 덱 #6",
+          "text": "<section class=\"critical-deck\">\n<h1>크랙드 니(Cracked Knee)</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 치유될 때까지, 대상은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}이며 @UUID[Compendium.pf2e.other-effects.Item.HTwG0F0LDu5ihBUm]{-5-foot status penalty to land Speed}를 받습니다.</p>\n</blockquote>\n<p><code>블러징(Bludgeoning)</code></p>\n<h1>캘프 재브(Calf Jab)</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 치유될 때까지, 대상은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}이며 @UUID[Compendium.pf2e.other-effects.Item.zDV1wo2ytNTbyTB0]{-10-foot status penalty to your land Speed}를 받습니다.</p>\n</blockquote>\n<p><code>피어싱(Piercing)</code></p>\n<h1>어글리 운드(Ugly Wound)</h1>\n<blockquote>\n<p>대상은 위협 제외 카리스마 기반 기술 판정에 -2 상황 패널티를 받습니다.</p>\n</blockquote>\n<p><code>슬래싱(Slashing)</code></p>\n<h1>나우 유 시 미...(Now you see me...)</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 또는 적대적인 행동을 사용할 때까지 @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible}가 됩니다.</p>\n</blockquote>\n<p><code>봄 또는 스펠(Bomb or Spell)</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #7": {
+      "name": "크리티컬 히트 덱 #7",
+      "pages": {
+        "Critical Hit Deck #7": {
+          "name": "크리티컬 히트 덱 #7",
+          "text": "<section class=\"critical-deck\">\n<h1>벨 링거</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}이며, 더 이상 질병에 걸리지 않을 때까지 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2}입니다.</p>\n</blockquote>\n<p><code>블러징</code></p>\n<h1>스큐어드</h1>\n<blockquote>\n<p>피해량 3배. <strong>치명타 효과:</strong> 대상은 1라운드 동안 @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}입니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>모멘텀</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.HLBhINtyRcHk6d7h]{+2 circumstance bonus to attack rolls}을 얻습니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>페트리파이드</h1>\n<blockquote>\n<p>대상은 10분 동안 @UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{Petrified}입니다.</p>\n</blockquote>\n<p><code>봄브 오어 스펠</code></p>\n</section>"
+        }
+      }
+    },
+    "Critical Hit Deck #8": {
+      "name": "크리티컬 히트 덱 #8",
+      "pages": {
+        "Critical Hit Deck #8": {
+          "name": "크리티컬 히트 덱 #8",
+          "text": "<section class=\"critical-deck\"><h1>Split Open</h1><blockquote><p><strong>치명타 효과:</strong> 대상은 @Damage[1d6[bleed]]을/를 받습니다.</p></blockquote><p><code>Bludgeoning</code></p><h1>Send 'em Reeling</h1><blockquote><p><strong>치명타 효과:</strong> 대상은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 상태가 다음 턴이 끝날 때까지 지속됩니다.</p></blockquote><p><code>Piercing</code></p><h1>Shattered Jaw</h1><blockquote><p><strong>치명타 효과:</strong> 치유될 때까지 대상은 @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded 1} 상태이며 말하거나, 먹거나, 마시거나, 턱으로 공격할 수 없습니다.</p></blockquote><p><code>Slashing</code></p><h1>Protective Charm</h1><blockquote><p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.sq8lhVfn0pl5WJ4t]{+2 status bonus to AC and all saving throws}을/를 얻습니다.</p></blockquote><p><code>Bomb or Spell</code></p></section>"
+        }
+      }
+    },
+    "Critical Hit Deck #9": {
+      "name": "크리티컬 히트 덱 #9",
+      "pages": {
+        "Critical Hit Deck #9": {
+          "name": "크리티컬 히트 덱 #9",
+          "text": "<section class=\"critical-deck\">\n<h1>Momentum</h1>\n<blockquote>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.other-effects.Item.HLBhINtyRcHk6d7h]{+2 circumstance bonus to attack rolls}을 얻습니다.</p>\n</blockquote>\n<p><code>블러징닝</code></p>\n<h1>Blowback</h1>\n<blockquote>\n<p>목표는 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}됩니다.</p>\n</blockquote>\n<p><code>피어싱</code></p>\n<h1>Tangled</h1>\n<blockquote>\n<p><strong>치명타 효과:</strong> 당신은 자유 행동으로 목표를 @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple}할 수 있습니다. 이것은 당신의 공격과 같은 다중 공격 패널티를 사용하며, 다중 공격 패널티에 포함되지 않습니다.</p>\n</blockquote>\n<p><code>슬래싱</code></p>\n<h1>Pretty Colors</h1>\n<blockquote>\n<p>목표는 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}됩니다.</p>\n</blockquote>\n<p><code>봄 오어 스펠</code></p>\n</section>"
+        }
+      }
+    }
+  }
+}

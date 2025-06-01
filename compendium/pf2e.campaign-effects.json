@@ -1,0 +1,298 @@
+{
+  "label": "캠페인 효과",
+  "folders": {
+    "Curtain Call": "커튼콜",
+    "Spore War": "포자 전쟁",
+    "Blood Lords": "블러드 로드",
+    "Malevolence": "악의",
+    "Pathfinder Player Core": "파스파인더 플레이어 코어",
+    "Sky King's Tomb": "스카이 킹의 무덤",
+    "Extinction Curse": "멸종 저주",
+    "Season of Ghosts": "유령의 계절",
+    "Seven Dooms for Sandpoint": "샌드포인트의 칠흑의 파멸",
+    "Pathfinder GM Core": "패스파인더 GM 코어",
+    "Fists of the Ruby Phoenix": "루비 피닉스의 주먹",
+    "Outlaws of Alkenstar": "알켄스타의 무법자들",
+    "Prey for Death": "프레이 포 데스",
+    "Kingmaker": "킹메이커",
+    "Pathfinder Society": "파스파인더 소사이어티"
+  },
+  "entries": {
+    "Aura: Righteous Call": {
+      "name": "오라: 라이티어스 콜",
+      "description": "<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.EbF9U21iMu0JkTzG]{Righteous Call}에 의해 부여됩니다.</p>\n<p>당신으로부터 30피트 이내에 있는 당신의 아군이 하는 공격은 신성 특성을 얻습니다.</p>"
+    },
+    "Effect: Attitude": {
+      "name": "효과: 태도",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.CtFrwkS2yJ64080e]{Attitudes}을(를) 참고하십시오.</p>\n<p>이 효과를 사용하여 관련 NPC의 태도를 추적하고 필요에 따라 효과 배지 값을 늘리거나 줄이십시오.</p>"
+    },
+    "Effect: Azata's Grace": {
+      "name": "효과: 아자타의 은총",
+      "description": "<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.p4CE62CG9S9RpU5F]{Azata's Grace}에 의해 부여됩니다.</p>\n<p>당신은 50의 추가 체력 포인트를 얻고, 최대 체력 포인트와 현재 체력 포인트 모두 증가하며, Righteous Call 유물 선물 효과를 얻습니다.</p>"
+    },
+    "Effect: Bickering Family": {
+      "name": "효과: 빅커링 패밀리",
+      "description": "<p>당신은 내성 굴림에 +1 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Blessed Coins": {
+      "name": "효과: 블레스트 코인즈",
+      "description": "<p>당신께서는 신들의 디바인 스킬을 사용하여 시도하는 기술 굴림에 +1 아이템 보너스를 받습니다.</p>"
+    },
+    "Effect: Boar Form": {
+      "name": "효과: 보어 폼",
+      "description": "<p>폴리모프된 캐릭터는 라지 동물로 변신합니다. 폴리모프된 각 캐릭터는 선택하는 형태에 상관없이 다음 통계치와 능력을 얻습니다.</p>\n<ul>\n<li>AC = 36.</li>\n<li>일시적 히트 포인트 30.</li>\n<li>저조도 시야 및 후각(부정확) 30피트.</li>\n<li>전투 형태에 따라 달라지는 하나 이상의 무장 근접 공격. 당신이 사용할 수 있는 유일한 공격입니다. (당신은 이에 숙련되어 있습니다.) 당신의 무장 공격 수정치가 더 높다면 사용할 수 있습니다.</li>\n<li>당신의 능력치가 더 높지 않은 한 +26의 육체 능력치 수정치.</li>\n<li><strong>@UUID[Compendium.pf2e.adventure-specific-actions.Item.LVSGvlzI1rGWtGJA]{Rallying Display}</strong> <span class=\"action-glyph\">1</span> (청각, 시각) 당신은 포효하거나 짐승의 힘을 과시합니다. 당신은 자동으로 팀을 위해 군중을 규합하는 데 성공합니다.</li>\n<li><strong>@UUID[Compendium.pf2e.adventure-specific-actions.Item.oUP8jylH97ZbRvfw]{Reposition Chains}</strong> <span class=\"action-glyph\">1</span> 당신은 사슬을 당겨, 기꺼이 사슬에 묶인 아군을 당신의 손이 닿는 곳에 있는 공간까지 최대 10피트 이동시킵니다.</li>\n</ul>\n<hr />\n<p><strong>속도</strong> 40피트</p>\n<p><strong>근접</strong> <span class=\"action-glyph\">1</span> 엄니 +25, 피해 3d10+16 관통</p>\n<p><strong>@UUID[Compendium.pf2e.adventure-specific-actions.Item.71ypBixnbV4bE5Hv]{Chained Charge}</strong> <span class=\"action-glyph\">2</span> 당신은 성큼성큼 걷고 이동의 끝에 엄니 공격을 합니다. 사슬로 연결된 아군으로부터 15피트 이상 멀리 이동하면, 그들을 당신 뒤 15피트 거리의 가장 가까운 열린 공간으로 끌어당깁니다. 당신이 공격한 생명체는 @Check[reflex|dc:35] 내성 굴림에 성공해야 하며, 그렇지 않으면 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p>"
+    },
+    "Effect: Burned Mouth and Throat (Linguistic)": {
+      "name": "효과: 불타는 입과 목 (링귀스틱)",
+      "description": "<p>입과 목구멍이 타서 1시간 동안 언어 관련 판정과 DC에 -1 아이템 패널티를 받습니다.</p>"
+    },
+    "Effect: Burned Mouth and Throat (No Singing or Yelling)": {
+      "name": "효과: 입과 목이 탄다 (노래하거나 고함칠 수 없음)",
+      "description": "<p>음주자는 8시간 동안 소리 지르거나 노래를 부를 수 없습니다.</p>"
+    },
+    "Effect: Burned Tongue (Linguistic)": {
+      "name": "효과: 번트 텅 (링귀스틱)",
+      "description": "<p>혀가 덴 결과, 1분 동안 언어 관련 판정과 DC에 -1 아이템 패널티를 받습니다.</p>"
+    },
+    "Effect: Burned Tongue (No Singing or Yelling)": {
+      "name": "효과: 번트 텅 (노 싱잉 오어 옐링)",
+      "description": "<p>음주자는 1시간 동안 소리 지르거나 노래할 수 없습니다.</p>"
+    },
+    "Effect: Call Upon the Ancients": {
+      "name": "효과: 고대의 존재들을 소환합니다",
+      "description": "<p>당신은 트리레이저가 입히는 모든 피해에 대해 5의 저항력을 얻습니다.</p>"
+    },
+    "Effect: Call Upon the Sovyrian Stone": {
+      "name": "효과: 소비리안 스톤을 소환합니다",
+      "description": "<p>트리레이저의 프라이멀 선천 주문과 그의 디폴리에이션 능력의 DC를 46으로, 그의 부패의 아우라의 DC를 43으로, 그리고 그의 주문 공격 수정치를 +38로 감소시켜 주십시오.</p>"
+    },
+    "Effect: Chthonic Mucus": {
+      "name": "효과: 크토닉 머커스",
+      "description": "<p>그 생물은 이동 속도에 -5피트의 상태 감소 효과를 받습니다. 이 감소 효과는 지속적인 정령 피해와 함께 종료됩니다.</p>"
+    },
+    "Effect: Chthonic Mucus (1-2)": {
+      "name": "효과: 크토닉 머커스 (1-2)",
+      "description": "<p>그 생물은 1 라운드 동안 이동 속도에 -5피트의 상태 감소 효과를 받습니다.</p>"
+    },
+    "Effect: Combat Mentor": {
+      "name": "효과: 컴뱃 멘토",
+      "description": "<p>전투 멘토에 의해 부여됨</p>\n<p>당신의 레벨 범프 공격 굴림 및 주문 공격 굴림에 대한 수정치가 2로 증가합니다.</p>"
+    },
+    "Effect: Consecrated Altar to Ydersius": {
+      "name": "효과: 이더시우스의 성별 제단",
+      "description": "<p>아이더시우스를 숭배하는 생물들은 공격 굴림, 기술 숙련 검사, 내성 굴림, 그리고 지각 검사에 +1 상태 보너스를 얻으며, 그들의 스트라이크는 언홀리 특성을 얻습니다.</p>"
+    },
+    "Effect: Crownhold Consecration": {
+      "name": "효과: 크라운홀드 컨세크레이션",
+      "description": "<p>고럼을 숭배하는 당신은 공격 굴림, 기술 판정, 내성 굴림, 그리고 지각 판정에 +1 상태 보너스를 받습니다.</p>\n<p>또한, 당신의 은밀한 행동으로 인해 공격 굴림, 기술 판정, 내성 굴림, 그리고 지각 판정에 -1 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: Exotic Edge": {
+      "name": "효과: 이그조틱 에지",
+      "description": "<p>이그조틱 에지에 의해 부여됨</p>\n<p>당신은 모든 공격 굴림 또는 모든 기술 판정 중 하나에 +1 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Extreme stomach cramps": {
+      "name": "효과: 극심한 복통",
+      "description": "<p>당신은 다른 음료조차도 8시간 동안 아무것도 고의로 섭취할 수 없습니다.</p>"
+    },
+    "Effect: Forgive Foe": {
+      "name": "효과: 포기브 포우",
+      "description": "<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.764EVGVADrDSbdqu]{Forgive Foe}에 의해 부여됩니다.</p>\n<p>대상은 당신의 다음 턴이 끝날 때까지 모든 공격, 효과 DC, 그리고 추가적인 Forgive Foe 시도에 대한 의지 내성 굴림에 -2 상태 페널티를 받습니다.</p>"
+    },
+    "Effect: Grand Finale": {
+      "name": "효과: 그랜드 피날레",
+      "description": "<p>그랜드 피날레에 의해 부여됩니다</p>\n<p>당신은 공연 판정에 +2 상황 보너스, 20 임시 히트 포인트, 그리고 인내 내성 굴림에 +1 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Heightened Awareness": {
+      "name": "효과: 향상된 인지",
+      "description": "<p>향상된 인지 능력으로 인해, @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}에 대한 지각 판정에 8시간 동안 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Heroic Aegis": {
+      "name": "효과: 히어로익 이지스",
+      "description": "<p>히어로익 이지스에 의해 부여됨</p>\n<p>당신은 AC와 내성 굴림에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Heroic Hustle": {
+      "name": "효과: 히어로익 허슬",
+      "description": "<p>히어로익 허슬에 의해 부여됩니다</p>\n<p>당신은 이동 속도에 +10피트의 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Heroic Inspiration": {
+      "name": "효과: 히어로익 인스퍼레이션",
+      "description": "<p>영웅적 영감으로 부여됨</p>\n<p>당신은 원래 성공한 것과 같은 종류의 판정에 +1 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Hope or Despair (Critical Success)": {
+      "name": "효과: 희망 또는 절망 (결정적 성공)",
+      "description": "<p>셸린은 그 생물에게 사당을 옛 영광으로 되돌릴 기회를 봅니다. 그리고 절망으로 채우는 대신, 그 망령은 그들에게 희망을 채워 줍니다. 사당을 더럽힌 악을 물리치고자 하는 충동뿐만 아니라, 사당을 복구하고자 하는 충동도 생물에게 있습니다. 사당을 더럽히고 있는 악의 정체에 대한 자세한 내용은 알 수 없지만, 사당 벽 안에 분명히 심각한 무언가가 있다는 것을 등장인물에게 알려줍니다. 그 생물은 이러한 충동에 따라 행동할 필요는 없지만, 어느 한 목표를 추구하는 한, 사당 구역에 있는 동안 모든 판정에 +1 상태 보너스를 얻습니다. GM은 판정이 이 목표에 대한 것인지 아닌지를 결정합니다(적어도 모험의 나머지 부분에서 적과 싸우는 모든 전투 판정은 포함됩니다).</p>"
+    },
+    "Effect: Hope or Despair (Failure or Critical Failure)": {
+      "name": "효과: 희망 또는 절망 (실패 또는 대실패)",
+      "description": "<p><strong>실패</strong> 당신의 마음속에 슬픔과 절망이 차오릅니다. 다음 한 시간 동안, 당신은 정신적 효과에 대한 모든 내성 굴림에 -1 패널티를 받습니다. 이 패널티는 감정적 정신 효과에 대해서는 -2 패널티로 증가합니다. 이 효과는 저주 특성을 가지고 있습니다.</p>\n<p><strong>치명적 실패</strong> 실패와 같지만, 녹색 흉측한 마녀 툴박이 사당을 계속 통제하는 동안 효과가 지속됩니다.</p>"
+    },
+    "Effect: Immediate and Intense Headache": {
+      "name": "효과: 즉각적이고 심한 두통",
+      "description": "<p>즉각적이고 심한 두통으로 인해 8시간 동안 정신 피해 5가 발생합니다.</p>"
+    },
+    "Effect: Improved reflexes": {
+      "name": "효과: 향상된 반사 신경",
+      "description": "<p>향상된 반사 신경으로 인해 8시간 동안 반사 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Invoke the Witchbole's Spirit": {
+      "name": "효과: 위치볼의 영혼을 불러냅니다",
+      "description": "<p>플레이어 캐릭터들은 위치볼 붕괴 효과에 대한 모든 내성 굴림에 +4 상황 보너스를 얻습니다. 반대로, 트리레이저는 같은 효과에 대한 내성 굴림에 -4 상황 패널티를 받습니다.</p>"
+    },
+    "Effect: Keen insight": {
+      "name": "효과:  keen insight",
+      "description": "<p>날카로운 통찰력으로 인해, 8시간 동안 @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive}에 대한 지각 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Light in the Dark": {
+      "name": "효과: 어둠 속의 빛",
+      "description": "<p>S1-18 - Light in the Dark에 의해 부여됩니다.</p>\n<p>당신은 라즈미란에서 모험하는 동안 @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Request Assistance} 또는 @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression}에 대한 외교 기술 판정에 +1 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Little Ripple's Blessing": {
+      "name": "효과: 리틀 리플의 축복",
+      "description": "<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.31uM8IkenDZdeid6]{Little Ripple's Blessing}에 의해 부여됩니다.</p>\n<p>당신은 의지 내성 굴림에 +1 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Magical Mentor": {
+      "name": "효과: 매지컬 멘토",
+      "description": "<p>마법 멘토르에 의해 부여됨</p>\n<p>당신의 레벨 상승 수정치는 멘토르와 같은 전통의 당신의 주문 DC에 2만큼 증가합니다.</p>"
+    },
+    "Effect: Memories of Failure": {
+      "name": "효과: 실패의 기억",
+      "description": "<p>당신은 표식이 된 생명체가 만든 감정 효과에 대한 모든 내성 굴림에 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Nexian Researcher": {
+      "name": "효과: 넥시안 리서처",
+      "description": "<p>S1-00 넥시안 리서처에 의해 부여됨</p>\n<p>당신이 Pathfinder Society Lore에 숙련되지 않았다면, 보너스를 결정할 때 당신의 지능 수정치에 당신의 레벨을 더할 수 있습니다. 당신이 Pathfinder Society Lore에 숙련 이상이라면, 이 판정에 +2 상황 보너스를 대신 얻습니다.</p>"
+    },
+    "Effect: Pompous Rage": {
+      "name": "효과: 폼퍼스 레이지",
+      "description": "<p>포록식스는 그의 죠스 공격에 -2 상황 패널티를 받지만, 각 적중은 추가 관통 피해를 입힙니다.</p>"
+    },
+    "Effect: Practiced Medic": {
+      "name": "효과: 프랙티스트 메딕",
+      "description": "<p>숙련된 의료인에 의해 부여됩니다</p>\n<p>당신은 응급 처치(Administer First Aid), 질병 치료(Treat Disease), 독 치료(Treat Poison), 또는 상처 치료(Treat Wounds)에 대한 의술 숙련도 검사(Medicine check)의 성공 정도를 한 단계 향상시킬 수 있습니다.</p>"
+    },
+    "Effect: Protective Mentor": {
+      "name": "효과: 프로텍티브 멘토",
+      "description": "<p>보호적인 멘토에 의해 부여됨</p>\n<p>당신의 최대 히트 포인트는 레벨 범프에 의해 제공되는 보너스에 추가적으로 증가합니다.</p>"
+    },
+    "Effect: Recruit the Recent Dead": {
+      "name": "효과: 리센트 데드 모집",
+      "description": "<p>트리레이저의 AC를 51로, 그의 블랙액스 스트라이크 수정치를 +44로, 그리고 그의 조스 스트라이크 수정치를 +42로 낮춰주십시오.</p>"
+    },
+    "Effect: Reflection of Life (Fast Healing)": {
+      "name": "효과: 리플렉션 오브 라이프 (패스트 힐링)",
+      "description": "<p>당신은 1분 동안 페이스트 힐링을 얻습니다. 이 페이스트 힐링의 양은 3으로 시작하며, 5레벨을 초과하는 2레벨마다 1씩 증가합니다.</p>"
+    },
+    "Effect: Resist Corruption": {
+      "name": "효과: 부패 저항",
+      "description": "<p>저항: 타락 허용됨</p>\n<p>당신은 비질런트 씰 진영과의 명성 단계에 해당하는 불경건에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Righteous Call": {
+      "name": "효과: 라이티어스 콜",
+      "description": "<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.EbF9U21iMu0JkTzG]{Righteous Call}에 의해 부여됩니다.</p>\n<p>당신의 스트라이크는 신성 트레이트를 얻습니다.</p>"
+    },
+    "Effect: Rugged Mentor": {
+      "name": "효과: 러기드 멘토",
+      "description": "<p>러기드 멘토르에 의해 부여됨</p>\n<p>당신의 레벨 범프 내성 굴림 수정치가 2로 증가합니다.</p>"
+    },
+    "Effect: Seasonal Boon (Outskirt Dweller)": {
+      "name": "효과: 시즌얼 분 (아웃스커트 드웰러)",
+      "description": "<p>당신은 유령의 계절을 시작한 이후 지난 계절의 수만큼 선제 굴림에 상태 보너스를 얻습니다 (첫 번째 모험에서는 +1, 최대 네 번째이자 마지막 모험에서는 +4까지).</p>"
+    },
+    "Effect: Skillful Mentor": {
+      "name": "효과: 스킬풀 멘토",
+      "description": "<p>숙련된 멘토에 의해 부여됨</p>\n<p>당신의 레벨 범프 기술 숙련 검사 수정치가 2로 증가합니다.</p>"
+    },
+    "Effect: Spirit Power (Flight)": {
+      "name": "효과: 스피릿 파워 (플라이트)",
+      "description": "<p>당신은 당신의 속도 또는 30피트 중 더 큰 값에 해당하는 비행 속도를 얻습니다.</p>"
+    },
+    "Effect: Spirit Power (Passion)": {
+      "name": "효과: 스피릿 파워 (패션)",
+      "description": "<p>당신의 몸은 당신이 선택한 색깔의 불길에 휩싸이며, 40피트 반경 내에 밝은 빛(그리고 그 다음 40피트까지 어두운 빛)을 발합니다. 당신의 근접 공격은 추가로 1d6의 화염 피해를 입히고, 당신은 화염에 대한 저항 10을 얻으며, @UUID[Compendium.pf2e.adventure-specific-actions.Item.kfmEGGs8DbIL9JuF]{Reactive Scorch} 반응을 얻습니다.</p>"
+    },
+    "Effect: Spirit Powers": {
+      "name": "효과: 스피릿 파워즈",
+      "description": "<p>당신이 이 모험의 3장에서 생생한 세상으로 @UUID[Compendium.pf2e.spells-srd.Item.8Lk9K3tRnV68MQPW]{Transmigrate}  들어올 때, 당신은 생과 죽음의 경계에 갇힌 에크토플라즘 존재입니다. 이 상태에서 당신은 대부분 정상적으로 기능하지만, 반투명한 에크토플라즘 형태로 나타납니다. 완전히 투명하지는 않지만, 단단한 몸이 가장자리에서 흔들리고 빛나는 것처럼 보여 불쾌하고 섬뜩한 모습을 보입니다. 이 상태에서 당신은 살아있는 생물이지만, 언데드 생물이 공유하는 것과 유사한 몇 가지 능력을 얻습니다. 유령과 더 비슷한 살아있는 생물로서, 당신은 음의 피해에 취약하고 양의 에너지로 치유됩니다.</p>\n<p><strong>언데드 비전(Undead Vision):</strong> 당신은 어둠시야(Low-light vision)를 얻거나, 당신의 조상이 이미 어둠시야를 가지고 있다면 암시야(Darkvision)를 얻습니다.</p>\n<p><strong>환생 생존(Transmigrated Survival):</strong> 이 상태의 PC는 부상 상태(wounded condition)가 되지 않지만, 죽어가는 상태(dying condition)에서 회복되면 영혼 퇴화(soul degradation)에 노출됩니다 (아래 참조). 환생 중에 PC가 죽으면, 당신은 버드나무 해안(Willowshore) 마음의 풍경에서 살아있는 상태로 깨어나고 @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Doomed 1} 상태가 됩니다.</p>\n<p><strong>환생 보호(Transmigrated Protection):</strong> 당신은 질병, 독, 수면, 그리고 @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} 상태를 부여하는 효과에 대한 내성 굴림(saving throws) (또는 다른 방어)에 +2 상황 보너스를 얻습니다.</p>\n<p><strong>영혼 능력(Spirit Powers):</strong> 이 상태에서 당신은 새롭게 얻은 영혼 능력을 통해 생생한 세상과 상호 작용할 수 있습니다. 당신이 생생한 세상에 환생된 몸을 드러낼 때, 당신은 아래 나열된 영혼 능력 중에서 두 개의 하급 영혼 능력과 한 개의 상급 영혼 능력을 얻습니다. 당신은 매일 준비를 할 때마다 선택한 영혼 능력을 다시 선택할 수 있습니다. 영혼 능력이 내성 굴림을 요구할 때는 PC의 클래스 DC 또는 주문 DC 중 더 높은 값을 사용하십시오. 공격 굴림을 요구하는 모든 영혼 능력은 이 DC – 10을 사용합니다. 반격 확인(counteract checks)의 효과를 결정할 때는 PC 자신의 레벨을 사용하십시오.</p>\n<p><strong>영혼 퇴화(Soul Degradation):</strong> 처음에는 PC는 새롭게 얻은 영혼 능력을 즐길 것입니다. 그러나 환생된 PC가 죽음에 가까워질 때마다, 그들은 완전히 유령 같은 본성에 굴복할 위험이 있습니다. 죽어가는 환생된 PC가 일반적으로 부상 상태(wounded condition)가 될 때마다, 대신 영혼 퇴화(soul degradation)에 노출되고 이 저주의 단계를 높이는 것을 막기 위해 새로운 내성 굴림을 시도해야 합니다.</p><h3>하급 영혼 능력(Minor Spirit Powers)</h3><p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.VMpc8QWEZxSH8Mr4]{Curiosity}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.fsxCcyWpag5iuWOU]{Delusion}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.ekiKKfsBDFEeVmun]{Duty}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.w4t0ElpqNQRFCaPJ]{Love}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.g6iKvH7Y3InQtZ8K]{Obsession}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.w1nzN61S6NfkDH7Y]{Passion}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.YdG3UwVBia5AyLjO]{Spite}</p><h3>상급 영혼 능력(Major Spirit Powers)</h3><p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.DVILYNQVB2hx9Chl]{Chilling Paralysis}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.pHXGTgjwWY3OBRF2]{Dematerialize}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.0HChyDaXdpXN11q4]{Flickering Figure}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.SnIvcCNASDzgevQK]{Flight}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.3yYlHV7GBrafsDwE]{Grudge}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.KtqDsKBuOmCkbDcR]{Resist Death}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.KbQXDTBi5MKtHbpU]{River's Reflection}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.sjLNgLFyDvTt6VVV]{Sap Life}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.UnQ8oHYc0dBJHZv9]{Undying Flesh}</p>"
+    },
+    "Effect: Spore Feedback": {
+      "name": "효과: 스포어 피드백",
+      "description": "<p>트리레이저의 최대 히트 포인트는 500으로 감소하고, 재생은 30으로 감소합니다.</p>"
+    },
+    "Effect: Stoop": {
+      "name": "효과: 스톱",
+      "description": "<p>중형 크리처는 몸을 숙이고 어색하게 무기의 스윙을 조정해야 하므로, 공격 굴림에 –1 상황 패널티를 받고 클럼지 1이 됩니다.</p>"
+    },
+    "Effect: Tarnbreaker Champions": {
+      "name": "효과: 타른브레이커 챔피언스",
+      "description": "<p>탐브레이커 챔피언즈에 의해 부여됩니다</p>\n<p>당신은 린놈 킹즈의 땅을 주요 배경으로 하는 모험을 진행하는 동안 모든 외교 굴림에 +1 상황 보너스를 얻습니다. @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Make a Request}</p>"
+    },
+    "Effect: Technological Defence": {
+      "name": "효과: 테크놀로지컬 디펜스",
+      "description": "<p>테크놀로지컬 디펜스에 의해 부여됩니다.</p>\n<p>당신은 기술 무기나 효과에 대한 내성 굴림에 +1 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Tiger Form": {
+      "name": "효과: 타이거 폼",
+      "description": "<p>다형 변환된 캐릭터는 대형 동물로 변신합니다.  다형 변환된 각 캐릭터는 선택하는 형태에 관계없이 다음과 같은 능력치와 능력을 얻습니다.</p>\n<ul>\n<li>AC = 36.</li>\n<li>일시적 히트 포인트 30.</li>\n<li>어둠시야 및 후각(부정확) 30피트.</li>\n<li>전투 형태에 따라 달라지는 하나 이상의 무장 근접 공격. 당신이 사용할 수 있는 유일한 공격입니다. (당신은 이것을 숙련했습니다.) 당신 자신의 무장 공격 수정치가 더 높다면 사용할 수 있습니다.</li>\n<li>당신의 능력치가 더 높지 않다면 +26의 운동 능력치 수정치.</li>\n<li><strong>@UUID[Compendium.pf2e.adventure-specific-actions.Item.LVSGvlzI1rGWtGJA]{Rallying Display}</strong> <span class=\"action-glyph\">1</span> (청각, 시각) 당신은 포효하거나 다른 방법으로 짐승의 힘을 과시합니다. 당신은 자동으로 팀을 위해 군중을 규합하는 데 성공합니다.</li>\n<li><strong>@UUID[Compendium.pf2e.adventure-specific-actions.Item.oUP8jylH97ZbRvfw]{Reposition Chains}</strong> <span class=\"action-glyph\">1</span> 당신은 쇠사슬을 당겨, 당신의 손이 닿는 범위 내의 공간으로 기꺼이 사슬에 묶인 아군을 최대 10피트 이동시킵니다.</li>\n</ul>\n<hr />\n<p><strong>속도</strong> 30피트</p>\n<p><strong>근접</strong> <span class=\"action-glyph\">1</span> 턱 +25, 피해 3d6+16 관통 + @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Grab}</p>\n<p><strong>근접</strong> <span class=\"action-glyph\">1</span> 발톱 +25 (민첩), 피해 2d8+16 베기</p>\n<p><strong>@UUID[Compendium.pf2e.adventure-specific-actions.Item.GSLSCo0OWDUtET4e]{Wrestle}</strong> <span class=\"action-glyph\">1</span> 당신은 당신에 의해 @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} 또는 @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained}  생물체에 발톱 공격을 합니다. 적중하면 평소처럼 피해를 입히고 해당 생물체는 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} 됩니다.</p>"
+    },
+    "Effect: Utter Treerazer's Name": {
+      "name": "효과: 트리레이저의 이름을 외침",
+      "description": "<p>트리레이저의 내성 굴림 수정치, 인지 능력 검사 수정치, 그리고 기술 능력 검사 수정치를 3만큼 감소시켜 주십시오.</p>"
+    },
+    "Effect: Wind Barrier": {
+      "name": "효과: 윈드 배리어",
+      "description": "<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.UEBVXi4VSQf70ggQ]{Wind Barrier}에 의해 당신은 원거리 공격에 대한 AC에 +2 상황 보너스를 얻습니다. 13레벨에 이것은 원거리 공격에 대한 AC에 +3 상황 보너스로 증가합니다.</p>"
+    },
+    "Effect: Worldly Mentor": {
+      "name": "효과: 월들리 멘토르",
+      "description": "<p>월들리 멘토르에 의해 부여됨</p>\n<p>당신의 레벨 범프 보너스 수정치가 지각 굴림에 대해 2만큼 증가합니다.</p>"
+    },
+    "Geb's Blessing": {
+      "name": "게브의 축복",
+      "description": "<p>각 캐릭터는 자신이 선택한 다음 피해 유형 두 가지에 대해 20의 저항력을 얻습니다: 산, 둔기, 냉기, 전기, 화염, 관통, 독, 베기, 음파, 생명력 또는 공허. 또한 24시간 동안 40의 임시 체력을 얻습니다. 마지막으로, 각 캐릭터는 다음 두 가지 특수 능력을 얻으며, 각각 한 번 사용할 수 있습니다.</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.MgSwLes5lp3TE1ZV]{Mental Ward}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.TM4pOPSM9r7XEM64]{Soul Ward}</p>"
+    },
+    "Malevolence": {
+      "name": "악의",
+      "description": "<p>악의가 생물들을 지배하기 시작하면서, 그들의 몸과 마음, 그리고 영혼은 자르윈 저택을 침범한 초자연적인 힘에 의해 점점 더 괴롭힘을 당하게 됩니다. 악의는 이 모험에 참여하는 PC들에게 영향을 줄 수 있는 특별한 상태입니다. 악의 상태에는 항상 값이 포함됩니다. 당신은 망령이 발생시키는 효과와 모든 저주 및 빙의 효과에 대한 모든 내성 굴림에 대해 이 값과 같은 상태 감소를 받습니다. 악의 상태는 회복으로 감소시킬 수 있습니다.</p>\n<p>악의는 값이 4를 초과할 수 없습니다. 어떤 효과가 생물의 악의 값을 4보다 높게 증가시키려 한다면, 그 생물은 대신 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} 24시간 동안 악의가 그들의 임의의 단기 기억을 몇 개 소모하면서 그렇게 됩니다. 악의 4인 생물은 자르윈 저택 부지를 자발적으로 떠나지 않을 것입니다.</p>\n<p>악의 상태의 영향을 받지 않는 지역에서 밤잠을 충분히 잘 때마다 당신의 악의 값은 1씩 감소합니다.</p>"
+    },
+    "Mixed Drink: Dancing Lights": {
+      "name": "혼합 음료: 댄싱 라이츠",
+      "description": "<p>당신은 다음 날 안에 한 번 프라이멀 캔트립인 @UUID[Compendium.pf2e.spells-srd.Item.WBmvzNDfpwka3qT4]{Light}을 시전할 수 있습니다.</p>"
+    },
+    "Mixed Drink: Guidance": {
+      "name": "혼합 음료: 가이드",
+      "description": "<p>당신은 다음 날까지 한 번 프라이멀 캔트립인 @UUID[Compendium.pf2e.spells-srd.Item.izcxFQFwf3woCnFs]{Guidance}을 시전할 수 있습니다.</p>"
+    },
+    "Mixed Drink: Luck": {
+      "name": "믹스드 드링크: 럭",
+      "description": "<p>당신은 약간의 행운을 얻습니다: 다음 8시간 동안 내성 굴림 또는 기술 숙련 검사를 시도할 때 한 번, 두 번 주사위를 굴려 더 높은 결과를 사용할 수 있습니다. 이것은 포춘 효과입니다.</p>"
+    },
+    "Mixed Drink: Prestidigitation": {
+      "name": "혼합 음료: 프레스티디지테이션",
+      "description": "<p>당신은 다음 날까지 한 번 프라이멀 캔트립인 @UUID[Compendium.pf2e.spells-srd.Item.Qw3fnUlaUbnn7ipC]{Prestidigitation}을 시전할 수 있습니다.</p>"
+    },
+    "Persona Trait": {
+      "name": "퍼소나 트레잇",
+      "description": "<p>당신의 PC들처럼 유명한 모험가들을 포함한 유명인들은 항상 자신들의 실제 모습을 정확하게 대중에게 보여주지는 않습니다. 커튼 콜에서는 각 PC가 하나의 페르소나 특성을 선택하게 됩니다. 당신의 캐릭터의 성격, 동기, 목표와 관계없이, 소문, 잘못 해석된 사건, 공상적인 상상, 또는 캐릭터가 의도적으로 다른 페르소나를 조성하려는 시도의 결과로 대중의 그들의 전설에 대한 인식은 상당히 다를 수 있습니다.</p>\n<p>당신의 PC를 위해 선택할 수 있는 여덟 가지 페르소나 특성이 있습니다. 당신이 채택하는 특성은 캐릭터의 실제 성격이나 역할과 일치할 필요는 없지만, 잘못된 것을 선택하면 만나는 NPC들이 당신의 캐릭터에 대해 몇 가지 호기심 많은 추측을 할 준비를 하십시오! 각 페르소나 특성에는 긍정적이고 부정적인 측면이 있지만, 이 두 요소는 모두 엄격하게 서술적인 것이며 캐릭터의 능력에 대한 기계적인 영향을 미치지 않는다는 점에 유의하십시오. 캠페인 중에 PC의 행동을 안내하는 데 사용할 수 있는 역할극 도구라고 생각하십시오. 그러나 이러한 특성은 모험에 영향을 미칩니다. 커튼 콜의 특정 부분에서 특정 페르소나 특성을 가진 캐릭터는 특정한 어려움에 직면하는 데 특히 적합하며, 해당 조우를 헤쳐나가는 데 도움이 되는 일회성 혜택과 보너스를 얻게 됩니다. 당신의 GM은 이 모든 정보를 가지고 있으며, 페르소나 특성이 작용할 때마다 파티에 알릴 것입니다.</p>\n<p>여덟 가지 페르소나 특성은 다음과 같습니다.</p>\n<p><strong>플러트(Flirt)</strong>: 대중은 당신을 그룹에서 가장 로맨틱한 사람으로 인식하며, 당신은 유혹자나 외모로 인정받고 파티에 아무런 가치도 가져오지 않는 허영심 많은 가장으로 여겨질 수 있습니다.</p>\n<p><strong>가디언(Guardian)</strong>: 대중은 당신을 그룹의 치유자이자 보호자로 인식하지만, 어떤 사람들은 당신이 너무 마음이 약하고 온순해서 \"진정한 영웅\"이 될 수 없다고 생각할 수도 있습니다.</p>\n<p><strong>리더(Leader)</strong>: 대중은 당신을 그룹의 리더로 인식하지만, 어떤 사람들은 당신이 너무 거만하거나 심지어 거만하다고 생각할 수도 있습니다.</p>\n<p><strong>스칼라(Scholar)</strong>: 대중은 당신을 그룹의 문제 해결사이자 두뇌로 생각하지만, 어떤 사람들은 당신을 오만하거나 육체적인 일을 할 수 없다고 생각할 수도 있습니다.</p>\n<p><strong>스칸드럴(Scoundrel)</strong>: 대중은 당신이 불쾌하지만 필요한 일을 하는 그룹의 \"나쁜 남자/나쁜 여자\"라고 확신하지만, 때때로 파티에 대한 범죄자나 잠재적인 배신자로 여겨질 수도 있습니다.</p>\n<p><strong>언더독(Underdog)</strong>: 대중은 당신을 \"물에 빠진 생쥐\"—우연히 그룹에 휩쓸려 여전히 승리하는 사람—으로 인식하지만, 때로는 약한 고리나 패배자로 여겨질 수도 있습니다.</p>\n<p><strong>워리어(Warrior)</strong>: 대중은 당신이 그룹의 강력한 지원군이며, 싸움에서 뛰어나지만 때로는 잔인하거나 무례하거나 심지어 괴롭히는 사람으로 여겨지기도 한다고 믿습니다.</p>\n<p><strong>와일드카드(Wildcard)</strong>: 대중은 당신을 그룹의 변덕스러움, 기이한 아이디어, 그리고 코미디의 원천으로 인식하지만, 그 명성은 양날의 검이며, 어떤 사람들은 당신을 책임지지 못하거나 신뢰할 수 없는 사람으로 여기기도 합니다.</p>"
+    },
+    "Resonant Reflection: Reflection of Life": {
+      "name": "레조넌트 리플렉션: 리플렉션 오브 라이프",
+      "description": "<p>당신은 휴식 시 체력(HP)을 정상적인 양의 두 배만큼 회복합니다 (즉, 당신의 체질(Constitution) 수정치에 레벨을 곱한 값의 두 배를 회복합니다). 장기 휴식으로 얻는 치유 효과 또한 두 배가 됩니다.  게다가, 당신은 이 치유 에너지를 집중하여 신체의 자연 치유 과정을 더욱 가속화할 수 있습니다.</p>\n<hr />\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> envision</p>\n<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 당신은 1분 동안 3의 신속 치유(fast healing)를 얻습니다. 이 신속 치유량은 5레벨을 초과하는 레벨 2레벨마다 1씩 증가합니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.DOxl0FDd21VMDOMP]{Effect: Reflection of Life (Fast Healing)}</p>"
+    },
+    "Resonant Reflection: Reflection of Light": {
+      "name": "레조넌트 리플렉션: 리플렉션 오브 라이트",
+      "description": "<p>당신의 눈에는 외부에는 보이지 않지만 어둠 속에서 어둠투시와 색상을 구분하는 능력을 제공하는 내부의 빛이 스며들어 있습니다. 당신은 이 내부의 빛을 집중시켜 눈에서 밝은 에너지 광선으로 나타나게 할 수도 있습니다.</p>\n<hr />\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 인비전</p>\n<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 당신은 @UUID[Compendium.pf2e.spells-srd.Item.DyiD239dNS7RIxZE]{Holy Light}을 타고난 디바인 주문으로 시전하며, 당신의 레벨의 절반을 올림하여 얻은 주문 등급으로 강화됩니다.</p>"
+    },
+    "Resonant Reflection: Reflection of Stone": {
+      "name": "레조넌트 리플렉션: 리플렉션 오브 스톤",
+      "description": "<p>당신의 몸은 돌의 강인함과 내구성으로 가득 차 있습니다. 당신은 혹한과 혹서의 영향으로부터 보호받습니다.  게다가, 당신은 이 내구성에 집중하여 추가적인 효과를 얻을 수도 있습니다.</p><hr /><p><strong>활성화</strong> <span class=\"action-glyph\">2</span>  엔비전</p>\n<p><strong>빈도</strong> 하루에 한 번</p><hr /><p><strong>효과</strong> 당신은 @UUID[Compendium.pf2e.spells-srd.Item.2BV2yYPfVJ5zirZt]{Mountain Resilience}을 타고난 디바인 주문으로 시전하며,  당신 레벨의 절반을 올림하여 얻은 주문 등급으로 강화됩니다.</p>"
+    },
+    "Resonant Reflection: Reflection of Storm": {
+      "name": "레조넌트 리플렉션: 리플렉션 오브 스톰",
+      "description": "<p>당신의 몸은 자연의 힘으로 인한 파괴에 익숙해져 있습니다. 당신은 자신의 레벨과 같은 양의 전기 피해 저항력을 얻습니다. 당신은 비행 중 바람을 험한 지형이나 매우 험한 지형으로 취급하지 않으며, 스스로 선택하지 않는 한 바람에 의해 이동될 수 없습니다. 당신은 프라이멀 마법에 대한 내성 굴림에 +1 상태 보너스를 얻습니다.  또한, 당신은 이 활력을 주는 에너지를 당신의 몸에 흡수하여 다음 효과를 얻을 수 있습니다.</p>\n<hr />\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 엔비전</p>\n<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 당신은 @UUID[Compendium.pf2e.spells-srd.Item.4MOew29Z1oCX8O28]{Moment of Renewal} (자신에게만)을 8랭크 디바인 선천 주문으로 시전하고 집중력 포인트 1을 회복합니다.</p>"
+    },
+    "Resonant Reflection: Reflection of Water": {
+      "name": "레조넌트 리플렉션: 리플렉션 오브 워터",
+      "description": "<p>당신의 몸은 물의 정수로 가득 차고 그 존재에 적응합니다. 당신은 10피트의 수영 속도를 얻고 물속에서 호흡할 수 있습니다.  게다가, 당신은 이러한 친화력에 집중하여 추가 효과를 얻을 수도 있습니다.</p>\n<hr />\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> envision</p>\n<p><strong>빈도</strong> 하루에 한 번</p>\n<hr />\n<p><strong>효과</strong> 당신은 @UUID[Compendium.pf2e.spells-srd.Item.zfn5RqAdF63neqpP]{Control Water}을 5랭크 선천 디바인 주문으로 시전합니다. 당신이 10레벨을 초과한 레벨 2당 당신이 조종하는 물의 범위는 길이와 폭이 10피트씩 증가합니다.</p>"
+    }
+  }
+}

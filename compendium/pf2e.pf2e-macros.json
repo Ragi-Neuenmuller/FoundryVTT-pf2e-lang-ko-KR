@@ -1,0 +1,36 @@
+{
+  "label": "PF2e 매크로",
+  "folders": {},
+  "entries": {
+    "Earn Income": {
+      "name": "수입 얻기."
+    },
+    "Generate Check Prompt": {
+      "name": "확인 촉구 생성"
+    },
+    "Perception for Selected Tokens": {
+      "name": "선택된 토큰에 대한 지각"
+    },
+    "Rest for the Night": {
+      "name": "밤을 위해 휴식을 취하십시오."
+    },
+    "Stealth for Selected Tokens": {
+      "name": "선택된 토큰의 스텔스"
+    },
+    "Take a Breather": {
+      "name": "숨을 고르십시오."
+    },
+    "Toggle Compendium Browser": {
+      "name": "컴펜디엄 브라우저 전환"
+    },
+    "Travel Duration": {
+      "name": "여행 시간"
+    },
+    "Treat Wounds": {
+      "name": "상처 치료"
+    },
+    "XP": {
+      "name": "XP"
+    }
+  }
+}

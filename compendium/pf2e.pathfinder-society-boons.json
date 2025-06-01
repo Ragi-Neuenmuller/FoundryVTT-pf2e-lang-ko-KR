@@ -1,0 +1,634 @@
+{
+  "label": "패스파인더 소사이어티 훈장",
+  "folders": {},
+  "entries": {
+    "Academic Conference": {
+      "name": "학술회의",
+      "description": "<p><strong>[Slotless]</strong></p>\n<p><strong>선행 조건</strong> 그랜드 아카이브와 함께 티어 1</p>\n<p><strong>비용</strong> 명성 0</p>\n<hr />\n<p><strong>효과</strong> 골라리온 전역의 권위 있는 기관들은 저명한 학자들이 그들의 발견을 발표할 수 있는 학회를 정기적으로 개최하며, 당신은 이러한 행사에 참석하여 자신의 프로필을 향상시킵니다. 당신이 파이조 오거나이즈드 플레이 이벤트 중 프리미엄 또는 프리미엄 플러스로 지정된 모험을 플레이하거나 GM으로 진행할 때, 그랜드 아카이브 진영과의 명성 2와 평판을 추가로 얻습니다.</p>\n<p><strong>특수 효과</strong> 당신은 그랜드 아카이브 진영과의 현재 평판 티어와 같은 횟수만큼 이 혜택을 받을 수 있습니다. 이 혜택의 요구 사항을 충족할 때마다, 연관된 평판 티어와 함께 당신의 크로니클 시트에 표시하십시오. GM에게 이 표시 옆에 서명을 받으십시오.</p>"
+    },
+    "Adamant Wayfinder": {
+      "name": "아다먼트 웨이파인더",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신은 자신의 @UUID[Compendium.pf2e.equipment-srd.Item.gbwr57aT9ou8yKWT]{Wayfinder}를 특별히 강화하여, 장치가 유해한 에너지를 흡수하는 방법을 고안했습니다. 이 혜택을 구매하면 소지하고 있는 @UUID[Compendium.pf2e.equipment-srd.Item.gbwr57aT9ou8yKWT]{Wayfinder} 하나에 적용되어, @UUID[Compendium.pf2e.equipment-srd.Item.gbwr57aT9ou8yKWT]{Wayfinder}가 장착되어 소지 중일 때 특별한 반응 능력을 얻습니다. 다음과 같은 반응 능력을 얻습니다.</p><hr /><p><strong>피해 저항</strong> <span class=\"action-glyph\">R</span></p>\n<p><strong>발동 조건</strong> 당신이 피해를 받을 경우.</p><hr /><p><strong>효과</strong> 산, 냉기, 전기, 화염, 힘, 음, 양, 음파 피해에 대한 저항 1을 한 번의 공격, 주문 또는 효과에 대해 얻습니다. 이는 초기 효과에만 적용되며, 이후 공격이나 효과에 의해 발생하는 피해(지속 피해나 지속적인 위험 등)에는 적용되지 않습니다.  이 저항은 당신이 경계의 인장으로 존경받는 명성 단계에 도달하면 2로, 숭배받는 명성 단계에 도달하면 4로 증가합니다.</p><hr /><p>당신은 모험당 한 번 이 혜택을 안전하게 사용할 수 있습니다. 두 번째로 사용을 시도하여 위험을 감수하고 길찾이를 과충전할 수 있습니다. 그렇게 할 경우, @Check[flat|dc:10]을 굴립니다. 성공 시 길찾이는 고장 나고, 실패 시 길찾이는 파괴됩니다. 이미 과충전된 길찾이를 과충전하려고 시도하면 (수리되었더라도) 아이템이 자동으로 파괴되며 활성화된 혜택을 제공하지 않습니다.</p>\n<p>특수: 단일 길찾이에 여러 개의 업그레이드를 적용할 수 있습니다. 각 업그레이드는 혜택을 구매할 때 선택한 소지하고 있는 길찾이 하나에만 영향을 미칩니다. 길찾이에 여러 개의 업그레이드가 있는 경우 시나리오당 각 능력을 안전하게 한 번만 사용할 수 있습니다.</p>\n<p>이 업그레이드가 적용된 길찾이가 파괴되면, 길찾이 자체 비용 외에는 추가 비용 없이 휴식 시간에 다른 길찾이에 업그레이드를 적용할 수 있습니다.</p>"
+    },
+    "Adversary Lore": {
+      "name": "적 정보",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신의 무기가 아무리 강력하더라도 어디를 공격해야 할지 모른다면 소용없습니다. 당신은 특정 종류의 생물을 연구하는 데 시간을 할애하여 나중에 그들의 능력을 쉽게 떠올릴 수 있도록 하였습니다. 이 혜택을 구매할 때 아래 목록 1에서 하나의 생물 유형을 선택하거나 목록 2에서 두 개의 생물 유형을 선택하십시오. 선택한 유형의 생물에 대한 @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge} +1 상황 보너스를 얻습니다. 당신의 경계의 인(Vigilant Seal)과의 명성 단계가 존경받는(Revered) 단계라면 이 보너스는 +2로 증가합니다.</p>\n<p><strong>목록 1:</strong> aberration, animal, beast, construct, dragon, elemental, fiend, undead.</p>\n<p><strong>목록 2:</strong> astral, celestial, ethereal, fey, fungus, giant, monitor, ooze, plant.</p><hr /><p>특수: 당신은 같은 캐릭터에게 이 혜택을 여러 번 적용할 수 있습니다. 하지만 캐릭터는 각 모험 전에 하나의 생물 집합에 대한 훈련에 집중해야 하며, 동시에 여러 개의 혜택을 받을 수 없습니다.</p>"
+    },
+    "AoA #146: Mwangi Summoner": {
+      "name": "AoA #146: 망와니 서머너",
+      "description": "<p>당신이 여행 중에 만났던 에쿠자에가 당신에게 망와니 익스팬스를 배회하는 생물들에 대해 가르쳐 주었습니다. 당신은 적절한 소환 주문을 위해 다음 생물들을 사용할 수 있습니다: 빌로코 워리어, 빌로코 베테랑, 엘로코, 그리고 키시.</p>"
+    },
+    "AoA #147: Boon A - Heroic Membership": {
+      "name": "AoA #147: Boon A - 히어로익 멤버십",
+      "description": "<p>영웅 회원 자격: 당신의 모험은 강력한 조직 내에서 독특한 위치를 얻게 해주었습니다. 다음 옵션 중 하나 옆에 있는 상자에 체크하고 크로니클 시트에서 다른 옵션에 X표를 하십시오.</p>\n<p><strong>□ 라쿠나펙스 회원 자격</strong> 당신은 라쿠나펙스 스파이 네트워크에 합류하였고 다음 특징과 주문에 접근할 수 있습니다:</p>\n<ul>\n<li>특징: @UUID[Compendium.pf2e.feats-srd.Item.z1Z22gTp7J1VRLSR]{Different Worlds}, @UUID[Compendium.pf2e.feats-srd.Item.XZcd1wFHy111klu2]{Reveal Machinations}, @UUID[Compendium.pf2e.feats-srd.Item.mZcI1NKtQhteAQLn]{Silver's Refrain}, @UUID[Compendium.pf2e.feats-srd.Item.vWtPxwND60EpxBAU]{Tweak Appearances}.</li>\n<li>주문: @UUID[Compendium.pf2e.spells-srd.Item.znMvKqcRDilIVMwA]{Exchange Image}, @UUID[Compendium.pf2e.spells-srd.Item.8bdt1TvNKzsCu9Ct]{Join Pasts}, @UUID[Compendium.pf2e.spells-srd.Item.xM35hJacTM1BSXUl]{Silver's Refrain}, @UUID[Compendium.pf2e.spells-srd.Item.Jli9WBjQZ2MmKJ8y]{Spiritual Anamnesis}.</li>\n</ul>\n<p><strong>□ 벨플라워 회원 자격</strong> 당신은 벨플라워 네트워크의 회원이며 @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.cdnkS3A8OpOnRjKu]{Bellflower Tiller} 아키타입과 그에 따른 특징, 그리고 @UUID[Compendium.pf2e.equipment-srd.Item.ifsBwfIhd6UcoUCI]{Bellflower Toolbelt}에 접근할 수 있습니다.</p>"
+    },
+    "AoA #147: Boon B - Expanded Summoning": {
+      "name": "AoA #147: 분 붕 - 익스팬디드 서머닝",
+      "description": "<p>당신께서는 다음 몬스터들을 소환 주문으로 소환할 수 있습니다: 블러드 보어, 칼라바쿠스, 오실루스, 그리고 루살카.</p>"
+    },
+    "AoA #148: Boon A - Crystal Clear": {
+      "name": "AoA #148: Boon A - 크리스털 클리어",
+      "description": "<p>당신의 엘프 유령 탈라미라와의 우정으로 고대 크리스탈 키퍼들의 비밀이 풀렸습니다. 당신은 @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.rxyJUbQosVfgRjLr]{Crystal Keeper} 아키타입과 모든 관련 업적에 접근할 수 있게 되었습니다.</p>"
+    },
+    "AoA #148: Boon B - Expanded Summoning": {
+      "name": "AoA #148: 분 빌 - 익스팬디드 서머닝",
+      "description": "<p>당신은 다음 몬스터들을 만났으며, 적절한 소환 주문을 안다면 이들을 소환할 수 있습니다: 카니보러스 크리스털과 데큘리.</p>"
+    },
+    "AoA #149: Boon A - Advanced Training": {
+      "name": "AoA #149: Boon A - 어드밴스드 트레이닝",
+      "description": "<p>당신의 모험 덕분에 특정 분야에서 특별한 훈련을 받았습니다. 다음 옵션 중 하나 옆의 상자에 체크하고 나머지 하나는 당신의 크로니클 시트에서 지워주십시오.</p>\n<p><strong>□ 포이즈너 트레이닝</strong> 당신은 희귀한 독 사용 기술을 훈련받았으며, 다음 업적에 접근할 수 있습니다: @UUID[Compendium.pf2e.feats-srd.Item.AYXherMu9gFTyXjp]{Deadly Poison Weapons}, @UUID[Compendium.pf2e.feats-srd.Item.hPanopG3TbXKr52O]{Pesh Skin}, 그리고 @UUID[Compendium.pf2e.feats-srd.Item.9u0uW1vZThRayXk2]{Shaped Contaminant}.</p>\n<p><strong>□ 제퍼 가드 멤버십</strong> 당신은 제퍼 가드의 일원이며 @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.KORSADviZaSccs2W]{Zephyr Guard} 아키타입과 관련 업적에 접근할 수 있습니다.</p>"
+    },
+    "AoA #149: Boon B - Katapesh Companion": {
+      "name": "AoA #149: 분 분 - 카타페시 동반자",
+      "description": "<p>카타페시에서 보낸 시간 동안 당신은 새로운 종류의 동반 생물을 발견했습니다. 당신은 낙타, 하이에나, 그리고 독수리 동물 동반자에 접근할 수 있게 됩니다.</p>"
+    },
+    "AoA #149: Boon C - Expanded Summoning": {
+      "name": "AoA #149: 분 씨 - 확장된 소환",
+      "description": "<p>당신은 코르누곤, 크루시데몬, 널페쉬니, 그리고 솔리푸지드 괴물들을 만났으며, 적절한 소환 주문을 안다면 이들을 소환할 수 있습니다.</p>"
+    },
+    "AoA #150: Boon A - Legacy of Ashes": {
+      "name": "AoA #150: Boon A - 레거시 오브 애시즈",
+      "description": "<p>당신은 다음 배경 중 하나를 사용하여 1레벨 캐릭터를 생성할 수 있습니다: @UUID[Compendium.pf2e.backgrounds.Item.3kXTGUvodNMnJTxb]{Aiudara Seeker}, @UUID[Compendium.pf2e.backgrounds.Item.mxJRdRSMsyZfBf5c]{Hermean Heritor}, @UUID[Compendium.pf2e.backgrounds.Item.84uVpQFCqn0Atfpo]{Legendary Parents}, @UUID[Compendium.pf2e.backgrounds.Item.4naQmCXBl0007c2W]{Touched by Dahak}</p>"
+    },
+    "AoA #150: Boon B - Paragon of Promise": {
+      "name": "AoA #150: Boon B - Paragon 오브 프로미스",
+      "description": "<p>당신께서는 전설적인 업적을 달성하시고 동료들과 공유할 희귀한 비밀들을 밝혀내셨습니다. 당신이 생성하는 모든 캐릭터는 이 책 76-77페이지에 나열된 모든 클래스 피트와 포커스 스펠을 사용할 수 있지만, 캐릭터는 여전히 모든 전제 조건을 정상적으로 충족해야 합니다.</p>"
+    },
+    "Beginnings and Endings": {
+      "name": "시작과 끝",
+      "description": "<p><strong>[Slotless]</strong></p>\n<p><strong>선행 조건</strong> 베르단트 휠 1단계</p>\n<p><strong>비용</strong> 명성 0</p>\n<hr />\n<p><strong>효과</strong> 퍼스파인더 소사이어티 모험이 포함된 행사의 행사 주최자 또는 본부 자원봉사자로 활동하거나, 이러한 행사의 설치 또는 정리에 자원봉사자들을 지원하십시오. 그렇게 하면 다음 시나리오를 플레이할 때 베르단트 휠 진영과의 명성 2와 평판을 추가로 얻습니다.</p>\n<p><strong>특수 효과</strong> 당신은 베르단트 휠 진영과의 현재 평판 단계와 같은 횟수만 이 혜택을 받을 수 있습니다. 이 혜택의 요구 사항을 충족할 때마다, 연관된 평판 단계와 함께 다음 연대기 시트에 표시하십시오. GM에게 이 표기 옆에 서명을 받으십시오. 여러 캐릭터가 이 혜택을 받을 수 있더라도, 당신은 운영하는 한 모험당 한 캐릭터에 대해서만 이 혜택으로 추가 명성과 평판을 얻을 수 있습니다.</p>"
+    },
+    "Bequeathal (Rare)": {
+      "name": "베퀘설 (희귀)",
+      "description": "<p><strong>비용</strong>: 8 AcP</p><hr /><p>탐험가들은 종종 자신들에게 쓸모없는 이상한 보물을 발견합니다. 협력이라는 협회의 정신에 따라 관대한 탐험가들은 자신의 시간과 자원을 사용하여 이러한 보상으로부터 더 큰 이익을 얻을 수 있는 다른 요원들을 찾습니다. 당신이 이 혜택을 얻으면, 모험의 연대기 기록표나 온라인 혜택 상점의 무료 혜택을 통해 접근할 수 있게 된 희귀한 캐릭터 옵션 하나를 선택하십시오 (예: 목록에 있는 마법 아이템 또는 특별한 동물 동반자를 얻을 수 있게 해주는 혜택).</p>\n<p>당신의 다른 캐릭터를 선택하십시오. 그 캐릭터는 그 특별한 옵션에 접근할 수 있게 되지만, 연대기 기록표의 모험을 플레이할 수 있는 가장 낮은 레벨(예: 5~8레벨의 경우 5레벨) 이상이 될 때까지는 그 옵션을 사용할 수 없습니다. 수혜 PC는 또한 혜택에 대한 모든 전제 조건을 충족해야 합니다(예:  잃어버린 전조 탐험가 협회 가이드의 특정 진영의 독특한 장비에 접근하려면 특정 진영의 호감을 얻어야 함). 연대기 기록표나 혜택에 \"증여됨\"과 수혜 캐릭터 번호를 옵션 옆에 적으십시오. 당신은 더 이상 그 옵션에 접근할 수 없습니다(그리고 만약 당신이 그 옵션을 얻었고 더 이상 자격이 되지 않는다면 캐릭터 옵션을 재훈련하거나 아이템을 전액 환불받아야 합니다).</p>"
+    },
+    "Bequeathal (Uncommon)": {
+      "name": "베퀘설 (언커먼)",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>탐험가들은 종종 자신들에게 쓸모없는 이상한 보물들을 발견합니다. 협력이라는 협회의 정신에 따라 관대한 탐험가들은 자신의 시간과 자원을 사용하여 이러한 보상으로부터 더 많은 이익을 얻을 수 있는 다른 요원들을 찾습니다. 당신이 이 혜택을 얻으면, 모험의 연대기 시트 또는 온라인 혜택 상점의 무료 혜택(예: 목록에 있는 마법 아이템 또는 특별한 동물 동반자를 얻을 수 있게 해주는 혜택)을 통해 접근 권한을 얻은 특이한 캐릭터 옵션 하나를 선택하십시오.</p>\n<p>당신의 다른 캐릭터를 선택하십시오. 그 캐릭터는 그 특별한 옵션에 접근 권한을 얻지만, 연대기 시트의 모험을 플레이할 수 있는 가장 낮은 레벨(예: 5~8레벨의 경우 5레벨) 이상이 될 때만 그 옵션을 사용할 수 있습니다. 수혜 PC는 또한 혜택에 대한 모든 전제 조건을 충족해야 합니다(예:  Lost Omens Pathfinder Society Guide의 특정 진영의 독점 장비에 접근하려면 특정 진영의 호감을 얻어야 함). 연대기 시트 또는 혜택에 \"양도됨\"과 수혜 캐릭터 번호를 옵션 옆에 적으십시오. 당신은 더 이상 그 옵션에 접근할 수 없습니다(그리고 만약 당신이 옵션을 얻었고 더 이상 자격이 되지 않는다면 캐릭터 옵션을 재교육하거나 아이템을 전액으로 되팔아야 합니다).</p>"
+    },
+    "Bequeathal (Unique)": {
+      "name": "베퀘설 (유니크)",
+      "description": "<p><strong>비용</strong>: 12 AcP</p><hr /><p>탐험가들은 종종 자신들에게 쓸모없는 이상한 보물들을 발견합니다. 협력이라는 협회의 정신에 따라, 너그러운 탐험가들은 자신의 시간과 자원을 들여 이러한 보상으로부터 더 많은 이득을 얻을 수 있는 다른 요원들을 찾습니다. 당신이 이 혜택을 얻으면, 모험의 연대기 시트 또는 온라인 혜택 상점의 무료 혜택(예: 목록에 있는 마법 아이템 또는 특별한 동물 동반자를 얻을 수 있게 해주는 혜택)을 통해 접근 권한을 얻은 하나의 고유한 캐릭터 옵션을 선택하십시오.</p>\n<p>당신의 다른 캐릭터를 선택하십시오. 그 캐릭터는 그 특별한 옵션에 접근 권한을 얻지만, 연대기 시트의 모험을 플레이할 수 있는 최저 레벨(예: 5~8레벨의 경우 5레벨) 이상이 될 때만 그 옵션을 사용할 수 있습니다. 수령하는 PC는 또한 혜택에 대한 모든 전제 조건을 충족해야 합니다(예:  잃어버린 전조 탐험가 협회 가이드의 특정 진영의 고유한 장비에 접근하려면 특정 진영에서 좋아하는 대상이어야 합니다). 연대기 시트나 혜택에 \"유증\"과 수령 캐릭터 번호를 옵션 옆에 적으십시오. 당신은 더 이상 그 옵션에 접근할 수 없습니다(그리고 옵션을 얻었고 더 이상 자격이 되지 않는 경우 캐릭터 옵션을 재훈련하거나 아이템을 전액으로 되팔아야 합니다).</p>"
+    },
+    "Bequethal": {
+      "name": "베퀘설",
+      "description": "<p><strong>[Service]</strong></p>\n<p><strong>선행 조건</strong> 어떤 진영이든 3티어</p>\n<p><strong>비용</strong> 드문 옵션의 경우 명성 4, 희귀 옵션의 경우 명성 8, 고유 옵션의 경우 명성 12.</p>\n<hr />\n<p><strong>효과</strong> 길잡이는 종종 자신에게는 쓸모없지만 동료에게는 유용할 이상한 보물을 발견합니다. 당신이 이 은혜를 얻으면, 모험의 연대기 시트를 통해 접근할 수 있게 된 드문, 희귀 또는 고유한 캐릭터 옵션 하나를 선택하십시오 (예: 특별한 동물 동반자를 얻거나 특별한 마법 아이템을 구입할 수 있게 해주는 은혜). 당신의 다른 캐릭터 하나를 선택하십시오. 그 캐릭터는 그 특별한 옵션을 대신 얻게 되지만, 그 옵션을 사용하려면 자신의 레벨이 연대기 시트의 모험을 플레이할 수 있는 최저 레벨 이상이어야 합니다 (예: 5티어~8티어의 경우 5레벨). 연대기 시트에 \"양도됨\"과 수령 캐릭터 번호를 옵션 옆에 적으십시오. 당신은 더 이상 그 옵션에 접근할 수 없습니다 (그리고 만약 당신이 옵션을 얻었고 더 이상 자격이 되지 않는다면 되팔아야 합니다).</p>\n<p><strong>특수 능력</strong> 이 은혜는 여러 번 구입할 수 있습니다. 매번 다른 캐릭터 옵션을 양도할 수 있습니다.</p>"
+    },
+    "Bring Them Back Alive": {
+      "name": "그들을 살아있는 채로 데려오십시오.",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신은 협회 내 당신의 인맥을 활용하여 아군의 부활을 위한 자금을 마련하여, 모두가 다음 모험을 볼 수 있도록 할 수 있습니다. 당신과 당신의 아군은 @UUID[Compendium.pf2e.spells-srd.Item.IkGYwHRLhkuoGReG]{Raise Dead} 주문과 @UUID[Compendium.pf2e.spells-srd.Item.kqhPt9344UkcGVYO]{Resurrect} 의식의 목적으로 자신의 실질적인 캐릭터 레벨을 1 낮춰 적용합니다. 이는 필요한 주문이나 의식의 등급과 주문을 시전하거나 의식을 수행하는 데 필요한 다이아몬드 비용을 계산하는 것 모두에 적용됩니다.</p>"
+    },
+    "Career Change": {
+      "name": "직업 변경",
+      "description": "<p><strong>비용</strong>: 50 AcP (+15 매번)</p><hr /><p>모험 사이에 당신은 이 혜택 앞의 상자를 체크하여 당신의 캐릭터를 완전히 재구축할 수 있습니다. gp로 구매한 모든 것과 직업, 특성, 기술 숙련도 및 관련 특징을 제거하십시오. 당신은 캐릭터의 종족, 유산 또는 배경을 변경할 수 없지만, 캐릭터 생성 시 선택한 능력치 점수 향상은 변경할 수 있습니다. 당신 캐릭터의 재산은 당신이 번 총 금액의 85%로 설정됩니다. 이 감소는 소모품 사용과 특히 유리한 가격에 되팔린 아이템으로 인한 소량의 손실을 나타냅니다.</p>\n<p>이 재구축 과정은 캐릭터가 얻은 명성, 평판 또는 gp의 양을 변경하지 않으며, 캐릭터가 주문 시전과 같은 서비스에 사용한 자원도 변경하지 않습니다. 당신은 또한 구매했던 명성 가격으로 모든 파벌 혜택을 환불받을 수 있지만, 사용했던 제한적 사용 혜택이나 파벌 명성을 얻는 데 사용했던 파벌 챔피언 혜택은 되팔 수 없습니다.</p>\n<p>캐릭터에 대한 모든 변경 사항은 캐릭터가 다음 모험을 진행할 때까지 적용되어야 합니다. 모험이 시작되면 이 혜택으로 더 이상 변경할 수 없습니다.</p>"
+    },
+    "Charitable Adventure": {
+      "name": "자선 모험",
+      "description": "<p><strong>[Slotless]</strong></p>\n<p><strong>전제조건</strong> 레디언트 오스 Tier 1</p>\n<p><strong>비용</strong> 명성 0</p>\n<hr />\n<p><strong>효과</strong> 탐험과 발견에 집중하는 사회이지만, 길잡이들의 활약은 상당한 수입을 가져다주며, 당신은 그 일부를 어려움에 처한 사람들에게 기부합니다. 당신이 주최측과 협력하여 자선 행사에서 모험을 진행하거나 운영할 경우, 레디언트 오스 진영과의 명성과 평판이 2씩 증가합니다.</p>\n<p><strong>특수 효과</strong> 당신은 레디언트 오스 진영과의 현재 평판 등급에 해당하는 횟수만큼만 이 혜택을 받을 수 있습니다. 이 혜택의 요구 사항을 충족할 때마다, 연대기표에 해당 평판 등급과 함께 표시하십시오. GM의 서명을 받으십시오.</p>"
+    },
+    "Combat Mentor": {
+      "name": "전투 멘토",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>경험이 적은 파인더 동료들과 함께 작업하는 동안 당신은 조언을 제공하고 훈련을 이끌어 더 새로운 동료들의 공격이 정확하게 적중하도록 합니다. 레벨 범프(Level Bump)의 혜택을 받고 당신보다 레벨이 낮은 모든 PC의 경우, 당신은 공격 굴림에 대한 레벨 범프의 수정치를 2로 증가시킵니다.</p>\n<p><strong>일반</strong>: 레벨 범프(Level Bump)는 PC의 공격 굴림 수정치를 1 증가시킵니다.</p>\n<p><strong>특수</strong>: PC는 두 개의 멘토 혜택만 받을 수 있습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.0PDng7D5Aj0szeSU]{Effect: Combat Mentor}</p>"
+    },
+    "Consummate Dabbler": {
+      "name": "컨슈머메이트 대블러",
+      "description": "<p><strong>[Slotless]</strong></p>\n<p><strong>요구 사항</strong> 호라이즌 헌터스와 함께 티어 1</p>\n<p><strong>비용</strong> 명성 0</p>\n<hr />\n<p><strong>효과</strong> 단순히 세상을 보는 것만으로는 충분하지 않습니다. 당신은 현지 문화의 익숙하지 않은 관습도 경험하고자 합니다. 당신이 Pathfinder 어드벤처 카드 소사이어티 시나리오 또는 스타파인더 소사이어티 시나리오를 플레이할 때, 당신은 다음 시나리오를 플레이할 때 호라이즌 헌터스 진영과 함께 추가 명성 2와 평판을 얻습니다.</p>\n<p><strong>특수 능력</strong> 당신은 호라이즌 헌터스 진영과의 현재 평판 티어와 같은 횟수만큼 이 보너스의 혜택을 받을 수 있습니다. 이 보너스의 요구 사항을 충족할 때마다, 연관된 평판 티어와 함께 당신의 크로니클 시트에 표시하십시오. GM에게 이 표기 옆에 서명을 받으십시오. 당신은 플레이된 시나리오당 한 캐릭터에 대해서만 이 보너스로 추가 명성과 평판을 얻을 수 있습니다. 이 보너스의 혜택을 받을 수 있는 여러 캐릭터가 있더라도 마찬가지입니다.</p>"
+    },
+    "Crafter's Workshop": {
+      "name": "크래프터스 워크숍",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신의 사절 동맹 친구들이 제작 재료를 공유하고 협력하여 더 효율적으로 새로운 아이템을 제작합니다. 당신은 기술 숙련 검사를 시도하기 전에 단 하루의 휴식 시간만 필요하며, 그 후 아이템의 실질적인 비용을 줄이기 시작합니다.</p>"
+    },
+    "Curse Breaker": {
+      "name": "저주 브레이커",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신은 협회 금고에서 저주받은 물건을 맡았으며, 대로지에서 시간을 보내 저주의 악영향을 인내심 있게 풀 수 있습니다. 이 혜택을 얻을 때, 당신이 접근할 수 있는 당신의 레벨 이하의 영구 마법 아이템을 선택하십시오. 당신은 다운타임을 사용하여 아이템의 완고한 저주를 지울 수 있습니다. 이것은 아이템을 제작하는 것과 같은 규칙을 사용하지만, 다음과 같은 예외가 있습니다. 첫째, 모든 목적을 위해 제작 대신 아케인, 자연, 신비 또는 종교를 사용해야 합니다. 둘째, 첫 번째 기술 숙련 검사를 시도하고 그 이후로 아이템의 실질적인 비용을 줄이기 시작하기 전에 단 2일의 다운타임만 소비하면 됩니다.</p>\n<p>당신은 이 혜택으로 여러 개의 마법 아이템의 저주를 풀 수 있지만, 하나의 아이템의 저주를 푸는 것을 마치기 전에 다음 아이템을 시작할 수 없습니다.</p>"
+    },
+    "Eager Protege": {
+      "name": "열정적인 수제자",
+      "description": "<p><strong>[Ally][Limited Use]</strong></p>\n<p><strong>선행 조건</strong> 엔보이즈 얼라이언스를 가진 2티어</p>\n<p><strong>비용</strong> 명성 4</p>\n<hr />\n<p><strong>효과</strong> 당신이 이 보너스를 장착하고 있는 동안, 유망한 신병, 수련생 또는 최근에 임명된 현장 요원이 당신과 동행합니다. 이 제자는 당신의 모험 활동을 관찰하고 때때로 직접적으로 기여합니다. 당신이 기술 숙련 검사 또는 공격 굴림을 시도하기 전, 모험당 한 번, 아군이 성공적으로 @UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{Aids} 당신에게 도움을 주어, 발동하는 검사에 +1 상황 보너스를 부여합니다.</p>\n<p>이 보너스가 장착되어 있는 동안 당신이 획득하는 경험치의 양을 계산합니다. 이런 방식으로 60 이상의 경험치를 계산하면, 당신은 당신의 보호자(protégé)가 새로운 모험을 위해 스스로 나서도록 격려할 수 있습니다. 이런 일이 발생하면, 당신은 더 이상 이 보너스를 장착할 수 없습니다. 하지만, 새로운 캐릭터를 생성할 때 이 보너스를 사용하여 캐릭터를 2레벨로 시작하고 12 경험치, 12 명성, 30 gp, 그리고 합법적인 여러 파벌에 분배할 수 있는 12 평판을 갖도록 할 수 있습니다. 이런 식으로 사용되면, 이 보너스는 다른 이점을 제공하지 않습니다.</p>"
+    },
+    "Envoy's Alliance Champion": {
+      "name": "엔보이즈 얼라이언스 챔피언",
+      "description": "<p><strong>[Faction]</strong></p>\n<p><strong>선행 조건</strong>  엔보이즈 얼라이언스를 가진 티어 0</p>\n<p><strong>비용</strong> 명성 4 (이 PC의 첫 번째 진영이라면 명성 0)</p>\n<hr />\n<p><strong>효과</strong> 이 진영 특전은 당신의 엔보이즈 얼라이언스 진영과의 초기 접촉 발전을 나타내며, 진영과의 평판을 얻을 수 있도록 합니다.</p>\n<p><strong>일반</strong> 캐릭터는 진영 특전이 장착되어 있지 않으면 평판을 얻지 못합니다.</p>"
+    },
+    "Envoy's Alliance Champion, Improved": {
+      "name": "엔보이즈 얼라이언스 챔피언, 임프루브드",
+      "description": "<p><strong>[Faction]</strong></p>\n<p><strong>선행 조건</strong> 2단계 엔보이즈 얼라이언스, @UUID[Compendium.pf2e.pathfinder-society-boons.Item.jzJ575vAsw2MaRgo]{Envoy's Alliance Champion}</p>\n<p><strong>비용</strong> 명성 8</p>\n<hr />\n<p><strong>효과</strong> 당신이 이 보너스를 장착하는 동안, 당신은 성공적으로 완료된 모험 이후 해당 진영과의 평판을 얻습니다. 자세한 내용은 주요 및 보조 목표에 명시되어 있습니다.</p>\n<p>또한, 당신이 이 보너스를 장착하면 모험 중 추가 보너스 슬롯 하나를 얻습니다. 이 추가 보너스 슬롯은 엔보이즈 얼라이언스 진영 단계가 1, 2 또는 3인 보너스에만 사용할 수 있습니다.</p>\n<p><strong>일반</strong> 캐릭터는 진영 보너스를 장착하지 않으면 평판을 얻지 못합니다.</p>"
+    },
+    "Envoy's Alliance Gear": {
+      "name": "엔보이즈 얼라이언스 기어",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신께서는 특사 연맹과의 관계와 신뢰를 구축함으로써 이 파벌이 선호하는 특별한 아이템에 접근할 수 있게 되었습니다. 당신은 특사 연맹 파벌 고유 장비에 접근할 수 있습니다.</p>"
+    },
+    "Esoteric Wayfinder": {
+      "name": "이소테릭 웨이파인더",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신은 당신의 @UUID[Compendium.pf2e.equipment-srd.Item.gbwr57aT9ou8yKWT]{Wayfinder}을 수정하여 정신 에너지를 집중시켜 더욱 신뢰할 수 있는 통찰력을 얻었습니다. 이 보너스를 구매하면 소지하고 있는 하나의 웨이파인더에 이점을 적용하여 웨이파인더가 장착되고 당신이 소지하고 있을 때 특별한 자유 행동 능력을 부여합니다.</p>\n<p>당신은 지식 상기 전에 자유 행동으로 이 능력을 활성화할 수 있습니다. 지식 상기 확인에서 대실패를 굴리면 실패로 처리됩니다.</p>\n<p>당신은 모험당 한 번 안전하게 이 혜택을 사용할 수 있습니다. 두 번째로 사용을 시도하여 웨이파인더를 과충전할 수 있지만, 파괴될 위험이 있습니다. 그렇게 할 때 @Check[flat|dc:10]을 굴립니다. 성공하면 웨이파인더가 고장나고, 실패하면 웨이파인더가 파괴됩니다. 이미 과충전된 웨이파인더를 과충전하려고 시도하면 (수리되었더라도) 아이템은 자동으로 파괴되며 활성화된 혜택을 제공하지 않습니다.</p>\n<p><strong>특수</strong>: 하나의 웨이파인더에 여러 개의 업그레이드를 적용할 수 있습니다. 각 업그레이드는 보너스 구매 시 선택한 소지하고 있는 하나의 웨이파인더에만 영향을 미칩니다. 웨이파인더에 여러 개의 업그레이드가 있는 경우 시나리오당 각 능력을 안전하게 한 번만 사용할 수 있습니다.</p>\n<p>이 업그레이드가 적용된 웨이파인더가 파괴되면, 휴식 시간에 웨이파인더 자체 비용 외에는 추가 비용 없이 다른 웨이파인더에 업그레이드를 적용할 수 있습니다.</p>"
+    },
+    "Evolving Destiny": {
+      "name": "진화하는 운명",
+      "description": "<p><strong>비용</strong>: 20 AcP</p><hr /><p>진화하는 운명 (제한적 사용, 서비스): 당신의 초기 모험은 당신에게 어려운 현실을 보여주었고, 당신의 기술 세트를 재검토하도록 강요했습니다. 다행히 당신의 경력은 짧고, 방향 수정이 상당히 간단합니다. 모험 사이에, 당신은 이 혜택 앞의 상자를 체크하여 캐릭터를 완전히 재구성할 수 있습니다. 단, 48 XP 이하일 경우에만 가능합니다 (직업 변경 혜택을 사용하면 어떤 레벨의 캐릭터든 재구성할 수 있습니다). 당신의 캐릭터가 gp로 구입한 모든 것, 그리고 직업, 업적, 기술 숙련도 및 관련 특징들을 제거하십시오 (하지만 당신의 배경이나 출신은 제거하지 않습니다). 당신 캐릭터의 부는 당신이 벌어들인 총 금액의 85%로 설정됩니다. 이 감소는 소모품 사용과 특히 유리한 가격으로 되팔린 아이템으로 인한 소량의 손실을 나타냅니다. 이 재구성 과정은 캐릭터가 획득한 명성, 평판 또는 gp의 양을 변경하지 않으며, 주문 시전과 같은 서비스에 사용한 자원도 변경하지 않습니다.</p>\n<p>당신은 또한 구입했을 때의 명성 가격으로 모든 파벌 혜택을 환불받을 수 있지만, 사용한 제한적 사용 혜택이나 파벌 챔피언 혜택을 파벌을 위해 평판을 얻는 데 사용한 경우 되팔 수 없습니다.</p>\n<p>캐릭터의 모든 변경 사항은 캐릭터가 다음 모험을 플레이할 때까지 적용되어야 합니다. 모험이 시작되면 이 혜택으로 더 이상 변경할 수 없습니다.</p>"
+    },
+    "Exemplary Recruiter": {
+      "name": "모범적인 모집가",
+      "description": "<p><strong>[Slotless]</strong></p>\n<p><strong>전제 조건</strong> 4단계이며, Envoy's Alliance 소속입니다</p>\n<p><strong>비용</strong> 명성 8</p>\n<hr />\n<p><strong>효과</strong> 당신은 수많은 유망한 신입들을 만나 면접을 보고 멘토링했지만, 당신의 설득력 있는 제안과 날카로운 눈썰미 덕분에 특히 뛰어난 요원을 발굴하고 영입했습니다. 이 혜택을 선택할 때, 현재 당신의 캐릭터에는 적용되지 않습니다. 대신, 경험치(XP)가 0인 당신의 Pathfinder Society 캐릭터 중 하나를 선택하십시오. 그 캐릭터는 경험치 12, 명성 12, 30gp, 그리고 어떤 수의 합법적인 세력에 분배할 수 있는 평판 12를 얻습니다.</p>\n<p><strong>특수 효과</strong> 당신은 Eager Protégé 혜택을 적용했던 것과 같은 캐릭터에 이 혜택을 적용할 수 있습니다. 단, 그 PC가 여전히 경험치 12를 가지고 있어야 합니다. 그렇게 할 경우, 대신 그 캐릭터의 경험치를 12 증가시키고(총 24), 하나 이상의 세력에 분배할 수 있는 추가 평판 12를 주며, 추가로 45gp를 지급합니다(총 75gp).</p>"
+    },
+    "Exotic Edge": {
+      "name": "이그조틱 에지",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신은 광범위하게 여행하면서, 난해한 기법을 사용하는 직관적인 재능을 개발했습니다. 모험당 한 번, 자유 액션으로 이 혜택을 활성화하여 이러한 기법을 적용하고, 1 라운드 동안 모든 공격 굴림 또는 모든 기술 굴림 중 하나에 +1 상황 보너스를 얻을 수 있습니다.</p>"
+    },
+    "Expert Hireling": {
+      "name": "전문 용병",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신이 이 보너스를 얻으면, 당신이 소유한 고용인 보너스 중 하나를 선택하십시오. 선택된 아군의 선택된 기술에 대한 숙련도가 전문가 수준으로 향상되고, 기술 판정에 대한 수정치가 4 + 당신의 레벨로 증가합니다.</p><hr /><p><strong>특수</strong>: 당신은 이 보너스를 여러 번 구매할 수 있습니다. 이 보너스를 구매할 때마다, 다른 고용인 보너스에 그 효과를 적용해야 합니다.</p>"
+    },
+    "FoP - Fiery Companion": {
+      "name": "FoP - 파이어리 컴패니언",
+      "description": "<p><strong>[Slotless][Limited Use]</strong> □</p>\n<p><strong>선행 조건</strong> 당신은 동물 동반자를 가지고 있습니다.</p>\n<hr />\n<p><strong>효과</strong> 당신이 동물 동반자를 가지고 있다면, 모험 사이에 상자에 체크하여 그것을 불꽃 표범으로 교체할 수 있습니다. 당신은 또한 동물 동반자를 가진 당신의 다른 캐릭터에게 이 혜택을 이전하여 그 캐릭터의 기존 동반자를 즉시 불꽃 표범으로 교체할 수 있습니다; 그 캐릭터와 함께 당신의 크로니클 사본을 보관하십시오.</p>"
+    },
+    "FoP - Noala's Lessons": {
+      "name": "FoP - 노알라의 강의",
+      "description": "<p><strong>[Slotless]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 레인저 특성 @UUID[Compendium.pf2e.feats-srd.Item.e9NcDk6ds5YebGvb]{Relentless Stalker} 또는 기술 특성 @UUID[Compendium.pf2e.feats-srd.Item.BV5jpSifVJsTwoO7]{Wilderness Spotter} 중 하나를 선택하여 사용할 수 있습니다. 하나의 특성을 선택하셨으면, 이 혜택 옆의 상자에 체크하고 다른 하나는 지우십시오.</p>"
+    },
+    "Grand Archive Champion": {
+      "name": "그랜드 아카이브 챔피언",
+      "description": "<p><strong>[Faction]</strong></p>\n<p><strong>선행 조건</strong> 그랜드 아카이브와 함께 티어 0</p>\n<p><strong>비용</strong> 명성 4 (이 PC의 첫 번째 진영이라면 명성 0)</p>\n<hr />\n<p><strong>효과</strong> 이 진영 특전은 그랜드 아카이브 진영과의 초기 접촉 발전을 나타내며, 당신이 진영과의 평판을 얻을 수 있도록 합니다. 이 특전이 장착된 동안, 당신은 주요 및 보조 목표에 자세히 설명된 대로 성공적으로 완료된 모험 후에 해당 진영과의 평판을 얻습니다.</p>\n<p><strong>일반</strong> 캐릭터는 진영 특전이 장착되어 있지 않으면 평판을 얻지 못합니다.</p>"
+    },
+    "Grand Archive Champion, Improved": {
+      "name": "그랜드 아카이브 챔피언, 개선됨",
+      "description": "<p><strong>[Faction]</strong></p>\n<p><strong>선행 조건</strong> 2티어 이상의 그랜드 아카이브 소속, @UUID[Compendium.pf2e.pathfinder-society-boons.Item.8fbBYNkFQgU3IQV0]{Grand Archive Champion}</p>\n<p><strong>비용</strong> 명성 8</p>\n<hr />\n<p><strong>효과</strong> 이 파벌 특전은 당신의 그랜드 아카이브 파벌 내 확장된 인맥을 나타냅니다. 이 특전을 장착한 동안, 당신은 성공적으로 완료된 모험 후에 해당 파벌과의 평판을 얻게 되며, 그 세부 내용은 주요 및 보조 목표에 명시되어 있습니다.</p>\n<p>또한, 이 특전을 장착하면 모험 중에 추가적인 특전 슬롯 하나를 얻게 됩니다. 이 추가 특전 슬롯은 그랜드 아카이브 파벌 티어 1, 2 또는 3을 선행 조건으로 포함하는 특전에만 사용할 수 있습니다.</p>\n<p><strong>일반</strong> 캐릭터는 파벌 특전을 장착하지 않은 경우 평판을 얻지 못합니다.</p>"
+    },
+    "Grand Archive Gear": {
+      "name": "그랜드 아카이브 기어",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신께서는 대영토 아카이브와의 관계를 구축하고 신뢰를 얻음으로써 이 파벌이 선호하는 특별한 아이템에 접근할 수 있게 되었습니다. 당신은 대영토 아카이브 파벌 고유 장비에 접근할 수 있습니다.</p>"
+    },
+    "Harmonic Wayfinder": {
+      "name": "하모닉 웨이파인더",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p><strong>효과</strong> 당신은 당신의 @UUID[Compendium.pf2e.equipment-srd.Item.gbwr57aT9ou8yKWT]{Wayfinder}을 동료들의 행동과 공명하도록 수정하여 필요할 때 그들을 더 잘 도울 수 있게 되었습니다. 이 혜택을 구매할 때, 소지하고 있는 하나의 웨이파인더에 이 혜택을 적용하여 웨이파인더가 장착되어 당신이 소지하고 있을 때 특별한 자유 행동 능력을 부여합니다.</p>\n<p>당신은 동료를 지원하기 전에 자유 행동으로 이 능력을 활성화할 수 있습니다. 지원 확인에 성공하면 대신 결정적 성공을 얻습니다.</p>\n<p>당신은 모험당 한 번 안전하게 이 혜택을 사용할 수 있습니다. 웨이파인더를 과충전하여 파괴할 위험을 감수하고 두 번째로 사용을 시도할 수 있습니다. 그렇게 할 때 @Check[flat|dc:10]을 굴립니다. 성공하면 웨이파인더가 고장나고, 실패하면 웨이파인더가 파괴됩니다. 이미 과충전된 웨이파인더를 과충전하려고 시도하는 경우 (수리되었더라도) 아이템은 자동으로 파괴되며 활성화된 혜택을 제공하지 않습니다.</p>\n<p><strong>특수</strong>: 하나의 웨이파인더에 여러 개의 업그레이드를 적용할 수 있습니다. 각 업그레이드는 혜택을 구매할 때 선택한 소지하고 있는 하나의 웨이파인더에만 영향을 미칩니다. 웨이파인더에 여러 개의 업그레이드가 있는 경우 시나리오당 각 능력을 안전하게 한 번만 사용할 수 있습니다.</p>"
+    },
+    "Heroic Aegis": {
+      "name": "히어로익 이지스",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신은 베르단트 휠의 일원으로서 자연 세계를 이루는 삶과 죽음의 순환을 숙고하는 시간을 보냈으며, 가장 취약한 순간에도 방어를 굳건히 유지할 수 있습니다. 죽음을 면하기 위해 영웅 포인트를 사용할 때, 다음 턴이 끝날 때까지 AC와 내성 굴림에 +2 상태 보너스를 얻습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.a8LGc1NEXXBTvvy3]{Effect: Heroic Aegis}</p>"
+    },
+    "Heroic Defiance": {
+      "name": "영웅적 도전",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신이 죽음을 피하기 위해 영웅 포인트를 사용할 때, 1 히트 포인트로 즉시 깨어날 수 있습니다.</p><p><strong>일반</strong>: 당신이 죽음을 피하기 위해 영웅 포인트를 사용할 때, 0 히트 포인트로 안정화되지만, 히트 포인트가 0보다 높아질 때까지 깨어나지 않습니다.</p>"
+    },
+    "Heroic Hustle": {
+      "name": "히어로익 허슬",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>진정한 영웅의 순간에, 당신은 항상 행동이 있는 곳으로 이동할 수 있습니다. 당신이 영웅 포인트를 사용하여 판정을 재주사위 굴릴 때, 당신은 다음 턴이 끝날 때까지 이동 속도에 +10피트 상태 보너스를 얻습니다.</p>\n<p>당신이 죽음을 피하기 위해 영웅 포인트를 사용한 후, 당신은 다음으로 의식을 되찾을 때 자유 행동으로 일어설 수도 있습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.i5PHb9yR33Cr6XMK]{Effect: Heroic Hustle}</p>"
+    },
+    "Heroic Inspiration": {
+      "name": "영웅적 영감",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신의 가장 중대한 행동은 동맹들에게 따르도록 고무할 수 있습니다. 당신이 영웅 포인트를 사용하여 판정을 재굴림하고 성공하면, 동맹들은 1 라운드 동안 같은 종류의 판정(예: 공격 굴림, 의지 내성 굴림 또는 지각 판정 등)에 +1 상황 보너스를 얻습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.53nP5ljwRhD9BlUk]{Effect: Heroic Inspiration}</p>"
+    },
+    "Heroic Intervention": {
+      "name": "영웅 개입",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신의 영웅적인 순간은 다른 이들에게 계속 싸울 의지를 줍니다. 당신이 히어로 포인트를 사용하면, 당신과 30피트 이내에 있는 당신을 볼 수 있는 모든 아군은 @Damage[3d6[healing]] 히트 포인트를 회복합니다 (당신이 레디언트 오우스에 의해 존경받는다면 @Damage[4d6[healing]]). 이 치유는 죽어가는 아군에게도 적용되며, @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} 때문에 당신을 볼 수 없더라도 마찬가지입니다.</p>"
+    },
+    "Heroic Recall": {
+      "name": "영웅적 회상",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>절박한 순간에는 예리한 통찰력이 필요합니다. 당신이 히어로 포인트를 사용하면, 자유 액션으로 리콜 노レッジ를 사용하여 기술 숙련도 검사를 두 번 굴리고 더 좋은 결과를 사용할 수 있습니다. 이것은 포춘 효과입니다.</p>"
+    },
+    "Heroic Resurgence": {
+      "name": "영웅적 재기",
+      "description": "<p><strong>[Heroic]</strong></p>\n<p><strong>선행 조건</strong> 티어 3 및 버던트 휠</p>\n<p><strong>비용</strong> 명성 4</p>\n<p><span style=\"color: #ff0000;\"><strong>(이 특전의 일부는 규칙에 따라 예상대로 작동하지 않을 수 있습니다)</strong></span></p>\n<hr />\n<p><strong>효과</strong> 버던트 휠이 생명과 죽음의 순환을 균형 있게 유지하는 것처럼, 당신은 힘든 순간에 존재와 멸망 사이를 춤출 수 있습니다. 당신이 죽음을 막기 위해 영웅 포인트를 사용할 때, 영웅 포인트 효과를 적용하기 전에 당신의 죽어가는 상태와 부상 상태의 값을 기록하십시오. 다음 턴이 끝날 때까지, 당신은 공격 굴림에 +1 상태 보너스를 얻고, 또한 기록된 값과 같은 정도의 상황 보너스를 피해 굴림, 인지력 검사, 기술 검사, 그리고 내성 굴림에 얻습니다 (명성 티어 3의 경우 최대 +2, 명성 티어 4의 경우 +3).</p>"
+    },
+    "Hireling": {
+      "name": "용병",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신은 특정 기술 숙련 검정을 돕는 비전투 고용인을 고용했습니다. 이 아군은 선택된 기술을 당신의 레벨 + 2와 같은 총 수정치로 수행하며, 해당 기술에 숙련된 것으로 간주됩니다. 당신은 행동을 소모하고 행동을 직접 수행할 수 있는 사정거리 내에 있어야 하며, 이러한 행동의 결과는 당신에게 영향을 미칩니다 (예: 능력치 점프를 사용하여 등반할 때 낙하하는 경우). </p><p>고용인은 자체 능력치 수정치를 가지고 있지 않으며, 아이템 보너스, 상태 보너스 또는 행운 효과의 이점을 받을 수 없습니다. 당신에게 상황 보너스를 부여하는 능력은 당신이 검정을 시도하기 위해 당신의 행동을 사용하더라도 당신의 고용인에게 그 상황 보너스를 부여하지 않습니다. 당신은 당신 자신의 고용인을 도울 수 없습니다.</p><p>전투 중 지식 상기 외에는 고용인의 기술을 사용할 수 없으며, 고용인은 전투에 영향을 받거나 전투에 영향을 줄 수 없고, 고의로 위험에 처하지 않는 한 피해를 입을 수 없으며, 선택된 기술 숙련 검정을 수행하는 것 이외의 효과는 없습니다.</p><p>당신이 이 특전을 구매할 때, 당신은 하나의 기술과 하나의 지식 기술을 선택합니다. 고용인은 이러한 기술의 검정만 수행할 수 있습니다.</p><hr /><p><strong>특수</strong>: 당신은 같은 캐릭터에 이 특전을 여러 번 적용할 수 있지만, 어떤 모험에서든 하나의 고용인 특전만 이용할 수 있습니다.</p>"
+    },
+    "Hireling Translator": {
+      "name": "용병 통역관",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신은 모험에 동행하는 유능한 언어학자를 고용하셨습니다. 이 동료는 일반어와 함께 이 혜택을 구매할 때 선택한 두 가지 추가적인 일반적인 희귀도의 언어를 말하고, 읽고, 이해합니다. 이 동료는 이러한 언어들을 당신에게 신속하게 번역하여, 추가적인 두 언어로 어려움 없이 의사소통할 수 있도록 효과적으로 도와줍니다. 그러나 언어적 특성을 가진 주문을 사용하는 목적으로는 당신이 그 언어들을 아는 것으로 간주되지 않습니다. 통역가는 전투에 영향을 미치거나 전투의 영향을 받을 수 없습니다.</p><hr /><p><strong>특수</strong>: 당신은 같은 캐릭터에게 이 혜택을 여러 번 적용할 수 있지만, 어떤 특정 모험에서도 단 하나의 고용인 혜택만 누릴 수 있습니다.</p>"
+    },
+    "Home Region": {
+      "name": "본거지 지역",
+      "description": "<p><strong>[Slotless]</strong></p>\n<p><strong>선행 조건</strong> 어떤 진영이든 0티어</p>\n<p><strong>비용</strong> 명성 0</p>\n<hr />\n<p><strong>효과</strong> 당신이 그곳에서 자랐거나 그곳을 고향이라고 부르는 법을 배웠기 때문인지, 한 국가가 당신에게 특별히 익숙합니다. 이 혜택을 구매할 때 한 국가(바리시아나 탈도르 등)를 선택하십시오. 드문 캐릭터 옵션의 선행 조건 및 접근 조건을 충족하는 목적으로, 당신은 해당 국가뿐 아니라 그 국가가 속한 더 큰 지역(바리시아의 경우 사가 랜드, 탈도르의 경우 빛나는 왕국 등) 출신으로 간주됩니다.</p>\n<p><strong>특수 효과</strong> 당신은 이 혜택을 여러 번 구매할 수 있지만, 구매할 때마다 새로운 곳에 익숙해지기 위해 이전 고향 지역을 잃게 됩니다. 그렇게 하기 전에, 이전 고향 지역 출신을 선행 조건으로 명시한 모든 옵션과 더 이상 접근할 수 없는 모든 옵션을 재훈련해야 합니다.</p>\n<p><strong>업적 점수</strong> 업적 점수로 접근할 수 있는 월드 트래블러 혜택은 전체 지역에 대한 유사한 접근 권한을 부여하여 지역 및 국가 기반 옵션에 접근할 수 있는 추가적인 방법을 제공합니다.</p>"
+    },
+    "Horizon Hunters Champion": {
+      "name": "호라이즌 헌터스 챔피언",
+      "description": "<p><strong>[Faction]</strong></p>\n<p><strong>전제조건</strong> 호라이즌 헌터스와 함께 티어 0</p>\n<p><strong>비용</strong> 명성 4 (이 PC의 첫 번째 진영이라면 명성 0)</p>\n<hr />\n<p><strong>효과</strong> 이 진영 보너스는 당신이 호라이즌 헌터스 진영과 초기 접촉을 발전시키는 것을 나타내며, 진영과의 평판을 얻을 수 있도록 합니다. 당신이 이 보너스를 장착한 동안, 주요 및 보조 목표에 자세히 설명된 대로, 성공적으로 완료된 모험 후에 진영과의 평판을 얻게 됩니다.</p>\n<p><strong>일반</strong> 캐릭터는 진영 보너스를 장착하지 않은 경우 평판을 얻지 못합니다.</p>"
+    },
+    "Horizon Hunters Champion, Improved": {
+      "name": "호라이즌 헌터스 챔피언, 개선됨",
+      "description": "<p><strong>[Faction]</strong></p>\n<p><strong>선행 조건</strong> 티어 2 달성 및 호라이즌 헌터스, @UUID[Compendium.pf2e.pathfinder-society-boons.Item.ph7CO8ong1sZmrNc]{Horizon Hunters Champion}</p>\n<p><strong>비용</strong> 명성 8</p>\n<hr />\n<p><strong>효과</strong> 이 파벌 특전은 당신의 호라이즌 헌터스 파벌 내 확장된 연결고리를 나타냅니다. 당신이 이 특전을 장착하는 동안, 주요 및 보조 목표에 자세히 설명된 대로, 성공적으로 완료된 모험 이후 파벌과의 평판을 얻게 됩니다.</p>\n<p>또한, 이 특전을 장착하면 모험 중 추가적인 특전 슬롯 하나를 얻게 됩니다. 이 추가 특전 슬롯은 호라이즌 헌터스 파벌 티어 1, 2 또는 3을 포함하는 선행 조건이 있는 특전에만 사용할 수 있습니다.</p>\n<p><strong>일반</strong> 캐릭터는 파벌 특전을 장착하지 않으면 평판을 얻지 못합니다.</p>"
+    },
+    "Horizon Hunters Gear": {
+      "name": "호라이즌 헌터스 기어",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신께서는 호라이즌 헌터스와의 관계를 구축하고 신뢰를 얻음으로써, 이 파벌이 선호하는 특별한 아이템에 접근할 수 있게 되었습니다. 당신은 호라이즌 헌터스 파벌 고유 장비에 접근할 수 있습니다.</p>"
+    },
+    "Iceferry Lodge Gear": {
+      "name": "아이스페리 롯지 기어",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신의 아이스페리 로지 주변 모험 덕분에 특별한 장비를 사용할 수 있게 되었습니다. 당신은 롱 트렉 스노슈즈를 사용할 수 있게 됩니다.</p>"
+    },
+    "Inherited Wayfinder": {
+      "name": "상속된 길잡이",
+      "description": "<p><strong>가격</strong>: 4 AcP</p><hr /><p>더욱 경험이 많은 패스파인더 요원이 당신에게 길찾이(웨이파인더), 즉 패스파인더 협회의 비공식적인 휘장 역할도 하는 마법 나침반을 제공했습니다. 이 요원은 당신을 위해 길찾이를 구매했거나, 은퇴하기 전에 자신의 길찾이를 물려주었거나, 다른 방법으로 당신을 위해 장치를 확보했을 수 있습니다. 당신은 길찾이(Pathfinder Core Rulebook 617페이지)를 얻습니다. 이 길찾이는 재판매 목적으로 0 gp의 효과적인 가격을 지닙니다.</p>"
+    },
+    "Lantern Lodge Gear": {
+      "name": "랜턴 로지 기어",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>랜턴 롯지 주변에서의 당신의 모험 덕분에 특별한 장비를 사용할 수 있게 되었습니다. 당신은 번역의 책 (Tien)을 사용할 수 있게 됩니다.</p>"
+    },
+    "Leader By Example": {
+      "name": "본보기가 되는 지도자",
+      "description": "<p><strong>[Slotless]</strong></p>\n<p><strong>선행 조건</strong> 비질런트 씰 1단계</p>\n<p><strong>비용</strong> 명성 0</p>\n<hr />\n<p><strong>효과</strong> 길잡이는 모험을 스스로 찾는 것이 아니라, 위험이 도사리는 곳으로 이끌어줄 누군가가 필요합니다. 위험한 여정에서 당신의 안내자로서, 당신의 명성은 높아집니다. 당신이 최소 4 XP를 부여하는 모험을 GM으로 진행하면, 비질런트 씰 진영과의 명성과 평판을 2 추가로 얻습니다. 총 XP가 4 이상이라면, 더 적은 XP를 부여하는 여러 모험을 진행하여 이 혜택의 자격을 얻을 수 있습니다.</p>\n<p><strong>특수 효과</strong> 당신은 비질런트 씰 진영과의 현재 평판 단계에 해당하는 횟수만큼만 이 혜택을 받을 수 있습니다. 이 혜택의 조건을 충족할 때마다, 연대기 시트에 해당 평판 단계와 함께 표시하십시오. 당신은 이 혜택으로 추가 명성과 평판을 하나의 모험당 한 캐릭터에 대해서만 얻을 수 있습니다. 이 혜택을 받을 수 있는 여러 캐릭터가 있더라도 마찬가지입니다.</p>"
+    },
+    "Leshy Companion": {
+      "name": "레쉬 컴패니언",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신은 드루이드가 아니더라도 2레벨 직업 특성으로 레쉬 파밀리어 특성을 선택할 수 있습니다. 당신은 잎의 계열에 속한다는 전제 조건을 무시할 수 있습니다.</p>\n<p>당신이 이 축복을 적용할 때, 당신은 휴식 시간을 소비하지 않고 당신의 2레벨 직업 특성을 레쉬 컴패니언으로 재훈련할 수 있습니다.</p>"
+    },
+    "Magical Mentor": {
+      "name": "마법 멘토",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>경험이 적은 Pathfinder 동료들과 함께 일하는 동안, 당신은 동료들의 마법을 강화하는 중요한 주문 시전 통찰력을 제공합니다. 레벨 상승(Level Bump)의 혜택을 받고 당신보다 레벨이 낮은 모든 PC들은 자신의 최고 레벨 주문 슬롯의 주문 하나를 더 준비하거나, 자신의 최고 레벨 주문 슬롯의 주문 하나를 더 시전할 수 있습니다. 당신이 주문 시전에 사용하는 전통과 같은 마법 전통의 주문을 시전할 때, 영향을 받는 PC는 레벨 상승의 주문 DC에 대한 수정치를 2로 증가시킵니다.</p>\n<p><strong>일반</strong>: 레벨 상승은 PC의 주문 DC를 1 증가시키며, 준비된 주문이나 주문 슬롯을 추가로 부여하지 않습니다.</p>\n<p><strong>특수</strong>: PC는 두 개의 멘토 혜택만 받을 수 있습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.b1sZC0knPcr7B6Gz]{Effect: Magical Mentor}</p>"
+    },
+    "Master Hireling": {
+      "name": "마스터 고용인",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신이 이 혜택을 얻으면, 당신이 소유한 고용인 혜택 하나를 선택하십시오. 선택된 아군은 그들이 시도할 수 있는 기술 숙련 검정 목록에 두 번째 전승 기술을 추가합니다.  또한, 고용인이 선택한 기술 중 하나에 숙련된 것을 전제 조건으로 하는 기술 특성 하나를 선택하십시오. 고용인은 기술 숙련 검정을 시도할 때 그 기술 특성의 이점을 얻습니다.</p><hr /><p><strong>특수</strong>: 당신은 같은 캐릭터에게 이 혜택을 여러 번 적용할 수 있습니다. 이 혜택을 구매할 때마다, 다른 고용인 혜택에 그 효과를 적용해야 합니다.</p>"
+    },
+    "Menace Under Otari": {
+      "name": "오타리의 위협",
+      "description": "<p><strong>덱핸드</strong> 당신의 모든 캐릭터가 다음 배경에 접근할 수 있게 되었습니다 (이 연대기 기록표 사본을 이 배경을 선택한 모든 캐릭터와 함께 포함하십시오).</p>\n<p><strong>@UUID[Compendium.pf2e.backgrounds.Item.IObZEUz8wneEMgR3]{Deckhand}</strong>[Background]</p>"
+    },
+    "Meticulous Appraisal": {
+      "name": "꼼꼼한 감정",
+      "description": "<p><strong>[Service]</strong></p>\n<p><strong>선행 조건</strong> 그랜드 아카이브를 가진 2티어</p>\n<p><strong>비용</strong> 명성 2</p>\n<hr />\n<p><strong>효과</strong> 당신의 신중한 탐색이 모든 귀중품을 찾아내지 못하더라도, 당신은 회수한 물품의 가치를 극대화하기 위해 감정하고, 수리하고, 인증할 수 있습니다. 당신과 당신의 동료들이 모험의 보물 꾸러미 9개 이하를 회수했을 때 시나리오 종료 시 이 혜택을 구매할 수 있습니다. 파티의 골드피스 보상을 계산할 때 회수한 보물 꾸러미의 실제 개수를 1개 증가시킵니다. 이 혜택을 구매할 때 추가로 지불하는 명성 2점당 회수한 보물 꾸러미의 실제 개수를 1개씩 증가시킵니다.</p>\n<p>이 혜택으로 제공되는 추가 보물 꾸러미의 총 개수는 파티가 실제로 회수한 보물 꾸러미의 개수를 초과할 수 없으며, 이 혜택으로 시나리오의 최대치를 넘어서는 보물 꾸러미 개수를 증가시킬 수도 없습니다.</p>"
+    },
+    "Multicultural Training": {
+      "name": "다문화 훈련",
+      "description": "<p><strong>[Slotless][Social]</strong></p>\n<p><strong>필요 조건</strong> 어떤 진영이든 티어 0</p>\n<p><strong>비용</strong> 명성 2</p>\n<hr />\n<p><strong>효과</strong> 당신은 출생, 성장 환경 또는 장기간의 노출 등을 통해 여러 문화의 구성원이라고 여기며, 여러 문화의 스타일을 모험가로서의 훈련에 접목하는 법을 배웠습니다. 바리시안이나 가룬디와 같은 추가적인 민족을 선택하십시오. 캐릭터 생성 시 선택한 민족 외에도, 전제 조건 및 접근 조건 충족을 위해 이 추가적인 민족의 구성원으로 간주됩니다.</p>\n<p><strong>일반</strong> 캐릭터 생성 시, 캐릭터 옵션의 전제 조건 및 접근 조건으로 사용할 수 있는 민족 하나를 선택할 수 있습니다. 이는 당신의 캐릭터 스토리나 정체성에는 영향을 미치지 않고, 선택 가능한 캐릭터 옵션에만 영향을 미칩니다.</p>\n<p><strong>특수</strong> 이 특전은 여러 번 구매할 수 있습니다. 두 번째 구매 시 비용은 명성 12로 증가하며, 그 이후 구매는 각각 명성 20이 듭니다.</p>"
+    },
+    "Natural Skill": {
+      "name": "자연 기술",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신이 자연(Nature)에 대해 최소한 숙련되어 있다면, 다음 목록에서 보너스 기술 특성(skill feat)을 하나 얻습니다: @UUID[Compendium.pf2e.feats-srd.Item.WC4xLBGmBsdOdHWu]{Natural Medicine}, @UUID[Compendium.pf2e.feats-srd.Item.IlOQuCQIhjJpig3S]{Quick Identification}, @UUID[Compendium.pf2e.feats-srd.Item.MjQyTcV8Jiv1Jtln]{Recognize Spell} 또는 @UUID[Compendium.pf2e.feats-srd.Item.nowEaHgIyij7im8F]{Train Animal}. 이미 이 특성들 중 하나를 선택했다면, 자유롭게 선택을 재훈련할 수 있습니다.</p>"
+    },
+    "Naturalist": {
+      "name": "내추럴리스트",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신이 이 보너스를 적용할 때, 당신의 레벨 이하의 일반적인 연금술 아이템이나 물약 중 당신이 접근할 수 있는 것을 선택하십시오. 녹색 바퀴는 당신에게 이 아이템을 훨씬 더 효율적으로 제작하는 방법을 가르쳐 주었고, 1 배치(일반적으로 아이템의 4개 복사본)를 만드는 데 필요한 희귀 약초와 재료의 출처를 제공했습니다. 녹색 바퀴의 방법으로 아이템을 제작하는 것은 다음과 같은 예외를 제외하고 아이템 제작의 표준 규칙을 따릅니다. 첫째, 모든 목적을 위해 제작 대신 자연, 생존 또는 약초학 지식을 사용해야 합니다. 둘째, 첫 번째 기술 굴림을 시도하고 그 이후로 아이템의 실질적인 비용을 줄이기 시작하기 전에 2일의 휴식 시간만 필요합니다.</p>\n<p><strong>특수</strong>: 당신은 이 보너스를 여러 번 구입할 수 있습니다. 당신이 그렇게 할 때마다, 당신은 다른 아이템을 선택합니다.</p>"
+    },
+    "Nexus House Gear": {
+      "name": "넥서스 하우스 기어",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>넥서스 하우스 주변에서의 당신의 모험 덕분에 특별한 장비를 사용할 수 있게 되었습니다. 당신은 간자이 책을 사용할 수 있게 됩니다.</p>"
+    },
+    "Off-Hours Study": {
+      "name": "업무 외 학습",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신은 자유 시간을 새로운 잡학 지식을 배우거나 익숙하지 않은 언어를 연습하는 데 사용합니다. 당신이 이 보너스를 획득하면, 당신이 모르는 일반적인 언어 또는 당신이 숙련되지 않은 전승 기술을 선택하십시오. 이 보너스를 구매한 후, 당신은 선택한 언어 또는 기술을 연습하는 데 휴식 시간을 사용할 수 있습니다. 이런 식으로 50일의 휴식 시간을 사용하면 선택한 언어를 배우거나 선택한 전승 기술을 숙련하게 됩니다. 그러면 이 보너스는 더 이상 이점을 제공하지 않습니다.</p>\n<p><strong>특수</strong>: 당신은 이 보너스를 같은 캐릭터에게 여러 번 적용할 수 있습니다. 매번 다른 언어 또는 전승 기술을 선택하십시오.</p>"
+    },
+    "Open Road Lodge Gear": {
+      "name": "오픈 로드 롯지 기어",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신의 오픈 로드 롯지 주변 모험 덕분에 특별한 장비를 사용할 수 있게 되었습니다. 당신은 베르민 리펠런트 에이전트를 사용할 수 있게 됩니다.</p>"
+    },
+    "Pathfinder Condition Removal": {
+      "name": "패스파인더 상태 제거",
+      "description": "<p><strong>비용</strong>: 20 AcP</p><hr /><p>참회하는 길잡이 (슬롯 없음 특전): 당신의 모험 과정에서 마법으로만 해결될 수 있는 질병의 영향을 받았습니다. 이 특전을 구매할 때 아래 주문 중 하나를 선택하십시오. 길잡이 협회 치료사가 당신에게 그 주문을 시전합니다. 이 주문은 조건을 제거하는 데 자동으로 성공하며 금화가 들지 않습니다.</p>\n<p>사용 가능한 주문:</p><ul><li><p>@UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (지속 중인 주문 효과 하나 제거)</p></li><li><p>@UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{Cleanse Affliction}</p></li><li><p>@UUID[Compendium.pf2e.spells-srd.Item.SnaLVgxZ9ryUFmUr]{Restoration}</p></li><li><p>@UUID[Compendium.pf2e.spells-srd.Item.Pr1ruNTbzGn3H9w5]{Stone to Flesh}</p></li></ul>"
+    },
+    "Pathfinder Society (second edition) Replay": {
+      "name": "파스파인더 소사이어티 (세컨드 에디션) 리플레이",
+      "description": "<p><strong>비용</strong>: 40 AcP</p><hr /><p>당신께서는 1개의 리플레이를 획득하셨습니다. 당신의 다른 점수 합계와 함께 확인하실 수 있습니다. 이 PDF를 다운로드할 필요는 없지만 다운로드해주셔서 기쁩니다!</p>"
+    },
+    "Penitent Pathfinder": {
+      "name": "페니텐트 패스파인더",
+      "description": "<p><strong>비용</strong>: 20 AcP</p><hr /><p>Pathfinder Condition Removal (Slotless Boon): 당신은 소중히 여기는 규율을 어겼고, 바로잡고자 합니다. 당신의 신의 사제가 당신을 돕겠다고 동의했으며, 이제 당신은 속죄의 퀘스트를 수행할 수 있습니다. 이 보너스를 구매하면 성공적인 속죄 의식의 효과를 얻습니다.</p>\n<p>속죄에는 신이 선택한 임무에 종사하는 데 30일의 휴식 시간이 추가로 필요합니다. Pathfinder Society를 위해, 속죄는 의식이 시전될 때 완료된 것으로 간주되지만, 캐릭터는 여전히 그 후 30일의 휴식 시간을 속죄에 사용해야 하며 다른 목적으로 그 시간을 사용할 수 없습니다.</p>"
+    },
+    "Practiced Medic": {
+      "name": "숙련된 메딕",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신께서는 여가 시간을 필요한 사람들에게 의료 지원을 제공하는 데 사용하시면서, 비범한 응급 처치 본능을 기르셨습니다. 이 특전을 구매하신 후에는 휴식 시간을 사용하여 다른 사람들에게 의료 서비스를 제공할 수 있습니다. 이러한 방식으로 8일의 휴식 시간을 사용하시면,  의술 숙련 검사를 시도하기 전에 자유 행동으로 이 특전을 사용하여 응급 처치(Administer First Aid), 질병 치료(Treat Disease), 독 치료(Treat Poison), 또는 상처 치료(Treat Wounds)를 할 수 있습니다.  검사 성공 단계를 한 단계 향상시킵니다 (예를 들어, 실패를 굴리면 대신 성공하게 됩니다); 원래 굴림이 대성공인 경우에는 이 특전이 소모되지 않습니다. 이 특전을 사용한 후에는 다른 이점을 제공하지 않습니다.</p>\n<p><strong>특수 능력</strong> 당신은 이 특전을 여러 번 구매할 수 있지만, 모험당 하나 이상의 이 특전을 사용할 수는 없습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.OJibRFm4JCVGQZnx]{Effect: Practiced Medic}</p>"
+    },
+    "Preserve": {
+      "name": "보존하십시오.",
+      "description": "<p><strong>[Property]</strong></p>\n<p><strong>전제 조건</strong> 버던트 휠을 가진 3티어</p>\n<p><strong>비용</strong> 명성 4</p>\n<hr />\n<p><strong>효과</strong> 당신은 다양한 동물, 균류, 식물을 재배, 연구 또는 실험할 수 있는 작은 땅을 확보하여 건강에 좋은 많은 시약을 얻게 됩니다. 해독제, 역병 예방약, 나무껍질 물약, 생명의 영약, 치유 물약, 비행 물약, 도약 물약을 10% 할인된 가격으로 구매할 수 있습니다.</p>"
+    },
+    "Professional Hireling": {
+      "name": "전문 용병",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신이 이 보너스를 얻으면, 당신이 소유한 고용인 보너스 중 하나를 선택하십시오. 선택된 아군은 시도할 수 있는 기술 숙련 검정 목록에 두 번째 전승 기술을 추가합니다.  게다가, 고용인의 선택된 기술 중 하나에 숙련된 것을 전제 조건으로 하는 하나의 기술 특성을 선택하십시오. 고용인은 기술 숙련 검정을 시도할 때 그 기술 특성의 이점을 얻습니다.</p><hr /><p><strong>특수</strong>: 당신은 같은 캐릭터에게 이 보너스를 여러 번 적용할 수 있습니다. 이 보너스를 구매할 때마다, 다른 고용인 보너스에 그 효과를 적용해야 합니다.</p>"
+    },
+    "Promotional Accessory": {
+      "name": "홍보용 악세서리",
+      "description": "<p><strong>[Promotional]</strong></p>\n<p><strong>전제조건</strong> 당신이 탐험가 협회를 홍보하는 액세서리를 착용하거나 휴대하고 있습니다.</p>\n<p><strong>비용</strong> 명성 0</p>\n<hr />\n<p><strong>효과</strong> 모험당 최대 두 번, 당신은 액션을 소모하여 당신의 @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened} 또는 @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied} 상태의 심각도를 1만큼 감소시킬 수 있습니다.</p>\n<p><strong>특수 능력</strong> 플레이어 캐릭터는 한 번에 하나의 홍보 보너스만 장착할 수 있습니다.</p>"
+    },
+    "Promotional Service Award": {
+      "name": "홍보 서비스 상",
+      "description": "<p><strong>[Promotional]</strong></p>\n<p><strong>선행 조건</strong> 캠페인 코인을 가지고 있어야 합니다. 조직 플레이에 뛰어난 기여를 한 자원봉사자는 그들의 노고에 대한 보상으로 캠페인 코인을 받을 수 있습니다.</p>\n<p><strong>비용</strong> 명성 0</p>\n<hr />\n<p><strong>효과</strong> 당신이 캠페인 코인을 가지고 있다면, 매 모험의 시작 시 추가 영웅 포인트를 얻습니다. 일반 영웅 포인트의 능력 외에도, 이 특별한 영웅 포인트를 사용하여 다른 플레이어가 판정을 다시 굴리도록 할 수 있습니다.</p>\n<p><strong>특수 효과</strong> PC는 한 번에 하나의 프로모션 혜택만 장착할 수 있습니다.</p>"
+    },
+    "Promotional Vestments": {
+      "name": "홍보용 의복",
+      "description": "<p><strong>[Promotional]</strong></p>\n<p><strong>전제조건</strong> 당신이 봉사자 티셔츠, 탐험가 길드 티셔츠, 또는 탐험가를 테마로 한 코스프레 의상 등 탐험가 조직을 홍보하는 의복을 착용하고 있는 경우</p>\n<p><strong>비용</strong> 명성 0</p><hr /><p><strong>효과</strong> 당신이 영웅 점을 사용하여 판정을 다시 굴릴 때, 재굴림에 +1 상황 보너스를 더합니다.</p>\n<p><strong>특수 효과</strong> PC는 한 번에 하나의 홍보 보너스만 장착할 수 있습니다.</p>"
+    },
+    "Protective Mentor": {
+      "name": "보호적인 멘토르",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>경험이 부족한 패스파인더 동료들과 함께 일하는 동안, 당신은 더욱 연약한 피보호자들을 죽음의 위협으로부터 보호합니다. 레벨 범프의 혜택을 받고 당신의 레벨보다 낮은 레벨을 가진 모든 PC의 경우, 당신은 그들의 현재 및 최대 히트 포인트를 당신의 레디언트 오스(Radiant Oath) 명성 단계의 3배에 해당하는 추가적인 양만큼 증가시킵니다 (좋아함 = 1, 존경함 = 2, 숭배함 = 3).</p>\n<p><strong>일반</strong>: 레벨 범프는 PC의 히트 포인트를 10% 또는 10, 두 값 중 더 높은 값만큼 증가시킵니다.</p>\n<p><strong>특수</strong>: PC는 두 개의 멘토 혜택만 받을 수 있습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.IlSPZvli2IcLVPyi]{Effect: Protective Mentor}</p>"
+    },
+    "Radiant Oath Champion": {
+      "name": "레디언트 오쓰 챔피언",
+      "description": "<p><strong>[Faction]</strong></p>\n<p><strong>전제 조건</strong> 레디언트 오스의 티어 0</p>\n<p><strong>비용</strong> 명성 4 (이 PC의 첫 번째 진영이라면 명성 0)</p>\n<hr />\n<p><strong>효과</strong> 이 진영 보너스는 당신의 레디언트 오스 진영과의 초기 접촉 발전을 나타내며, 진영과의 평판을 얻을 수 있도록 합니다. 이 보너스가 장착된 동안, 성공적으로 완료된 모험 후에 주요 및 보조 목표에 상세히 설명된 대로 진영과의 평판을 얻습니다.</p>\n<p><strong>일반</strong> 캐릭터는 진영 보너스가 장착되어 있지 않으면 평판을 얻지 못합니다.</p>"
+    },
+    "Radiant Oath Champion, Improved": {
+      "name": "레디언트 오쓰 챔피언, 향상됨",
+      "description": "<p><strong>[Faction]</strong></p>\n<p><strong>선행 조건</strong> 레디언트 오쓰 2티어</p>\n<p><strong>비용</strong> 명성 8</p>\n<hr />\n<p><strong>효과</strong> 이 파벌 특전은 당신의 레디언트 오쓰 파벌 내 확장되는 관계를 나타냅니다. 이 특전을 장착하는 동안, 당신은 주요 및 보조 목표에 자세히 설명된 대로, 성공적으로 완료된 모험 후에 해당 파벌과의 평판을 얻습니다.</p>\n<p>또한, 이 특전을 장착하면 모험 중에 추가 특전 슬롯 하나를 얻습니다. 이 추가 특전 슬롯은 레디언트 오쓰 파벌 티어 1, 2 또는 3을 포함하는 선행 조건이 있는 특전에만 사용할 수 있습니다.</p>\n<p><strong>일반</strong> 캐릭터는 파벌 특전을 장착하지 않으면 평판을 얻지 못합니다.</p>"
+    },
+    "Radiant Wayfinder": {
+      "name": "레디언트 웨이파인더",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신은 특별히 당신의 웨이파인더를 증강하여, 장치가 @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} 생물체를 드러내는 방법을 고안했습니다. 당신이 이 보너스를 구매할 때, 당신은 소지하고 있는 하나의 웨이파인더에 그 효과를 적용하여 다음 활성화 능력을 부여합니다.</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 명령 (이보케이션, 굿, 라이트)</p><hr /><p><strong>효과</strong> 웨이파인더는 영적인 광채로 빛나며, 숨겨진 것을 드러냅니다.</p>\n<p>이것은 페어리 파이어의 효과와 같지만, 효과는 당신을 중심으로 한 10피트 반경에서 발생합니다.</p>\n<p>당신은 모험당 한 번 이 혜택을 안전하게 사용할 수 있습니다. 당신은 웨이파인더를 과충전할 위험을 무릅쓰고 두 번째로 사용을 시도할 수 있습니다. 그렇게 할 때, @Check[flat|dc:10]을 굴립니다. 성공 시, 웨이파인더는 고장납니다. 실패 시, 웨이파인더는 파괴됩니다. 이미 과충전된 웨이파인더를 과충전하려고 시도하는 경우 (수리되었더라도) 아이템은 자동으로 파괴되며 활성화된 혜택을 제공하지 않습니다.</p>\n<p><strong>특수</strong>: 당신은 하나의 웨이파인더에 여러 개의 업그레이드를 적용할 수 있습니다. 각 업그레이드는 보너스를 구매할 때 선택한 소지하고 있는 하나의 웨이파인더에만 영향을 미칩니다. 웨이파인더에 여러 개의 업그레이드가 있는 경우, 시나리오당 각 능력을 안전하게 한 번만 사용할 수 있습니다.</p>\n<p>이 업그레이드가 적용된 웨이파인더가 파괴된 경우, 웨이파인더 자체 비용 외에는 추가 비용 없이 휴식 시간에 다른 웨이파인더에 업그레이드를 적용할 수 있습니다.</p>"
+    },
+    "Resist Corruption": {
+      "name": "타락 저항",
+      "description": "<p><strong>[Generic]</strong></p>\n<p><strong>선행 조건</strong> 비질런트 씰 1티어</p>\n<p><strong>비용</strong> 명성 2</p><hr /><p><strong>효과</strong> 당신이 빛나는 선의의 등불이든, 임무를 가진 냉소적인 실용주의자든, 당신은 당신 자신과 당신의 아군을 불경한 에너지로부터 보호할 준비를 해야 합니다. 이 이점이 장착되는 동안, 당신과 인접한 모든 아군은 비질런트 씰 진영과의 당신의 명성 티어와 같은 양의 불경한 피해 저항력을 얻습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.EdYvHSzJC5pGLdoV]{Effect: Resist Corruption}</p>"
+    },
+    "Resurrection Plan": {
+      "name": "부활 계획",
+      "description": "<p><strong>[Service]</strong></p>\n<p><strong>선행 조건</strong> 어떤 진영이든 0티어</p>\n<p><strong>비용</strong> 25 명성 (@UUID[Compendium.pf2e.spells-srd.Item.kqhPt9344UkcGVYO]{Resurrect}) 또는 50 명성 (@UUID[Compendium.pf2e.spells-srd.Item.IkGYwHRLhkuoGReG]{Raise Dead})</p>\n<hr />\n<p><strong>효과</strong> 길잡이 협회는 가장 성공적인 요원들을 현장에 유지하는 데 투자합니다. 당신은 25 명성으로 @UUID[Compendium.pf2e.spells-srd.Item.kqhPt9344UkcGVYO]{Resurrect} 의식을 구매할 수 있습니다. 만약 당신이 급하게 생명으로 돌아가야 하고 이 의식이 진행될 때까지 기다릴 수 없다면, 대신 50 명성으로 @UUID[Compendium.pf2e.spells-srd.Item.IkGYwHRLhkuoGReG]{Raise Dead} 주문 시전을 구매할 수 있습니다.</p>\n<p><strong>특수 효과</strong> 이 보상은 목록에 있는 서비스를 확보하는 능력을 나타내는 것이므로 여러 번 구매할 수 있습니다.</p>"
+    },
+    "Rugged Mentor": {
+      "name": "강인한 멘토",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>경험이 부족한 패스파인더 동료들과 함께 일하는 동안, 당신은 중요한 통찰력을 제공하여 경험이 부족한 동료들이 위험으로부터 안전하게 지켜지도록 합니다. 레벨 범프의 혜택을 받고 당신보다 레벨이 낮은 모든 PC의 경우, 당신은 레벨 범프의 내성 굴림 수정치를 2로 증가시킵니다.</p>\n<p><strong>일반</strong> 레벨 범프는 PC의 내성 굴림 수정치를 1 증가시킵니다.</p>\n<p><strong>특수</strong> PC는 두 개의 멘토 특전만 받을 수 있습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.84OsM8ml9VUAlNze]{Effect: Rugged Mentor}</p>"
+    },
+    "Rugged Wayfinder": {
+      "name": "험난한 길잡이",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p><strong>효과</strong> 당신은 @UUID[Compendium.pf2e.equipment-srd.Item.gbwr57aT9ou8yKWT]{Wayfinder}를 수정하여 당신의 피로를 소량 흡수하게 하여, 방해받지 않고 탐험을 계속할 수 있도록 하였습니다. 이 혜택을 구매할 때, 당신이 소지한 하나의 웨이파인더에 이 혜택을 적용하여, 웨이파인더가 장착되고 당신이 소지하고 있을 때 특별한 능력을 부여합니다.</p>\n<p>행동으로서, 당신은 @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy}, @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled} 또는 @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened} 상태의 심각도를 감소시킬 수 있으며, 해당 상태의 값을 1 감소시킵니다.</p>\n<p>당신은 모험당 한 번 안전하게 이 혜택을 사용할 수 있습니다. 웨이파인더에 과부하를 걸어 파괴 위험을 무릅쓰고 두 번째로 사용을 시도할 수 있습니다. 그렇게 할 때, @Check[flat|dc:10]을 굴립니다. 성공 시, 웨이파인더는 고장납니다. 실패 시, 웨이파인더는 파괴됩니다. 이미 과부하가 걸린 웨이파인더에 누군가 과부하를 걸려고 시도하면, 해당 아이템은 자동으로 파괴되며 (수리되었더라도) 활성화된 혜택을 제공하지 않습니다.</p>\n<p><strong>특수</strong>: 하나의 웨이파인더에 여러 개의 업그레이드를 적용할 수 있습니다. 각 업그레이드는 혜택을 구매할 때 선택한 당신이 소지한 하나의 웨이파인더에만 영향을 미칩니다. 웨이파인더에 여러 개의 업그레이드가 있다면, 시나리오당 각 능력을 안전하게 한 번만 사용할 수 있습니다.</p>\n<p>이 업그레이드가 적용된 웨이파인더가 파괴되면, 휴식 시간에 웨이파인더 자체 비용 외에 추가 비용 없이 다른 웨이파인더에 업그레이드를 적용할 수 있습니다.</p>"
+    },
+    "S1-00 - Nexian Researcher": {
+      "name": "S1-00 - 넥시안 리서처",
+      "description": "<p><strong>[Generic][Limited Use]</strong> □□□</p><hr /><p><strong>효과</strong> 당신은 언제든지 패스파인더 소사이어티 전승 확인을 시도할 때 상자를 체크할 수 있습니다. 당신이 패스파인더 소사이어티 전승에 숙련되지 않았다면, 보너스를 결정할 때 당신의 레벨을 당신의 지능 수정치에 더할 수 있습니다. 당신이 패스파인더 소사이어티 전승에 숙련 이상이라면, 이 확인에 +2 상황 보너스를 얻습니다. 만약 확인이 듀르빈 게스트, 셀미우스 포스터, 그레가로 보스, 또는 케리냐 냅수나르와 관련이 있다면, 당신은 상자를 체크할 필요가 없습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.rEQP3SwRF9Zb1ppV]{Effect: Nexian Researcher}</p>"
+    },
+    "S1-01 - Engraved Wayfinder": {
+      "name": "S1-01 - 인그레이브드 웨이파인더",
+      "description": "<p><strong>[Slotless]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신의 파인드호퍼 에이전트로서의 성공을 기념하여, 자니라가 당신의 이름이 새겨진 나침반 뚜껑과 파인드호퍼 협회의 상징인 열린 길의 글리프를 선물했습니다. 당신은 @UUID[Compendium.pf2e.equipment-srd.Item.wob6DB1FFdWs0mbp]{Compass},  @UUID[Compendium.pf2e.equipment-srd.Item.gbwr57aT9ou8yKWT]{Wayfinder}를 포함한 어떤 것에도 이 뚜껑을 부착하여 개인화할 수 있습니다.</p>"
+    },
+    "S1-01 - Society Connections": {
+      "name": "S1-01 - 소사이어티 커넥션스",
+      "description": "<p><strong>[Downtime][Limited Use]</strong> □</p>\n<hr />\n<p><strong>효과</strong> 당신의 파인더 소사이어티 내 지도자들과의 관계는 새로운 임무와 다른 노력을 위한 지원 모두에서 기회를 찾는 데 도움을 줍니다. 휴식 시간 동안 @UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{Earn Income}하여 _레벨의 과제를 시도할 때 이 혜택 앞의 상자를 체크하십시오. 만약 당신이 치명적인 실패를 한다면, 여전히 그 과제에 대한 실패 결과를 얻습니다.</p>"
+    },
+    "S1-02 - Cryptid Scholar": {
+      "name": "S1-02 - 크립티드 스칼라",
+      "description": "<p><strong>[Untyped][Limited Use]</strong> □□□</p>\n<p>당신의 모스키토 위치와의 경험이 당신으로 하여금 이상한 생물들을 연구하게끔 영감을 주었습니다. 당신이 희귀하거나 독특한 생물을 식별하기 위해 지식 회상을 사용할 때, 당신은 다음 반응을 사용할 수 있습니다.</p>\n<p><strong>발동 조건</strong> 당신이 볼 수 있는 생물을 식별하기 위해 지식 회상을 시도합니다.</p>\n<hr />\n<p><strong>효과</strong> (운) 당신은 기술 숙련 검사를 두 번 굴리고 더 좋은 결과를 사용합니다.</p>"
+    },
+    "S1-03 - Team Player": {
+      "name": "S1-03 - 팀 플레이어",
+      "description": "<p><strong>[Generic][Limited Use]</strong> □□□</p>\n<p>당신의 그레이블랜드에서의 시간은 동료들과 특히 잘 협력하는 법을 배우도록 요구하는 많은 힘든 시련들을 포함했습니다.</p>\n<p><strong>액션</strong> 반응</p>\n<p><strong>트리거</strong> (포춘) 당신이 지원한 동료가 판정에 실패합니다.</p>\n<hr />\n<p><strong>이펙트</strong> 동료는 판정을 다시 굴릴 수 있으며 더 좋은 결과를 사용할 수 있습니다.</p>"
+    },
+    "S1-04 - A Thorny Situation": {
+      "name": "S1-04 - 가시 돋친 상황",
+      "description": "<p><strong>[Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 벤전트 손의 부하들에게 패배하여 숲 속에 묶여 있었습니다. 폭주한 켄타우루스가 그렇게 강력한 유물을 소유한 상태에서 이멘우드에 무슨 일이 일어날지는 알 수 없지만, 다음에는 드루이드를 저지하는 데 더 나은 행운이 있을지도 모릅니다. 이 보너스는 향후 시나리오에서 특별한 효과를 발휘할 수도 있습니다.</p>"
+    },
+    "S1-04 - Touched by the Storm": {
+      "name": "S1-04 - 터치드 바이 더 스톰",
+      "description": "<p><strong>[Generic]</strong></p><hr /><p><strong>효과</strong> 당신의 <em>스케일 오브 더 스펀드 템페스트</em>의 폭풍우 같은 힘에 대한 노출은 당신을 어느 정도 자연의 요소들에 익숙하게 만들었습니다. 이 이점이 장착되어 있는 동안, 당신은 저항 1(냉기)과 저항 1(전기)을 얻습니다.</p>"
+    },
+    "S1-05 - Experienced Mountaineer": {
+      "name": "S1-05 - 익스피리언스드 마운티니어",
+      "description": "<p><strong>[Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 이스거에서 몰툰까지의 여정은 당신에게 위험하게 가파른 지형을 이동하는 요령을 가르쳐 주었습니다. 이 혜택이 장착된 동안, 당신은 산악 지형 및 기타 가파른 경사면을 더욱 험준한 지형이 아닌 험준한 지형으로 취급합니다.</p>"
+    },
+    "S1-06 - Traveler of the Spirit Road": {
+      "name": "S1-06 - 스피릿 로드의 여행자",
+      "description": "<p><strong>[Generic][Limited Use]</strong> □□□</p>\n<hr />\n<p><strong>효과</strong> 당신은 정령의 숲 근처 길을 여행하셨고 길을 잃지 않을 뿐만 아니라 현지 카미들과 친구가 되는 데 성공하셨습니다. 카미의 축복이 당신을 따르고 불운으로부터 당신을 보호합니다. 숲 지역에 있을 때 @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}, @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak}, @UUID[Compendium.pf2e.actionspf2e.Item.fJImDBQfqfjKJOhk]{Sense Direction} 또는 @UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{Track}에 대한 확인에 치명적으로 실패할 경우, 이 혜택 옆의 상자를 자유 행동으로 체크하여 그 확인을 실패로 취급할 수 있습니다.</p>"
+    },
+    "S1-07 - Blast from the Past": {
+      "name": "S1-07 - 블래스트 프롬 더 패스트",
+      "description": "<p><strong>[Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 경험 많은 길잡이가 안전하게 언데드를 처리할 수 있다고 믿고, 언데드 마르콘 티놀을 벤처 대장 드랜들 드렝에게 인도하기로 선택하셨습니다. 이 보너스는 미래 시나리오에서 고유한 이점과 결과를 가져올 것입니다.</p>"
+    },
+    "S1-07 - To Seal and Protect": {
+      "name": "S1-07 - 봉인과 보호",
+      "description": "<p><strong>[Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 세계에 고대 언데드를 풀어놓는 결과를 감수하지 않고, 언데드 마콘 티놀을 파괴하기로 선택했습니다. 이 은혜는 미래 시나리오에서 독특한 이점과 결과를 가져올 것입니다.</p>"
+    },
+    "S1-08 - River Kingdoms Politician": {
+      "name": "S1-08 - 리버 킹덤즈 폴리티션",
+      "description": "<p><strong>[Generic][Limited Use]</strong> □□□</p>\n<hr />\n<p><strong>효과</strong> 당신은 리버 킹덤 정치계에서 어떤 식으로든 알려진 인물이 되었습니다. 리버 킹덤 또는 라즈미란을 배경으로 하는 모험을 완료하면, 당신의 휴식 시간에 수입을 얻기 위해 정치적 음모에 참여할 때 이 혜택 옆의 칸에 체크할 수 있습니다. 이를 통해 당신의 레벨 +1까지의 @UUID[Compendium.pf2e.actionspf2e.Item.QyzlsLrqM0EEwd7j]{Earn Income} 작업을 찾을 수 있습니다. 이 혜택 옆의 세 개의 칸 모두에 체크 표시가 되면, 이 혜택은 미래의 모험에서 특별한 효과를 발휘합니다.</p>"
+    },
+    "S1-09 - Ally of the Iruxi": {
+      "name": "S1-09 - 이룩시의 아군",
+      "description": "<p><strong>[Slotless]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 키히라트의 이룩시와 친구가 되었습니다. 이 은혜는 미래의 모험에서 특별한 이점을 제공할 것입니다.</p>"
+    },
+    "S1-09 - Iruxi Bane": {
+      "name": "S1-09 - 이룩시 베인",
+      "description": "<p><strong>[Slotless]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 키히랏의 이룩시에게 그리 좋지 않은 인상을 남겼습니다. 이 이점은 미래의 모험에서 특별한 효과를 발휘할 것입니다.</p>"
+    },
+    "S1-10 - Tarnbreaker Champions": {
+      "name": "S1-10 - 탄브레이커 챔피언즈",
+      "description": "<p><strong>[Generic]</strong></p><hr /><p><strong>효과</strong> 당신은 발기르드트렉의 챔피언이며, 이는 린놈 왕들의 땅 전역에서 특별한 특권을 얻게 해줍니다. 린놈 왕들의 땅을 주요 배경으로 하는 모험을 진행하는 동안, 어떤 울펜이나 바르키 여관 또는 유사한 시설에서 무료로 숙박할 수 있으며, 울펜이나 바르키 정착지에서 비마법 아이템을 구매할 때 10% 할인을 받습니다 (이것은 다른 할인이나 가격 인하와 중복 적용되지 않습니다).  게다가, 린놈 왕들의 땅을 주요 배경으로 하는 모험을 진행하는 동안, 모든 외교 능력치 검사에 +1 상황 보너스를 얻습니다. @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Make a Request}</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.zcGenQGOjZgFuqzs]{Effect: Tarnbreaker Champions}</p>"
+    },
+    "S1-11 - Devil's Keep": {
+      "name": "S1-11 - 데빌스 킵",
+      "description": "<p><strong>[Advanced]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 디겐의 휴식(Diggen's Rest)으로 알려진 지옥의 요새의 정당한 지배자입니다. 모험당 한 번, 당신은 다음 반응을 사용할 수 있습니다.</p>\n<p><span style=\"text-decoration: underline;\">인퍼널 디토네이션(Infernal Detonations)</span></p>\n<p><strong>행동</strong> 반응</p>\n<p><strong>발동 조건</strong> 당신으로부터 30피트 이내의 생명체가 당신이나 아군을 공격 대상으로 삼습니다.</p>\n<hr />\n<p><strong>효과</strong> 그 생명체는 [[/r 1d6 + @actor.level]]{1d6 + your level} (@Check[reflex|against:class-spell|basic])에 해당하는 화염 피해를 입습니다. 반사 내성 굴림의 DC는 당신의 주문 DC 또는 당신의 클래스 DC 중 더 높은 값과 같습니다.</p>"
+    },
+    "S1-11 - Diggen the Liar": {
+      "name": "S1-11 - 디겐 더 라이어",
+      "description": "<p><strong>[Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 디겐 스룬의 유령을 풀어주기를 거부하고 대신 그 붙잡힌 영혼을 그랜드 로지의 자르타 드랄닌에게 넘겼습니다. 이 은혜는 미래 시나리오에서 특별한 효과를 발휘할 것입니다.</p>"
+    },
+    "S1-12 - Valais's Assurance": {
+      "name": "S1-12 - 발레의 어슈어런스",
+      "description": "<p><strong>[Generic][Limited Use]</strong> □□</p>\n<hr />\n<p><strong>효과</strong> 발레 Durant는 그녀의 친절함과 어려움에 처한 사람들과 기꺼이 힘을 나누는 마음 덕분에, 적지 않은 부분에서 레디언트 오쓰의 지도자입니다. 당신께서는 이 축복 옆의 상자를 체크하시고, 액션을 소모하여 챔피언 집중 주문 @UUID[Compendium.pf2e.spells-srd.Item.zNN9212H2FGfM7VS]{Lay on Hands}을 사용하실 수 있습니다.  당신의 레벨에 맞춰 강화됩니다. 이것은 집중 포인트를 소모하지 않습니다.</p>"
+    },
+    "S1-13 - Convention Hero": {
+      "name": "S1-13 - 컨벤션 히어로",
+      "description": "<p><strong>[Advanced]</strong></p>\n<hr />\n<p><strong>효과</strong> 이 시나리오의 기본 아이디어는 PaizoCon의 어드벤처 디자인 패널에서 창의적이고 열정적인 청중들로부터 나왔습니다. 당신은 컨벤션에서 게임을 진행하는 동안에만 이 특별한 혜택을 사용할 수 있습니다. 만약 당신이 그렇게 한다면, 당신은 하나의 추가적인 히어로 포인트를 가지고 모험을 시작합니다.</p>"
+    },
+    "S1-14 - Big Game Hunter": {
+      "name": "S1-14 - 빅 게임 헌터",
+      "description": "<p><strong>[Generic][Limited Use]</strong> □□□</p>\n<hr />\n<p><strong>효과</strong> 당신의 카타페시의 무시무시한 야생 동물과 그 생물들을 조종하는 존재에 대한 고군분투는 위험한 동물들을 다루는 데 특히 능숙하게 만들었습니다. 동물에게 @UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{Track} 판정에 대하여 극적인 실패를 굴리면, 이 혜택 옆의 상자를 체크하여 실패 대신으로 할 수 있습니다.</p>"
+    },
+    "S1-15 - Finadar Leshy": {
+      "name": "S1-15 - 피나다르 레쉬",
+      "description": "<p><strong>[Generic][Slotless]</strong></p>\n<hr />\n<p><strong>효과</strong> 피나다르 숲에서 심연의 영향력이 사라진 후, 일부 레쉬들은 더 넓은 세상으로 나아갔습니다. 당신은 당신의 모든 캐릭터에게 다음 배경에 접근할 수 있게 되었습니다 (이 연대기표 사본을 이 배경을 선택한 모든 캐릭터와 함께 포함하십시오).</p>\n<p>@UUID[Compendium.pf2e.backgrounds.Item.NZY0r4Csjul6eVPp]{Finadar Leshy}</p>"
+    },
+    "S1-16 - Blood Offering": {
+      "name": "S1-16 - 블러드 오퍼링",
+      "description": "<p><strong>[Slotless]</strong></p>\n<hr />\n<p><strong>효과</strong> 보파네스 문화에는 존경의 표시나 용기의 과시로서의 사혈을 포함하는 수많은 전통이 있습니다. 당신은 이러한 전통들 중 적어도 하나에 참여했습니다. 이 보너스는 미래 시나리오에 영향을 미칠 것입니다.</p>"
+    },
+    "S1-17 - Fey Influence": {
+      "name": "S1-17 - Fey 인플루언스",
+      "description": "<p><strong>[Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 보파네스 문화에는 존경의 표시나 용기의 과시로서 자해 행위를 포함하는 수많은 전통이 있습니다. 당신은 이러한 전통들 중 적어도 하나에 참여했습니다. 이 혜택은 미래 시나리오에 영향을 미칠 것입니다.</p>\n<p>@UUID[Compendium.pf2e.feats-srd.Item.dIIqejy4JAVuF0I8]{Fey Influence}</p>"
+    },
+    "S1-18 - Light in the Dark": {
+      "name": "S1-18 - 어둠 속의 빛",
+      "description": "<p><strong>[Generic]</strong></p><hr /><p><strong>효과</strong> 당신은 위험을 무릅쓰고서도 탐험가 협회의 자산이자 대리인이 될 가능성이 있는 사람들을 찾았습니다.</p>\n<p>라즈미란에서 모험하는 동안, 당신은 @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Request Assistance} 또는 @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression}에 대한 외교 능력치 검사에 +1 상황 보정치를 얻습니다. 모험 시작 시 GM에게 이 혜택의 기능을 알리십시오.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.j2xuFnWfTov0VQoG]{Effect: Light in the Dark}</p>"
+    },
+    "S1-18 - Narsen's Web": {
+      "name": "S1-18 - 납센즈 웹",
+      "description": "<p><strong>[Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 선이든 악이든 가면을 쓴 사제 나르센의 계획에 휘말렸습니다. 교활한 광신도의 목적이 선인지 악인지는 아직 알 수 없습니다. 당신은 가면이나 변장(마법 변장이나 외모를 알아볼 수 없게 바꾸는 변신 효과 포함) 뒤에 자신의 얼굴을 숨기고 있는 사람을 상대할 때 지각 확인에 +1 상황 보너스를 얻습니다. @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive}</p>"
+    },
+    "S1-19 - Iolite Trainee Hobgoblin": {
+      "name": "S1-19 - 아이올라이트 트레이니 홉고블린",
+      "description": "<p><strong>[Generic][Slotless]</strong></p>\n<hr />\n<p><strong>효과</strong> 아이올라이트 분대의 귀중한 패스파인더 기술 보고서가 오프락에 전달되어 훈련 방침에 통합되었습니다.</p>\n<p>당신은 당신의 모든 캐릭터에게 다음 배경에 대한 접근 권한을 얻었습니다 (이 연대기표 사본을 이 배경을 선택한 모든 캐릭터와 함께 포함하십시오).</p>\n<p>@UUID[Compendium.pf2e.backgrounds.Item.fML6YrXYDqQy0g7L]{Iolite Trainee Hobgoblin}</p>"
+    },
+    "S1-20 - Waters of Warlock's Barrow": {
+      "name": "S1-20 - 워터스 오브 워록스 배로우",
+      "description": "<p><strong>[Generic][Limited Use]</strong></p>\n<p>당신은 워록의 무덤의 영혼들을 물리쳤고, 이제 운명의 장난 덕분에 다른 언데드들을 없애는 데 그들을 부를 수 있습니다.</p>\n<p><strong>액션</strong> 두 액션</p>\n<hr />\n<p><strong>이펙트</strong> 워록의 무덤의 정화된 물이 당신의 무기를 감싸, 이제 살아있는 자 대신 언데드를 해칩니다. 당신은 1랭크 선천 주문으로 디스럽팅 웨폰을 시전하지만, 주문에는 물 특성도 있습니다.</p>"
+    },
+    "S1-21 - Maze Walker": {
+      "name": "S1-21 - 메이즈 워커",
+      "description": "<p><strong>[Advanced]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 보통 존재라면 뒤틀리거나 소멸되었을 다양한 평면의 힘에 노출되어 살아남았습니다. 당신의 레벨이 7 이상이고 생존 마스터라면, 이 보너스를 장착하여 @UUID[Compendium.pf2e.feats-srd.Item.Yj4mpROEjdCjQzMd]{Planar Survival} 스킬 특성의 이점을 얻을 수 있습니다.</p>"
+    },
+    "S1-22 - Doom Averted": {
+      "name": "S1-22 - 둠 어버티드",
+      "description": "<p><strong>[General][Limited Use] □</strong></p>\n<hr />\n<p><strong>효과</strong> 카사미르에서 성장하는 그로에투스의 컬트를 물리치면서, 당신의 정신은 그의 사제들이 지붕 위에서 외치는 같은 종말의 예언에 대한 새롭게 강화된 저항으로 가득 차게 됩니다. 당신의 죽음 값이 당신을 죽일 만큼의 정확한 양으로 증가하면, 이 혜택이 자동으로 활성화됩니다. 이 혜택 앞의 상자를 체크하고 당신의 죽음 값을 1 감소시키십시오.</p>"
+    },
+    "S1-23 - Seasoned Diplomat": {
+      "name": "S1-23 - 시즌드 디플로맷",
+      "description": "<p><strong>[Advanced]</strong><strong>[Limited Use] □</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 에케시카르의 궁정을 탐험하며 외교관이자 연구가로서의 기술을 연마했습니다. 당신은 모험 시작 시 이 혜택 옆의 상자를 체크하여 해당 모험 기간 동안 외교와 사회에 숙련된 것으로 할 수 있습니다. 만약 당신이 이미 이 기술 중 하나에 숙련되어 있다면, 전문가가 됩니다. 만약 당신의 숙련도가 이 기술들 중 어느 하나에서 전문가보다 높다면, 해당 기술로 굴린 임계 실패는 실패로, 실패는 성공으로 취급합니다(해당 모험 기간 동안).</p>"
+    },
+    "S1-25 - Grand Finale": {
+      "name": "S1-25 - 그랜드 피날레",
+      "description": "<p><strong>[Advanced][Limited Use] □</strong></p><hr /><p><strong>효과</strong> 당신은 엄숙한 교향곡에서 살아남았지만, 살아있는 자들과 죽은 자들의 세계를 연결했던 잊을 수 없는 선율이 당신의 마음속에 여전히 울려 퍼집니다. 당신의 죽음 수치가 2 이상일 때, 당신은 이 혜택 옆의 상자를 체크하여 다음 10분 동안 공연 판정에 +2 상황 보너스, 20 임시 히트 포인트, 그리고 인내 내성 굴림에 +1 상황 보너스를 얻을 수 있습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.L2gnvfJ5y2cTNryW]{Effect: Grand Finale}</p>"
+    },
+    "S1-Q01 - Sand Slide": {
+      "name": "S1-Q01 - 샌드 슬라이드",
+      "description": "<p><strong>[Generic][Limited Use]</strong> □□□</p>\n<p><strong>액션</strong> 반응</p>\n<p><strong>발동 조건</strong> 당신이 함정의 효과를 피하기 위한 반사 내성 굴림에 실패(하지만 치명타로 실패하지는 않음)할 경우입니다.</p>\n<hr />\n<p><strong>효과</strong> 당신은 @UUID[Compendium.pf2e.actionspf2e.Item.UHpkTuCtyaPqiCAB]{Step}하고 그 후 @UUID[Compendium.pf2e.actionspf2e.Item.HYNhdaPtF1QmQbR3]{Drop Prone}합니다. 당신은 발동한 반사 내성 굴림에 +2 상황 보너스를 얻습니다. 이 보너스가 처음에 함정의 효과를 저항하기에 충분했다면, 당신은 내성 굴림에 성공합니다.</p>"
+    },
+    "S1-Q02 - One-Who-Waits": {
+      "name": "S1-Q02 - 원-후-웨이츠 (Won-hu-weicheu)",
+      "description": "<p><strong>[Slotless][Limited Use]</strong> □□□</p>\n<hr />\n<p><strong>효과</strong> 당신이 곡예 또는 육상 숙련 검사에서 대실패를 굴릴 때마다, 이 보너스 옆의 상자에 무료 액션으로 체크하여 대신 실패를 얻을 수 있습니다 (GM은 이것이 검사 결과를 바꾸지 않을 경우 당신에게 알려주므로 이 능력을 낭비하지 않도록 합니다).</p>"
+    },
+    "S1-Q02 - Student of the Unforgiving Fire": {
+      "name": "S1-Q02 - 언포기빙 파이어의 학생",
+      "description": "<p><strong>[Slotless][Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 멜레카가 무자비한 불 스타일을 창조한 고대 두루마리를 읽으신 당신은 모든 캐릭터에 대해 다음 특성에 접근할 수 있게 되었습니다 (이 특성을 선택하는 모든 캐릭터에게 이 연대기 시트의 사본을 포함하십시오).</p>\n<p>@UUID[Compendium.pf2e.feats-srd.Item.rbiMK71SvGZGRLJ1]{Rain of Embers Stance}</p>"
+    },
+    "S1-Q03 - Legacy of the Gorget": {
+      "name": "S1-Q03 - 고르겟의 유산",
+      "description": "<p><strong>[Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 그레훈데의 목걸이와 그녀의 영웅적인 후손인 흘라바르드의 시신을 되찾음으로써 린놈 왕국의 땅에서 가까운 친구들을 사귀었습니다. 이 은혜는 <em>Pathfinder Society Scenario #1-10: Tarnbreaker's Trail</em> 기간 중 슬롯에 배치될 때 특별한 이점을 제공하며, 그레훈데의 후손이 등장하는 시나리오와 퀘스트에서 다른 이점을 가질 수도 있습니다.</p>"
+    },
+    "S1-Q04 - Fane's Friend": {
+      "name": "S1-Q04 - 페이른즈 프렌드",
+      "description": "<p><strong>[Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 당신은 수수께끼 같은 해적 선장 스텔라 페이니에게 좋은 인상을 주었고, 그녀는 당신을 친구로 여깁니다. 이 이점은 스텔라 페이니가 등장하는 시나리오와 퀘스트에서 슬롯될 때 특별한 이점을 제공합니다.</p>"
+    },
+    "S1-Q04 - Stella's Associate": {
+      "name": "S1-Q04 - 스텔라의 어소시에이트",
+      "description": "<p><strong>[Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 스텔라 페인은 당신을 알고 있지만, 당신에게 특별히 감명받지는 않았습니다. 다음 기회에 그녀의 당신에 대한 생각을 바꿀 수 있을지도 모릅니다. 이 이점은 스텔라 페인이 등장하는 시나리오와 퀘스트 중에 장착될 때 특별한 효과를 발휘합니다.</p>"
+    },
+    "S1-Q06 - Secrets of the Jistkan Alchemists": {
+      "name": "S1-Q06 - 지스트칸 연금술사들의 비밀",
+      "description": "<p><strong>[Generic][Limited Use][Downtime]</strong> □□</p>\n<hr />\n<p><strong>효과</strong> 당신의 지스트카 제국의 고대 연금술 시험장 탐험 덕분에, 당신은 몇 가지 편리한 기술을 위한 지식과 재료를 얻었습니다.</p>\n<p>휴식 시간 동안 연금술 특성을 가진 아이템을 제작할 때마다, 주사위를 굴린 후, 이 혜택에 앞서 있는 칸을 체크하여 성공 정도를 하나 높일 수 있습니다 (치명적인 실패에서 실패로, 실패에서 성공으로, 또는 성공에서 치명적인 성공으로).</p>"
+    },
+    "S1-Q07 - Amateur Adjuster": {
+      "name": "S1-Q07 - 아마추어 어저스터",
+      "description": "<p><strong>[Generic][Limited Use]</strong> □□□</p>\n<hr />\n<p><strong>효과</strong> 당신의 주장이 해결됨에 따라, 당신은 귀중한 동맹들과의 관계를 강화하고 드루만 관료제를 탐색하는 방법에 대해 약간 배웠습니다. 정보 수집, 글 해독 또는 위조 생성 검사를 시도할 때마다, 이 이점 옆에 있는 상자를 체크하여 검사에 +1 상황 보너스를 얻을 수 있습니다. 만약 검사가 드루만 사업체 또는 드루만 관료제와 상호 작용하는 것을 포함한다면, 당신은 대신 검사에 +3 상황 보너스를 얻습니다.</p>"
+    },
+    "S1-Q08 - Numerian Archaeologist": {
+      "name": "S1-Q08 - 누메리언 아케올로지스트",
+      "description": "<p><strong>[Generic][Limited Use]</strong> □□□</p>\n<hr />\n<p><strong>효과</strong> 당신은 누메리아의 특이한 기술에 대한 독특한 경험을 얻었습니다. 당신은 이 혜택 옆의 상자에 체크하여 다음 자유 행동을 사용할 수 있습니다.</p>\n<p><span style=\"text-decoration:underline\">기술 방어</span></p>\n<p><strong>행동</strong> 자유 행동</p>\n<p><strong>발동 조건</strong> 당신은 기술 무기나 효과에 대한 내성 굴림을 시도하지만, 아직 굴리지 않았습니다.</p>\n<hr />\n<p><strong>효과</strong> 당신은 내성 굴림에 +1 상황 보너스를 얻습니다.</p>"
+    },
+    "S1-Q09 - Wayfinder Connections": {
+      "name": "S1-Q09 - 웨이파인더 커넥션즈",
+      "description": "<p><strong>[Slotless][Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 벤처-캡틴 무에셀로와의 관계 덕분에 당신은 @UUID[Compendium.pf2e.equipment-srd.Item.gbwr57aT9ou8yKWT]{Wayfinders}를 더 쉽게 확보할 수 있습니다. 당신은 당신의 캐릭터 레벨 + 2까지의 웨이파인더를 구매할 수 있습니다. 단, 그것에 접근할 수 있다면 가능합니다. 만약 당신이 @UUID[Compendium.pf2e.equipment-srd.Item.gbwr57aT9ou8yKWT]{Standard Wayfinder}를 소유하고 있다면, 무에셀로는 추가 기능이 있는 @UUID[Compendium.pf2e.equipment-srd.Item.gbwr57aT9ou8yKWT]{Wayfinder}로 업그레이드하는 것을 제안합니다. 물건의 가격 차이만큼 비용이 듭니다.</p>"
+    },
+    "S1-Q10 - Sewer Dragon Recruit": {
+      "name": "S1-Q10 - 시워 드래곤 리크루트",
+      "description": "<p><strong>[Slotless][Generic]</strong></p>\n<hr />\n<p><strong>효과</strong> 하수구 드래곤들을 구출하심으로써, 당신은 일부 생존자들이 탐험가 연맹에 등록할 수 있도록 길을 열어주었습니다.</p>\n<p>당신이 생성하는 모든 코볼트 캐릭터는 다음 배경을 선택할 수 있습니다.</p>\n<p>@UUID[Compendium.pf2e.backgrounds.Item.OhP7cqvNouFgHIdJ]{Sewer Dragon}</p>"
+    },
+    "S1-Q11 - Amateur Genealogist": {
+      "name": "S1-Q11 - 아마추어 지네알로지스트",
+      "description": "<p><strong>[General]</strong><strong>[Limited Use]</strong><strong>□</strong><strong>□</strong></p>\n<hr />\n<p><strong>효과</strong> 당신의 벤처-캡틴 카라디 지원 노력이 가계도에 대한 통찰력을 제공했습니다. 시나리오에서 벤처-캡틴 브리핑 직후, 이 보너스 옆의 상자를 체크하여 시나리오 종료 시까지 계보학 지식 또는 문장학 지식 중 하나의 숙련도를 1단계 높일 수 있습니다: 숙련되지 않음이 숙련됨이 되고, 숙련됨이 전문가가 되며, 전문가가 대가가 됩니다. 이 보너스를 사용하여 숙련도를 전설적인 수준으로 높일 수는 없으며, 이 보너스의 효과는 관련 기술에 대한 다른 임시 숙련도 증가 효과와 누적되지 않습니다.</p>"
+    },
+    "S1-Q12 - Fruit Basket": {
+      "name": "S1-Q12 - 과일 바구니",
+      "description": "<p><strong>[General]</strong><strong>[Limited Use]</strong><strong>□</strong></p>\n<hr />\n<p><strong>효과</strong> 배송 차질의 원인을 밝히는 데 도움을 준 것에 대한 감사로, 셀루가 과일을 보냈습니다. 모험을 시작할 때 이 상자를 체크하여 특별히 처리된 바오밥 과일을 받으십시오. 그 모험 동안, 당신 또는 다른 캐릭터는 상호 작용(Interact) 액션을 사용하여 과일을 섭취할 수 있으며, 이는 하급 생명의 영약(3d6+6 히트 포인트 회복 및 10분 동안 질병과 독에 대한 +1 보너스 제공)과 같은 기능을 합니다. 그 모험 동안 과일을 섭취하지 않으면 상합니다.</p>"
+    },
+    "S2-00 - Spark of Life (levels 1-2)": {
+      "name": "S2-00 - 스파크 오브 라이프 (레벨 1-2)",
+      "description": "<p><strong>□ 스파크 오브 라이프</strong>  페어 데미플레인인 로지 오브 더 오픈 로드에 씨앗이 심어졌습니다. 이 씨앗 안에는 당신의 본질의 작은 불꽃이 있습니다. 모험 중에 사망하는 경우, 이 혜택 옆의 상자를 체크하여 당신을 소생시키는 레이즈 데드 의식의 금화 또는 재료 비용을 50% 줄이십시오. 이 의식은 자동으로 성공하지만 (치명적으로 성공할 수는 없습니다). 이 혜택은 레이즈 데드에 영향을 미치는 다른 혜택과 중첩되지 않습니다.</p>"
+    },
+    "S2-00 - Spark of Life (levels 3-6)": {
+      "name": "S2-00 - 스파크 오브 라이프 (레벨 3-6)",
+      "description": "<p><strong>□ 스파크 오브 라이프</strong>  페어 데미플레인인 로지 오브 디 오픈 로드에 씨앗이 심어졌습니다. 이 씨앗 안에는 당신의 본질의 작은 불꽃이 있습니다. 모험 중에 사망하는 경우, 이 혜택 옆의 상자를 체크하여 당신을 소생시키는 레이즈 데드 의식의 금화 또는 재료 비용을 50% 줄일 수 있습니다. 이 의식은 자동으로 성공하지만 (치명적인 성공은 불가능합니다). 이 혜택은 레이즈 데드에 영향을 미치는 다른 혜택과 중첩되지 않습니다.</p>"
+    },
+    "S2-00 - Spark of Life (levels 7-8)": {
+      "name": "S2-00 - 스파크 오브 라이프 (7-8레벨)",
+      "description": "<p><strong>□ 스파크 오브 라이프</strong>  페이 데미플레인인 로지 오브 디 오픈 로드에 씨앗이 심어졌습니다. 이 씨앗 안에는 당신의 본질의 작은 불꽃이 있습니다. 모험 중에 당신이 죽는다면, 이 혜택 옆의 상자를 체크하여 당신을 소생시키는 레이즈 데드 의식의 금화 또는 재료 비용을 50% 감소시키십시오. 이 의식은 자동으로 성공하지만 (치명적으로 성공할 수는 없습니다). 이 혜택은 레이즈 데드에 영향을 미치는 다른 혜택과 중복되지 않습니다.</p>"
+    },
+    "S2-03 - Fluent in Cyclops": {
+      "name": "S2-03 - 사이클롭스 유창함",
+      "description": "<p>당신은 사이클롭스 또는 그들의 문화 유물과 접촉하였고, 약간의 연구를 통해 그들의 언어를 습득할 수 있을 것이라는 감각을 얻었습니다. 당신은 사이클롭스 언어에 접근 권한을 얻게 되어, 다음번에 언어를 습득할 때 (예를 들어, 멀티링구얼 스킬 피트를 통해) 사이클롭스어를 배울 수 있습니다.</p>\n<p><strong>스페셜</strong> 이 혜택은 당신의 모든 패스파인더 소사이어티 (세컨드 에디션) 캐릭터에게 적용됩니다.</p>"
+    },
+    "S2-08 - Baba Yaga's Tutelage": {
+      "name": "S2-08 - 바바 야가의 수업",
+      "description": "<p>이리센으로 여행을 떠난 후, 당신은 바바 야가의 주목을 받았고, 그녀는 당신의 행동에 대한 감사 또는 영원한 겨울의 땅에 대한 존중심을 배우는 것은 오직 그녀의 가혹한 가르침을 통해서만 가능하다는 믿음 중 하나로 당신에게 한두 가지 교훈을 가르치기로 결정했습니다.  당신의 캐릭터 중 하나를 선택하여 다음 혜택 중 하나를 받으십시오. 이 혜택의 사본을 해당 캐릭터의 기록과 함께 보관하십시오.</p>\n<p><strong>옵션 1</strong> 해당 캐릭터는 희귀한 바바 야가 마녀 후원자와 그녀가 부여하는 캐릭터 옵션에 접근할 수 있습니다: @UUID[Compendium.pf2e.spells-srd.Item.yp4w9SG4RuqRM8KD]{Spirit Object} 헥스, 얼어붙은 여왕의 교훈 주요 교훈, @UUID[Compendium.pf2e.spells-srd.Item.ZyREiMaul0VhDYh3]{Glacial Heart} 헥스, 그리고 무생물 소환수.</p>\n<p><strong>옵션 2</strong> 캐릭터는 바바 야가를 후원자로 삼지 않을 수도 있으며, 그 경우에도 여전히 얼어붙은 여왕의 교훈 주요 교훈과 @UUID[Compendium.pf2e.spells-srd.Item.ZyREiMaul0VhDYh3]{Glacial Heart} 헥스에 접근할 수 있습니다.</p>\n<p><strong>선택된 캐릭터</strong> -20_________</p>"
+    },
+    "Second Chance": {
+      "name": "두 번째 기회",
+      "description": "<p><strong>비용</strong>: 40 AcP</p><hr /><p>세컨드 찬스 (제한적 사용): 모험은 위험한 일이지만, 당신의 여정이 조기 사망으로 이어질 경우 사용할 수 있는 강력한 호의가 있습니다. 당신은 이 혜택 앞의 상자를 체크하여 PC 또는 소환수가 아닌 아군(예: 동물 동반자)에 대해 부활 의식(Pathfinder Core Rulebook 415 페이지)의 효과를 얻을 수 있습니다. 단, 의식의 다이아몬드 총 비용이 1,000 gp를 초과해서는 안 됩니다. 의식 비용이 1,000 gp를 초과하는 경우, 1,000 gp를 초과하는 추가 재료 비용을 당신이 지불해야 합니다.</p>\n<p>의식에는 1일이 걸리며 자동으로 성공합니다. 필요한 경우, Pathfinder Society는 추가 비용 없이 당신의 시체와 분실된 모든 장비를 회수합니다. 장비가 파괴되었거나 분실되었거나, 다른 방법으로 접근할 수 없는 경우에도 마찬가지입니다.</p>\n<p>수혜자가 0 히트 포인트에서 사망하지 않는 언데드 캐릭터(예: 스켈레톤 조상을 사용하여 만들어진 캐릭터)인 경우, 이 혜택을 사용하여 생명으로 돌아오는 대신 이전 언데드 상태로 복구하는 의식의 혜택을 받을 수 있습니다. 이 의식은 위에서 설명한 부활 의식과 동일한 비용과 기능을 가집니다.</p>"
+    },
+    "Secondary Initiation": {
+      "name": "보조 개시",
+      "description": "<p><strong>비용</strong>: 2 AcP</p><hr /><p>당신의 접촉들이 다른 조직의 영향력 있는 구성원에게 당신을 소개하여, 당신이 그 집단에 가입하거나 그들의 기술 중 일부를 훈련할 수 있도록 해줍니다. 탐험가 연맹이 아닌 다른 조직을 선택하십시오. 전제 조건 및 접근 조건을 충족하는 목적으로, 당신은 탐험가 연맹에 속하는 것 외에도 그 집단의 구성원으로 간주됩니다.</p>\n<p><strong>특수</strong>: 당신은 이 혜택을 여러 번 구매할 수 있지만, 구매할 때마다 다른 집단에 가입하기 위해 이전 집단의 회원 자격을 포기해야 합니다. 그렇게 하기 전에 이전 집단의 회원 자격을 전제 조건으로 명시한 모든 선택 사항을 재훈련해야 합니다.</p>"
+    },
+    "Sellback Plan": {
+      "name": "판매 계획",
+      "description": "<p><strong>[Service]</strong></p>\n<p><strong>전제 조건</strong> 어떤 진영이든 1티어</p>\n<p><strong>비용</strong> 명성 0</p>\n<hr />\n<p><strong>효과</strong> 당신은 모든 진영에 대한 당신의 평판 티어의 2배 이하의 명성 비용을 가진 이전에 구매한 훈련을 반환할 수 있습니다. 단, 해당 훈련이 진영, 제한 사용 또는 서비스 특성을 갖고 있지 않은 경우에 한합니다. 당신은 반환된 훈련의 총 명성 비용에서 1을 뺀 만큼의 명성을 즉시 얻습니다.</p>"
+    },
+    "Skillful Mentor": {
+      "name": "숙련된 멘토",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>경험이 부족한 Pathfinder 동료들과 함께 일하는 동안, 당신은 더욱 새내기 동료들의 기술을 향상시키는 데 중요한 조언을 제공합니다. 레벨 상승(Level Bump)의 혜택을 받고 당신보다 레벨이 낮은 모든 PC의 경우, 당신은 기술 숙련도 검사에 대한 레벨 상승의 수정치를 2로 증가시킵니다.</p>\n<p><strong>일반</strong>: 레벨 상승(Level Bump)은 PC의 기술 숙련도 검사 수정치를 1 증가시킵니다.</p>\n<p><strong>특수</strong>: PC는 두 개의 멘토 혜택(mentor boon)만 받을 수 있습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.n6PAwAqignNXd75G]{Effect: Skillful Mentor}</p>"
+    },
+    "Society Recruiter": {
+      "name": "소사이어티 리크루터",
+      "description": "<p><strong>[Slotless]</strong></p>\n<p><strong>전제조건</strong>  Tier 1 with the Envoy's Alliance</p>\n<p><strong>비용</strong> 0 명성</p>\n<hr />\n<p><strong>효과</strong> 사절 연맹이 당신의 새로운 인재 모집 노력을 기념합니다. 만약 당신이 새로운 플레이어, 즉 탐험가 연맹 캐릭터가 없거나 처음으로 탐험가 연맹 세션을 플레이하는 플레이어를 테이블에 데려오면, 사절 연맹 진영과의 명성과 평판을 2 추가로 얻습니다.</p>\n<p><strong>특수 효과</strong> 당신은 사절 연맹 진영과의 현재 평판 단계에 해당하는 횟수만큼 이 혜택을 받을 수 있습니다. 이 혜택의 요구 사항을 충족할 때마다, 연계된 평판 단계와 함께 당신의 연대기 시트에 표시하십시오. GM에게 이 표기에 서명을 받으십시오. 당신이 탐험가 연맹에 소개하는 플레이어는 당신과 같은 테이블에서 플레이할 필요가 없습니다 (하지만 같은 테이블에 있는 것이 종종 그들의 경험을 향상시킵니다).</p>"
+    },
+    "Steady Hand": {
+      "name": "스테디 핸드",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>오랜 시간 동안 손상되기 쉬운 원고를 다루면서 당신은 손을 움직임을 안정적으로 유지하는 방법을 익혔습니다. 당신은 다음 능력을 모험당 한 번 활성화할 수 있습니다.</p>\n<p><strong>스테디 핸드</strong><span class=\"action-glyph\"><strong>F</strong></span> (포츈) 절도 숙련 검사를 두 번 굴리고 더 높은 결과를 사용합니다. 이 능력은 검사를 굴리기 전에만 활성화할 수 있습니다.</p>"
+    },
+    "Storied Talent": {
+      "name": "스토리드 탤런트",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신의 기술과 전문성에 대한 소문이 퍼지고 있으며, 당신의 서비스에 대해 점점 더 권위 있는 고객들이 비용을 지불할 준비가 되어 있습니다. 휴식 시간에 수입을 얻을 때, 당신의 레벨에 맞는 작업을 시도하도록 선택할 수 있습니다.</p>\n<p><strong>일반</strong>: 수입을 얻을 때, PC는 자신의 레벨 - 2 이하의 작업을 시도할 수 있습니다.</p>"
+    },
+    "Swift Traveler": {
+      "name": "스위프트 트래블러",
+      "description": "<p><strong>[Service]</strong></p>\n<p><strong>선행 조건</strong> 호라이즌 헌터스와 함께 티어 2</p>\n<p><strong>비용</strong> 명성 2</p>\n<hr />\n<p><strong>효과</strong> 당신이 아무리 멀리 여행을 하더라도, 기록적인 시간 안에 고향으로 돌아오고 며칠 더 회복할 수 있도록 도와줄 동료 탐험가가 항상 있는 것 같습니다. GM이 크로니클 시트를 작성하는 동안 최소 4 XP를 획득한 모험이 끝날 때 이 혜택을 구매할 수 있습니다. 그렇게 하면 추가로 4일의 휴식 시간을 얻게 됩니다.</p>"
+    },
+    "Treasure Bundle Insurance": {
+      "name": "보물 꾸러미 보험",
+      "description": "<p><strong>비용</strong>: 4 AcP</p>\n<p>당신의 신중한 탐색으로 사이트의 모든 귀중품을 찾지 못하더라도, 회수한 물품의 가치를 극대화하기 위해 감정하고, 수리하고, 인증할 수 있습니다. 당신과 당신의 아군이 모험의 보물 꾸러미 9개 이하를 회수했을 때 시나리오 끝에 이 혜택에 해당하는 상자를 체크할 수 있습니다.  그룹의 금화 보상을 계산하기 위한 목적으로 회수한 보물 꾸러미의 실제 개수를 1개 증가시킵니다.</p>\n<p>이 혜택으로 제공되는 추가 보물 꾸러미의 총 개수는 모험의 최대치(일반적인 시나리오의 경우 10개)를 초과할 수 없습니다.</p>\n<p><strong>특수 효과</strong>: 동일한 모험 중에 이 혜택의 여러 사본을 사용할 수 있지만, 최대 3개의 분실된 보물 꾸러미를 회수하는 데에만 사용할 수 있습니다.</p>"
+    },
+    "Unparalleled Scholarship": {
+      "name": "견줄 데 없는 학문",
+      "description": "<p><strong>[Slotless]</strong></p>\n<p><strong>전제조건</strong> 그랜드 아카이브를 가진 티어 4</p>\n<p><strong>비용</strong> 명성 8</p>\n<hr />\n<p><strong>효과</strong> 당신 자신의 연구와 그랜드 아카이브를 통한 희귀 자원 접근의 결합을 통해 당신은 뛰어난 연구 기회, 즉 당신 혼자서는 해독할 수 없는 기회를 발견했습니다. 당신은 연구 결과를 연구하고 발표하는 데 도움이 될 유망한 새로운 요원을 모집했으며, 이는 조수에게 훈련에 있어서 특별한 이점을 제공합니다.</p>\n<p>당신이 이 보너스를 구매할 때, 현장 임관 요원이 아니며 12 XP 이하인 패스파인더 소사이어티 캐릭터 중 하나를 선택하십시오. 그 캐릭터는 학교 훈련에 할당할 수 있는 추가 점수 1점을 얻어 총 4점이 됩니다.</p>"
+    },
+    "Untarnished Reputation": {
+      "name": "더럽혀지지 않은 명성",
+      "description": "<p><strong>비용</strong>: 12 AcP</p><hr /><p>당신이 이 보너스를 구매하면, 당신이 축적한 악명 1점을 제거합니다.</p>\n<p><strong>특수 효과</strong>: 당신은 여러 세력으로부터 자격을 얻더라도 이 보너스를 단 한 번만 구매할 수 있습니다.</p>"
+    },
+    "Vault Delver": {
+      "name": "볼트 델버",
+      "description": "<p><strong>[Slotless]</strong></p>\n<p><strong>전제 조건</strong> 티어 4 및 비질런트 씰</p>\n<p><strong>비용</strong> 명성 8</p>\n<hr />\n<p><strong>효과</strong> 당신의 파인더 엄청난 지식 덕분에 특이한 아이템을 찾을 수 있게 되었고, 이를 조력자에게 보상으로 줄 수 있습니다. 당신의 캐릭터가 접근할 수 있는 특이한 아이템 하나를 고르고, 경험치가 12 이하인 파인더 소사이어티 캐릭터 한 명을 선택하십시오. 그 캐릭터는 마치 크로니클 시트에 나타난 것처럼 해당 아이템을 사용할 수 있게 됩니다.</p>"
+    },
+    "Verdant Wheel Champion": {
+      "name": "베르던트 휠 챔피언",
+      "description": "<p><strong>[Faction]</strong></p>\n<p><strong>전제 조건</strong> 베르단트 휠과 함께 티어 0</p>\n<p><strong>비용</strong> 명성 4 (이 PC의 첫 번째 진영이라면 명성 0)</p>\n<hr />\n<p><strong>효과</strong> 이 진영 보너스는 당신의 베르단트 휠 진영과의 초기 접촉 발전을 나타내며, 진영과의 평판을 얻을 수 있게 해줍니다. 이 보너스가 장착된 동안, 주요 및 보조 목표에 자세히 설명된 대로 성공적으로 모험을 완료한 후 진영과의 평판을 얻게 됩니다.</p>\n<p><strong>일반</strong> 캐릭터는 진영 보너스가 장착되어 있지 않으면 평판을 얻지 못합니다.</p>"
+    },
+    "Verdant Wheel Champion, Improved": {
+      "name": "베르던트 휠 챔피언, 향상됨",
+      "description": "<p><strong>[Faction]</strong></p>\n<p><strong>선행 조건</strong> 티어 2 달성 및 버던트 휠 소속, @UUID[Compendium.pf2e.pathfinder-society-boons.Item.1FWpmtZHOLRvEIdp]{Verdant Wheel Champion}</p>\n<p><strong>비용</strong> 명성 8</p>\n<hr />\n<p><strong>효과</strong> 이 파벌 특전은 당신의 버던트 휠 파벌 내 확장된 인맥을 나타냅니다. 이 특전이 장착된 동안, 당신은 성공적으로 완료된 모험 이후 해당 파벌과의 평판을 얻게 되며, 이는 주요 및 보조 목표에 자세히 설명되어 있습니다.</p>\n<p>또한, 이 특전을 장착하면 모험 중 추가 특전 슬롯 하나를 얻게 됩니다. 이 추가 특전 슬롯은 버던트 휠 파벌 티어 1, 2 또는 3을 포함하는 선행 조건을 가진 특전에만 사용할 수 있습니다.</p>\n<p><strong>일반</strong> 캐릭터는 파벌 특전이 장착되어 있지 않으면 평판을 얻지 못합니다.</p>"
+    },
+    "Vigilant Seal Champion": {
+      "name": "비질런트 씰 챔피언",
+      "description": "<p><strong>[Faction]</strong></p>\n<p><strong>전제조건</strong> 비질런트 실(Vigilant Seal) 0티어</p>\n<p><strong>비용</strong> 명성 4 (해당 PC의 첫 번째 진영이라면 명성 0)</p>\n<hr />\n<p><strong>효과</strong> 이 진영 보너스는 당신이 비질런트 실(Vigilant Seal) 진영과 초기 접촉을 맺어 진영과의 평판을 얻을 수 있도록 합니다. 이 보너스가 장착된 동안, 주요 및 보조 목표에 자세히 설명된 대로 성공적으로 모험을 완료한 후 진영과의 평판을 얻게 됩니다.</p>\n<p><strong>일반</strong> 캐릭터는 진영 보너스가 장착되어 있지 않으면 평판을 얻지 못합니다.</p>"
+    },
+    "Vigilant Seal Champion, Improved": {
+      "name": "비질런트 씰 챔피언, 임프루브드",
+      "description": "<p><strong>[Faction]</strong></p>\n<p><strong>선행 조건</strong> 2티어와 비질런트 씰, @UUID[Compendium.pf2e.pathfinder-society-boons.Item.6frkVrsCgTgFhMjl]{Vigilant Seal Champion}</p>\n<p><strong>비용</strong> 명성 8</p>\n<hr />\n<p><strong>효과</strong> 이 파벌 특전은 당신의 비질런트 씰 파벌 내 확장된 인맥을 나타냅니다. 당신이 이 특전을 장착하는 동안, 성공적으로 완료된 모험 이후에 해당 파벌과의 평판을 얻게 되며, 이는 주요 및 보조 목표에 자세히 설명되어 있습니다.</p>\n<p>또한, 이 특전을 장착하면 모험 중에 추가적인 특전 슬롯 하나를 얻게 됩니다. 이 추가 특전 슬롯은 비질런트 씰 파벌 티어 1, 2 또는 3을 포함하는 선행 조건이 있는 특전에만 사용할 수 있습니다.</p>\n<p><strong>일반</strong> 캐릭터는 파벌 특전을 장착하지 않는 한 평판을 얻지 못합니다.</p>"
+    },
+    "Vigilant Seal Gear": {
+      "name": "비질런트 씰 기어",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신께서는 경계의 인(Vigilant Seal)과의 관계를 구축하고 신뢰를 얻으셨기에, 이 파벌이 선호하는 특별한 아이템에 접근할 수 있게 되었습니다. 당신은 경계의 인(Vigilant Seal) 파벌 특유의 장비에 접근할 수 있습니다.</p>"
+    },
+    "Ward Against Fiends": {
+      "name": "악마 방어",
+      "description": "<p><strong>비용</strong>: 4 AcP</p><hr /><p>당신의 레디언트 오쓰 파벌 동맹들이 악마, 데몬, 악마들, 그리고 비슷한 악한 존재들에 대한 신성한 보호를 부여하는 의식을 행했습니다. 모험당 한 번, 악마형 적의 내성 굴림에서 대실패를 굴리면 실패가 아닌 실패로 처리됩니다.</p>"
+    },
+    "Wayfinder": {
+      "name": "웨이파인더",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신의 길을 인도하기 위해, 당신의 파벌은 당신이 여정에서 휴대하고 탐험가 협회의 직책 배지를 겸할 길찾이를 확보했습니다. 이 길찾이는 0 gp의 효과적인 판매 가격을 지닙니다.</p>"
+    },
+    "Woodsedge Lodge Gear": {
+      "name": "우드세지 로지 기어",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>당신의 우드세지 로지 주변 모험 덕분에 특별한 장비를 사용할 수 있게 되었습니다. 당신은 긴급 변장에 접근할 수 있습니다.</p>"
+    },
+    "World Traveler": {
+      "name": "세계 여행자",
+      "description": "<p><strong>비용</strong>: 20 AcP</p>\n<p>당신은 먼 지역에서 상당한 시간을 보내며 광범위하게 여행을 하였고, 현지 풍습을 흡수하였습니다. 당신이 이 특전을 캐릭터에게 부여할 때, 다음 지역 중 하나를 선택하십시오: 앱솔럼과 스타스톤 아일, 브로큰 랜드, 아이 오브 드레드, 골든 로드, 하이 시즈, 임파서블 랜드, 망와이 익스팬스, 올드 첼릭스, 사가 랜드, 혹은 샤이닝 킹덤.  당신은 다른 출처로부터 얻은 접근 혜택 외에도, 드문 캐릭터 옵션의 <strong>접근</strong> 전제 조건을 충족하기 위해 그 지역의 모든 국가 출신으로 간주됩니다.</p>\n<p><strong>접근</strong> 전제 조건은 드문 캐릭터 옵션의 요구사항이며, 다른 출처로부터 얻은 접근 혜택 외에도 적용됩니다.</p>"
+    },
+    "World Traveller": {
+      "name": "세계 여행자",
+      "description": "<p><strong>[Slotless]</strong></p>\n<p><strong>선행 조건</strong> 호라이즌 헌터스 소속 티어 4</p>\n<p><strong>비용</strong> 명성 8</p>\n<hr />\n<p><strong>효과</strong> 당신의 여정은 당신을 멀리 데려갔고, 당신의 발자취를 따르는 길잡이들은 당신의 광범위한 경험으로부터 이득을 얻습니다. 12 XP 이하인 당신의 길잡이 협회 캐릭터 1명을 선택하십시오. 그 캐릭터는 @UUID[Compendium.pf2e.pathfinder-society-boons.Item.KXO4CUklzuJ0tZnw]{Home Region} 특전의 두 가지 복사본을 동시에 받을 수 있습니다.</p>"
+    },
+    "Worldly Mentor": {
+      "name": "세속의 멘토",
+      "description": "<p><strong>비용</strong>: 0 AcP</p><hr /><p>경험이 부족한 패스파인더 동료들과 함께 일하는 동안, 당신은 경험이 부족한 동료들이 위험을 인지하고 위험에 견딜 수 있도록 돕습니다. 레벨 상승(Level Bump)의 혜택을 받고 당신보다 레벨이 낮은 모든 PC의 경우, 당신은 레벨 상승의 지각 능력 검사와 선제 행동 굴림에 대한 수정치를 2로 증가시킵니다.</p>\n<p><strong>일반</strong>: 레벨 상승(Level Bump)은 PC의 지각 수정치를 1 증가시킵니다.</p>\n<p><strong>특수</strong>: PC는 두 개의 멘토 특전(boon)만 받을 수 있습니다.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.ICT4vGhOmPbriy16]{Effect: Worldly Mentor}</p>"
+    }
+  }
+}

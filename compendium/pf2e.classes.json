@@ -1,0 +1,106 @@
+{
+  "label": "클래스",
+  "folders": {},
+  "entries": {
+    "Alchemist": {
+      "name": "알케미스트",
+      "description": "<p><em>당신에게는 비커에서 부글부글 끓는 기묘한 혼합물보다 아름다운 광경은 없습니다. 그리고 당신은 당신의 독창적인 엘릭서를 거침없이 마십니다. 당신은 과학과 자연의 비밀을 밝히는 데 매료되어 있으며, 실험실에서든 이동 중이든 모든 경우에 대비한 기발한 혼합물을 가지고 끊임없이 실험합니다. 당신은 위험 앞에서도 두려워하지 않고, 폭발성이거나 독성이 있는 창작물을 적에게 던집니다. 위대함으로 향하는 당신의 독특한 길은 당신의 정신과 육체를 한계까지 밀어붙이는 연금술 혼합물로 가득 차 있습니다.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.Om4e4tsgNWrComie]{Alchemist}</p>"
+    },
+    "Animist": {
+      "name": "애니미스트",
+      "description": "<p><em>당신은 보이는 것과 보이지 않는 것 사이의 중개자이며, 필멸자와 영적인 존재를 잇는 목소리입니다. 당신은 영혼과 유대를 맺고, 그들의 독특한 마법을 드러내어 그들의 지식이 당신을 통해 흘러가도록 합니다. 당신은 치유 마법을 부여하는 영혼을 선호하거나, 파괴적인 힘의 주문을 부여하는 다른 영혼을 선호하거나, 환경과 상황에 따라 다양한 영혼을 선택할 수 있습니다. 당신은 당신의 힘을 신성한 신뢰의 일부로 여기거나, 당신의 독특한 능력을 두 세계의 챔피언으로 선택되었다는 표시로 볼 수 있습니다. 당신이 저승의 필멸자들을 위해 옹호하든, 영혼의 이익을 대변하든, 당신은 영역 사이의 다리를 제공합니다.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.ThFPVuxGiZ2Asgyr]{Animist}</p>"
+    },
+    "Barbarian": {
+      "name": "바바리안",
+      "description": "<p><em>전투에서 당신을 휩싸는 격노. 당신은 엄청난 파괴를 즐기고 강력한 무기를 사용하여 적들을 찢어발기며, 복잡한 기술이나 엄격한 훈련 없이 놀라운 내구성에 의존합니다. 당신의 격노는 맹렬한 본능에서 나오는데, 이는 동물, 정령 또는 당신 자신의 어떤 부분과 관련이 있을 수 있습니다. 많은 바바리안들에게 난폭한 힘은 망치이고 모든 문제는 못처럼 보이는 반면, 다른 이들은 내면의 감정의 폭풍을 억누르고 가장 중요할 때만 격노를 풀려고 합니다.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.lvuutBI9BSCU6cWe]{Barbarian}</p>"
+    },
+    "Bard": {
+      "name": "바드",
+      "description": "<p><em>당신은 예술의 대가이자, 감춰진 비밀의 학자이며, 매혹적인 설득자입니다. 강력한 공연을 사용하여 당신은 마음에 영향을 주고 영혼을 새로운 영웅주의의 경지로 끌어올립니다. 당신은 자신의 능력을 사용하여 카리스마 넘치는 지도자가 될 수도 있고, 또는 대신에 상담가, 조종자, 학자, 악당, 거장이 될 수도 있습니다. 당신의 다재다능함 때문에 어떤 이들은 당신을 매혹적인 불량배이자 만능 재주꾼으로 여기지만, 당신을 아무것도 제대로 못하는 사람으로 치부하는 것은 위험합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.Tz0NWVqhZyt8EyUV]{Bard}</em></p>"
+    },
+    "Champion": {
+      "name": "챔피언",
+      "description": "<p><em>당신은 신의 사절이며, 무거운 책임을 짊어진 헌신적인 종으로서, 당신을 주변 사람들과 다르게 만드는 신조를 고수합니다. 모든 정렬에 챔피언이 존재하지만, 선의 챔피언으로서 당신은 무고한 자들에게 확신과 희망을 제공합니다. 당신은 동맹과 무고한 구경꾼들과 자유롭게 공유하는 강력한 방어력과 악의 위협을 종식시키는 데 사용하는 신성한 힘을 가지고 있습니다. 당신의 헌신은 여정에서 당신을 돕는 성령의 관심을 끌기도 합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.rebppVgBVi8J6TT2]{Champion}</em></p>"
+    },
+    "Cleric": {
+      "name": "클레릭",
+      "description": "<p><em>신들은 무한한 방법으로 세상에 그들의 의지를 행하며, 당신은 그들의 가장 충실한 필멸의 종으로 섬기고 있습니다. 신성한 마법의 축복을 받은 당신은 자신의 신앙의 이상을 실천하고, 교회의 상징으로 자신을 장식하며, 신이 선호하는 무기를 능숙하게 다루도록 부지런히 훈련합니다. 당신의 주문은 아군을 보호하고 치유하거나, 신의 뜻에 따라 신앙의 적과 원수들을 처벌할 수 있습니다. 당신의 삶은 헌신의 삶이며, 말과 행동으로 신앙의 가르침을 널리 전파하는 삶입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.N4ABcd6CcCbqmw3x]{Cleric}</em></p>"
+    },
+    "Druid": {
+      "name": "드루이드",
+      "description": "<p><em>자연의 힘은 거스를 수 없습니다. 그것은 몇 분 만에 가장 견고한 요새를 파괴하고, 가장 위대한 작품조차도 폐허로 만들고, 재로 태우고, 눈사태에 파묻고, 파도에 잠기게 할 수 있습니다. 그것은 그것을 존중하는 자들에게는 끝없는 풍요와 숨막힐 듯한 아름다움을, 그리고 그것을 너무 가볍게 여기는 자들에게는 극심한 죽음을 가져다줄 수 있습니다. 당신은 자연의 부름을 듣는 자 중 하나입니다. 당신은 그 위대한 힘에 경외감을 느끼고 스스로를 그 봉사에 맡깁니다.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.8ElntNAGahQka70r]{Druid}</p>"
+    },
+    "Exemplar": {
+      "name": "엑셈플러",
+      "description": "<p><em>전쟁의 신이 죽자, 그의 힘이 창조의 여러 평면에 쏟아져 내려 분쟁을 일으키고 이전에는 그렇지 않았던 자들에게 디바인 에너지를 불어넣었습니다. 당신이 이 힘에 직접적으로 닿았든, 고대 존재나 유물로부터 그것을 획득했든, 아니면 당신의 혈통 속에 오랫동안 잠들어 있던 무언가가 깨어났든, 이제 당신의 영혼 속에서 디바인의 불꽃이 타오르고 있으며, 신과 전설에게만 허락되었던 영역에까지 미치는 능력과 신성한 무기, 그리고 디바인 표식을 당신에게 부여합니다. 당신이 이 도구들을 어떻게 사용하고 힘을 어떻게 키울지는 당신에게 달려 있습니다. 영웅이 될 수도 있고 이기적인 목적을 추구할 수도 있지만, 한 가지 확실한 것은 당신이 역사에 자신의 칭호를 새기고, 신과 필멸자 모두의 기억 속에 영원히 남을 의지를 가지고 있다는 것입니다.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.CIQggvnSfmuLa7eH]{Exemplar}</p>"
+    },
+    "Fighter": {
+      "name": "파이터",
+      "description": "<p><em>명예, 탐욕, 충성심, 또는 전투의 스릴을 위해 싸우는 당신은 무기와 전투 기술의 명실상부한 대가입니다. 당신은 적들이 경계를 늦추는 순간을 놓치지 않고, 교묘한 연계기를 통해 시작 동작, 마무리 일격, 그리고 역습을 조합합니다. 기사, 용병, 저격수, 검술 대가 중 어느 쪽이든, 당신은 무술 실력을 예술의 경지로 연마하여 적들에게 치명적인 크리티컬 공격을 가합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.HZbrRRVzW7w17L2W]{Fighter}</em></p>"
+    },
+    "Gunslinger": {
+      "name": "건슬링어",
+      "description": "<p><em>일부는 투사 무기를 두려워하지만, 당신은 총성과 함께 하는 격렬한 섬광과 강한 반동, 그리고 매캐한 연기를 즐기며, 혹은 활시위를 당기는 소리와 발사체가 명중하기 직전 활의 퍽 하는 소리를 좋아합니다. 언제든지 적을 조준할 준비가 되어 있는 당신은 자신의 반사 신경과 굳건한 손, 그리고 무기에 대한 지식을 이용하여 적들에게 구멍을 뚫습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.88K0xjShkhkckbhv]{Gunslinger}</em></p>"
+    },
+    "Inventor": {
+      "name": "발명가",
+      "description": "<p><em>어떤 발명가라도 도면을 따라 장치를 만들 수 있지만, 당신은 불가능한 것을 발명합니다! 당신이 생각해 내는 모든 기묘한 기계는 가능성의 경계를 넓히는 독특한 실험이며, 오직 당신에게만 작동하는 것처럼 보이는 신비로운 기계입니다. 당신은 언제나 다음 위대한 혁신의 직전에 있으며, 모든 시련과 고난은 시험하고 조정할 또 다른 기회입니다. 당신이 꿈꿀 수 있다면, 당신은 그것을 만들 수 있습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.gcRmL4Id1ggKDhvg]{Inventor}</em></p>"
+    },
+    "Investigator": {
+      "name": "조사자",
+      "description": "<p><em>당신은 진실을 밝히고자 하시며, 교활한 악당들의 음모를 밝히고, 고대의 비밀을 발견하거나, 다른 미스터리를 풀기 위해 끈기 있게 단서를 추적하십니다. 당신의 분석적인 마음은 복잡한 문제에 대한 해결책을 신속하게 만들어내고, 갈고 닦은 감각은 가장 모호한 단서까지도 식별합니다. 지식을 무기로 사용하여, 당신은 마주치는 생물과 위험을 연구하여 그들의 약점을 이용합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.omDi7otL3UWLVgct]{Investigator}</em></p>"
+    },
+    "Kineticist": {
+      "name": "키네티시스트",
+      "description": "<p><em>당신 안에서 원소의 힘이 흘러넘칩니다. 격렬한 불, 순수한 물, 덧없는 공기, 굳건한 땅, 휘어지는 나무, 날카로운 금속. 당신의 몸과 불가분하게 연결된 운동 에너지의 관문은 원소 평면에서 직접 힘을 끌어들여, 당신의 의지대로 원소가 당신의 손으로 솟구쳐 오르고, 당신의 몸 주위를 소용돌이치며, 적들을 날려 버리게 합니다. 평면과의 연결이 강해짐에 따라 당신은 선택한 원소에 대한 진정한 통제력을 얻게 됩니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.lNWQPwgT4vhYCOT7]{Kineticist}</em></p>"
+    },
+    "Magus": {
+      "name": "마구스",
+      "description": "<p><em>전사의 신체적 능력과 기술에 아케인 마법을 구사하는 능력을 결합하여 주문과 타격을 융합하는 기술을 완벽하게 구사하고자 당신은 노력하고 있습니다. 당신이 휴대하는 두꺼운 책은 수많은 시간을 아케인 연구에 쏟았음을 보여주지만, 당신의 적들은 당신의 훈련을 상기시켜 줄 필요가 없습니다. 당신이 그들을 쓰러뜨릴 때 그들은 그것을 알아챕니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.YVoyzV9v4QyP2UIC]{Magus}</em></p>"
+    },
+    "Monk": {
+      "name": "몽크",
+      "description": "<p><em>당신의 주먹의 힘은 당신의 마음과 정신에서 흘러나옵니다. 당신은 완벽을 추구하며, 당신의 몸을 완벽한 도구로, 그리고 당신의 마음을 질서정연한 지혜의 보루로 갈고 닦습니다. 당신은 무술 실력과 독특한 전투 동작을 부여하는 전투 자세로 유명한 맹렬한 전투원입니다. 많은 무술을 익히는 도전이 당신을 위대한 경지로 이끌지만, 당신은 또한 철학적인 질문에 대해 명상하고 평화와 깨달음을 얻는 새로운 방법을 발견하는 것을 즐깁니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.hGKd722Kn4ZxIOJs]{Monk}</em></p>"
+    },
+    "Oracle": {
+      "name": "오라클",
+      "description": "<p><em>당신의 디바인 힘의 통로는 기도와 봉사라는 전통적인 경로를 거부합니다. 당신은 대신 여러 신들의 공통점을 인지하거나 그들의 힘을 완전히 우회하든지 간에, 포괄적인 개념에 구현된 신성한 진실과 위대한 신비를 파악합니다.</em></p>\n<p><em>당신은 이러한 신비 중 하나를 탐구하고 그 힘을 이용하여 기적적인 주문을 시전하지만, 그 힘에는 엄청난 대가가 따릅니다. 그것은 당신이 그 힘을 더 많이 사용할수록 더 강해지는 저주이며, 당신은 그것을 신성한 도구로 받아들이거나 신들의 벌로 여길 수도 있습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.bqaqOx3naiwTozBX]{Oracle}</em></p>"
+    },
+    "Psychic": {
+      "name": "사이킥",
+      "description": "<p><em>정교한 기계로는 알 수 없는 진실을 당신의 마음은 감지하고, 어떤 책보다 많은 비밀을 간직하며, 어떤 지렛대보다도 능숙하게 사물과 마음을 움직일 수 있습니다. 의식과 무의식의 내면을 탐구함으로써 당신은 초능력 마법의 힘을 깨달았습니다. 주문이나 몸짓이 아닌, 당신의 의지의 힘만으로 마법을 시전할 수 있게 된 것입니다. 당신의 마음과 현실 사이의 미세한 경계는, 잘못된 생각 하나가 당신과 동료들에게 의도하지 않은 결과를 초래할 수 있다는 것을 의미하지만, 당신은 상상할 수 있다면 무엇이든 가능하다는 것을 알고 있습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.KVoEUJBAbAFUJTqw]{Psychic}</em></p>"
+    },
+    "Ranger": {
+      "name": "레인저",
+      "description": "<p><em>일부 레인저들은 문명이 영혼을 마모시킨다고 믿지만, 여전히 야생 생물로부터 보호받아야 한다고 생각합니다. 다른 레인저들은 자연의 아름다움을 길들이고 보물을 약탈하려는 탐욕스러운 자들로부터 자연을 보호해야 한다고 말합니다. 당신은 두 가지 목표 중 하나 또는 둘 다를 지지할 수 있습니다. 당신은 정찰병, 추적자 또는 도망자나 짐승 사냥꾼일 수 있으며, 문명의 경계를 배회하거나 야생을 탐험할 수 있습니다. 당신은 자연에서 생활하는 방법을 알고 있으며, 적절한 먹잇감과 증오하는 적을 발견하고 제압하는 데 능숙합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.gdEmPPRYhRai7I1N]{Ranger}</em></p>"
+    },
+    "Rogue": {
+      "name": "로그",
+      "description": "<p><em>당신은 숙련되고 기회주의적입니다. 날카로운 재치와 빠른 반응을 사용하여 상대의 실수를 이용하고 가장 아픈 곳을 공격합니다. 당신은 스릴을 추구하고 자신의 기술을 시험하는 위험한 게임을 하고 있으며, 방해가 되는 법률에는 별로 신경 쓰지 않는 것 같습니다. 모든 로그의 길은 독특하고 위험으로 가득 차 있지만, 당신 모두가 공통적으로 가지고 있는 것은 기술의 폭과 깊이입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.u4qPrDRBagxG9wj8]{Rogue}</em></p>"
+    },
+    "Sorcerer": {
+      "name": "소서러",
+      "description": "<p><em>당신은 마법사가 되기로 선택한 것이 아니라, 마법사로 태어났습니다. 신이 당신의 조상 중 한 명에게 손을 댔든, 조상이 프라이멀 생명체와 교감했든, 강력한 오컬트 의식이 당신의 혈통에 영향을 미쳤든, 당신의 피에는 마법이 흐릅니다. 자기 성찰과 연구를 통해 당신은 타고난 마법 능력을 연마하고 새롭고 더 강력한 능력을 개방할 수 있습니다. 하지만 당신의 피 속 힘에는 위험이 따르며, 당신은 끊임없이 마법사의 대가로서 성공할 것인지, 혹은 파멸에 빠질 것인지 선택에 직면하게 됩니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.ixBx2wZpnf4qUoEv]{Sorcerer}</em></p>"
+    },
+    "Summoner": {
+      "name": "서머너",
+      "description": "<p><em>당신은 아케인 마법을 사용하여 아이돌론이라 불리는 강력한 존재를 당신 곁으로 불러들일 수 있습니다.  아이돌론은 세상에 정착할 수 있도록 당신이라는 필멸의 매개체를 필요로 합니다.  당신의 아이돌론이 친구이든, 하인이든, 심지어 개인적인 신이든, 그것과의 연결은 당신을 특별한 존재로 만들고, 당신의 삶의 방향을 극적으로 바꿀 것입니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.gA4Ud8oSUGkkLwAi]{Summoner}</em></p>"
+    },
+    "Swashbuckler": {
+      "name": "스워시버클러",
+      "description": "<p><em>많은 전사들은 엄청난 힘, 무거운 갑옷 또는 다루기 힘든 무기에 의존합니다. 당신에게 전투는 적들 사이를 우아하고 세련되게 움직이는 춤입니다. 당신은 재능 있게 전투원들 사이를 움직이며 손목의 움직임과 칼날의 번뜩임으로 강력한 마무리 일격을 가합니다. 동시에 우아한 받아치기로 적들의 공격을 막아 균형을 잃게 합니다. 적들을 괴롭히고 좌절시키는 것은 당신이 운명을 매료시키고 능숙함과 화려함으로 여러 번 죽음을 피하게 해줍니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.rsDTKu4HUuKft7fk]{Swashbuckler}</em></p>"
+    },
+    "Thaumaturge": {
+      "name": "사우마터지",
+      "description": "<p><em>세상에는 설명할 수 없는 것들이 가득합니다. 고대 마법, 죽은 신들, 그리고 그보다 더 이상한 것들까지. 당신은 이에 대응하여 모든 마법 전통의 가장 좋은 부분들을 모아 신비한 물건들을 수집했습니다. 여기에는 깨진 성물도 있고, 저기에는 겨우살이 가지도 있습니다. 당신은 이것들을 사용하여 모든 생물의 약점과 취약점을 이용하여 제압할 수 있습니다. 당신이 지닌 신비한 도구는 휘장이자 무기이며, 그 상징적인 무게는 당신이 초자연적인 존재와 흥정하고 복종시키는 데 도움이 됩니다. 모든 힘의 길에는 제약과 대가가 있지만, 당신은 그것들을 모두 자신의 이익으로 돌립니다. 당신은 타우마투르그이며, 기적을 행합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.qigU4oNH2KDVvhjX]{Thaumaturge}</em></p>"
+    },
+    "Witch": {
+      "name": "위치",
+      "description": "<p><em>당신은 연구나 헌신을 통해서가 아니라, 당신조차도 완전히 이해하지 못하는 초자연적인 후원자를 위한 대리인으로서 강력한 마법을 다룹니다. 이 존재는 은밀한 신, 강력한 요정, 고대의 정령 또는 다른 어떤 강력한 초자연적 존재일 수도 있지만, 그 본질은 당신에게나 다른 사람들에게나 마찬가지로 수수께끼일 가능성이 높습니다. 특별한 파밀리어를 통해 후원자는 당신이 적절하다고 생각하는 대로 사용할 수 있는 다재다능한 주문과 강력한 헥스를 부여하지만, 당신이 단지 후원자의 더 큰 계획에 복무하고 있는 것인지 확신할 수는 없습니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.fYJruhQfzs4dj0mp]{Witch}</em></p>"
+    },
+    "Wizard": {
+      "name": "위저드",
+      "description": "<p><em>당신은 우주의 비밀을 영원히 배우는 학생이며, 마법 숙련으로 강력한 주문을 시전합니다. 당신은 마법을 과학처럼 다루며, 실용적인 주문 제작에 관한 최신 자료와 고대의 두루마리를 상호 참조하여 아케인 마법을 발견하고 이해합니다. 하지만 마법 이론은 방대하며, 당신이 그것을 모두 연구할 방법은 없습니다. 대부분의 마법사는 정규 교육을 통해 배우며, 그들의 교육 과정이 특정 틀을 제시하지만, 특히 열정적인 연구자들은 때때로 그들만의 이론을 종합하기도 합니다.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.wDukeO3euLEGn6FA]{Wizard}</em></p>"
+    }
+  }
+}

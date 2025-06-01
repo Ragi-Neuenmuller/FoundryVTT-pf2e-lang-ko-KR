@@ -1,0 +1,219 @@
+{
+  "label": "액션 매크로",
+  "folders": {},
+  "entries": {
+    "Administer First Aid - Stabilize: Medicine": {
+      "name": "응급 처치 - 안정화: 메디슨"
+    },
+    "Administer First Aid - Stop Bleeding: Medicine": {
+      "name": "응급 처치 - 출혈 중지: 메디슨"
+    },
+    "Athletics: Arcane Slam": {
+      "name": "운동: 아케인 슬램"
+    },
+    "Balance: Acrobatics": {
+      "name": "균형: 곡예"
+    },
+    "Bon Mot: Diplomacy": {
+      "name": "본 모: 디플로머시"
+    },
+    "Climb: Athletics": {
+      "name": "등반: 육상"
+    },
+    "Coerce: Intimidation": {
+      "name": "강제: 위협"
+    },
+    "Command an Animal: Nature": {
+      "name": "동물 조련: 자연"
+    },
+    "Conceal an Object: Stealth": {
+      "name": "물건 은폐: 스텔스"
+    },
+    "Craft: Crafting": {
+      "name": "제작: 크래프팅"
+    },
+    "Create a Diversion - Distracting Words: Deception": {
+      "name": "기만술: 눈길 끌기 - 산만하게 하는 말들"
+    },
+    "Create a Diversion - Gesture: Deception": {
+      "name": "기만 몸짓:  다이버전 생성"
+    },
+    "Create a Diversion - Trick: Deception": {
+      "name": "기만 트릭: 눈속임 만들기 - 디버전"
+    },
+    "Create Forgery: Society": {
+      "name": "크리에이트 포저리: 소사이어티"
+    },
+    "Decipher Writing: Arcana": {
+      "name": "암호 해독: 비전"
+    },
+    "Decipher Writing: Occultism": {
+      "name": "암호 해독: 신비"
+    },
+    "Decipher Writing: Religion": {
+      "name": "암호 해독: 종교"
+    },
+    "Decipher Writing: Society": {
+      "name": "암호 해독: 사회"
+    },
+    "Demoralize: Intimidation": {
+      "name": "디모럴라이즈: 인티미데이션"
+    },
+    "Disable Device: Thievery": {
+      "name": "장치 무력화: 도둑질"
+    },
+    "Disarm: Athletics": {
+      "name": "무장 해제: 운동"
+    },
+    "Encouraging Words": {
+      "name": "격려의 말"
+    },
+    "Escape": {
+      "name": "탈출"
+    },
+    "Escape: Acrobatics": {
+      "name": "탈출: 곡예"
+    },
+    "Escape: Athletics": {
+      "name": "탈출: 운동"
+    },
+    "Escape: Unarmed Attack": {
+      "name": "탈출: 비무장 공격"
+    },
+    "Exploration: Avoid Notice": {
+      "name": "탐색: 미발각 유지"
+    },
+    "Feint: Deception": {
+      "name": "페인트: 속임수"
+    },
+    "Force Open: Athletics": {
+      "name": "강제 개방: 운동"
+    },
+    "Gather Information: Diplomacy": {
+      "name": "정보 수집: 외교"
+    },
+    "Grapple: Athletics": {
+      "name": "붙잡기: 능력치(Athletics)"
+    },
+    "Hide: Stealth": {
+      "name": "숨기: 스텔스"
+    },
+    "High Jump: Athletics": {
+      "name": "높이뛰기: 앱슬레틱스"
+    },
+    "Impersonate: Deception": {
+      "name": "흉내내기: 속임수"
+    },
+    "Lie: Deception": {
+      "name": "거짓말: 속임수"
+    },
+    "Long Jump: Athletics": {
+      "name": "롱 점프: 애슬레틱스"
+    },
+    "Make an Impression: Diplomacy": {
+      "name": "인상을 남기기: 외교"
+    },
+    "Maneuver in Flight: Acrobatics": {
+      "name": "비행 중 기동: 곡예"
+    },
+    "Palm an Object: Thievery": {
+      "name": "물건 숨기기: 절도"
+    },
+    "Perform - Acting: Performance": {
+      "name": "퍼폼 - 액팅: 퍼포먼스"
+    },
+    "Perform - Comedy: Performance": {
+      "name": "퍼폼 - 코메디: 퍼포먼스"
+    },
+    "Perform - Dance: Performance": {
+      "name": "공연 - 댄스: 퍼포먼스"
+    },
+    "Perform - Oratory: Performance": {
+      "name": "공연 - 오러토리: 공연"
+    },
+    "Perform - Play keyboard instrument: Performance": {
+      "name": "연주 - 건반 악기 연주: 공연"
+    },
+    "Perform - Play percussion instrument: Performance": {
+      "name": "연주 - 타악기 연주: 공연"
+    },
+    "Perform - Play string instrument: Performance": {
+      "name": "연주 - 현악기 연주: 공연"
+    },
+    "Perform - Play wind instrument: Performance": {
+      "name": "연주 - 관악기 연주: 공연"
+    },
+    "Perform - Singing: Performance": {
+      "name": "퍼폼 - 싱잉: 퍼포먼스"
+    },
+    "Pick a Lock: Thievery": {
+      "name": "잠금 해제: 절도(세이버리)"
+    },
+    "Raise a Shield": {
+      "name": "방패를 올리기"
+    },
+    "Repair: Crafting": {
+      "name": "수리: 제작"
+    },
+    "Reposition: Athletics": {
+      "name": "재배치: 애슬레틱스"
+    },
+    "Request: Diplomacy": {
+      "name": "요청: 디플로머시"
+    },
+    "Seek: Perception": {
+      "name": "탐색: 지각"
+    },
+    "Sense Direction: Survival": {
+      "name": "방향 감지: 생존"
+    },
+    "Sense Motive: Perception": {
+      "name": "센스 모티브: 인지"
+    },
+    "Shove: Athletics": {
+      "name": "밀치기: 애슬레틱스"
+    },
+    "Sneak: Stealth": {
+      "name": "은신: 스텔스"
+    },
+    "Squeeze: Acrobatics": {
+      "name": "스퀴즈: 곡예"
+    },
+    "Steal: Thievery": {
+      "name": "도둑질: 절도"
+    },
+    "Steel Your Resolve": {
+      "name": "결의를 굳히십시오"
+    },
+    "Subsist: Society": {
+      "name": "서브시스트: 소사이어티"
+    },
+    "Subsist: Survival": {
+      "name": "서브시스트: 서바이벌"
+    },
+    "Swim: Athletics": {
+      "name": "수영: 육상"
+    },
+    "Tamper: Crafting": {
+      "name": "탬퍼: 제작"
+    },
+    "Track: Survival": {
+      "name": "트랙: 서바이벌"
+    },
+    "Treat Disease: Medicine": {
+      "name": "질병 치료: 메디슨"
+    },
+    "Treat Poison: Medicine": {
+      "name": "독 치료: 의술"
+    },
+    "Trip: Athletics": {
+      "name": "트립: 애슬레틱스"
+    },
+    "Tumble Through: Acrobatics": {
+      "name": "텀블 스루: 곡예"
+    },
+    "Whirling Throw: Athletics": {
+      "name": "회오리 투척: 육상"
+    }
+  }
+}

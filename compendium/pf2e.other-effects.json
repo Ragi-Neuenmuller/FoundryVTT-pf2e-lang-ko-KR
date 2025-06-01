@@ -1,0 +1,218 @@
+{
+  "label": "기타 효과",
+  "folders": {},
+  "entries": {
+    "Effect: -1 circumstance penalty to attack rolls until you score a critical hit": {
+      "name": "효과: 당신이 치명타를 낼 때까지 공격 굴림에 -1 상황 패널티를 받습니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.kjoBsS79JcjUUPnr]{Critical Fumble Deck #38}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.qD8KoshDJsayGbCB]{Critical Fumble Deck #40}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.mcniWnifXwXkZocv]{Critical Fumble Deck #41}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.8D8NPBNMxQftBmyd]{Critical Fumble Deck #46}에 의해 적용된 효과</strong></p>\n<p>치명타를 얻을 때까지 공격 굴림에 -1 상황 패널티</p>"
+    },
+    "Effect: -10-foot circumstance penalty to all Speeds": {
+      "name": "효과: 모든 속도에 -10피트 상황 패널티 적용",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.dP4Zy3ILcjWRx6ZO]{Critical Hit Deck #45}에 의해 적용된 효과</strong></p>\n<p>모든 속도에 -10피트 상황 패널티</p>"
+    },
+    "Effect: -10-foot circumstance penalty to your land Speed": {
+      "name": "효과: 당신의 지상 속도에 -10피트 상황 패널티를 받습니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.qD4ybNUceFacSJGu]{Critical Fumble Deck #3}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.DpY6k60UrpvKgjx2]{Critical Fumble Deck #4}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.99BxUbTtFlyPWkq5]{Critical Fumble Deck #7}에 의해 적용된 효과</strong></p>\n<p>당신의 이동 속도에 -10피트 상황 패널티</p>"
+    },
+    "Effect: -10-foot status penalty to your land Speed": {
+      "name": "효과: 당신의 이동 속도에 -10피트 상태 감소 효과가 적용됩니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.maXudTqcDiAj86Ym]{Critical Hit Deck #6}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.A0gsgMjgDpkOXtYp]{Critical Hit Deck #12}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.wHwwHq9RcOUvwFeB]{Critical Hit Deck #22}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.wCsoyffDxSWQ2c8o]{Critical Hit Deck #46}에 의해 적용된 효과</strong></p>\n<p>당신의 이동 속도에 -10피트 상태 감소 효과가 적용됩니다.</p>"
+    },
+    "Effect: -15-foot status penalty to your land Speed": {
+      "name": "효과: 당신의 지상 속도에 -15피트 상태 감소 효과가 적용됩니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.nI9pM4SeM39SRVaR]{Critical Hit Deck #41}에 의해 적용된 효과입니다.</strong></p>\n<p>당신의 이동 속도에 15피트의 상태 감소 효과가 적용됩니다.</p>"
+    },
+    "Effect: -2 circumstance penalty to attack rolls": {
+      "name": "효과: 공격 굴림에 -2 상황 패널티",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.wga13mR4vo73tbTY]{Critical Fumble Deck #10}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.xsBlA35rvfHSzJe4]{Critical Fumble Deck #15}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.1urnmEt4sn4ATDRL]{Critical Hit Deck #29}에 의해 적용된 효과</strong></p>\n<p>-2 상황 패널티를 공격 굴림에 적용합니다.</p>"
+    },
+    "Effect: -2 circumstance penalty to attack rolls made with this attack until healed": {
+      "name": "효과: 치유될 때까지 이 공격으로 하는 공격 굴림에 -2 상황 패널티를 받습니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.HERWPcFlzK2FTPLJ]{Critical Fumble Deck #47}에 의해 적용된 효과</strong></p>\n<p>치유될 때까지 이 공격으로 하는 공격 굴림에 -2 상황 패널티</p>"
+    },
+    "Effect: -2 circumstance penalty to attack rolls until healed": {
+      "name": "효과: 치유될 때까지 공격 굴림에 -2 상황 패널티를 받습니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.LY6T2YgrSoI79BDR]{Critical Fumble Deck #8}에 의해 적용된 효과</strong></p>\n<p>치유될 때까지 공격 굴림에 -2 상황 패널티</p>"
+    },
+    "Effect: -2 circumstance penalty to attack rolls with this weapon": {
+      "name": "효과: 이 무기로 공격 굴림에 -2 상황 패널티를 받습니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.EP333dUdoJ8xdkzq]{Critical Fumble Deck #5}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.YRY6c3WdBEuKiOCv]{Critical Fumble Deck #42}에 의해 적용된 효과</strong></p>\n<p>-2 상황 패널티가 이 무기에 대한 공격 굴림에 적용됩니다.</p>"
+    },
+    "Effect: -2 circumstance penalty to checks and saving throws until healed": {
+      "name": "효과: 치유될 때까지 판정과 내성 굴림에 -2 상황 패널티를 받습니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.IvDJkDpe3JxMHaj1]{Critical Fumble Deck #28}에 의해 적용된 효과</strong></p>\n<p>-2 상황 패널티가 치유될 때까지 판정과 내성 굴림에 적용됩니다.</p>"
+    },
+    "Effect: -2 circumstance penalty to ranged attacks": {
+      "name": "효과: 원거리 공격에 -2 상황 패널티",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.Wn47ZhXINo7jz8JZ]{Critical Fumble Deck #2}에 의해 적용된 효과</strong></p>\n<p>-2 상황 패널티를 원거리 공격에 적용합니다.</p>"
+    },
+    "Effect: -2 circumstance penalty to spell attack rolls and spell DC's": {
+      "name": "효과: 주문 공격 굴림과 주문 DC에 -2 상황 패널티를 받습니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.NNfsKAHcKvTuyha4]{Critical Fumble Deck #36}에 의해 적용된 효과</strong></p>\n<p>주문 공격 굴림과 주문 DC에 -2 상황 패널티</p>"
+    },
+    "Effect: -5-foot circumstance penalty to your land Speed": {
+      "name": "효과: 당신의 이동 속도에 -5피트의 상황 패널티를 받습니다.",
+      "description": "<p><strong>크리티컬 히트/펌블 덱에 의해 적용된 효과</strong></p>\n<p>당신의 지상 속도에 -5피트 상황 패널티</p>"
+    },
+    "Effect: -5-foot status penalty to your land Speed": {
+      "name": "효과: 당신의 땅 속도에 -5피트 상태 감소 효과를 받습니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.maXudTqcDiAj86Ym]{Critical Hit Deck #6}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.2CCPMTk5DlZslpOp]{Critical Hit Deck #18}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.QR3e1uCNURvxDzbV]{Critical Hit Deck #50}에 의해 적용된 효과</strong></p>\n<p>- 당신의 지면 속도에 5피트의 상태 감소 효과</p>"
+    },
+    "Effect: +1 circumstance bonus to attack rolls for 3 rounds": {
+      "name": "효과: 3 라운드 동안 공격 굴림에 +1 상황 보너스",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.TbXmAqEzgW1nZV2r]{Critical Fumble Deck #49}에 의해 적용된 효과</strong></p>\n<p>3라운드 동안 공격 굴림에 +1 상황 보너스를 얻지만, 당신은 무방비 상태입니다.</p>"
+    },
+    "Effect: +2 circumstance bonus to AC": {
+      "name": "효과: AC에 +2 상황 보너스",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.Wn47ZhXINo7jz8JZ]{Critical Fumble Deck #2}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.YcQEfWxkmpMWXUz4]{Critical Hit Deck #49}에 의해 적용된 효과</strong></p>\n<p>AC에 +2 상황 보너스</p>"
+    },
+    "Effect: +2 circumstance bonus to attack rolls": {
+      "name": "효과: 공격 굴림에 +2 상황 보너스",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.bzIzGjyNUc52lhCS]{Critical Hit Deck #4}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.pjR0QGXE58oWS8uU]{Critical Hit Deck #7}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.gdYlgrtfGK8mAoXK]{Critical Hit Deck #9}에 의해 적용된 효과</strong></p>\n<p>공격 굴림에 +2 상황 보너스</p>"
+    },
+    "Effect: +2 status bonus to AC and all saving throws": {
+      "name": "효과: AC 및 모든 내성 굴림에 +2 상태 보너스",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.iZYZTEtihsVkbRKR]{Critical Hit Deck #8}에 의해 적용된 효과</strong></p>\n<p>AC 및 모든 내성 굴림에 +2 상태 보너스</p>"
+    },
+    "Effect: +2 status bonus to attack rolls": {
+      "name": "효과: 공격 굴림에 +2 상태 보너스",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.wcqXFhggTcAutBk6]{Critical Fumble Deck #29}에 의해 적용된 효과</strong></p>\n<p>공격 굴림에 +2 상태 보너스</p>"
+    },
+    "Effect: +2 status bonus to saving throws against spells for 1 min": {
+      "name": "효과: 1분 동안 주문에 대한 내성 굴림에 +2 상태 보너스를 얻습니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.yBE9e9l5KW7SdHZH]{Critical Fumble Deck #31}에 의해 적용된 효과</strong></p>\n<p>1분 동안 주문에 대한 내성 굴림에 +2 상태 보너스</p>"
+    },
+    "Effect: +4 circumstance bonus to AC against your ranged attacks": {
+      "name": "효과: 당신의 원거리 공격에 대한 AC에 +4 상황 보너스를 적용합니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.4MkOtc3bBYsBGF97]{Critical Fumble Deck #6}에 의해 적용된 효과입니다.</strong></p>\n<p>엄폐는 당신의 원거리 공격에 대한 AC에 +4 상황 보너스를 제공합니다.</p>"
+    },
+    "Effect: Adverse Subsist Situation": {
+      "name": "효과: 역효과 지속 상황",
+      "description": "<p>@UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{Subsist}에 의해 부여됩니다.</p>\n<p>당신은 서바이스트 검사에 –2 상황 패널티를 받습니다.</p>"
+    },
+    "Effect: Aid": {
+      "name": "효과: 에이드",
+      "description": "<p>@UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{Aid}에 의해 부여됩니다.</p>\n<p>당신은 아군의 에이드 검사 결과에 따라 지원받는 검사에 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Ancestral Might": {
+      "name": "효과: 앤세스트럴 마이트",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.quxPxuMub8k6abzN]{Ancestral Might}에 의해 부여됩니다.</p>\n<p>당신은 자신의 조상으로부터 얻는 능력치 향상(무료 향상은 제외)에 기반한 판정에 +2 상태 보너스를 얻습니다. 만약 당신의 조상이 무료 향상만 제공한다면, 대신 보너스를 얻을 하나의 능력치를 선택하십시오.</p>"
+    },
+    "Effect: Aquatic Combat": {
+      "name": "효과: 수중 전투",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.OiRwxbfLNUniLg15#aquatic-combat]{Aquatic Combat}</p>\n<p>물이나 수중에서의 전투에는 다음 규칙을 적용하십시오.</p><ul><li>당신이 수영 속도를 가지고 있지 않다면 방심 상태입니다.</li><li>당신은 산성과 화염에 대한 저항 5를 얻습니다.</li><li>물을 통과하는 타격 또는 베기 공격에 대해서는 공격 굴림에 –2 상황 패널티를 받습니다.</li><li>수중 생물이 하거나 수중 목표물에 대한 원거리 공격은 사정거리가 절반으로 줄어듭니다.</li><li>당신은 수중에서 화염 마법을 시전하거나 화염 특성이 있는 행동을 사용할 수 없습니다. 특성의 작동 방식에 따라, 화염과 관련 없는 효과의 일부는 여전히 작동합니다. 예를 들어, <em>불타는 전투 도끼</em>로 하는 공격은 화염 피해는 입히지 못하지만 물리적 피해는 여전히 입힐 수 있습니다.</li></ul><p>@UUID[Compendium.pf2e.other-effects.Item.2u26bmArDPuoCljc]{Effect: Remaining Air}</p>"
+    },
+    "Effect: Aura of Protection": {
+      "name": "효과: 보호의 아우라",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.7uERHpfJplGtYf8w]{Aura of Protection}에 의해 당신은 마법의 등급과 같은 모든 피해에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Avert Gaze": {
+      "name": "효과: 애버트 게이즈",
+      "description": "<p>@UUID[Compendium.pf2e.actionspf2e.Item.UWdRX1VelipCzrCg]{Avert Gaze}에 의해 부여됩니다.</p>\n<p>당신은 생물이나 물체를 봐야 하는 시각 능력(예: 메두사의 석화시키는 시선)에 대한 내성 굴림에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Called Foe": {
+      "name": "효과: 콜드 포우",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.spzRl5CS4vnvcrm5]{Called Foe}에 의해 부여됩니다.</p>\n<p>적을 지정하십시오. 당신은 그 적에 대한 공격 굴림에 +2 상태 보너스를 얻지만, 다른 어떤 생물에 대한 공격 굴림에는 -4 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: Catch your Breath": {
+      "name": "효과: 캐치 유어 브레스",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.LafJ1PXfnR4Ogyzh]{Catch your Breath}에 의해 부여됩니다.</p>\n<p>당신은 원본의 레벨의 두 배에 해당하는 일시적 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Class Might": {
+      "name": "효과: 클래스 마이트",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.a68Phr1qsqVRPMVp]{Class Might}에 의해 부여됩니다.</p>\n<p>당신은 당신의 클래스의 주요 속성에 기반한 판정에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Cover": {
+      "name": "효과: 커버",
+      "description": "<p>당신이 무기를 막고, 폭발로부터 당신을 보호하며, 탐지하기 어렵게 만드는 장애물 뒤에 있을 때, 당신은 은폐물 뒤에 있는 것입니다. 표준 은폐물은 AC에 +2 상황 보너스, 면적 효과에 대한 반사 내성 굴림에 +2 상황 보너스, 그리고 숨기기, 잠입하기 또는 다른 방법으로 탐지를 피하기 위한 은신 굴림에 +2 상황 보너스를 제공합니다.  은폐하기 기본 행동을 사용하여 이것을 더 큰 은폐물로 증가시킬 수 있으며, 상황 보너스를 +4로 증가시킵니다. 은폐물이 특히 약할 경우, 일반적으로 생물체가 제공하는 경우, 당신은 작은 은폐물을 가지게 되며, 이는 AC에 +1 상황 보너스를 제공합니다. 표준 은폐물이나 더 큰 은폐물을 가진 생물체는 은신하여 숨기려고 시도할 수 있지만, 작은 은폐물은 충분하지 않습니다.</p>"
+    },
+    "Effect: Critical Moment": {
+      "name": "효과: 크리티컬 모먼트",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.P3mSUWRvCCwEouB0]{Critical Moment}에 의해 부여됩니다.</p>\n<p>확인을 두 번 다시 굴리고 더 좋은 결과를 사용하십시오. 만약 당신이 여전히 이 확인에 실패한다면, 당신은 둠드 1이 됩니다.</p>"
+    },
+    "Effect: Daring Attempt": {
+      "name": "효과: 대담한 시도",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.jHn1m1r95YgMQSvM]{Daring Attempt}에 의해 부여됩니다.</p>\n<p>훈련받지 않은 기술 하나를 선택하십시오. 당신은 그 기술에 훈련받았습니다.</p>"
+    },
+    "Effect: Dazzled until end of your next turn": {
+      "name": "효과: 당신의 다음 턴이 끝날 때까지 눈부심 상태가 됩니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.mwz1Ukw9laGyRocF]{Critical Fumble Deck #51}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.dvL063pJYJpCMsA6]{Critical Fumble Deck #52}에 의해 적용된 효과입니다.</strong></p>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}입니다.</p>"
+    },
+    "Effect: Deafened until end of your next turn": {
+      "name": "효과: 당신의 다음 턴이 끝날 때까지 귀가 먹습니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.mcniWnifXwXkZocv]{Critical Fumble Deck #41}에 의해 적용된 효과</strong></p>\n<p data-pm-slice=\"1 1 [&quot;section&quot;,{&quot;_preserve&quot;:{&quot;class&quot;:&quot;fumble-deck&quot;}},&quot;blockquote&quot;,{&quot;_preserve&quot;:{}}]\">당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened}입니다.</p>"
+    },
+    "Effect: Desperate Swing": {
+      "name": "효과: 데스퍼레이트 스윙",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.d15Zjdqplmj7ZTKK]{Desperate Swing}에 의해 부여됩니다.</p>\n<p>당신의 스트라이크는 다중 공격 패널티를 무시합니다. 당신이 결정적 성공을 굴리면, 대신 일반 성공을 얻습니다.</p>"
+    },
+    "Effect: Disarm (Bonus)": {
+      "name": "효과: 디스암 (보너스)",
+      "description": "<p>에페머럴 이펙트를 통해 @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Disarm}에 의해 부여됩니다.</p>\n<p>당신은 디스암에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Disarm (Success)": {
+      "name": "효과: 디스암 (성공)",
+      "description": "<p>@UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Disarm}에 의해 부여됩니다.</p>\n<p>당신은 목표물 아이템을 사용하는 공격에 대해 –2 상황 패널티를 받습니다. 당신을 무장 해제하려는 추가 시도는 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Endure the Onslaught": {
+      "name": "효과: 엔듀어 더 온슬롯",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.TU21DvdpQG7U2Q9Y]{Endure the Onslaught}에 의해 부여됩니다.</p>\n<p>당신은 모든 피해에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Fluid Motion": {
+      "name": "효과: 플루이드 모션",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.D6hqfmZUksRvqNFR]{Fluid Motion}에 의해 부여됩니다.</p>\n<p>당신은 당신의 이동 속도의 절반에 해당하는 등반 속도와 수영 속도를 얻습니다.</p>"
+    },
+    "Effect: Follow The Expert": {
+      "name": "효과: 팔로우 더 익스퍼트",
+      "description": "<p>@UUID[Compendium.pf2e.actionspf2e.Item.tfa4Sh7wcxCEqL29]{Follow the Expert}에 의해 부여됩니다.</p>\n<p>당신은 숙련되지 않았더라도 관련 기술 숙련 검사에 자신의 레벨을 숙련 보너스로 더할 수 있습니다.  또한, 아군의 숙련도에 따라 기술 숙련 검사에 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Impossible Shot": {
+      "name": "효과: 임파서블 샷",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.k0ue81dFKH4OKxed]{Impossible Shot}에 의해 부여됩니다.</p>\n<p>당신의 무기 또는 무장 공격의 사정거리 증가량이 두 배가 됩니다.</p>"
+    },
+    "Effect: Mounted": {
+      "name": "효과: 마운티드",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.OiRwxbfLNUniLg15#mounted-combat]{Mounted Combat}를 보십시오.</p>\n<p>당신은 탑승 중일 때 반사 내성 굴림에 –2 상황 패널티를 받습니다.</p>"
+    },
+    "Effect: Off-Guard until end of your next turn": {
+      "name": "효과: 당신의 다음 턴이 끝날 때까지 오프가드입니다.",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.IrUeMJoKEYUSJKs1]{Critical Fumble Deck #19}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.gWa7wGUfUvYoIK8z]{Critical Fumble Deck #20}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.I5omhoK6rqfCZiUZ]{Critical Fumble Deck #21}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.Ps9VYxI2zJPG6PEV]{Critical Fumble Deck #22}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.qD8KoshDJsayGbCB]{Critical Fumble Deck #40}에 의해 적용된 효과입니다.</strong></p>\n<p>당신은 다음 턴이 끝날 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 상태입니다.</p>"
+    },
+    "Effect: Press On": {
+      "name": "효과: 프레스 온",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.zcBCxlvPCpmjt5IS]{Press On}에 의해 부여됩니다.</p>\n<p>당신은 상태이상으로 인한 판정과 DC 감소 효과를 무시합니다.</p>"
+    },
+    "Effect: Rage and Fury": {
+      "name": "효과: 레이지 앤드 퓨리",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.cQH9Syl1SQpbAi5A]{Rage and Fury}에 의해 부여됩니다.</p>\n<p>당신은 근접 스트라이크에 대한 피해량에 +2 보너스를 얻고, AC에 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Remaining Air": {
+      "name": "효과: 남은 공기",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.OiRwxbfLNUniLg15#drowning-and-suffocating]{Drowning and Suffocating}를 참조하십시오.</p>\n<p>당신은 5 더하기 당신의 체력 수정치와 같은 라운드 수만큼 숨을 참을 수 있습니다. 각 턴의 끝에 남은 공기를 1라운드만큼 줄이거나, 그 턴에 공격하거나 주문을 시전한 경우 2라운드만큼 줄입니다.</p>\n<p>치명타를 입거나 피해 효과에 대한 내성 굴림에 치명적인 실패를 할 때마다 남은 공기가 1라운드씩 줄어듭니다. (주문 시전을 포함한) 말을 할 경우 남은 공기가 모두 소진됩니다.</p>"
+    },
+    "Effect: Resistance 5 to all damage": {
+      "name": "효과: 모든 피해에 대한 저항 5",
+      "description": "<p><strong>@UUID[Compendium.pf2e.criticaldeck.JournalEntry.TYTNFtVvFqFBM8oy]{Critical Fumble Deck #43}에 의해 적용된 효과</strong></p>\n<p>모든 피해에 대한 저항 5</p>"
+    },
+    "Effect: Scout": {
+      "name": "효과: 스카웃",
+      "description": "<p>@UUID[Compendium.pf2e.actionspf2e.Item.kV3XM0YJeS2KCSOb]{Scout}에 의해 부여됩니다.</p>\n<p>당신은 자신의 선제 굴림에 +1 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Spark of Courage": {
+      "name": "효과: 스파크 오브 커리지",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.EZZxz9jeEB0N3FPZ]{Spark of Courage}에 의해 부여됩니다.</p>\n<p>당신은 공격 굴림과 기술 숙련 검사에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Strike True": {
+      "name": "효과: 스트라이크 트루",
+      "description": "<p>@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.pS87Zh4QJnu0p8ES]{Strike True}에 의해 부여됩니다.</p>\n<p>당신은 두 번 굴리고 스트라이크에 더 높은 결과를 적용합니다. 공격자가 최대 체력의 절반 미만일 경우, 적중 시 추가 피해 주사위 하나를 더하고, 최대 체력의 4분의 1 미만일 경우 추가 피해 주사위 두 개를 더합니다.</p>"
+    },
+    "Effect: Treat Disease": {
+      "name": "효과: 질병 치료",
+      "description": "<p>@UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}에 의해 부여됩니다.</p>\n<p>당신은 다음 질병에 대한 내성 굴림에 상황 보너스 또는 패널티를 얻습니다.</p>"
+    },
+    "Effect: Treat Poison": {
+      "name": "효과: 독 치료",
+      "description": "<p>@UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}에 의해 당신은 다음 독에 대한 내성 굴림에 상황 보너스나 패널티를 얻습니다.</p>"
+    }
+  }
+}

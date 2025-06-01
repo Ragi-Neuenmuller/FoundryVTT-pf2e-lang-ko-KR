@@ -1,0 +1,2346 @@
+{
+  "label": "장비 효과",
+  "folders": {},
+  "entries": {
+    "Aura: Demon's Knot": {
+      "name": "오라: 데몬즈 너트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.2TANKQXO6xntX5MT]{Demon's Knot}에 의해 부여됩니다.</p>\n<p>당신은 의지 내성 굴림에 -1의 상태 패널티를 받습니다.</p>"
+    },
+    "Aura: Elysian Dew": {
+      "name": "오라: 엘리시안 듀",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8vN6vm2fKB4rE86U]{Elysian Dew}에 의해 부여됩니다.</p>\n<p>당신은 10피트 오라를 얻습니다. 당신과 발산 영역 안에서 턴을 시작하는 모든 아군은 당신 또는 아군의 다음 턴이 시작될 때까지 5의 일시적 히트 포인트, 내성 굴림에 +1 아이템 보너스, 그리고 곡예와 육상 능력 검사에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Aura: Fuming Cloak": {
+      "name": "오라: 퓨밍 클록",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ASjNBiQfQfWppPJc]{Nightmare's Lament}에 의해 부여됩니다.</p>\n<p><em>나이트메어스 라멘트</em>는 총기 사용자 주위 15피트 반경에 지속적으로 짙은 검은 연기를 내뿜어 은폐 효과를 제공합니다.</p>"
+    },
+    "Aura: Searing Blade (Greater)": {
+      "name": "오라: 시어링 블레이드 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.pvxRcuBexbFawjCg]{Searing Blade (Greater)}에 의해 부여됩니다.</p>\n<p>1분 동안 더욱 강력한 불꽃 칼날(<em>greater searing blade</em>)에서 @Template[emanation|distance:10]의 불꽃이 방출됩니다. 영역 내의 당신과 당신의 아군이 하는 모든 무기 및 무장 공격은 <em>플레임밍</em>(<em>flaming</em>) 속성 룬의 효과를 얻습니다.</p>"
+    },
+    "Aura: Shining Symbol": {
+      "name": "오라: 샤이닝 심볼",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.YVtXlsEWb3NIkDyy]{Shining Symbol}, @UUID[Compendium.pf2e.equipment-srd.Item.M7c4uXraP05HYNXs]{Shining Symbol (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.etnis6HOeGZEbScD]{Shining Symbol (Major)}에 의해 부여됩니다.</p>\n<p>상징이 발하는 빛은 밝은 빛이 됩니다. 빛 속에 있는 생물은 속임수와 은밀 행동 판정에 상태 불이익을 받고, 당신의 적들은 정령 피해에 약점을 얻습니다.</p>"
+    },
+    "Effect: Ablative Armor Plating (Greater)": {
+      "name": "효과: 아블레이티브 아머 플레이팅 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Qm0ZiyXail7Lv0dq]{Ablative Armor Plating (Greater)}에 의해 부여됩니다.</p>\n<p>플레이팅은 갑옷 착용자에게 1시간 동안 또는 소실될 때까지 20 히트 포인트를 부여합니다. 플레이팅을 일찍 제거하면 파괴됩니다.</p>"
+    },
+    "Effect: Ablative Armor Plating (Lesser)": {
+      "name": "효과: 애블러티브 아머 플레이팅 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.U9XNSFQzCOo6KMD1]{Ablative Armor Plating (Lesser)}에 의해 부여됩니다.</p>\n<p>플레이팅은 갑옷 착용자에게 1분 동안 또는 소실될 때까지 5 히트 포인트를 부여합니다. 플레이팅을 일찍 제거하면 파괴됩니다.</p>"
+    },
+    "Effect: Ablative Armor Plating (Major)": {
+      "name": "효과: 애블레이티브 아머 플레이팅 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.xXvuQABxlRH2HXsO]{Ablative Armor Plating (Major)}에 의해 부여됩니다.</p>\n<p>플레이팅은 갑옷 착용자에게 1시간 동안 또는 플레이팅을 잃을 때까지 30 히트 포인트를 부여합니다. 플레이팅을 조기에 제거하면 파괴됩니다.</p>"
+    },
+    "Effect: Ablative Armor Plating (Moderate)": {
+      "name": "효과: 애블레이티브 아머 플레이팅 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.P7Evi8Wv8zIwLYtU]{Ablative Armor Plating (Moderate)}에 의해 부여됩니다.</p>\n<p>플레이팅은 갑옷 착용자에게 10분 동안 또는 효과가 사라질 때까지 10 히트 포인트를 부여합니다. 플레이팅을 미리 제거하면 파괴됩니다.</p>"
+    },
+    "Effect: Ablative Armor Plating (True)": {
+      "name": "효과: 애블러티브 아머 플레이팅 (진실)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.RdsQliP7Gi1xe8xH]{Ablative Armor Plating (True)}에 의해 부여됩니다.</p>\n<p>플레이팅은 갑옷 착용자에게 1시간 동안 또는 소실될 때까지 40 히트 포인트를 부여합니다. 플레이팅을 일찍 제거하면 파괴됩니다.</p>"
+    },
+    "Effect: Aeon Stone (Black Pearl)": {
+      "name": "효과: 이온 스톤 (블랙 펄)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.J7vQowV531Sz73Gw]{Aeon Stone (Black Pearl)}에 의해 부여됩니다.</p>\n<p>당신은 발동 효과에 대한 내성 굴림에 +4 상태 보너스를 받습니다.</p>"
+    },
+    "Effect: Aeon Stone (Pink Rhomboid)": {
+      "name": "효과: 이온 스톤 (핑크 롬보이드)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.lJ3BzUZkGTOCWleL]{Aeon Stone (Pink Rhomboid)}에 의해 부여됩니다.</p>\n<p>당신은 일시적 히트 포인트 15를 얻습니다.</p>"
+    },
+    "Effect: Aeon Stone (Sprouting)": {
+      "name": "효과: 이온 스톤 (새싹)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.BYr1DRYmiRsyr4po]{Aeon Stone (Sprouting)}에 의해 부여됩니다.</p>\n<p>당신은 8의 임시 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Aeon Stone Resonance (Amplifying)": {
+      "name": "효과: 이온 스톤 레조넌스 (앰플리파잉)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.MO8J2IcBhiTnm9D8]{Aeon Stone (Amplifying)}에 의해 부여됩니다.</p>\n<p>공명하는 힘은 당신에게 비전, 자연, 신비 또는 종교 숙련 검사에 +2 아이템 보너스를 부여합니다. 이는 당신이 이 <em>에온 스톤</em>으로 마지막으로 강화한 주문의 전통에 따라 달라집니다.</p>"
+    },
+    "Effect: Aeon Stone Resonance (Black Disc)": {
+      "name": "효과: 이온 스톤 레조넌스 (블랙 디스크)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ffQwBOmyy2NyatnC]{Aeon Stone (Black Disc)}에서 부여받았습니다.</p>\n<p>공명하는 힘은 당신에게 신성 및 생명력 피해에 대한 저항 10을 부여합니다.</p>"
+    },
+    "Effect: Aeon Stone Resonance (Pearly White Spindle)": {
+      "name": "효과: 이온 스톤 레조넌스 (펄리 화이트 스핀들)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.4A8SFipG78SMWQEU]{Aeon Stone (Pearly White Spindle)}에 의해 부여됩니다.</p>\n<p>공명하는 힘은 당신에게 공허 피해에 대한 저항 1을 부여합니다.</p>"
+    },
+    "Effect: Alchemist Goggles": {
+      "name": "효과: 알케미스트 고글즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.7JVgLiNTAs4clEW8]{Alchemist Goggles}에 의해 부여됩니다.</p>\n<p>연금술 폭탄으로 공격할 때, 당신은 작은엄폐물을 무시합니다.</p>"
+    },
+    "Effect: Alloy Orb (Exquisite High-Grade)": {
+      "name": "효과: 알로이 오브 (정교한 고급)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ECjche2BfpWHZ3vU]{Alloy Orb (Exquisite High-Grade)}에 의해 부여됩니다.</p>\n<p>당신이 <em>알로이 오브</em>를 활성화하면, 아다만타인, 콜드 아이언, 또는 돈실버 중 하나를 선택하십시오. 부착된 무기는 선택된 재료로 기능합니다.</p>"
+    },
+    "Effect: Alloy Orb (Exquisite Standard-Grade)": {
+      "name": "효과: 알로이 오브(익스퀴짓 스탠더드-그레이드)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.tTrJnXJYt15arH6G]{Alloy Orb (Exquisite Standard-Grade)}에 의해 부여됩니다.</p>\n<p>당신이 <em>알로이 오브</em>를 활성화하면, 아다만타인, 콜드 아이언, 또는 돈실버 중 하나를 선택하십시오. 부착된 무기는 선택된 재료로 기능합니다.</p>"
+    },
+    "Effect: Alloy Orb (High-Grade)": {
+      "name": "효과: 알로이 오브(고급)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.s0DffbZbYlav3mu1]{Alloy Orb (High-Grade)}에 의해 부여됩니다.</p>\n<p>당신이 <em>얼로이 오브</em>를 활성화하면, 콜드 아이언 또는 실버를 선택하십시오. 부착된 무기는 선택된 재료로 기능합니다.</p>"
+    },
+    "Effect: Alloy Orb (Low-Grade)": {
+      "name": "효과: 얼로이 오브(저급)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.X345VfEx9DZwO47G]{Alloy Orb (Low-Grade)}에 의해 부여됩니다.</p>\n<p>당신이 <em>얼로이 오브</em>를 활성화하면, 콜드 아이언 또는 실버를 선택하십시오. 부착된 무기는 선택된 재료로 기능합니다.</p>"
+    },
+    "Effect: Alloy Orb (Standard-Grade)": {
+      "name": "효과: 알로이 오브 (스탠다드-그레이드)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.OOli8iQmLZoMOoG0]{Alloy Orb (Standard-Grade)}에 의해 부여됩니다.</p>\n<p>당신이 <em>알로이 오브</em>를 활성화하면, 콜드 아이언 또는 실버를 선택하십시오. 부착된 무기는 선택된 재료로 기능합니다.</p>"
+    },
+    "Effect: Amphisbaena Spittle": {
+      "name": "효과: 암피스바에나 스핏틀",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Hoe17WNDQ2PQd9JZ]{Amphisbaena Spittle}에 의해 부여됩니다.</p>\n<p>대상은 다음 턴이 시작될 때까지 측면 공격을 받을 수 없습니다.</p>"
+    },
+    "Effect: Ancestral Geometry": {
+      "name": "효과: 앤세스트럴 지오메트리",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.PSKFnWMq5daOJa1R]{Ancestral Geometry}에 의해 부여됩니다.</p>\n<p>2d20을 굴리고 가장 높은 결과를 기록하십시오. 그런 다음 1d6을 굴리고 내성 굴림의 종류를 적으십시오: 1–2 인내 내성 굴림, 3–4 반사 내성 굴림, 그리고 5–6 의지 내성 굴림.</p>"
+    },
+    "Effect: Ancestral Geometry (Save Type)": {
+      "name": "효과: 앤세스트럴 지오메트리 (내성 굴림 종류)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.PSKFnWMq5daOJa1R]{Ancestral Geometry}에 의해 부여됩니다.</p>\n<p>내성 굴림의 종류를 결정합니다.</p>"
+    },
+    "Effect: Animal Blind": {
+      "name": "효과: 애니멀 블라인드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.40T4HrQdIIwGHMDq]{Animal Blind}에 의해 부여됩니다.</p>\n<p>당신은 숨기기 위한 은신 굴림에 +4 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Anklets of Alacrity": {
+      "name": "효과: 알라크리티 앵클릿",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.9IwSktj0Xj7A2Ruh]{Anklets of Alacrity}을 활성화하여 부여됩니다.</p>"
+    },
+    "Effect: Antidote": {
+      "name": "효과: 안티도트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ktjFOp3U0wQD9t0Z]{Antidote (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.XWkeL34yJK6t5qUE]{Antidote (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.AJ1dC7EtTIfBey0M]{Antidote (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.ANzB9WzlGQXDn76G]{Antidote (Major)}에 의해 당신은 특전을 얻습니다.</p>\n<p>당신은 독에 대한 인내 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Antifungal Salve": {
+      "name": "효과: 안티펑걸 살브",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.TEd1rxn3CfPeh0jZ]{Antifungal Salve (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.QPaArkVoNOBv5YRU]{Antifungal Salve (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.8v5fKBgw7jsCBu8U]{Antifungal Salve (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.rS3DCw5B0fEVICVW]{Antifungal Salve (Major)}에 의해 당신은 균류 질병에 대한 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Antiplague": {
+      "name": "효과: 안티플레그",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.UqinuuCWePTYGhVO]{Antiplague (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.biRbqKo2C97XLfQ0]{Antiplague (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.ORDaAzMZLrf6Hn8A]{Antiplague (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.kajpTXg3oHIJStQa]{Antiplague (Major)}에 의해 당신은 혜택을 받습니다.</p>\n<p>당신은 질병에 대한 인내 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Applereed Mutagen (Greater)": {
+      "name": "효과: 애플리드 뮤타젠 (강력한)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.vTEWlRBUD4VzVwxK]{Applereed Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 육상 능력치 검사에 +4 아이템 보너스를 얻고, 당신의 속도에 +20피트 상태 보너스를 얻습니다.  게다가, 당신은 한 사이즈 더 커지지만, 더 커진 크기는 공간의 잠재적인 변화를 제외하고는 추가적인 효과가 없습니다.</p>\n<p><strong>단점</strong> 당신은 AC에 -1 패널티와 반사 내성 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Applereed Mutagen (Lesser)": {
+      "name": "효과: 애플리드 뮤타겐 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.0RTsyWutvO42O0zK]{Applereed Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 육상 기술 검정에 +2 아이템 보너스를 얻고, 당신의 속도에 +10피트 상태 보너스를 얻습니다.  게다가, 당신은 한 사이즈 더 커지지만, 더 커진 크기는 공간의 잠재적 변화 외에는 추가적인 효과가 없습니다.</p>\n<p><strong>단점</strong> 당신은 AC에 -1 패널티와 반사 내성 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Applereed Mutagen (Moderate)": {
+      "name": "효과: 애플리드 뮤터젠 (중간)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8e37h6HBr4ZyBSGt]{Applereed Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 육상 능력치 검사에 +3 아이템 보너스를 얻고, 당신의 이동 속도에 +15피트 상태 보너스를 얻습니다.  게다가, 당신은 한 사이즈 더 커지지만, 더 커진 크기는 공간의 잠재적 변화를 제외하고는 추가적인 효과가 없습니다.</p>\n<p><strong>단점</strong> 당신은 AC에 -1 감소치를 받고, 반사 내성 굴림에 -2 감소치를 받습니다.</p>"
+    },
+    "Effect: Apricot of Bestial Might": {
+      "name": "효과: 아프리콧 오브 베스티얼 마이트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.O4SbscW0mhRRSbRK]{Apricot of Bestial Might}에 의해 부여됩니다.</p>\n<p>당신은 모든 물리 피해에 대한 8의 저항력을 얻고, 치명적인 d12 특성을 지닌 엄니 무장 공격을 얻게 되어 1d10 관통 피해를 입힙니다. 당신은 서투른 1이 됩니다.</p>"
+    },
+    "Effect: Arachnid Harness": {
+      "name": "효과: 아라크니드 하네스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JG7p7yI12cAPuJ8X]{Arachnid Harness}과 @UUID[Compendium.pf2e.equipment-srd.Item.NIyJqiW1Wci6gP9m]{Arachnid Harness (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 자신의 육지 이동 속도의 절반에 해당하는 등반 속도를 얻게 되며, 등반 시에도 사지가 자유롭습니다. 만약 당신이 등반을 위해 모든 자유로운 사지를 사용한다면, 당신의 등반 속도는 자신의 육지 이동 속도와 같아집니다.</p>"
+    },
+    "Effect: Arboreal's Revenge (Speed Penalty)": {
+      "name": "효과: 아보리얼즈 리벤지 (속도 감소)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.4kyf3ScoJ4TvhPG3]{Arboreal's Revenge}에 의해 부여됩니다.</p>\n<p>대상들은 뿌리가 상처에서 빠르게 돋아나면서 이동 속도에 -10피트 상황 패널티를 받습니다. 이 효과는 대상들이 [[/act escape dc=20]]할 때까지 지속됩니다.</p>"
+    },
+    "Effect: Architect's Pattern Book": {
+      "name": "효과: 아키텍트의 패턴 북",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Kx1Se9u0LU1ZS5R1]{Architect's Pattern Book}에 의해 부여됩니다.</p>\n<p>당신은 육상 능력치 판정과 의지 내성 굴림에 +1 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Aromatic Ammunition": {
+      "name": "효과: 아로마틱 애뮤니션",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.iYsDDvFduPhtaIOr]{Aromatic Ammunition}에 의해 부여됩니다.</p>\n<p>30피트 이내의 모든 생물은 대상의 냄새를 맡아 후각이 약한 생물조차도 그 존재를 감지할 수 있으며, 모든 생물은 냄새가 나는 동안 대상 추적에 +1 아이템 보너스를 얻습니다.  부정확하거나 정확한 후각을 가진 생물은 자신의 후각의 일반적인 범위와 비교하여 대상을 감지할 수 있는 범위를 두 배로 늘립니다.</p>"
+    },
+    "Effect: Ascendant Dragon Spirit": {
+      "name": "효과: 어센던트 드래곤 스피릿",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.7fN8xgFBxqrOkCJW]{Ascendant Dragon Spirit}에 의해 부여됩니다.</p>\n<p>당신의 무장 해제 공격은 추가적으로 1d6 독 피해와 추가적으로 1d6 공허 피해를 입힙니다.</p>"
+    },
+    "Effect: Assassin Vine Wine": {
+      "name": "효과: 어쌔신 바인 와인",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.aSvDtG5i5l7scgru]{Assassin Vine Wine} 및 @UUID[Compendium.pf2e.equipment-srd.Item.tZiCnERZB6ww4eBu]{Aged Assassin Vine Wine}에 의해 부여됩니다.</p>\n<p>당신은 30피트 범위의 진동 감지 능력을 얻습니다.</p>"
+    },
+    "Effect: Auric Noodles": {
+      "name": "효과: 오릭 누들",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.qQ9Rros3GdPDRLBg]{Auric Noodles}에 의해 부여됩니다.</p>\n<p>당신은 마법 식별 검사에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Aurochs Jerky": {
+      "name": "효과: 오록스 저키",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.CNDOlR00gFm3DDAu]{Aurochs Jerky}에 의해 부여됩니다.</p>\n<p>당신은 인내 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Aurochs' Endurance": {
+      "name": "효과: 오록스의 인내력",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.CNDOlR00gFm3DDAu]{Aurochs Jerky}에 의해 부여됩니다.</p>\n<p>당신은 피로 상태를 억제하고 피로를 유발하는 효과에 대한 내성 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Azarim": {
+      "name": "효과: 아자림",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.KoyxJDibsKJh24am]{Azarim}에 의해 부여됩니다.</p>\n<p><em>아자림</em>은 1분 동안 <em>아나키</em> 무기 룬의 효과를 얻습니다. 11레벨 이상의 캐릭터가 사용할 경우, <em>아자림</em>은 <em>+2 강타 아나키 시프팅 레이피어</em>가 되며, 이 활성화는 <em>아자림</em>과 물리적으로 접촉하고 있는 다른 무기에 적용될 수 있습니다.</p>"
+    },
+    "Effect: Barding of the Zephyr": {
+      "name": "효과: 제피르 바딩",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.eoI3M6FXtcPWeg7i]{Barding of the Zephyr}에 의해 부여됩니다.</p>\n<p>당신은 마구의 바람 모티프를 따라 손가락으로 그리며, 마구를 착용한 동반자에게 10분 동안 30피트의 플라이 스피드를 부여합니다. 동반자가 마운트 특수 능력을 가지고 있지 않더라도 탑승 중에는 플라이할 수 있습니다.</p>"
+    },
+    "Effect: Batsbreath Cane": {
+      "name": "효과: 뱃브레스 케인",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.zB0Q86QD0A10CeFH]{Batsbreath Cane}에 의해 부여됩니다.</p>\n<p>당신이 그 지역에 머물러 있고 지팡이를 잡고 있는 동안, 당신은 청력을 정확한 감각으로 얻습니다.</p>"
+    },
+    "Effect: Beastmaster's Sigil - Armor": {
+      "name": "효과: 비스트마스터의 시길 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JWFR4O5V06UUvx6W]{Beastmaster's Sigil}, @UUID[Compendium.pf2e.equipment-srd.Item.fWgH0JxNCOpI7SVr]{Beastmaster's Sigil (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.ZxOoQ4cHfJXXbP9F]{Beastmaster's Sigil (Major)}에 의해 당신은 독에 대한 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Beastmaster's Sigil - Melee Weapon": {
+      "name": "효과: 비스트마스터의 시길 - 근접 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JWFR4O5V06UUvx6W]{Beastmaster's Sigil}, @UUID[Compendium.pf2e.equipment-srd.Item.fWgH0JxNCOpI7SVr]{Beastmaster's Sigil (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.ZxOoQ4cHfJXXbP9F]{Beastmaster's Sigil (Major)}에 의해 부여됩니다.</p>\n<p>당신은 @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}에 대한 능력치 보너스를 얻습니다.</p>"
+    },
+    "Effect: Beastmaster's Sigil - Ranged Weapon": {
+      "name": "효과: 비스트마스터의 시길 - 원거리 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JWFR4O5V06UUvx6W]{Beastmaster's Sigil}, @UUID[Compendium.pf2e.equipment-srd.Item.fWgH0JxNCOpI7SVr]{Beastmaster's Sigil (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.ZxOoQ4cHfJXXbP9F]{Beastmaster's Sigil (Major)}에 의해 부여됩니다.</p>\n<p>당신이 부착된 무기로 치명타를 입히고, 목표가 <em>시길</em>로 소환된 생명체와 인접해 있다면, 목표는 1d6 지속 피해(출혈)(혹은 <em>메이저 시길</em>일 경우 2d6 지속 피해(출혈))를 입습니다.</p>"
+    },
+    "Effect: Belt of the Five Kings (Allies)": {
+      "name": "효과: 벨트 오브 더 파이브 킹스 (동맹)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.YCjVrQnHfOtpmjYW]{Belt of the Five Kings}에 의해 부여됩니다.</p>\n<p>당신은 어둠보기를 얻습니다.</p>"
+    },
+    "Effect: Belt of the Five Kings (Wearer)": {
+      "name": "효과: 벨트 오브 더 파이브 킹스 (착용자)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.YCjVrQnHfOtpmjYW]{Belt of the Five Kings}에 의해 부여됩니다.</p>\n<p>당신의 레벨과 동일한 임시 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Bestial Mutagen (Greater)": {
+      "name": "효과: 비스티얼 뮤터젠 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.gDheph8YteBtnyKp]{Bestial Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 격투 기술 판정과 무장 공격 굴림에 +3 아이템 보너스를 얻습니다. 당신은 민첩 특성을 가진 발톱 무장 공격(3d8 베기 피해)과 턱 무장 공격(3d10 관통 피해)을 얻습니다.</p>\n<p>당신은 반사 내성 굴림, 곡예 기술 판정, 은신 기술 판정에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Bestial Mutagen (Lesser)": {
+      "name": "효과: 비스티얼 뮤터젠 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.IQK9N2mEOyAj3iWU]{Bestial Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p>당신은 격투 기술 판정과 무장 공격 굴림에 +1 아이템 보너스를 얻습니다. 당신은 민첩 특성을 가진 발톱 무장 공격(1d4 베기 피해)과 턱 무장 공격(1d6 관통 피해)을 얻습니다.</p>\n<p>당신은 반사 내성 굴림, 곡예 기술 판정, 은신 기술 판정에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Bestial Mutagen (Major)": {
+      "name": "효과: 비스티얼 뮤터젠 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.nS75vsM3x5jxlUqn]{Bestial Mutagen (Major)}에 의해 부여됩니다.</p>\n<p>당신은 격투 능력 검사와 무장 공격 굴림에 +4 아이템 보너스를 얻습니다. 당신은 민첩 특성을 가진 발톱 무장 공격 (4d8 베기 피해)과 턱 무장 공격 (4d10 관통 피해)을 얻습니다.</p>\n<p>당신은 반사 내성 굴림, 곡예 능력 검사, 은신 능력 검사에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Bestial Mutagen (Moderate)": {
+      "name": "효과: 비스티얼 뮤터젠 (중간)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.VISk5uLPVIvNWovB]{Bestial Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 격투 기술 판정과 무장 공격 굴림에 +2 아이템 보너스를 얻습니다. 당신은 민첩 특성을 가진 발톱 무장 공격 (2d6 베기 피해)과 턱 무장 공격 (2d8 관통 피해)을 얻습니다.</p>\n<p>당신은 반사 내성 굴림, 곡예 기술 판정, 은신 기술 판정에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Bewitching Bloom (Lotus)": {
+      "name": "효과: 비위칭 블룸 (로터스)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.3Ucc6E5V6bzdgFLE]{Bewitching Bloom (Lotus)}의 부여</p>\n<p>당신은 정신 효과에 대한 의지 내성 굴림에 +2 상태 보너스를 얻습니다. 이 보너스는 감정 효과에 대해 +3으로 증가합니다.</p>"
+    },
+    "Effect: Bewitching Bloom (Magnolia)": {
+      "name": "효과: 비위칭 블룸 (마그놀리아)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.LDtIZ822rqBD88U2]{Bewitching Bloom (Magnolia)}에 의해 부여됩니다.</p>\n<p>당신은 외교치에 +1 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Blade of Four Energies": {
+      "name": "효과: 블레이드 오브 포 에너지스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.AUJfvrouapAeC4Mg]{Blade of Four Energies}, @UUID[Compendium.pf2e.equipment-srd.Item.AWUzApS5PPwt3TCI]{Blade of Four Energies (Greater)}에 의해 부여됩니다.</p>\n<p>무기는 <em>corrosive</em>, <em>flaming</em>, <em>frost</em>, 또는 <em>shock</em> 룬(<em>greater blade of four energies</em>의 경우 강화된 룬)을 얻습니다.</p>"
+    },
+    "Effect: Blast Boots (Major)": {
+      "name": "효과: 블래스트 부츠 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.sK2zEyhxxP6UnhQk]{Blast Boots (Major)}에 의해 부여됩니다.</p>\n<p>당신은 30피트의 플라이 속도를 얻습니다.</p>"
+    },
+    "Effect: Blast Suit": {
+      "name": "효과: 블라스트 슈트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.GPrjYsQiC3jKdQmO]{Blast Suit}에 의해 부여됩니다.</p>\n<p>당신은 움직일 수 없게 되고, 범위 효과에 대한 반사 내성 굴림에 +2 상황 보너스를 얻으며, 범위 효과와 튀는 파편 피해로부터 일반적으로 받는 모든 피해에 대해 5의 저항력을 얻습니다.</p>"
+    },
+    "Effect: Blaze": {
+      "name": "효과: 블레이즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.q5Hr2nZr8RQ9DSZM]{Blaze}에 의해 부여됩니다.</p>\n<p>당신은 화염 효과에 대한 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Blight Breath": {
+      "name": "효과: 블라이트 브레스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.4XpPgF5smMjCCHRF]{Blight Breath}에 의해 부여됩니다.</p>\n<p>당신은 독에 대한 저항 10을 얻습니다.</p>"
+    },
+    "Effect: Blood Booster": {
+      "name": "효과: 블러드 부스터",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8g2U2PMC0lkPZEvq]{Blood Booster (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.LNzJ2WwTg58g7vam]{Blood Booster (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.3UXsXwUbvOdpPg6b]{Blood Booster (Greater)}에 의해 당신께 부여됩니다.</p>\n<p>당신은 지속적인 출혈 및 지속적인 독 피해에 대한 저항력을 얻고, 지속적인 출혈 또는 지속적인 독 피해를 종료하기 위한 모든 고정 난이도 판정에 대해 특별히 적절한 지원을 받은 것처럼 난이도를 낮춥니다.</p>"
+    },
+    "Effect: Blood-Drinker Blade": {
+      "name": "효과: 블러드-드링커 블레이드",
+      "description": "<p>당신은 1d8의 일시적 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Bloodhound Mask (Greater)": {
+      "name": "효과: 블러드하운드 마스크 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.2x8F5s3PyKzYsRrZ]{Bloodhound Mask (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 60피트 범위의 부정확한 냄새 감지 능력과 추적 생물의 냄새를 맡는 생존 능력 검사에 +3 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Bloodhound Mask (Lesser)": {
+      "name": "효과: 블러드하운드 마스크 (Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.mDJSaarQsIMX7Opi]{Bloodhound Mask (Lesser)}에 의해 부여됩니다.</p>\n<p>당신은 15피트 범위의 부정확한 냄새 감지 능력을 얻고, 생존 숙련 검사에 추적 대상의 냄새를 추적하는 데 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Bloodhound Mask (Moderate)": {
+      "name": "효과: 블러드하운드 마스크 (중간)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.qasFfdiZKIczoZ9p]{Bloodhound Mask (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 30피트 범위의 부정확한 냄새 감지 능력과 추적 생물의 냄새를 맡는 생존 점검에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Bloodhound Olfactory Stimulators": {
+      "name": "효과: 블러드하운드 후각 자극제",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.P1hk0BO89ihEAw8g]{Bloodhound Olfactory Stimulators}에 의해 부여됩니다.</p>\n<p>당신은 30피트 범위의 부정확한 후각을 얻습니다.</p>"
+    },
+    "Effect: Bloodseeker Beak": {
+      "name": "효과: 블러드시커 비크",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.k6D64EAjcKMf8NZB]{Bloodseeker Beak}, @UUID[Compendium.pf2e.equipment-srd.Item.oTRUHPASPD4USU4o]{Bloodseeker Beak (Greater)}에 의해 부여됩니다.</p>\n<p>당신의 공격 굴림에 추가로 d4의 정밀 피해를 입힙니다.</p>"
+    },
+    "Effect: Bolstering Croak": {
+      "name": "효과: 볼스터링 크로크",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.XiL6CSyO43vjXxEf]{Whip-Tongue Sling}에 의해 부여됩니다.</p>\n<p>아군은 공포 효과에 대한 내성 굴림에 +1 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Bomber's Eye Elixir": {
+      "name": "효과: 봄버스 아이 엘릭서",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.T4ouD4mVFHA3EHs6]{Bomber's Eye Elixir (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.lasqzrPVEHI5MkQd]{Bomber's Eye Elixir (Greater)}에 의해 부여됩니다.</p>\n<p>당신의 연금술 폭탄 공격은 표적이 은폐로부터 얻는 AC에 대한 상황 보너스를 감소시킵니다.</p>"
+    },
+    "Effect: Bomber's Eye Elixir Cover Reduction": {
+      "name": "효과: 봄버스 아이 엘릭서 피격 감소",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-effects.Item.HmpYVsyiCq8XDlop]{Effect: Bomber's Eye Elixir}에 의해 부여됩니다.</p>\n<p>당신의 은폐에 따른 AC 보너스가 감소됩니다.</p>"
+    },
+    "Effect: Book of Warding Prayers": {
+      "name": "효과: 북 오브 워딩 프레이어즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.5Dk8NQMW8NXFEKPy]{Book of Warding Prayers}에 의해 부여됩니다.</p>\n<p>당신과 30피트 이내의 모든 아군은 당신의 신의 보호를 받아 1분 동안 해당 종류의 피해에 대해 10의 저항력을 얻습니다.</p>"
+    },
+    "Effect: Boots of Elvenkind": {
+      "name": "효과: 엘븐카인드 부츠",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.T00Xa9aDwHxd60Zh]{Boots of Elvenkind}에 의해 부여됩니다.</p>\n<p>당신은 이동 속도에 +5피트의 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Bottled Omen": {
+      "name": "효과: 보틀드 오멘",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.nUaNtynMzD1DpHkB]{Bottled Omen}에 의해 부여됨</p>\n<p>당신이 내성 굴림을 시도할 때, 두 번 굴릴 수 있으며 더 좋은 결과를 사용할 수 있습니다.</p>"
+    },
+    "Effect: Boulderhead Bock": {
+      "name": "효과: 볼더헤드 벅",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.I0eUrgVGl8a2ZjFc]{Boulderhead Bock}에 의해 부여됩니다.</p>\n<p>당신은 당신을 기절하거나 어리석게 만들 효과에 대한 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>\n<p>당신은 통찰력 판정에 -2 아이템 패널티를 받습니다.</p>"
+    },
+    "Effect: Bracelet of Dashing": {
+      "name": "효과: 대시의 팔찌",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.BKdzb8hu3kZtKH3Z]{Bracelet of Dashing}에 의해 부여됩니다.</p>\n<p>당신은 속도에 +10피트 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Bracers of Missile Deflection": {
+      "name": "효과: 미사일 방어 팔찌",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.eurAnvH8bK0ZctOR]{Bracers of Missile Deflection}에 의해 부여됩니다.</p>\n<p>당신은 발동 공격에 대한 AC에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Brass Dwarf Weakness": {
+      "name": "효과: 브라스 드워프 약점",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.FposU3NmF0IbrOdz]{The Brass Dwarf}에 의해 부여됩니다.</p>\n<p>당신은 <em>더 브래스 드워프</em>의 이전 에너지 타입에 대해 당신의 레벨의 절반에 해당하는 약점을 얻습니다.</p>"
+    },
+    "Effect: Bravo's Brew": {
+      "name": "효과: 브라보의 브루",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.zM9VX3QwM81DzDUA]{Bravo's Brew (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.oCuwJ9IUDAuzsUwa]{Bravo's Brew (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.sWPkbSlWAEAStBqD]{Bravo's Brew (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 의지 내성 굴림에 아이템 보너스를 얻습니다. 공포에 대한 의지 내성 굴림을 시도할 때 이 보너스는 증가합니다.  만약 당신이 <em>그레이터 브라보의 브루</em>를 마셨다면, 공포에 대한 내성 굴림에서 성공을 굴렸을 때, 대신 크리티컬 성공을 얻습니다.</p>"
+    },
+    "Effect: Breastplate of the Mountain": {
+      "name": "효과: 마운틴의 흉갑",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JU6gJSmibl5Q3k6F]{Breastplate of the Mountain}에 의해 당신은</p>\n<p>1분 동안 독에 대한 면역력을 얻습니다.</p>"
+    },
+    "Effect: Brewer's Regret": {
+      "name": "효과: 브루어스 레그렛",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.MlzPOG2v9bO4XoLg]{Brewer's Regret}, @UUID[Compendium.pf2e.equipment-srd.Item.RN8TnAhWQ4tNKHgP]{Brewer's Regret (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 죽음과 공허 효과에 대한 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Bronze Bull Pendant": {
+      "name": "효과: 브론즈 불 펜던트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.nXStoLxPrrP2b6WB]{Bronze Bull Pendant}에 의해 부여됩니다.</p>\n<p>당신은 쇼브(Shove)를 위한 능숙함(Athletics) 판정에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Call Upon Razmir's Benevolence": {
+      "name": "효과: 래즈미르의 자비를 청하십시오",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.UaOrOGrjcXgSeBvr]{Razmiri Mask}에 의해 부여됩니다.</p>\n<p>당신은 원본의 레벨의 두 배에 해당하는 임시 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Cape of Justice (Distracted)": {
+      "name": "효과: 케이프 오브 저스티스 (Distracted)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.vXMIKXn3RHh3UET8]{Cape of Justice}에 의해 부여됩니다.</p>\n<p>당신은 지각 굴림에 -1 아이템 패널티를 받습니다.</p>"
+    },
+    "Effect: Cape of the Open Sky": {
+      "name": "효과: 케이프 오브 더 오픈 스카이",
+      "description": "<p>망토가 당신에게 1시간 동안 30피트의 비행 속도를 부여하는 한 쌍의 황금 드레이크 날개가 됩니다.</p>"
+    },
+    "Effect: Catch Pole": {
+      "name": "효과: 캣치 폴",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.LSx0quwrsOtdcHL2]{Catch Pole}, @UUID[Compendium.pf2e.equipment-srd.Item.qrOs3jNXJol6tWS4]{Giant Catch Pole}, @UUID[Compendium.pf2e.equipment-srd.Item.752IrectHHkJwxd0]{Superior Catch Pole}에 의해 부여됩니다.</p>\n<p>낚시 폴에 붙잡힌 생명체는 무장 공격으로 스트라이킹할 때 공격 굴림에 -2 상황 패널티를 받습니다.</p>"
+    },
+    "Effect: Caustic Jabs": {
+      "name": "효과: 코스틱 잽스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.nymtBfivudt7t75q]{Ankhrav Duster}에 의해 부여됩니다.</p>\n<p>당신의 <em>앙크라브 더스터</em>를 사용한 공격은 추가로 1d6 지속성 산성 피해를 입힙니다.</p>"
+    },
+    "Effect: Cayden's Brew": {
+      "name": "효과: 케이든의 브루",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.wtNZDBNjFsrrFjOR]{Cayden's Brew}, @UUID[Compendium.pf2e.equipment-srd.Item.g1aarurTGfb7QDTO]{Cayden's Brew (Double)}, @UUID[Compendium.pf2e.equipment-srd.Item.UpUJ6NHBin7bubeX]{Cayden's Brew (Triple)}에 의해 당신은 공포 효과에 대한 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>\n<p>당신은 공포 효과에 대한 내성 굴림에 +1 아이템 보너스를 가지고 있습니다.</p>"
+    },
+    "Effect: Chatterer of Follies": {
+      "name": "효과: 채터러 오브 폴리스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.rsqPU9IRM6tk2eHc]{Chatterer of Follies}에 의해 부여됩니다.</p>\n<p>당신은 당신의 인챈트먼트 주문과 환영 주문에 대한 의지 내성 굴림에 -1 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: Cheetah's Elixir (Greater)": {
+      "name": "효과: 치타의 엘릭서 (강력한)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.t4X6GDybqLmt7UkN]{Cheetah's Elixir (Greater)}에 의해 부여됩니다.</p>\n<p>당신의 속도에 +10피트의 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Cheetah's Elixir (Lesser)": {
+      "name": "효과: 치타의 엘릭서 (소형)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.tyt6rFtv32MZ4DT9]{Cheetah's Elixir (Lesser)}에 의해 부여됩니다.</p>\n<p>당신의 속도에 +5피트의 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Cheetah's Elixir (Moderate)": {
+      "name": "효과: 치타의 엘릭서 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.AqLxu3ir4UGzdOaz]{Cheetah's Elixir (Moderate)}에 의해 부여됩니다.</p>\n<p>당신의 속도에 +10피트 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Choker-Arm Mutagen (Greater)": {
+      "name": "효과: 초커-암 뮤타겐 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.RsAoEbp28Za4hlLH]{Choker-Arm Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 탈출, 압축, 그리고 구르기 통과에 대한 곡예 능력치 검사에 +3 아이템 보너스를 얻고, 당신의 사정거리가 10피트 증가합니다.</p>\n<p><strong>단점</strong> 당신은 육상 능력치 검사, 은밀 행동 검사, 절도 검사, 그리고 공격 굴림에 -1 패널티를 받고, 모든 무기 및 무장 공격 피해에 대해 주사위당 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Choker-Arm Mutagen (Lesser)": {
+      "name": "효과: 초커-암 뮤타겐 (소형)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.9F3d43xMDCJNIkDo]{Choker-Arm Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 탈출, 밀어넣기, 그리고 구르기 통과에 대한 곡예 능력치 검사에 +1 아이템 보너스를 얻고, 당신의 사정거리는 5피트 증가합니다.</p>\n<p><strong>단점</strong> 당신은 육상 능력치 검사, 은밀 행동 검사, 절도 검사, 그리고 공격 굴림에 -1 패널티를 받고, 모든 무기 및 무장 공격 피해에 주사위 피해당 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Choker-Arm Mutagen (Major)": {
+      "name": "효과: 초커-암 뮤타겐 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.bvIVxDq1wh6IavHP]{Choker-Arm Mutagen (Major)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 탈출, 압축 통과, 구르기 통과에 대한 곡예 능력치 검사에 +4 아이템 보너스를 얻으며, 당신의 사정거리가 10피트 증가합니다.</p>\n<p><strong>단점</strong> 당신은 육상 능력치 검사, 은신 능력치 검사, 절도 능력치 검사, 그리고 공격 굴림에 -1 패널티를 받으며, 모든 무기 및 무장 공격 피해에 대해 주사위당 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Choker-Arm Mutagen (Moderate)": {
+      "name": "효과: 초커-암 뮤타겐 (중간)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.6VCaHBbUBk4eBlPC]{Choker-Arm Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 탈출, 밀쳐들어가기, 그리고 구르기 통과에 대한 곡예 능력검사에 +2 아이템 보너스를 얻고, 당신의 사정거리가 5피트 증가합니다.</p>\n<p><strong>단점</strong> 당신은 육상 능력검사, 은신 능력검사, 절도 능력검사, 그리고 공격 굴림에 -1 패널티를 받고, 모든 무기 및 무장 공격 피해에 대해 주사위당 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Chromatic Jellyfish Oil": {
+      "name": "효과: 크로매틱 젤리피시 오일",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.BFre5eREvbqQdwPC]{Chromatic Jellyfish Oil (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.fDLABfn3nY1R670j]{Chromatic Jellyfish Oil (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.SeIweTBlvD1EipTQ]{Chromatic Jellyfish Oil (Greater)}에 의해 당신은 정밀 피해와 치명타 추가 피해에 대한 저항력을 얻습니다.</p>\n<p>당신은 정밀 피해와 치명타 추가 피해에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Cinnamon Seers": {
+      "name": "효과: 시나몬 시어스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Hm0dZYfXHMNcTCo3]{Cinnamon Seers}에 의해 부여됩니다.</p>\n<p>당신은 지식 회상 검사에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Clandestine Cloak": {
+      "name": "효과: 클랜데스타인 클록",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.hmmDa6LCS22dZT7P]{Clandestine Cloak}에 의해 부여됩니다.</p>\n<p>당신은 은신 굴림과 하찮은 배경의 인물(예: 하인)로 가장하기 위한 속임수 굴림에 +1 아이템 보너스를 얻습니다. 하지만 외교 및 위협 굴림에는 -1 아이템 패널티를 받습니다.</p>"
+    },
+    "Effect: Clandestine Cloak (Greater)": {
+      "name": "효과: 클랜데스타인 클록 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.6jRXUXzYKIpm2uNp]{Clandestine Cloak (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 잠입 굴림과 하인과 같은 기억에 남지 않는 배경의 캐릭터를 가장하는 속임수 굴림에 +2 아이템 보너스를 얻습니다. 하지만 외교 및 위협 굴림에는 -1 아이템 패널티를 받습니다.</p>"
+    },
+    "Effect: Clawed Bracers": {
+      "name": "효과: 클로드 브레이서스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.fVOObByW6XHADQ2J]{Clawed Bracers}에 의해 부여됩니다.</p>\n<p>당신은 20피트의 등반 속도와 민첩 및 섬세 특성을 지닌 발톱 무기 공격을 얻습니다. 이 공격은 1d6의 베기 피해를 입힙니다.</p>"
+    },
+    "Effect: Clay Sphere - Armor": {
+      "name": "효과: 클레이 스피어 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.WuSXfv87YBSzqJ66]{Clay Sphere}, @UUID[Compendium.pf2e.equipment-srd.Item.OksiiEBiiGatAM9e]{Clay Sphere (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.BdLtvg3zUKypgYdS]{Clay Sphere (Major)}에 의해 당신은 정밀 피해에 대한 저항력과 변신 또는 다형성 특성을 가진 효과에 대한 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Clay Sphere - Weapon": {
+      "name": "효과: 클레이 스피어 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.WuSXfv87YBSzqJ66]{Clay Sphere}, @UUID[Compendium.pf2e.equipment-srd.Item.OksiiEBiiGatAM9e]{Clay Sphere (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.BdLtvg3zUKypgYdS]{Clay Sphere (Major)}에 의해 부여됩니다.</p>\n<p>장착된 무기로의 공격은 다재다능한 둔기, 다재다능한 관통, 그리고 다재다능한 베기 특성을 지닙니다.</p>"
+    },
+    "Effect: Clay Sphere - Weapon Damage Increase": {
+      "name": "효과: 클레이 스피어 - 무기 공격력 증가",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.WuSXfv87YBSzqJ66]{Clay Sphere}, @UUID[Compendium.pf2e.equipment-srd.Item.OksiiEBiiGatAM9e]{Clay Sphere (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.BdLtvg3zUKypgYdS]{Clay Sphere (Major)}에 의해 부여됩니다.</p>\n<p>장착된 무기로 공격 시, 피해 주사위가 한 단계 증가합니다.</p>"
+    },
+    "Effect: Cloak of Elvenkind": {
+      "name": "효과: 엘븐카인드의 망토",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.MNBnZn0b80Q7yHJM]{Cloak of Elvenkind}, @UUID[Compendium.pf2e.equipment-srd.Item.ZelCRLDI6M5IfjAI]{Cloak of Elvenkind (Greater)}에 의해 당신은 잠입 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Cloak of Swiftness": {
+      "name": "효과: 스위프트니스 클록",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.C3SwBSW8XzzBPDVT]{Cloak of Swiftness}에 의해 당신은</p>\n<p>30피트의 비행 속도를 얻고 은폐 상태가 됩니다.</p>"
+    },
+    "Effect: Cloak of the Bat": {
+      "name": "효과: 클록 오브 더 배트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.dipcMOtBFxtmsjkS]{Cloak of the Bat}에 의해 부여됩니다.</p>\n<p>당신은 은신 굴림과 비행 중 기동에 대한 곡예 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Clockwork Cloak": {
+      "name": "효과: 클럭워크 클록",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.v9tI40skGswMQTVN]{Clockwork Cloak}에 의해 부여됩니다.</p>\n<p>대기 모드일 때 당신은 인지력 검사에 -4 패널티를 받습니다. 전투를 시작하기 위해 대기 모드를 해제하면, 당신은 주사위 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Clockwork Goggles": {
+      "name": "효과: 클럭워크 고글",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.jVJwCB5ztkXHD5ML]{Clockwork Goggles}, @UUID[Compendium.pf2e.equipment-srd.Item.6Frd3SmMZZ49DnUZ]{Clockwork Goggles (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.MywpJQc2lVjWvAGA]{Clockwork Goggles (Major)}에 의해 당신은 다음 능력을 얻습니다.</p>\n<p>당신은 저조도 시야, 암시야(<em>greater</em> 또는 <em>major</em>), 그리고 <em>see the unseen</em>(<em>major</em>)을 얻습니다.</p>"
+    },
+    "Effect: Cloud Buns": {
+      "name": "효과: 클라우드 번즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.NZDZzVgW2Pu8blar]{Cloud Buns}에 의해 부여됩니다.</p>\n<p>당신은 30피트 또는 당신의 속도 중 더 낮은 속도의 비행 속도를 얻습니다.</p>"
+    },
+    "Effect: Cloud Buns (Greater)": {
+      "name": "효과: 클라우드 번스 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.TioBntQv3VAnS7Wb]{Cloud Buns (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 30피트 또는 당신의 속도 중 더 낮은 속도의 비행 속도를 얻습니다.</p>\n<p>또한 비행 중 기동에 대한 곡예 능력치 검사에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Codex of Destruction and Renewal": {
+      "name": "효과: 코덱스 오브 디스트럭션 앤드 리뉴얼",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.AVBhZdhq6qCp96Se]{Codex of Destruction and Renewal}에 의해 부여됩니다.</p>\n<p>대상은 재생 20을 얻습니다.</p>"
+    },
+    "Effect: Codex of Unimpeded Sight (Greater)": {
+      "name": "효과: 코덱스 오브 언임피디드 사이트 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.nQIIO6LIot0ISQXH]{Codex of Unimpeded Sight (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 탐색에 대한 인지력 검사 또는 지식 상기 스킬 검사에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Cognitive Mutagen (Greater)": {
+      "name": "효과: 코그너티브 뮤터젠 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ZGojRKG1yYiVWemR]{Cognitive Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 비전, 제작, 전승, 신비, 그리고 사회 숙련 검사와 모든 지식 상기 검사에 +3 아이템 보너스를 얻습니다. 지식 상기 검사에서의 치명적인 실패는 실패 대신에 실패로 변경됩니다.</p>\n<p><strong>단점</strong> 당신은 무기 및 무술 공격 굴림, 육상 숙련 검사, 그리고 곡예 숙련 검사에 -2 패널티를 받습니다. 당신은 과부하가 되기 전에 정상보다 2만큼 적은 부피를 휴대할 수 있으며, 당신이 휴대할 수 있는 최대 부피는 4만큼 감소합니다.</p>"
+    },
+    "Effect: Cognitive Mutagen (Lesser)": {
+      "name": "효과: 코그너티브 뮤터젠 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.wbr6rkyaVYnDhdgV]{Cognitive Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 비전, 제작, 전승, 신비, 그리고 사회 숙련 검사와 모든 지식 상기 검사에 +1 아이템 보너스를 얻습니다. 지식 상기 검사에서의 치명적인 실패는 실패 대신 실패로 변합니다.</p>\n<p><strong>단점</strong> 당신은 무기 및 무장 공격 굴림, 육체 숙련 검사 및 곡예 숙련 검사에 -2 패널티를 받습니다. 당신은 과부하가 되기 전에 정상보다 2만큼 적은 부피를 휴대할 수 있으며, 휴대할 수 있는 최대 부피는 4만큼 감소합니다.</p>"
+    },
+    "Effect: Cognitive Mutagen (Major)": {
+      "name": "효과: 코그너티브 뮤터젠 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.VBK9i74dry8yf8f0]{Cognitive Mutagen (Major)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 비전, 제작, 전승, 신비, 그리고 사회 숙련 검사와 모든 지식 상기 검사에 +4 아이템 보너스를 얻습니다. 지식 상기 검사에서의 치명적인 실패는 실패 대신 실패가 됩니다.</p>\n<p><strong>단점</strong> 당신은 무기 및 무술 공격 굴림, 육체 숙련 검사, 그리고 곡예 숙련 검사에 -2 패널티를 받습니다. 당신은 과부하가 되기 전에 평소보다 2만큼 적은 부피를 휴대할 수 있으며, 휴대할 수 있는 최대 부피가 4만큼 감소합니다.</p>"
+    },
+    "Effect: Cognitive Mutagen (Moderate)": {
+      "name": "효과: 코그너티브 뮤타겐 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.qpzL9UnTi4cDhy6J]{Cognitive Mutagen (Moderate)}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 비전, 제작, 전승, 신비, 그리고 사회 숙련 검사와 모든 지식 상기 검사에 +2 아이템 보너스를 얻습니다. 지식 상기 검사에서의 치명적인 실패는 실패로 대체됩니다.</p>\n<p><strong>결점</strong> 당신은 무기 및 무장 공격 굴림, 육상 경기 숙련 검사, 그리고 곡예 숙련 검사에 -2 패널티를 받습니다. 당신은 과부하가 되기 전에 평소보다 2만큼 적은 부피를 휴대할 수 있으며, 휴대할 수 있는 최대 부피가 4만큼 감소합니다.</p>"
+    },
+    "Effect: Cold Iron Blanch (Greater)": {
+      "name": "효과: 콜드 아이언 블랜치 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.WXnGIl4d62detRlf]{Cold Iron Blanch (Greater)}에 의해 부여됩니다.</p>\n<p>해당 무기 또는 탄약은 적용될 경우, 일반적인 귀금속(예: 은) 대신 차가운 철로 취급되어 물리 피해를 입힙니다.</p>"
+    },
+    "Effect: Cold Iron Blanch (Lesser)": {
+      "name": "효과: 콜드 아이언 블랜치 (Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.cImNgwDCqwa6Dil1]{Cold Iron Blanch (Lesser)}에 의해 부여됩니다.</p>\n<p>해당 무기 또는 탄약이 실제로 피해를 입히는 경우, 일반적인 귀금속(은 등) 대신 차가운 철로 취급됩니다.</p>"
+    },
+    "Effect: Cold Iron Blanch (Moderate)": {
+      "name": "효과: 콜드 아이언 블랜치 (중간)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.jnCP2zYJamUeZsJC]{Cold Iron Blanch (Moderate)}에 의해 부여됩니다.</p>\n<p>해당 무기 또는 탄약이 물리 피해를 입힐 경우, 적용 가능하다면 일반적인 귀금속(은과 같은) 대신 차가운 철로 취급됩니다.</p>"
+    },
+    "Effect: Command Bravery": {
+      "name": "효과: 커맨드 브레이버리",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.RUEAV5LMUGFHcXcW]{Warleader's Bulwark}에 의해 부여됩니다.</p>\n<p>당신은 공포 효과에 대한 내성 굴림에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Conduct Energy": {
+      "name": "효과: 컨덕트 에너지",
+      "description": "<p>@UUID[Compendium.pf2e.actionspf2e.Item.BKnN9la3WNrRgZ6n]{Conduct Energy}에 의해 부여됩니다.</p>\n<p>무기는 무기 공격 주사위 하나당 1의 추가 피해를 입힙니다. 이 피해 종류는 발동 행동이나 주문의 특성과 일치합니다.</p>"
+    },
+    "Effect: Containment Contraption": {
+      "name": "효과: 컨테인먼트 컨트랩션",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.mHHvzxHtlLbkbStG]{Containment Contraption}에 의해 부여됩니다.</p>\n<p>당신의 흡입성 독소에 대한 내성 굴림에 대한 상황 보너스가 +2로 증가하고, 후각 효과에 대한 내성 굴림에도 +2의 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Covenant Tea": {
+      "name": "효과: 코브넌트 티",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ByaYlK0QmnqEbCE2]{Covenant Tea}에 의해 부여됩니다.</p>\n<p>당신은 외교치와 당신의 지각 DC에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Crackling Bubble Gum": {
+      "name": "효과: 크랙링 버블 검",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.0Y0fmvvKSgFvUtA2]{Crackling Bubble Gum (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.Bajwrol5y2n2ZIVm]{Crackling Bubble Gum (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.ex1kVj3SUbTd1smt]{Crackling Bubble Gum (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.rpqgJkCepHecj1eA]{Crackling Bubble Gum (Major)}에 의해 당신은 능력치를 얻었습니다.</p>\n<p>당신은 청각 및 음향 효과에 대한 내성 굴림에 배지 값만큼 아이템 보너스를 가지고 있습니다.</p>"
+    },
+    "Effect: Crackling Bubble Gum (Failure)": {
+      "name": "효과: 크랙링 버블검 (실패)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.0Y0fmvvKSgFvUtA2]{Crackling Bubble Gum (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.Bajwrol5y2n2ZIVm]{Crackling Bubble Gum (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.ex1kVj3SUbTd1smt]{Crackling Bubble Gum (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.rpqgJkCepHecj1eA]{Crackling Bubble Gum (Major)}에 의해 부여됩니다.</p>\n<p>생물체의 속도에 -10피트 아이템 패널티가 적용됩니다.</p>"
+    },
+    "Effect: Crimson Fulcrum Lens": {
+      "name": "효과: 크림슨 풀크럼 렌즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.yAqGhT0GuZrkvWZl]{Crimson Fulcrum Lens}에 의해 부여됩니다.</p>\n<p>당신은 공포 효과에 대한 내성 굴림에 +2 아이템 보너스와 근접 스트라이크 피해에 +2 아이템 보너스를 얻습니다 (근접 스트라이크가 턱 공격인 경우 피해에 대한 +4 아이템 보너스로 증가합니다).</p>"
+    },
+    "Effect: Crown of the Kobold King": {
+      "name": "효과: 코볼드 킹의 크라운",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.B5ZfLr6Ox816FBEc]{Crown of the Kobold King}에 의해 부여됩니다.</p>\n<p>당신은 공격 굴림, 내성 굴림, 그리고 카리스마 기반 기술 판정에 +1 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Crushing": {
+      "name": "효과: 크러싱",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JY8X4RSfg6xIqAC9]{Crushing}에 의해 부여됩니다.</p>\n<p>당신이 이 무기를 사용하여 적에게 치명타를 입히면, 적은 당신의 다음 턴이 끝날 때까지 클럼지 1과 인피블드 1이 됩니다.</p>"
+    },
+    "Effect: Crushing (Greater)": {
+      "name": "효과: 크러싱 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.t6SSQYruLsDWj5Tl]{Crushing (Greater)}에 의해 부여됩니다.</p>\n<p>당신이 이 무기를 사용하여 적에게 치명타를 입히면, 적은 당신의 다음 턴이 끝날 때까지 곤란 2와 약화 2가 됩니다.</p>"
+    },
+    "Effect: Crystal Shards": {
+      "name": "효과: 크리스탈 샤드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.V4wgOWYmHlbSZsVG]{Crystal Shards (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.ivaL0xt33k6QNwQK]{Crystal Shards (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.V2knI4GpdJYLupjg]{Crystal Shards (Major)}에 의해 부여됩니다.</p>\n<p>출혈 피해가 지속되는 동안 당신의 속도에 -5피트의 패널티를 받습니다.</p>"
+    },
+    "Effect: Curse of Potent Poison": {
+      "name": "효과: 퍼텐트 포이즌의 저주",
+      "description": "<p>이 저주는 당신의 몸 속에 독이 마법적으로 빠르게 퍼지게 합니다.</p>\n<hr />\n<p><strong>효과</strong> 당신은 인내 내성 굴림에 -1의 상태 패널티를 받고 독에 대한 약점 3을 얻습니다 (만약 당신이 이미 독에 대한 약점을 가지고 있다면, 3만큼 증가합니다). 이 저주는 @UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{Cleanse Affliction} 또는 비슷한 마법으로 제거될 때까지 유지됩니다.</p>"
+    },
+    "Effect: Darkvision Elixir (Greater)": {
+      "name": "효과: 다크비전 엘릭서 (강력한)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.bz8Y8bVUe7QfBk9g]{Darkvision Elixir (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 다크비전을 얻습니다.</p>"
+    },
+    "Effect: Darkvision Elixir (Lesser)": {
+      "name": "효과: 다크비전 엘릭서 (Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.88pGCHV0uKMskTVO]{Darkvision Elixir (Lesser)}에 의해 부여됩니다.</p>\n<p>당신은 다크비전을 얻습니다.</p>"
+    },
+    "Effect: Darkvision Elixir (Moderate)": {
+      "name": "효과: 다크비전 엘릭서 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Y8115p3cmQJBqk5d]{Darkvision Elixir (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 다크비전을 얻습니다.</p>"
+    },
+    "Effect: Dazzling Rosary": {
+      "name": "효과: 데즐링 로저리",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.xcH5IW7ahE3q8cPq]{Dazzling Rosary}, @UUID[Compendium.pf2e.equipment-srd.Item.xnIEWJYmJh6j58Wd]{Dazzling Rosary (Greater)}에 의해 부여됩니다.</p>\n<p>당신의 <em>스피리추얼 웨폰</em>이 적에게 치명타를 입히면, 다음 턴이 시작될 때까지 눈부심 상태가 됩니다.</p>"
+    },
+    "Effect: Deadweight Mutagen (Greater)": {
+      "name": "효과: 데드웨이트 뮤터젠 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.xanr7nay2UQeR4Ec]{Deadweight Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 운동 기술 판정에 +3 아이템 보너스를 얻습니다. @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}와 @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}, 그리고 밀치기 또는 넘어뜨리기 시도에 대한 인내 및 반사 내성굴림 DC, 그리고 당신을 이동시키거나 넘어뜨리려는 효과에 대한 내성 굴림에 +3 아이템 보너스를 얻습니다. @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}. 당신보다 최대 두 사이즈 큰 생물에게 밀치기 또는 넘어뜨리기를 시도할 수 있습니다.</p>\n<p><strong>단점</strong> 당신은 @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Encumbered} 상태가 되며, 변이원의 효과를 받는 동안에는 이를 제거할 수 없습니다.</p>"
+    },
+    "Effect: Deadweight Mutagen (Lesser)": {
+      "name": "효과: 데드웨이트 뮤터젠 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JPALWW3w4z8STAYV]{Deadweight Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 운동 기술 판정에 +1 아이템 보너스를 얻습니다. @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}과 @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}에, 당신을 밀치거나 넘어뜨리려는 시도에 대한 인내 및 반사 내성 굴림 DC에, 그리고 당신을 움직이게 하거나 넘어뜨리려는 효과에 대한 내성 굴림에 적용됩니다. @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p>\n<p><strong>단점</strong> 당신은 @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Encumbered} 상태가 됩니다. 그리고 변이원의 효과를 받는 동안에는 이를 제거할 수 없습니다.</p>"
+    },
+    "Effect: Deadweight Mutagen (Major)": {
+      "name": "효과: 데드웨이트 뮤타겐 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Wx5WhSNOmeICgHSC]{Deadweight Mutagen (Major)}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove} 및 @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}에 대한 능력치 점검에 +4 아이템 보너스를 얻고, 당신을 밀치거나 넘어뜨리려는 시도에 대한 인내 및 반사 내성 굴림 DC와 당신을 움직이거나 넘어뜨리려는 효과에 대한 내성 굴림에 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} +4 아이템 보너스를 얻습니다. 당신보다 최대 세 크기 더 큰 생물을 밀치거나 넘어뜨리는 시도를 할 수 있습니다.</p>\n<p><strong>단점</strong> 당신은 @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Encumbered} 상태가 되며, 변이원의 효과를 받는 동안에는 이를 제거할 수 없습니다.</p>"
+    },
+    "Effect: Deadweight Mutagen (Moderate)": {
+      "name": "효과: 데드웨이트 뮤타겐 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.qLwwxk1j04rgXSF9]{Deadweight Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove} 및 @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}에 대한 능력치 점검에 +2 아이템 보너스를 얻고, 당신을 밀치거나 넘어뜨리려는 시도에 대한 인내 및 반사 내성 굴림 DC와, 당신을 움직이게 하거나 넘어뜨리려는 효과에 대한 내성 굴림에 @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} +2 아이템 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Encumbered} 상태가 되며, 변이 유전자의 효과를 받는 동안에는 이를 제거할 수 없습니다.</p>"
+    },
+    "Effect: Deadweight Snare (Failure/Critical Failure)": {
+      "name": "효과: 데드웨이트 스네어 (실패/대실패)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.craWRj7jI2mLs1Ok]{Deadweight Snare}에 의해 부여됩니다.</p>\n<p>당신은 공격 굴림에 -2의 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: Deadweight Snare (Success)": {
+      "name": "효과: 데드웨이트 스네어 (성공)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.craWRj7jI2mLs1Ok]{Deadweight Snare}에 의해 부여됩니다.</p>\n<p>당신의 공격 굴림에 -1 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: Deathdrinking": {
+      "name": "효과: 데스드링킹",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.4DXupoMmwenFn4Kc]{Deathdrinking}에 의해 부여됩니다.</p>\n<p>당신이 죽인 생명체가 살아있는 생명체였다면 공격과 피해 굴림에 +1 아이템 보너스를 얻습니다. 당신이 파괴한 생명체가 언데드였다면 당신의 레벨의 두 배에 해당하는 임시 체력을 얻습니다.</p>"
+    },
+    "Effect: Deck of Destiny": {
+      "name": "효과: 데크 오브 데스티니",
+      "description": "<p>행운 또는 불운 중 하나를 선택하십시오. 행운(행운 효과)의 경우, 발동 생물은 두 번 굴림을 하고 더 좋은 결과를 선택합니다. 불운(불운 효과)의 경우, 발동 생물은 두 번 굴림을 하고 더 나쁜 결과를 선택해야 합니다. 만약 당신이 뽑은 카드가 인내 내성 굴림에 방패 무늬 카드를 뽑거나 속임수 굴림에 왕관 무늬 카드를 뽑는 것처럼 해당 굴림과 관련이 있다면, 생물에게 추가적인 영향이 가해집니다. 행운을 선택하면, 발동 굴림에 +4 상황 보너스를 얻습니다. 불운에 직면하면, 발동 생물은 발동 굴림에 -4 상황 패널티를 받습니다.</p>"
+    },
+    "Effect: Delve Scale": {
+      "name": "효과: 델브 스케일",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.1PH7kb7ZVSrfQsgD]{Delve Scale}에 의해 부여됩니다.</p>\n<p>당신은 15피트의 버로우 속도와 @UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{High Jump} 또는 @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long Jump}에 대한 능력치 점검에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Demon Dust (Stage 1)": {
+      "name": "효과: 데몬 더스트 (1단계)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ZROIWl7TLxKbPDLr]{Demon Dust}에 의해 부여됩니다.</p>\n<p>당신은 격투 기술 판정에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Demon Dust (Stage 2)": {
+      "name": "효과: 데몬 더스트 (2단계)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ZROIWl7TLxKbPDLr]{Demon Dust}에 의해 부여됩니다.</p>\n<p>당신은 격투 기술 판정에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Demon's Knot": {
+      "name": "효과: 데몬즈 나이트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.2TANKQXO6xntX5MT]{Demon's Knot}에 의해 부여됩니다.</p>\n<p>당신은 위협 굴림에 +2 상태 보너스를 얻으며, 당신의 스트라이크는 추가로 1d6 영혼 피해를 입힙니다.</p>"
+    },
+    "Effect: Demortification Oil": {
+      "name": "효과: 데몰티피케이션 오일",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Cu2zf4wi8UGzsyVC]{Demortification Oil}에 의해 부여됩니다.</p>\n<p>당신은 방어 등급에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Desolation Locket - Armor": {
+      "name": "효과: 데솔레이션 로켓 - 방어구",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.mOOJwTOxEFYfi9LV]{Desolation Locket}에 의해 부여됩니다.</p>\n<p>당신은 감정 효과에 대한 내성 굴림에 아이템 보너스를 얻습니다.</p>\n<p>감정 효과에 대한 내성 굴림에서 대실패를 하면, 대신 실패(<em>주요</em>)를 합니다.</p>"
+    },
+    "Effect: Desolation Locket - Weapon": {
+      "name": "효과: 데솔레이션 로켓 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.mOOJwTOxEFYfi9LV]{Desolation Locket}, @UUID[Compendium.pf2e.equipment-srd.Item.WC0MDw9oLnAtLmh5]{Desolation Locket (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.3p4fk9pbwDeue1NG]{Desolation Locket (Major)}에 의해 부여됩니다.</p>\n<p>당신이 <em>로켓</em>을 활성화하여 인챈트먼트 주문을 시전한 후, 당신의 다음 턴이 시작될 때까지 5피트 반경 내에 절망의 아우라를 발산합니다.</p>"
+    },
+    "Effect: Dinosaur Boots": {
+      "name": "효과: 다이너소어 부츠",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.rqwmqnCZ0xz7vF1b]{Dinosaur Boots}, @UUID[Compendium.pf2e.equipment-srd.Item.6epYSje4gOgYPvK0]{Dinosaur Boots (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 <em>엔라지</em>(<em>그레이터</em>의 경우 4랭크) 효과를 얻습니다. 당신은 1피트 무장 해제 공격을 얻습니다.</p>"
+    },
+    "Effect: Diplomat's Badge": {
+      "name": "효과: 디플로맷 배지",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JJZgRx6naNJmDa81]{Diplomat's Badge}에 의해 부여됩니다.</p>\n<p>나머지 하루 동안 해당 그룹의 생물과의 외교 점검에 대한 배지의 보너스가 +2로 증가합니다.</p>"
+    },
+    "Effect: Diplomat's Charcuterie": {
+      "name": "효과: 디플로맷츠 샤르퀴테리",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.3tCtnomxBkdyG43X]{Diplomat's Charcuterie}에 의해 부여됩니다.</p>\n<p>당신은 인상을 남기기 위한 외교 능력 검사와 동기 파악을 위한 지각 능력 검사에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Discord Fulu": {
+      "name": "효과: 디스코드 풀루",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.aKrslrjq22S9uRgF]{Discord Fulu}에 의해 부여됩니다.</p>\n<p>당신은 외교 굴림에 –1 상태 패널티를 받습니다. 외교 굴림에서 당신이 처음으로 실패 굴림을 받으면 대신 치명적인 실패가 되고, 효과는 끝납니다.</p>"
+    },
+    "Effect: Draft of Stellar Radiance": {
+      "name": "효과: 스텔라 레디언스의 기류",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.OzSfVy1SoKzCWG8q]{Draft of Stellar Radiance}에 의해 부여됩니다.</p>\n<p>당신은 20피트 반경(그리고 횃불처럼 추가로 20피트 어두운 빛)의 밝은 빛의 영역을 발산합니다. 당신은 은신 굴림에 -20 감산을 받습니다.</p>"
+    },
+    "Effect: Dragon Chill": {
+      "name": "효과: 드래곤 칠",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8YijFaakOFWjddJO]{Frost Fair Yanyuedao}에 의해 부여됩니다.</p>\n<p><em>프로스트 페어 야뉴에다오</em>는 <em>그레이터 프로스트</em> 룬의 효과를 얻습니다.</p>"
+    },
+    "Effect: Dragon Pearl": {
+      "name": "효과: 드래곤 펄",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.g6agII64qc6wuSiP]{Dragon Pearl}에 의해 부여됩니다.</p>\n<p>당신은 공허 피해에 대한 저항 15를 얻고, 당신의 무장 공격은 성공적인 스트라이크 시 추가로 1d6의 활력 피해를 입힙니다.</p>"
+    },
+    "Effect: Dragon Throat Scale": {
+      "name": "효과: 드래곤 스로트 스케일",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.C35j9PXcyDdrTsat]{Dragon Throat Scale}에 의해 부여됩니다.</p>\n<p>당신의 <em>포스 배러지</em>는 포스 특성과 데미지 종류를 잃고, 대신 그 비늘이 나온 드래곤의 브레스 무기의 데미지 종류와 그 특성을 갖게 됩니다.</p>"
+    },
+    "Effect: Dragon Turtle Scale": {
+      "name": "효과: 드래곤 터틀 스케일",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.GnXKCkgZQG0UmuHz]{Dragon Turtle Scale}, @UUID[Compendium.pf2e.equipment-srd.Item.4MfrhRlz4VeYtYVn]{Dragon Turtle Scale (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 육지 이동 속도의 절반 또는 육지 이동 속도(<em>더 큰 값</em>)와 같은 수영 속도를 얻습니다.</p>"
+    },
+    "Effect: Dragon's Blood Pudding": {
+      "name": "효과: 드래곤즈 블러드 푸딩",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.fzAkwYDi8sXWfCNu]{Dragon's Blood Pudding (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.QrjeT3xBssyjvEHQ]{Dragon's Blood Pudding (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 신속해집니다. 추가 액션으로 스텝, 스트라이드, 스트라이크 또는 디모럴라이즈를 사용할 수 있습니다. 당신은 디모럴라이즈에 대한 위협 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Dragon's Blood Pudding (Major)": {
+      "name": "효과: 드래곤즈 블러드 푸딩 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.kUvjWSGWpwBvTVax]{Dragon's Blood Pudding (Major)}에 의해 부여됩니다.</p>\n<p>당신은 신속해집니다. 당신은 추가 행동으로 스텝, 스트라이드, 스트라이크 또는 디모럴라이즈를 사용할 수 있습니다. 당신은 디모럴라이즈에 대한 위협 굴림에 +4 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Dragon's Eye Charm": {
+      "name": "효과: 드래곤즈 아이 참",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.A4BhFOb4iQtJYYKq]{Dragon's Eye Charm}에 의해 부여됩니다.</p>\n<p>당신은 다음 혜택 중 하나를 얻습니다: 다크비전, 드래코닉 언어 구사 및 이해, 또는 화염 저항 5.</p>"
+    },
+    "Effect: Dragonfly Fulu": {
+      "name": "효과: 드래곤플라이 풀루",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.2UQANe2ca1c8MO6Z]{Dragonfly Fulu}에 의해 부여됩니다.</p>\n<p>당신은 높이뛰기 또는 멀리뛰기 체크에 대한 ＋2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Dragonfly Potion": {
+      "name": "효과: 드래곤플라이 포션",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.82f7CTK0HxvitMLP]{Dragonfly Potion}에 의해 부여됩니다.</p>\n<p>당신은 자신의 지상 이동 속도와 같은 비행 속도, 저조도 시야, 그리고 시각적 지각 판정에 +2 아이템 보너스를 얻습니다.</p>\n<p>당신보다 레벨이 높은 생물을 제외하고는 측면 공격을 받을 수 없습니다 (하지만 레벨이 낮은 생물들은 여전히 레벨이 높은 아군의 측면 공격을 도울 수 있습니다).</p>"
+    },
+    "Effect: Dragonscale Amulet": {
+      "name": "효과: 드래곤스케일 아뮬렛",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.bTLmJMATrrtq8NuT]{Dragonscale Amulet}에 의해 부여됩니다.</p>\n<p>당신은 드래곤의 브레스 무기로부터 피해를 입은 피해 종류에 대해 20의 저항력을 얻습니다.</p>"
+    },
+    "Effect: Drake Rifle (Cold)": {
+      "name": "효과: 드레이크 라이플 (콜드)",
+      "description": "<p><strong>효과 적용 대상</strong>@UUID[Compendium.pf2e.equipment-srd.Item.5TOdQaW1XEjDhTP0]{Drake Rifle (Cold)}</p>\n<p>당신의 속도에 -10피트 상태 감소 효과가 적용됩니다.</p>"
+    },
+    "Effect: Drakeheart Mutagen (Greater)": {
+      "name": "효과: 드레이크하트 뮤타겐 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.WuzLBK78DgIt8SsN]{Drakeheart Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 AC에 +6 아이템 보너스, +2의 민첩성 상한선, 그리고 통찰력 판정에 +3 아이템 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 의지 내성 굴림, 반사 내성 굴림, 그리고 모든 지식 회상 기술 판정에 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Drakeheart Mutagen (Lesser)": {
+      "name": "효과: 드레이크하트 뮤타젠 (소형)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.GS4YvQieBS11JNYR]{Drakeheart Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 AC에 +4 아이템 보너스, +2의 민첩성 상한선, 그리고 지각 굴림에 +1 아이템 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 의지 내성 굴림, 반사 내성 굴림, 그리고 모든 지식 회상 기술 굴림에 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Drakeheart Mutagen (Major)": {
+      "name": "효과: 드레이크하트 뮤타겐 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.M4ZOHOlne43ArjOC]{Drakeheart Mutagen (Major)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 AC에 +7 아이템 보너스, +2의 민첩성 상한선, 그리고 지각 굴림에 +4 아이템 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 의지 내성 굴림, 반사 내성 굴림, 그리고 모든 지식 회상 기술 굴림에 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Drakeheart Mutagen (Moderate)": {
+      "name": "효과: 드레이크하트 뮤타젠 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.xY2MogTwH9Fd8UPG]{Drakeheart Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 AC에 +5 아이템 보너스, +2의 민첩성 상한선, 그리고 통찰력 판정에 +2 아이템 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 의지 내성 굴림, 반사 내성 굴림, 그리고 모든 지식 회상 기술 판정에 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Drop of Convergent Waters": {
+      "name": "효과: 컨버전트 워터즈 드롭",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.3XVNEpLdHIdQ8IYq]{Drop of Convergent Waters}에 의해 부여됩니다.</p>\n<p>공격 하나를 선택하십시오. 해당 공격은 마법, 도달, 물 특성을 얻으며, 수중에서 사용할 때 불이익을 받지 않습니다.</p>"
+    },
+    "Effect: Drowsy Sun Eye Drops": {
+      "name": "효과: 드로우지 선 아이 드롭스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.aUzX848Ygqicy2qs]{Drowsy Sun Eye Drops}에 의해 부여됩니다.</p>\n<p>당신은 30피트 거리의 어둠시야를 얻습니다.</p>"
+    },
+    "Effect: Dueling Cape": {
+      "name": "효과: 듀얼링 케이프",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.DA3HgyEBGEbtRNOo]{Dueling Cape}를 사용하여 부여됩니다.</p>\n<p>당신은 AC와 속임수(Deception) 판정에 페이트(Feint)에 대해 +1 상황 보너스를 받습니다.</p>"
+    },
+    "Effect: Eagle Eye Elixir": {
+      "name": "효과: 이글 아이 엘릭서",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.7Y2yOr4ltpP2tyuL]{Eagle Eye Elixir (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.lPcnDlBGz5QwCMYw]{Eagle Eye Elixir (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.xWCdsGSwLLTeX6tQ]{Eagle Eye Elixir (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.kicNrnZz1KjJYRVI]{Eagle Eye Elixir (Major)}에 의해 당신은 능력치 보너스를 얻습니다. 비밀 문과 함정을 찾으려고 할 때 더 큰 보너스가 적용됩니다.</p>"
+    },
+    "Effect: Earplugs": {
+      "name": "효과: 이어플러그",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ksNUlyRHFUSK9xmz]{Earplugs}에 의해 부여됩니다.</p>\n<p>당신은 모든 청각 지각 판정에 -2 상황 패널티를 받지만, 청각 효과에 대한 내성 굴림에는 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Ebon Fulcrum Lens (2 Action)": {
+      "name": "효과: 에본 풀크럼 렌즈 (2 액션)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.CTiLugp5ptSItEqN]{Ebon Fulcrum Lens}에 의해 부여됩니다.</p>\n<p>당신은 속도가 빨라지고 공격 굴림, 내성 굴림, 그리고 DC에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Ebon Fulcrum Lens (Incorporeal)": {
+      "name": "효과: 에본 풀크럼 렌즈 (비물질)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.CTiLugp5ptSItEqN]{Ebon Fulcrum Lens}에 의해 부여됩니다.</p>\n<p>당신은 인코포리얼 특성을 얻고, 2만큼 소모됩니다.</p>"
+    },
+    "Effect: Ebon Fulcrum Lens (Reaction)": {
+      "name": "효과: 에본 풀크럼 렌즈 (반응)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.CTiLugp5ptSItEqN]{Ebon Fulcrum Lens}에 의해 부여됩니다.</p>\n<p>당신이 회춘한 후 24시간 동안, 당신은 공격 굴림, 내성 굴림, 그리고 DC에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Egg Cream Fizz": {
+      "name": "효과: 에그 크림 피즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.5a6pudUj6WG8RITy]{Egg Cream Fizz}에 의해 부여됩니다.</p>\n<p>당신은 속도에 +5피트 아이템 보너스를 얻습니다. 또한 음료의 시럽에 따라 결정되는 또 다른 효과를 얻습니다.</p><ul><li><strong>초콜릿</strong> 당신은 균형 잡기, 비행 중 기동, 좁은 곳 통과에 대한 곡예 능력치 검사에 +1 아이템 보너스를 얻습니다.</li><li><strong>딸기</strong> 당신은 등반, 도약, 수영에 대한 육상 능력치 검사에 +1 아이템 보너스를 얻습니다.</li><li><strong>바닐라</strong> 당신은 험난한 지형으로 이동할 수 있습니다.</li></ul>"
+    },
+    "Effect: Elixir of Life": {
+      "name": "효과: 라이프 엘릭서",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.hDLbR56Id2OtU318]{Elixir of Life (Minor)}, @UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{Elixir of Life (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.c21stU5rhN4F2fZl]{Elixir of Life (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.mYozcVg9fQY6zO7C]{Elixir of Life (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.AmxSqEoFhRLMYd1W]{Elixir of Life (Major)}, @UUID[Compendium.pf2e.equipment-srd.Item.qK964kZz1ALcysOa]{Elixir of Life (True)}에 의해 당신은 질병과 독에 대한 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Elysian Dew": {
+      "name": "효과: 엘리시안 듀",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8vN6vm2fKB4rE86U]{Elysian Dew}에 의해 부여됩니다.</p>\n<p>당신은 일시적 히트 포인트 5점, 내성 굴림에 +1 아이템 보너스, 그리고 곡예와 육상 능력치 검사에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Emberheart": {
+      "name": "효과: 엠버하트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.cVxHaDAouFhm0bXP]{Emberheart}에 의해 부여됩니다.</p>\n<p>당신은 인내 내성 굴림에 +3 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Embody the Storm": {
+      "name": "효과: 폭풍의 화신",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.6EVDEQmvDnaaKQhR]{Final Scalecloak}에 의해 부여됩니다.</p>\n<p>당신은 금속으로 부분적으로라도 만들어진 원거리 투사체에 대한 AC에 +4 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Embolden": {
+      "name": "효과: 엠볼든",
+      "description": "<p>아라즈니의 리버 블러드스톤에 의해 부여됨</p>\n<p>당신은 자신의 레벨과 같은 임시 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Emerald Fulcrum Lens": {
+      "name": "효과: 에메랄드 풀크럼 렌즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.IS1P6er2hLyKXAss]{Emerald Fulcrum Lens}에 의해 부여됩니다.</p>\n<p>당신은 보이드 힐링을 얻고, <em>해로운</em> 주문은 당신에게 회복하는 히트 포인트에 +4 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Emerald Fulcrum Lens (Saving Throw)": {
+      "name": "효과: 에메랄드 풀크럼 렌즈 (내성 굴림)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.IS1P6er2hLyKXAss]{Emerald Fulcrum Lens}에 의해 부여됩니다.</p>\n<p>당신은 마법에 대한 내성 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Energized Cartridge": {
+      "name": "효과: 에너자이즈드 카트리지",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.NtUFIAMm2raeq5lr]{Energized Cartridge}에 의해 부여됩니다.</p>\n<p>장착된 무기에서 발사되는 탄약은 당신의 선택에 따라 산, 냉기, 전기 또는 불로 변환되며, 평소의 피해 대신 해당 에너지 유형의 피해를 입히고, 치명타 시 같은 유형의 1d6 지속 피해를 추가로 입힙니다.</p>"
+    },
+    "Effect: Energizing Lattice": {
+      "name": "효과: 에너자이징 래티스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.AqVJOBjXbeao5An7]{Energizing Lattice}에 의해 부여됨</p>\n<p>격자 무늬는 1분 동안 빛나며, 20피트 반경 내에 밝은 빛(그리고 그 다음 20피트까지는 어두운 빛)을 발합니다. 당신은 이 빛을 소멸시킬 수 있습니다.</p>\n<p><strong>활성화</strong> <span class=\"action-glyph\">2</span> 엔비전 (힘)</p>\n<p><strong>필요 조건</strong> <em>에너자이징 래티스</em>가 적의 치명타를 무효화했기 때문에 빛나고 있습니다</p><hr /><p><strong>효과</strong> 당신은 격자의 에너지를 방출하고 6d6 추가 힘 피해를 입히는 무기 또는 무장 공격 스트라이크를 합니다. 당신의 스트라이크가 실패하지만 치명적으로 실패하지 않으면, 대상은 여전히 힘 피해의 절반을 받습니다. 스트라이크 후 격자 무늬는 빛나지 않습니다.</p>"
+    },
+    "Effect: Energizing Pill": {
+      "name": "효과: 에너자이징 필",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.u4R5KKvgKU0jOkjb]{Energizing Pill}에 의해 부여됩니다.</p>\n<p>당신은 지각과 관련된 주사위 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Energizing Rune": {
+      "name": "효과: 에너자이징 룬",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Qqh586pudsEqITUk]{Energizing}에 의해 부여됩니다.</p>\n<p>무기는 활성화된 에너지 타입으로 주입됩니다. 당신의 다음 턴이 끝날 때까지 활성화된 타입의 추가 1d8 피해를 입힙니다.</p>"
+    },
+    "Effect: Energizing Tea": {
+      "name": "효과: 에너자이징 티",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.RK03uy9os4H0dUfS]{Energizing Tea}에 의해 부여됩니다.</p>\n<p>당신은 격투 및 곡예 능력 검정에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Energy Adaptive": {
+      "name": "효과: 에너지 어댑티브",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.DAWaXFtevHLUJxHB]{Energy Adaptive}에 의해 부여됩니다.</p>\n<p>당신은 산, 냉기, 전기 또는 화염 피해에 대한 저항 5를 얻습니다.</p>"
+    },
+    "Effect: Energy Mutagen (Greater)": {
+      "name": "효과: 에너지 뮤터젠 (강력한)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.xVtyaEnYZ1aJT4ki]{Energy Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 조율된 에너지 타입에 대한 저항 15를 얻습니다. 근접 무기로 적중을 기록할 때마다 조율된 에너지 타입의 1d6 피해를 추가합니다.</p>\n<p><strong>단점</strong> 당신은 다른 세 가지 에너지 타입에 대한 약점 5를 얻습니다.</p>"
+    },
+    "Effect: Energy Mutagen (Lesser)": {
+      "name": "효과: 에너지 뮤타겐 (Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.mbrwudO35tItsldq]{Energy Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 조율된 에너지 타입에 대해 5의 저항력을 얻습니다. 근접 무기로 적중 시, 조율된 에너지 타입의 피해 1을 추가합니다.</p>\n<p><strong>단점</strong> 당신은 다른 세 가지 에너지 타입에 대해 5의 약점을 얻습니다.</p>"
+    },
+    "Effect: Energy Mutagen (Major)": {
+      "name": "효과: 에너지 뮤타겐 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.34MbgwW1SGlowyk2]{Energy Mutagen (Major)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 조율된 에너지 타입에 대해 20의 저항력을 얻습니다. 근접 무기로 적중을 기록할 때마다 조율된 에너지 타입의 2d6 피해를 추가합니다.</p>\n<p><strong>단점</strong> 당신은 다른 세 가지 에너지 타입에 대해 5의 약점을 얻습니다.</p>"
+    },
+    "Effect: Energy Mutagen (Moderate)": {
+      "name": "효과: 에너지 뮤터젠 (중간)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.SLJTJwyIRjuWjfuK]{Energy Mutagen (Moderate)}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 조율된 에너지 유형에 대한 저항 10을 얻습니다. 근접 무기로 적중을 기록할 때마다 조율된 에너지 유형의 1d4 피해를 추가합니다.</p>\n<p><strong>단점</strong> 당신은 다른 세 가지 에너지 유형에 대한 약점 5를 얻습니다.</p>"
+    },
+    "Effect: Energy Robe of Electricity": {
+      "name": "효과: 에너지 로브 오브 일렉트리시티",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.CA4W0Dt4qeg8MLHA]{Energy Robe of Electricity}에 의해 부여됩니다.</p>\n<p>당신은 1분 동안 당신의 속도와 같은 비행 속도를 얻습니다.</p>"
+    },
+    "Effect: Energy Robe of Fire": {
+      "name": "효과: 에너지 로브 오브 파이어",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.WPhrH1zCbP2v10aP]{Energy Robe of Fire}에 의해 부여됩니다.</p>\n<p>당신은 속도에 +30피트 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Enhanced Hearing Aids": {
+      "name": "효과: 향상된 청력 보조기구",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.sG5JfXmH9wqmqW3w]{Enhanced Hearing Aids}에 의해 부여됩니다.</p>\n<p>당신은 모든 청각 기반 지각 검사에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Erraticannon": {
+      "name": "효과: 에라틱캐논",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.XOXUFjBGO6azymyb]{Erraticannon}에 의해 부여됩니다.</p>\n<p>당신이 무기로 공격할 때마다, 스트라이크의 데미지 타입을 결정하기 위해 주사위를 굴립니다.</p>"
+    },
+    "Effect: Erraticannon (Extra)": {
+      "name": "효과: 에러틱캐논 (추가)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.XOXUFjBGO6azymyb]{Erraticannon}에 의해 부여됩니다.</p>\n<p><em>에러틱캐논</em>은 두 번째 피해 종류로 1d6의 추가 피해를 입힙니다.</p>"
+    },
+    "Effect: Escape Fulu": {
+      "name": "효과: 이스케이프 풀루",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.53mPIEbUw5RzQ6pc]{Escape Fulu}에 의해 부여됩니다.</p>\n<p>당신은 탈출 시도와 은신 및 잠입 검사에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Euryale (Curse) Card": {
+      "name": "효과: 유리알레 (저주) 카드",
+      "description": "<p>에우리알레(저주)의 @UUID[Compendium.pf2e.equipment-srd.Item.Gyi4IVrAVJRPJF2s]{Deck of Many Things}로 당신께 부여됩니다.</p>\n<p>당신은 모든 내성 굴림에 영구적인 -1 상태 감소 패널티를 얻습니다.</p>"
+    },
+    "Effect: Exsanguinating Ammunition": {
+      "name": "효과: 엑산규네이팅 애뮤니션",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.QMTW4MjXMIUGp41b]{Exsanguinating Ammunition}, @UUID[Compendium.pf2e.equipment-srd.Item.5Q6EFM1MSRX6WNTE]{Exsanguinating Ammunition (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.c6HS4K7omXsmZiZT]{Exsanguinating Ammunition (Major)}에 의해 당신은 지속적인 출혈 피해에 대한 약점을 얻습니다.  또한, 지속적인 출혈 피해를 종료하기 위한 모든 고정 확인의 DC는 지속 시간 동안 15에서 17로 증가합니다 (특히 효과적인 지원을 받을 때는 10에서 12로 증가합니다).</p>"
+    },
+    "Effect: Eye of the Unseen": {
+      "name": "효과: 언시인의 눈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.S4w9D1naKennNO5T]{Eye of the Unseen}에 의해 부여됩니다.</p>\n<p>당신은 시각 지각 판정에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Eye of the Unseen (Greater)": {
+      "name": "효과: 언시인의 눈 (강력한)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.7CCGLWYzsRuodCMM]{Eye of the Unseen (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 시각 지각 판정에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Fanged Rune Animal Form": {
+      "name": "효과: 송곳니룬 동물 형태",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.cvb47A6K1w7RfNiv]{Fanged (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.qL1S3vGfv8Dh5yAE]{Fanged (Major)}에 의해 부여됩니다.</p>\n<p>당신은 저조도 시야와 속도에 대한 아이템 보너스를 얻습니다. <em>메이저</em> 룬은 또한 30피트 범위의 부정확한 후각을 부여합니다.</p>"
+    },
+    "Effect: Feyfoul (Greater)": {
+      "name": "효과: 페이풀 (강력한)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.9wwCHxuCfBA9w6Ik]{Feyfoul (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 요정 생물이 생성하는 정신적 효과에 대한 의지 내성 굴림에 +3 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Feyfoul (Lesser)": {
+      "name": "효과: 페이풀(Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JbkAk2j7h31izKyR]{Feyfoul (Lesser)}에 의해 부여됩니다.</p>\n<p>당신은 요정 생물이 생성하는 정신 효과에 대한 의지 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Feyfoul (Moderate)": {
+      "name": "효과: Feyfoul (중간)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.LbRuAXvoACxPqHqn]{Feyfoul (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 요정 생물이 생성하는 정신 효과에 대한 의지 내성 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Fire and Iceberg": {
+      "name": "효과: 파이어 앤드 아이스버그",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.KadHRRccZ5rWRl7c]{Fire and Iceberg}에 의해 부여됩니다.</p>\n<p>당신은 불과 얼음에 대한 저항 5를 얻습니다.</p>"
+    },
+    "Effect: Fire and Iceberg (Greater)": {
+      "name": "효과: 파이어 앤 아이스버그 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.jNdAX4hBp0pzWalL]{Fire and Iceberg (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 불과 얼음에 대한 저항 10을 얻습니다.</p>"
+    },
+    "Effect: Fire and Iceberg (Major)": {
+      "name": "효과: 파이어 앤드 아이스버그 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.9Fps57Xc1XxxWK0j]{Fire and Iceberg (Major)}에 의해 부여됩니다.</p>\n<p>당신은 불과 얼음에 대한 저항 15를 얻습니다.</p>"
+    },
+    "Effect: Five-Feather Wreath - Armor": {
+      "name": "효과: 파이브-페더 리스 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.5p4ORuCLOKePxUUR]{Five-Feather Wreath}, @UUID[Compendium.pf2e.equipment-srd.Item.alV162EF3qZrbxt0]{Five-Feather Wreath (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.VmmlkU5qJHcTunXV]{Five-Feather Wreath (Major)}에 의해 당신은 능력을 얻습니다.</p>\n<p>당신은 곡예 능력치 검사에 아이템 보너스와 추락 피해 저항력을 얻습니다.</p>"
+    },
+    "Effect: Flaming Star - Armor": {
+      "name": "효과: 플레밍 스타 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.FkII0xws6an5vFSS]{Flaming Star}, @UUID[Compendium.pf2e.equipment-srd.Item.FMtUVzTDiTbxXMN9]{Flaming Star (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.XJZTTkI3ERnu6iFf]{Flaming Star (Major)}에 의해 당신은 불 저항력을 얻습니다.</p>\n<p>당신은 불에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Flaming Star - Weapon": {
+      "name": "효과: 플레밍 스타 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.FkII0xws6an5vFSS]{Flaming Star}, @UUID[Compendium.pf2e.equipment-srd.Item.FMtUVzTDiTbxXMN9]{Flaming Star (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.XJZTTkI3ERnu6iFf]{Flaming Star (Major)}에 의해 부여됩니다.</p>\n<p>당신의 무기 공격은 추가적인 불 피해 주사위를 입힙니다.</p>"
+    },
+    "Effect: Flask of Fellowship": {
+      "name": "효과: 펠로우십 플라스크",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.VpoBYfVUEA8wtQAb]{Flask of Fellowship}에 의해 부여됩니다.</p>\n<p>당신은 외교 능력치 검정에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Focus on the Doomed": {
+      "name": "효과: 두메드에 집중",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.LWMlDUCdDGo1wJnF]{Assassin's Bracers (Type I)}, @UUID[Compendium.pf2e.equipment-srd.Item.dtiYqfBG2BcLHX92]{Assassin's Bracers (Type II)}, @UUID[Compendium.pf2e.equipment-srd.Item.9pUwExXYzndCJFYj]{Assassin's Bracers (Type III)}에 의해 당신은 능력치 보너스를 얻습니다.</p>\n<p>당신은 지정된 생명체에 대한 페인트 또는 디모럴라이즈 시도에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Focus on the Doomed (Fear Penalty)": {
+      "name": "효과: 두둠의 집중 (공포 패널티)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.LWMlDUCdDGo1wJnF]{Assassin's Bracers (Type I)}, @UUID[Compendium.pf2e.equipment-srd.Item.dtiYqfBG2BcLHX92]{Assassin's Bracers (Type II)}, @UUID[Compendium.pf2e.equipment-srd.Item.9pUwExXYzndCJFYj]{Assassin's Bracers (Type III)}에 의해 부여됩니다.</p>\n<p>당신은 공포 효과에 대한 내성 굴림에 아이템 패널티를 받습니다.</p>"
+    },
+    "Effect: Force Shield": {
+      "name": "효과: 포스 실드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.DIzZr0K20eCbNzQo]{Force Shield}에 의해 부여됩니다.</p>\n<p>방패는 당신을 힘의 거품으로 감싸서 해로움으로부터 보호하며, 당신에게 물리 피해 저항 5를 부여합니다.</p>"
+    },
+    "Effect: Forge Warden": {
+      "name": "효과: 포지 워든",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.NoTUhKkiTY5BQU5T]{Forge Warden}에 의해 부여됩니다.</p>\n<p>당신과 인접한 모든 아군은 방패를 올리고 있는 동안 화염 저항 5를 지닙니다.</p>"
+    },
+    "Effect: Forgefather's Seal": {
+      "name": "효과: 포지파더스 실",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.jpQcKMmP1I5674P7]{Forgefather's Seal}에 의해 부여됩니다.</p>\n<p>당신은 화염 저항 40을 얻습니다. 방어구의 체크 패널티와 속도 패널티(만약 있다면)를 무시합니다; 방어구가 가벼운 것이거나 중간 것이라면, 그 방어구의 AC 아이템 보너스를 1 증가시킵니다.</p>"
+    },
+    "Effect: Forgefather's Seal (Stalwart Sacrifice)": {
+      "name": "효과: 포지파더스 실(스톨워트 새크리파이스)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.jpQcKMmP1I5674P7]{Forgefather's Seal}에 의해 부여됩니다.</p>\n<p>선택된 생물들은 또한 AC와 내성 굴림에 +4 상태 보너스와 15의 신속 치유를 얻습니다.</p>"
+    },
+    "Effect: Four-Tiger Blade": {
+      "name": "효과: 포-타이거 블레이드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.05L6c6B8XuU8imfM]{Four-Tiger Blade}에 의해 부여됩니다.</p>\n<p>당신은 공허 피해에 대한 저항 10을 얻습니다.</p>"
+    },
+    "Effect: Frost Breath": {
+      "name": "효과: 프로스트 브레스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.PVpViB2Wg3f61dFa]{Frost Breath}에 의해 부여됩니다.</p>\n<p>당신은 냉기에 대한 저항 5를 얻습니다.</p>"
+    },
+    "Effect: Frost Vial": {
+      "name": "효과: 프로스트 바이알",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.EpxmUtLpCkE8R6KJ]{Frost Vial (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]{Frost Vial (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.intVPcEzbE9o4NQd]{Frost Vial (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.4DJQID8GIlxQ7b9C]{Frost Vial (Major)}에 의해 당신은</p>\n<p>속도에 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: Fuming Cloak": {
+      "name": "효과: 퓨밍 클록",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ASjNBiQfQfWppPJc]{Nightmare's Lament}에 의해 부여됩니다.</p>\n<p>오라 내부의 모든 것은 짙은 검은 연기에 가려져 있습니다.</p>"
+    },
+    "Effect: Fury Cocktail (Greater)": {
+      "name": "효과: 퓨리 칵테일 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.MUL0ABe8h7Ugc1Jt]{Fury Cocktail (Greater)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 근접 공격 굴림에 +4 아이템 보너스를 얻고, 제조 시 선택한 첨가물에 따라 추가 효과를 얻습니다.</p><ul><li><strong>Animalistic</strong> 1d6 관통 피해를 입히는 턱 공격 또는 민첩 특성을 가지고 1d4 베기 피해를 입히는 발톱 공격 중 선택할 수 있습니다.</li><li><strong>Double</strong> 물리 피해에 대한 저항 5</li><li><strong>Mournful</strong> 공허 치유에 따라 공허 또는 활력에 대한 저항 10</li><li><strong>Skeptical</strong> 마법에 대한 내성 굴림에 +3 아이템 보너스</li><li><strong>Titanic</strong> 크기가 Large로 변하고, 서투른 1이 되며, 공격 범위가 변경됩니다 (+5 for Medium and Small, +10 for Tiny)</li><li><strong>Wyrmhide</strong> 산, 냉기, 전기, 불, 독에 대한 저항 10.</li></ul><p><strong>단점</strong> 당신은 AC에 -1 패널티와 반사 내성 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Fury Cocktail (Lesser)": {
+      "name": "효과: 퓨리 칵테일 (Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.BeX3ForBrKTQD4T5]{Fury Cocktail (Lesser)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 근접 공격 굴림에 +2 아이템 보너스를 얻고, 브루가 생성될 때 선택된 첨가제에 따라 추가 효과를 얻습니다.</p><ul><li><strong>애니멀리스틱</strong> 1d6 관통 피해를 입히는 턱 공격 또는 민첩 특성을 가지고 1d4 베기 피해를 입히는 발톱 공격 중 하나를 선택합니다.</li><li><strong>더블</strong> 물리 피해에 대한 저항 1</li><li><strong>마운풀</strong> 공허 치유에 따라 공허 또는 활력에 대한 저항 1</li><li><strong>스켑티컬</strong> 마법에 대한 내성 굴림에 +1 아이템 보너스</li><li><strong>타이타닉</strong> 크기가 라지로 변경되고, 클럼지 1이 적용되며, 사정거리가 변경됩니다 (미디엄 및 스몰의 경우 +5, 티니의 경우 +10)</li><li><strong>웜하이드</strong> 산, 냉기, 전기, 화염, 독에 대한 저항 1.</li></ul><p><strong>단점</strong> 당신은 AC에 -1 패널티와 반사 내성 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Fury Cocktail (Moderate)": {
+      "name": "효과: 퓨리 칵테일 (중간)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JmxKmYQPQmUlauO4]{Fury Cocktail (Moderate)}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 근접 공격 굴림에 +3 아이템 보너스를 얻고, 제조 시 선택한 추가 효과에 따라 추가 효과를 얻습니다.</p><ul><li><strong>애니멀리스틱</strong> 1d6 피어싱 데미지를 입히는 턱 공격 또는 민첩 특성을 가지고 1d4 슬래싱 데미지를 입히는 발톱 공격 중 선택</li><li><strong>더블</strong> 물리 피해 저항 2</li><li><strong>마운풀</strong> 공허 치유에 따라 공허 또는 활력에 대한 저항 5</li><li><strong>스켑티컬</strong> 마법에 대한 내성 굴림에 +3 아이템 보너스</li><li><strong>타이타닉</strong> 크기가 라지로 변경, 클럼지 1, 그리고 공격 범위 변경 (+5 미디엄 및 스몰, +10 타이니)</li><li><strong>웜하이드</strong> 산, 냉기, 전기, 화염, 독에 대한 저항 5.</li></ul><p><strong>단점</strong> 당신은 AC에 -1 패널티와 반사 내성 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Galvanic Chew": {
+      "name": "효과: 갤버닉 추",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.zg4aR2ndtTzO1osa]{Galvanic Chew}에 의해 부여됩니다.</p>\n<p>최대 1시간 동안, 당신은 전기에 대한 저항 5를 갖습니다.</p>"
+    },
+    "Effect: Gecko Potion": {
+      "name": "효과: 게코 포션",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.hGw7Q1y2IEXRGAfv]{Gecko Potion}에 의해 부여됩니다.</p>\n<p>당신은 등반과 물체 쥐기 판정, 그리고 무장해제 시도에 대한 반사 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Ghost Fowl Porridge": {
+      "name": "효과: 고스트 파울 포리지",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Vemy5QGbLRdPedcP]{Ghost Fowl Porridge}에 의해 부여됩니다.</p>\n<p>당신은 석화 저항 내성 굴림에 +2 아이템 보너스를 얻고, 물리 피해에 대한 저항 3을 얻습니다.</p>"
+    },
+    "Effect: Ghost Lantern": {
+      "name": "효과: 고스트 랜턴",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.pZhqdggB36MpDUwh]{Ghost Lantern}에 의해 부여됩니다.</p>\n<p>당신은 모든 무기와 무장 공격에 <em>고스트 터치</em> 속성 룬의 효과를 얻습니다.</p>"
+    },
+    "Effect: Ghost Oil": {
+      "name": "효과: 고스트 오일",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.MIP28AmODXgyF2D2]{Ghost Oil}에 의해 부여됩니다.</p>\n<p>선택된 무기는 <em>고스트 터치</em> 룬의 효과를 얻습니다.</p>"
+    },
+    "Effect: Ghost Scarf": {
+      "name": "효과: 고스트 스카프",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.VMYiP4xRd1hPa5ny]{Ghost Scarf}에 의해 부여됩니다.</p>\n<p>당신이 휴대하는 무기에 <em>고스트 터치</em> 속성 룬의 효과가 부여됩니다. 만약 그 무기에 이미 <em>고스트 터치</em> 룬이 새겨져 있다면, 당신은 대신 비물질적인 언데드의 효과에 대한 인내 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Ghostbane Fulu": {
+      "name": "효과: 고스트베인 풀루",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Uzf9hqwec8fY2j4G]{Ghostbane Fulu}에 의해 부여됩니다.</p>\n<p>무기는 발동시킨 비물질 생명체에 대해 <em>고스트 터치</em> 속성 룬의 효과를 얻습니다.</p>"
+    },
+    "Effect: Ghostcaller's Planchette - Armor": {
+      "name": "효과: 고스트콜러스 플랜쳇 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.v7YHA9UhDgsvQ47Q]{Ghostcaller's Planchette}, @UUID[Compendium.pf2e.equipment-srd.Item.utRZnCD2XI9Q1dWE]{Ghostcaller's Planchette (Greater)}에 의해 당신은 능력을 얻습니다.</p>\n<p>당신은 모든 물리 피해(<em>고스트 터치</em>를 제외)에 대한 저항력을 얻습니다. 비물질적 생명체(예: 유령의 유령 손)의 공격은 <em>고스트 터치</em>로 취급됩니다.</p>"
+    },
+    "Effect: Ghostcaller's Planchette - Weapon": {
+      "name": "효과: 고스트콜러스 플랜셰트 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.v7YHA9UhDgsvQ47Q]{Ghostcaller's Planchette}, @UUID[Compendium.pf2e.equipment-srd.Item.utRZnCD2XI9Q1dWE]{Ghostcaller's Planchette (Greater)}에 의해 부여됩니다.</p>\n<p>부착된 무기는 <em>고스트 터치</em> 속성 룬과 <em>그레이터 디스럽팅</em> 속성 룬 (<em>그레이터</em>)의 효과를 얻습니다.</p>"
+    },
+    "Effect: Ginger Chew": {
+      "name": "효과: 진저 츄",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.uPP678KODkgDy8UO]{Ginger Chew}에 의해 부여됩니다.</p>\n<p>당신은 질병에 걸리는 것을 막는 인내 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Glaive of the Artist": {
+      "name": "효과: 아티스트의 글레이브",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.J5It6yq3ZkN059zP]{Glaive of the Artist}에 의해 부여됩니다.</p>\n<p>60피트 이내에 있으며 글레이브의 깃발을 볼 수 있는 모든 아군은 공연 판정에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Glittering Snare (Critical Failure)": {
+      "name": "효과: 글리터링 스네어 (치명적 실패)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.NtUB9xqRZQ2duOUo]{Glittering Snare}에 의해 부여됩니다.</p>\n<p>당신은 스텔스 판정에 -4의 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: Glittering Snare (Failure)": {
+      "name": "효과: 글리터링 스네어 (실패)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.NtUB9xqRZQ2duOUo]{Glittering Snare}에 의해 부여됩니다.</p>\n<p>당신은 은신 굴림에 -2의 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: Glittering Snare (Success)": {
+      "name": "효과: 글리터링 스네어 (성공)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.NtUB9xqRZQ2duOUo]{Glittering Snare}에 의해 부여됩니다.</p>\n<p>당신은 은신 굴림에 -1의 상태 페널티를 받습니다.</p>"
+    },
+    "Effect: Glow Rod": {
+      "name": "효과: 글로우 로드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.y4WJY8rCbY6d1MET]{Glow Rod}에 의해 부여됩니다.</p>\n<p>지팡이는 20피트 반경 내에 밝은 빛을, 그리고 그 다음 40피트까지 희미한 빛을 발합니다.</p>"
+    },
+    "Effect: Glowing Lantern Fruit (Lantern Light)": {
+      "name": "효과: 글로잉 랜턴 과일 (랜턴 라이트)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.INyiWvehFuo8nGaa]{Glowing Lantern Fruit}에 의해 부여됩니다.</p>\n<p><em>글로잉 랜턴 프루트</em>는 60피트 반경에 밝은 빛을 (그리고 그 다음 60피트에는 어두운 빛을) 비춥니다. 당신은 <em>글로잉 랜턴 프루트</em>와 상호 작용하여 일부 반사 잎을 열거나 닫아 황소 눈 랜턴이나 후드 달린 랜턴처럼 빛의 방향을 조절할 수 있습니다.</p>"
+    },
+    "Effect: Glue Bomb": {
+      "name": "효과: 글루 봄",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.T6Appwwl6nUl56Xj]{Glue Bomb (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.evBPzM1VsuYcoenn]{Glue Bomb (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.5Qkz4RVJr2Kx3RL6]{Glue Bomb (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.BxJNWWvpxacDIsdt]{Glue Bomb (Major)}에 의해 부여됩니다.</p>\n<p>대상은 속도에 상태 감소 패널티를 받습니다.</p>"
+    },
+    "Effect: Golden Breath Fulu": {
+      "name": "효과: 골든 브레스 풀루",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.4642hELMtWF9jywN]{Golden Breath Fulu}에 의해 부여됩니다.</p>\n<p>당신은 지속적인 피해를 종료하는 데 특히 적절한 도움을 얻습니다.</p>"
+    },
+    "Effect: Golden Legion Epaulet": {
+      "name": "효과: 골든 레기온 에폴렛",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.CDuN9kzyxBZ4cShq]{Golden Legion Epaulet}에 의해 부여됩니다.</p>"
+    },
+    "Effect: Goo Grenade": {
+      "name": "효과: 구 구레네이드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.t2A5PzInAqmErLzK]{Goo Grenade (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.wi97vRj8IXx3wLmZ]{Goo Grenade (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.SAtG9jrqey2y8EGb]{Goo Grenade (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.W0RWd2E0jkF2ZXhf]{Goo Grenade (Major)}에 의해 당신은</p>\n<p>속도에 상황 패널티를 받습니다.</p>"
+    },
+    "Effect: Goz Mask (Major)": {
+      "name": "효과: 고즈 마스크 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.qixSKcFT1OA4mIkp]{Goz Mask (Major)}에 의해 부여됩니다.</p>\n<p>당신은 어둠시야를 얻습니다.</p>"
+    },
+    "Effect: Grasp of Droskar": {
+      "name": "효과: 드로스카의 손아귀",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.wWXnr3xw5TzDL1M7]{Grasp of Droskar}에 의해 부여됩니다.</p>\n<p>당신은 모든 운동 기술 판정에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Grim Sandglass - Armor": {
+      "name": "효과: 그림 샌드글래스 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.OjOpj9u1EdEUhKuX]{Grim Sandglass}, @UUID[Compendium.pf2e.equipment-srd.Item.yQTmIcXIDg7nVpJX]{Grim Sandglass (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.beHqICAYt9ZuyBay]{Grim Sandglass (Major)}에 의해 당신께 부여됩니다.</p>\n<p>당신은 공허에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Grim Sandglass - Weapon": {
+      "name": "효과: 그림 샌드글래스 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.OjOpj9u1EdEUhKuX]{Grim Sandglass}, @UUID[Compendium.pf2e.equipment-srd.Item.yQTmIcXIDg7nVpJX]{Grim Sandglass (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.beHqICAYt9ZuyBay]{Grim Sandglass (Major)}에 의해 부여됩니다.</p>\n<p>당신의 무기 공격은 추가적인 보이드 데미지를 입힙니다.</p>"
+    },
+    "Effect: Grindlegrub Steak": {
+      "name": "효과: 그라인들그럽 스테이크",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ALfqpWLbLPSXxZVG]{Grindlegrub Steak}에 의해 부여됩니다.</p>\n<p>당신은 피로 및 고갈 상태에 대한 인내 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Grit (Stage 1)": {
+      "name": "효과: 그릿 (1단계)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.vl5dww56cbXo9QnP]{Grit}에 의해 부여됩니다.</p>\n<p>생물은 Athletics, Crafting, 그리고 Performance 판정에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Grit (Stage 2)": {
+      "name": "효과: 그릿 (2단계)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.vl5dww56cbXo9QnP]{Grit}에 의해 부여됩니다.</p>\n<p>생물체는 육상 경기, 제작, 공연 숙련 검사에 +1 아이템 보너스를, 그리고 지각 숙련 검사에 -2 아이템 패널티를 얻습니다.</p>"
+    },
+    "Effect: Grit (Stage 3)": {
+      "name": "효과: 그릿 (3단계)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.vl5dww56cbXo9QnP]{Grit}에 의해 부여됩니다.</p>\n<p>생물은 인지 굴림에 -4 아이템 패널티를 받습니다.</p>"
+    },
+    "Effect: Grudgestone": {
+      "name": "효과: 그러드스톤",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.SH0WmAdjIaNN3OiN]{Grudgestone}, @UUID[Compendium.pf2e.equipment-srd.Item.rEev4xrQyMvjz7W7]{Grudgestone (Greater)}에 의해 부여됩니다.</p>\n<p>당신이 장착한 무기로 발동 생물에게 가하는 공격은 데미지 굴림에 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Guardian Staff": {
+      "name": "효과: 가디언 스태프",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.UQ0h9IVtHla8gWT7]{Guardian Staff}, @UUID[Compendium.pf2e.equipment-srd.Item.jIX2T21YvEsRaaqp]{Guardian Staff (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.REvrniIEqBykkWyI]{Guardian Staff (Major)}에 의해 부여됩니다.</p>\n<p>루비색의 힘의 평면이 아군 근처에 방패처럼 나타나 당신의 다음 턴이 시작될 때까지 아군에게 AC에 +1 상황 보너스를 부여합니다.</p>"
+    },
+    "Effect: Healer's Gel": {
+      "name": "효과: 힐러스 젤",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.q8aRbsKX93R5AXNb]{Healer's Gel (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.ZxkTbyq61JTQ7Zkt]{Healer's Gel (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.3M7iB9tfrsWTccZ0]{Healer's Gel (Greater)}에 의해 당신은 일시적 히트 포인트를 얻습니다.</p>\n<p>당신은 일시적 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Heartripper Blade": {
+      "name": "효과: 하트리퍼 블레이드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.bcZB7xmlQy8UWqe1]{Heartripper Blade}에서 부여받았습니다.</p>\n<p><em>하트리퍼 블레이드</em>로 공격 시 살아있는 생물에게 1d6 보이드 데미지를 추가로 입힙니다.</p>"
+    },
+    "Effect: Hexing Jar": {
+      "name": "효과: 헥싱 자",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.0fHBB9Xb4m3oAoko]{Hexing Jar}에 의해 부여됩니다.</p>\n<p>당신과 당신의 소환수는 AC와 내성 굴림에 +1 상태 보너스를, 정신 효과에 대해서는 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Hobbling Snare": {
+      "name": "효과: 호블링 스네어",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.0lhh2l4kh3QrwYH9]{Hobbling Snare}에 의해 부여됩니다.</p>\n<p>당신의 속도에 상태 감소 패널티를 받습니다.</p>"
+    },
+    "Effect: Holy Chain": {
+      "name": "효과: 홀리 체인",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.2uHcTZ40oZ62R9gy]{Holy Chain}에 의해 당신은 다음 능력을 얻습니다.</p>\n<p>당신은 30피트의 비행 속도를 얻습니다. 날개는 40피트 반경 내에 밝은 빛을, 그리고 그 다음 40피트까지 희미한 빛을 발합니다.</p>"
+    },
+    "Effect: Holy Steam Ball": {
+      "name": "효과: 홀리 스팀 볼",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.OdBdmv0Y1P7wQWTo]{Holy Steam Ball}에 의해 부여됩니다.</p>\n<p>당신은 악마와 언데드의 지배 효과, 그리고 악마와 언데드가 조종 상태를 일으키는 효과에 대한 의지 내성 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Hongrui's Gratitude (Lantern)": {
+      "name": "효과: 홍루이의 감사(랜턴)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.2pzrpfYE9AHMAX9H]{Hongrui's Gratitude}에 의해 부여됩니다.</p>\n<p>당신은 외교 숙련 검사에 +1 아이템 보너스를 얻고 20피트 반경 내에 밝은 빛을, 그리고 그 다음 20피트까지는 희미한 빛을 발합니다.</p>"
+    },
+    "Effect: Hongrui's Gratitude (Umbrella)": {
+      "name": "효과: 홍루이의 감사 (우산)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.2pzrpfYE9AHMAX9H]{Hongrui's Gratitude}에 의해 부여됩니다.</p>\n<p>당신은 생존 숙련 검사에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Horn of Exorcism (Sacred Seeds)": {
+      "name": "효과: 엑소시즘의 뿔 (세이크리드 시즈)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.xdPU7qrl5hIvaArY]{Horn of Exorcism}에 의해 부여됩니다.</p>\n<p>이 뿔은 당신의 모든 무기 및 무장 공격에 <em>고스트 터치</em> 속성 룬을 부여합니다.</p>"
+    },
+    "Effect: Horned Lion Amulet": {
+      "name": "효과: 혼드 라이온 아뮬렛",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.CfM2q0UgtG6gkPku]{Horned Lion Amulet}에 의해 당신은 불 내성 10을 얻습니다. 그리고 이후에 불 내성 5를 얻습니다.</p>"
+    },
+    "Effect: Horned Lion Amulet Recovery": {
+      "name": "효과: 혼드 라이온 아뮬렛 회복",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.CfM2q0UgtG6gkPku]{Horned Lion Amulet}에 의해 부여됩니다.</p>\n<p>지속적인 화염 피해로부터 회복하기 위한 DC는 종료될 때까지 10으로 유지됩니다.</p>"
+    },
+    "Effect: Hunter's Brooch": {
+      "name": "효과: 헌터스 브로치",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.4ObrlZ5GhCPA2E2s]{Hunter's Brooch}에 의해 부여됩니다.</p>\n<p>당신은 무기에 치명적인 d12 특성을 부여합니다. 언데드에 대해서는, 무기는 대신 치사적인 d12 특성을 얻습니다.</p>"
+    },
+    "Effect: Hydra Mutagen": {
+      "name": "효과: 히드라 뮤타겐",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.iN4giDBCWlc19Jsc]{Hydra Mutagen}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 사방을 볼 수 있으며 모든 지능 및 지혜 기반 기술 숙련 검사에 +3 아이템 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 서투릅니다1.</p>"
+    },
+    "Effect: Hyldarf's Fang": {
+      "name": "효과: 힐다르프의 송곳니",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.O7pgJB6M5UqUZ9Qq]{Hyldarf's Fang}에 의해 부여됩니다.</p>\n<p>당신은 화염 저항 20을 얻습니다.</p>"
+    },
+    "Effect: Ichthyosis Mutagen": {
+      "name": "효과: 이크티오시스 뮤터젠",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.uwVTuejjSLl82jiA]{Ichthyosis Mutagen}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 1분 동안, 당신은 2의 신속 치유를 얻고 지속적인 출혈 피해로부터 회복하기 위한 고정 확인에 자동으로 성공합니다.</p>\n<p><strong>단점</strong> 1분 동안 당신은 반사 내성 굴림에 -2의 패널티를 받습니다.</p>"
+    },
+    "Effect: Illuminated Folio": {
+      "name": "효과: 일루미네이티드 폴리오",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8anSflDImoYUv2UK]{Illuminated Folio}에 의해 부여됩니다.</p>\n<p>소환된 생물들은 살아있는 삽화처럼 나타나며, 레벨의 절반에 해당하는 물리 피해 저항력과 불과 물 특성을 가진 모든 능력에 대한 5의 약점을 가지고 있습니다.</p>"
+    },
+    "Effect: Immolation Clan Pistol": {
+      "name": "효과: 이몰레이션 클랜 피스톨",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.5SVttGODx1TkyhTU]{Immolation Clan Pistol}에 의해 부여됩니다.</p>\n<p>당신은 위협 굴림에 +2 상태 보너스를 얻고, <em>임몰레이션 핸드 캐논</em>은 <em>+2 스트라이킹 플레임밍 핸드 캐논</em>이 됩니다.</p>"
+    },
+    "Effect: Immortal Bastion": {
+      "name": "효과: 이모털 배스천",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.qSqx72639EJTzBam]{Immortal Bastion}에 의해 당신은</p>\n<p>100의 임시 체력을 얻습니다.</p>"
+    },
+    "Effect: Imp Shot": {
+      "name": "효과: 임프 샷",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.XaHXxSpSCgLGYhbs]{Imp Shot}에 의해 부여됩니다.</p>\n<p>당신은 방심하고 있으며 공격 굴림과 기술 판정에 –2 상황 패널티를 받습니다.</p>"
+    },
+    "Effect: Impenetrable Scale": {
+      "name": "효과: 꿰뚫을 수 없는 비늘",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.aLA7pikfeNIAAGLw]{Impenetrable Scale}에 의해 부여됩니다.</p>\n<p>당신은 보라색 비늘의 개수만큼 최대 8까지 물리 피해 저항력을 얻습니다.</p>"
+    },
+    "Effect: Impossible Cake": {
+      "name": "효과: 임파서블 케이크",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.hOemslrdMyHCgSBk]{Impossible Cake}에 의해 부여됩니다.</p>\n<p>당신은 케이크가 닮은 아이템의 종류에 대한 지식을 가지고 있다고 다른 사람들을 설득하기 위해 거짓말을 하는 것뿐만 아니라,  Impersonate에 대한 당신의 속임수 판정에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Impossible Cake (Greater)": {
+      "name": "효과: 임파서블 케이크 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.RkZgEViFodxXsLu3]{Impossible Cake (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 속임수 검정에 +3 아이템 보너스를 얻습니다. 이는 사칭을 할 때, 그리고 케이크가 닮은 아이템의 종류에 대한 지식을 가지고 있다고 다른 사람들을 설득하기 위해 거짓말을 할 때 적용됩니다.</p>"
+    },
+    "Effect: Impossible Cake (Major)": {
+      "name": "효과: 임파서블 케이크 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.RkZgEViFodxXsLu3]{Impossible Cake (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 케이크가 닮은 아이템의 종류에 대한 지식을 가지고 있다고 다른 사람들을 설득하기 위해 거짓말을 하는 것뿐만 아니라, 사칭하기 위한 속임수 판정에 +4 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Improvised Weapon": {
+      "name": "효과: 즉석 무기",
+      "description": "<p>당신은 즉석 무기로 공격 굴림에 -2 아이템 패널티를 받습니다.</p>"
+    },
+    "Effect: Inflammation Flask": {
+      "name": "효과: 인플레이메이션 플라스크",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.IGwM0rPKZt7vZ7zq]{Inflammation Flask (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.A3uCOubAKyCSRPRv]{Inflammation Flask (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.zbwV685YkIVxPNWE]{Inflammation Flask (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.AOGJdyn5J0nB9ThV]{Inflammation Flask (Major)}에 의해 당신은 산, 불, 그리고 베는 피해에 약점을 얻습니다.</p>"
+    },
+    "Effect: Injigo's Loving Embrace": {
+      "name": "효과: 인지고의 사랑스러운 포옹",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.MV9tQYR5vsjPeyar]{Injigo's Loving Embrace}에 의해 부여됩니다.</p>\n<p>당신은 정신 피해에 대한 저항 5와 정신 효과에 대한 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Insight Coffee": {
+      "name": "효과: 인사이트 커피",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.sPceDzKeOA8PpK2v]{Insight Coffee (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.vzP0pLxes9bn0zV8]{Insight Coffee (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.CorMilTH3XKGW49D]{Insight Coffee (Greater)}에 의해 부여됩니다.</p>\n<p>당신이 가지고 있다면, @UUID[Compendium.pf2e.classfeatures.Item.2Fe4YZCvAr9Yf6w7]{Strategic Strike} 클래스 특징으로 인한 추가 피해에 d6 대신 d8을 사용합니다. 또한 제작 시 선택한 조합에 따라 결정되는 기술을 사용한 지식 상기 검사에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Inspiring Spotlight": {
+      "name": "효과: 인스파이어링 스포트라이트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.M1fRjN7E3P55zvmc]{Inspiring Spotlight}에 의해 부여됩니다.</p>\n<p>당신은 내성 굴림과 카리스마 기반 기술 판정에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Iron Medallion": {
+      "name": "효과: 아이언 메달리온",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ewzJzyJ4Vo9lZKvp]{Iron Medallion}에 의해 부여됩니다.</p>\n<p>당신은 공포에 대한 방아쇠가 된 내성 굴림 및 다른 내성 굴림에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Iron Wine": {
+      "name": "효과: 아이언 와인",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.DOJxQLwkDvebbLWJ]{Iron Wine}에 의해 부여됩니다.</p>\n<p>당신의 무장 해제 공격은 추가로 1d4 화염 피해를 입힙니다.</p>"
+    },
+    "Effect: Iron Wine Weakness": {
+      "name": "효과: 아이언 와인 약점",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.DOJxQLwkDvebbLWJ]{Iron Wine}에 의해 부여됩니다.</p>\n<p>당신은 화염에 대한 약점 5를 얻습니다.</p>"
+    },
+    "Effect: Irondust Stew": {
+      "name": "효과: 아이언더스트 스튜",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.hSJWv6aOwlJyKSLs]{Irondust Stew}에 의해 부여됩니다.</p>\n<p>당신은 1분 동안 물리 피해에 대한 저항력 3을 얻지만, 그 기간 동안 곡예와 육상 능력 검정에 –2의 아이템 패널티를 받습니다.</p>"
+    },
+    "Effect: Ivory Baton": {
+      "name": "효과: 아이보리 바톤",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.yzgMOspvPTLDe6Ln]{Ivory Baton}에 의해 부여됩니다.</p>\n<p>구조체는 공격 굴림, 피해 굴림, 그리고 내성 굴림(상아 지팡이에 대한 내성 굴림 제외)에 +1 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Jack's Tattered Cape": {
+      "name": "효과: 잭의 낡은 망토",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.QOAjwtH9gycbDZCY]{Jack's Tattered Cape}에 의해 부여됩니다.</p>\n<p>당신은 은신하거나 잠입하기 위한 은밀 행동 검정에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Jann's Prism (Jann's Light)": {
+      "name": "효과: 잔의 프리즘 (잔의 빛)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.jsTc3wyD0gSdXILQ]{Jann's Prism}에 의해 부여됩니다.</p>\n<p>당신은 20피트 사정거리(그리고 그 다음 20피트까지 희미한 빛)에 밝은 빛을 발합니다. 당신은 두 가지 피해 유형에 대해 5의 저항력을 얻습니다.</p>"
+    },
+    "Effect: Jolt Coil - Armor": {
+      "name": "효과: 졸트 코일 - 방어구",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.0gxqSZhYdOeJhPrp]{Jolt Coil}, @UUID[Compendium.pf2e.equipment-srd.Item.auEm7vmpG9V8xpAJ]{Jolt Coil (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.TucjFO5NQHvUUc7a]{Jolt Coil (Major)}에 의해 당신은 전기 저항력을 얻습니다.</p>\n<p>당신은 전기에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Jolt Coil - Weapon": {
+      "name": "효과: 졸트 코일 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.0gxqSZhYdOeJhPrp]{Jolt Coil}, @UUID[Compendium.pf2e.equipment-srd.Item.auEm7vmpG9V8xpAJ]{Jolt Coil (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.TucjFO5NQHvUUc7a]{Jolt Coil (Major)}에 의해 부여됩니다.</p>\n<p>무기 공격 시 당신의 다음 턴이 끝날 때까지 추가 전기 피해를 입힙니다.</p>"
+    },
+    "Effect: Journeybread (Power)": {
+      "name": "효과: 저니브레드 (파워)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.7Sm8NhvQcwi84Nsh]{Journeybread (Power)}에 의해 부여됩니다.</p>\n<p>당신은 등반, 강제 개방, 그리고 수영에 대한 능력치 판정과 질병에 걸리는 것을 막는 인내 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Juggernaut Mutagen (Greater)": {
+      "name": "효과: 저거넛 뮤타겐 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.TMtQnY6yvIRCpK9v]{Juggernaut Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 인내 내성 굴림에 +3 아이템 보너스와 30 임시 히트 포인트를 얻습니다. 인내 내성 굴림에서 성공을 굴리면 대신 치명타 성공을 얻습니다.</p>\n<p><strong>단점</strong> 당신은 의지 내성 굴림, 인지력 판정, 그리고 선제 행동 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Juggernaut Mutagen (Lesser)": {
+      "name": "효과: 저거넛 뮤타겐 (소형)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.xE0EdDrf734l2fQH]{Juggernaut Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 인내 내성 굴림에 +1 아이템 보너스와 5 임시 히트 포인트를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 의지 내성 굴림, 지각 굴림, 그리고 선제 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Juggernaut Mutagen (Major)": {
+      "name": "효과: 저그너넛 뮤터젠 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.1kNp6yOS0aZPBPzZ]{Juggernaut Mutagen (Major)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 인내 내성 굴림에 +4 아이템 보너스와 45 임시 히트 포인트를 얻습니다. 인내 내성 굴림에서 성공을 굴리면 대신에 크리티컬 성공을 얻고, 인내 내성 굴림에서 크리티컬 실패는 실패 대신이 됩니다.</p>\n<p><strong>단점</strong> 당신은 의지 내성 굴림, 인지력 검사, 그리고 선제 행동 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Juggernaut Mutagen (Moderate)": {
+      "name": "효과: 저거넛 뮤터젠 (중간)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.mj9i9GeQTADByNPZ]{Juggernaut Mutagen (Moderate)}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 인내 내성 굴림에 +2 아이템 보너스와 10 임시 히트 포인트를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 의지 내성 굴림, 인지력 판정, 그리고 선제 행동 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Juubun's One Thousand Poems": {
+      "name": "효과: 주분즈 원 싸우즌드 포엠즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.kDbL1zbqf76odwlU]{Juubun's One Thousand Poems}에 의해 당신은 10의 임시 체력을 얻습니다.</p>\n<p>당신은 10의 임시 체력을 얻습니다.</p>"
+    },
+    "Effect: Jyoti's Feather - Armor": {
+      "name": "효과: 조티의 깃털 - 방어구",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.zAnxjSoJBggguWFP]{Jyoti's Feather}, @UUID[Compendium.pf2e.equipment-srd.Item.GtSPUCDpIMUEq9B0]{Jyoti's Feather (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.y4dGIbK5wGUJTufR]{Jyoti's Feather (Major)}에 의해 당신은 사망 효과와 공허 에너지에 대한 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Jyoti's Feather - Weapon": {
+      "name": "효과: 조티의 깃털 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.zAnxjSoJBggguWFP]{Jyoti's Feather}, @UUID[Compendium.pf2e.equipment-srd.Item.GtSPUCDpIMUEq9B0]{Jyoti's Feather (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.y4dGIbK5wGUJTufR]{Jyoti's Feather (Major)}에 의해 부여됩니다.</p>\n<p>이 무기는 <em>디스럽팅 룬</em> 또는 <em>그레이터 디스럽팅 룬</em>(<em>메이저</em>)을 가지고 있습니다.</p>"
+    },
+    "Effect: Kraken's Guard": {
+      "name": "효과: 크라켄의 가드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.f6antZJS94JyijFl]{Kraken's Guard}에 의해 부여됩니다.</p>\n<p>당신이 방패를 사용하여 그래플을 할 때, 당신은 힘겨루기 판정에 +3 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Lastwall Soup": {
+      "name": "효과: 라스트월 수프",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.VeCNWhvEr82ZNoSV]{Lastwall Soup}, @UUID[Compendium.pf2e.equipment-srd.Item.VcEd9Bh4q5vQfpLv]{Lastwall Soup (Improved)}, @UUID[Compendium.pf2e.equipment-srd.Item.ed8gAxli6Of58kAM]{Lastwall Soup (Greater)}에 의해 당신은 혜택을 받습니다.</p>\n<p>생물은 은신 굴림과 언데드에 대한 방어 주사위에 아이템 보너스를 얻습니다. <em>강력한</em> 경우, 당신은 또한 10의 임시 체력을 얻습니다.</p>"
+    },
+    "Effect: Leopard's Armor": {
+      "name": "효과: 레오파드 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.jAKYIqG2BNO7yffJ]{Leopard's Armor}에 의해 부여됩니다.</p>\n<p>당신은 은신 굴림과 위압 굴림(사기를 꺾기)에 +2 아이템 보너스를 얻지만, 외교 및 교제 굴림에는 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Life Shot": {
+      "name": "효과: 라이프 샷",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Oo0KZTmFsu9iCAR9]{Life Shot (Minor)}, @UUID[Compendium.pf2e.equipment-srd.Item.hguIfHmI3LjhvlWO]{Life Shot (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.l3itUlHLuWP6qlA0]{Life Shot (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.MpuFL2midIke1Sbn]{Life Shot (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.R6qfTzNv79GH1xHU]{Life Shot (Major)}, @UUID[Compendium.pf2e.equipment-srd.Item.UzyjCLHxs3JQuFt5]{Life Shot (True)}에 의해 당신은 질병과 독에 대한 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Life-Boosting Oil": {
+      "name": "효과: 라이프-부스팅 오일",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.AFFaFaAW3IbbYqkL]{Life-Boosting Oil (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.9zyrMZF76hMxwizY]{Life-Boosting Oil (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.3kELQauVoYunyFcd]{Life-Boosting Oil (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.UOH0A4xNSMnpV6i4]{Life-Boosting Oil (Major)}에 의해 당신은 능력을 얻습니다.</p>\n<p>당신은 쾌속 치유를 얻습니다.</p>"
+    },
+    "Effect: Lightning Rod": {
+      "name": "효과: 라이트닝 로드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ja4phrX3anThH7hx]{Fulmination Fang}에 의해 부여됩니다.</p>\n<p>당신이 풀미네이션 팡(<em>fulmination fang</em>)으로 다음 근접 스트라이크(<em>Strike</em>)를 할 때, 추가로 1d6 번개 피해를 입힙니다.</p>"
+    },
+    "Effect: Lightweave Scarf (Armor)": {
+      "name": "효과: 라이트위브 스카프 (방어구)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.dFYEGk1nUlHqQ5qy]{Lightweave Scarf}, @UUID[Compendium.pf2e.equipment-srd.Item.hEnITJ2bJVPrqfGG]{Lightweave Scarf (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.Uk342C6qpSkdjHBb]{Lightweave Scarf (Major)}에 의해 당신은 능력을 얻습니다.</p>\n<p>환상에 대한 내성 굴림과 속임수 검사로써 눈속임을 만드는 것에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Lion's Bite": {
+      "name": "효과: 라이언즈 바이트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.eMDt5vCQztp7cC6B]{Lion's Shield}에 의해 부여됩니다.</p>\n<p>방패의 날카로운 입은 2d6의 관통 피해를 입히는 근접 무기이며 치명적인 d6 특성을 가지고 있습니다.  룬으로 강화할 수 없습니다.</p>"
+    },
+    "Effect: Longnight Tea": {
+      "name": "효과: 롱나이트 티",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.n5xlR7ApXgfJRkbF]{Longnight Tea}에 의해 부여됩니다.</p>\n<p>당신은 수면 효과에 대한 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Look at Me!": {
+      "name": "효과: 룩 앳 미!",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.fhhM7nTxxXm09Zz9]{Scene Stealer's Tunic}에 의해 부여됩니다.</p>\n<p>당신은 원천을 제외한 모든 것에 대한 지각 굴림에 –1 상태 감소치를 받고, 원천의 시각 효과에 대한 모든 내성 굴림에 –1 상태 감소치를 받으며, 다른 사람이 생성한 시각 효과에 대한 모든 내성 굴림에 +2 상태 증가치를 얻습니다.</p>"
+    },
+    "Effect: Lover's Gloves": {
+      "name": "효과: 러버스 글러브스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.nZE16PtiyY7DWlzd]{Lover's Gloves}을 활성화하면 당신은</p>\n<p>내성 굴림에 +1 상태 보너스와 10 임시 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Lumber Lord's Axe": {
+      "name": "효과: 럼버 로드의 도끼",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.QNRa5r2I00YtEoIV]{Lumber Lord's Axe}에 의해 부여됩니다.</p>\n<p><em>럼버 로드의 액스</em>의 칼날은 당신의 선택에 따라 표준 등급 아다만타인 또는 표준 등급 돈실버로 변형됩니다.</p>"
+    },
+    "Effect: Luminous Lure": {
+      "name": "효과: 루미너스 루어",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.l3ZsKprMlJCRbgb6]{Mamlambo Scale}에 의해 부여됩니다.</p>\n<p><em>맘람보 스케일</em>은 20피트 범위에 희미한 빛을 발합니다.</p>"
+    },
+    "Effect: Malleable Clay": {
+      "name": "효과: 맬리어블 클레이",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.gMjoALuwSUdTmqqZ]{Malleable Clay}에 의해 부여됩니다.</p>\n<p>장착된 무기는 발동 스트라이크와 다른 모든 공격에 대해 다용도 둔기, 다용도 관통, 다용도 베기 무기 특성을 얻습니다.</p>"
+    },
+    "Effect: Malleable Mixture (Greater)": {
+      "name": "효과: 맬리어블 믹스처 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.TKOe8epJTCef87Bj]{Malleable Mixture (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 10분 동안 붙잡기, 밀치기, 넘어뜨리기 시도에 대한 인내 내성 굴림과 반사 내성 굴림에 +3 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Malleable Mixture (Lesser)": {
+      "name": "효과: 몰리블 믹스처 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.p0TKEjVqYFZmfz6v]{Malleable Mixture (Lesser)}에 의해 부여됩니다.</p>\n<p>당신은 1분 동안 그래플, 쇼브, 또는 트립으로 당신을 공격하려는 시도에 대한 인내 내성 굴림과 반사 내성 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Mana-Rattler Liniment": {
+      "name": "효과: 마나-랫틀러 리니먼트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.q07Ej07uIsKx5zab]{Mana-Rattler Liniment}에 의해 부여됩니다.</p>\n<p>당신은 1d6 피어싱 데미지와 1 독 데미지를 주는 송곳니 무장 공격을 얻습니다.</p>"
+    },
+    "Effect: Mask of Allure": {
+      "name": "효과: 매스크 오브 얼러",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.hL6z9KnndTO2L12f]{Mask of Allure}에 의해 부여됩니다.</p>\n<p>당신은 촉발 확인에 +4 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Matsuki's Medicinal Wine": {
+      "name": "효과: 마츠키의 약주",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.5lhQ79p0Z3j1VsY3]{Matsuki's Medicinal Wine}에 의해 부여됩니다.</p>\n<p>당신은 질병과 독에 대한 인내 내성 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Merciful Balm": {
+      "name": "효과: 자비로운 발음 (Merciful Balm)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.tspcGx4OrZEv2gQX]{Merciful Balm}에 의해 부여됩니다.</p>\n<p>무기는 1시간 동안 비살상 특성을 부여받습니다.</p>"
+    },
+    "Effect: Merciful Charm": {
+      "name": "효과: 자비로운 매력",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.C8kQuf7gqpjEDmib]{Merciful Charm}에 의해 부여됩니다.</p>\n<p>장착된 무기는 발동 공격과 다른 모든 공격에 대해 비살상 특성을 얻습니다.</p>"
+    },
+    "Effect: Metuak's Pendant": {
+      "name": "효과: 메투악의 펜던트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.SUnKoeqNBsGvUAGe]{Metuak's Pendant}에 의해 부여됩니다.</p>\n<p>생물은 혼란, 조종, 공포, 또는 멍해지는 정신적 효과에 대한 내성 굴림에 +1 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Mind's Light Circlet": {
+      "name": "효과: 마인즈 라이트 서클릿",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.FW4vzcHuehTXnCLX]{Mind's Light Circlet}에 의해 부여됩니다.</p>\n<p>당신은 20피트 반경 내에 밝은 빛을, 40피트 반경 내에 어두운 빛을 발합니다.</p>"
+    },
+    "Effect: Misty Chill": {
+      "name": "효과: 미스티 칠",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.PuEe7jnw2dTL3POp]{Arctic Worm Chitin Shield}에 의해 부여됩니다.</p>\n<p>당신은 방패를 올리고, 냉기에 대한 저항 5를 얻습니다.</p>"
+    },
+    "Effect: Moon Blossom Tea": {
+      "name": "효과: 문 블라썸 티",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Sq4MIaXhb2zcCT6y]{Moon Blossom Tea}에 의해 부여됩니다.</p>\n<p>당신은 선제 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Morning Glow": {
+      "name": "효과: 모닝 글로우",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JosogwNGybTSrH03]{Morning Glow}에 의해 부여됩니다.</p>\n<p>당신은 9미터 반경 내에서 밝은 빛으로, 그리고 추가로 9미터까지는 어두운 빛으로 빛납니다.</p>"
+    },
+    "Effect: Mortalis Coin": {
+      "name": "효과: 모르탈리스 코인",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.bc3orvzCjY28HeQi]{Mortalis Coin}에 의해 부여됩니다.</p>\n<p>당신은 죽음 4가 아닌 죽음 5에서 죽어가는 상태로 사망합니다.</p>"
+    },
+    "Effect: Mudrock Snare": {
+      "name": "효과: 머드락 스네어",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Ap2Styg25sZMx3wn]{Mudrock Snare}에 의해 부여됩니다.</p>\n<p><strong>성공</strong> 당신의 속도에 -5피트 상황 패널티를 받습니다.</p>\n<p><strong>실패</strong> 당신의 속도에 -10피트 상황 패널티를 받습니다.</p>\n<p><strong>치명적 실패</strong> 당신은 속박됩니다.</p>"
+    },
+    "Effect: Mummified Bat": {
+      "name": "효과: 맘미파이드 배트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.UnDjPxFOs6bldlcM]{Mummified Bat}에 의해 부여됩니다.</p>\n<p>당신이 블라인드-파이트(Blind-Fight) 업적을 가지고 있다면, 30피트 범위의 부정확한 에코로케이션을 얻습니다.</p>"
+    },
+    "Effect: Necrotic Cap": {
+      "name": "효과: 네크로틱 캡",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.sUZxDEiwCKiMpN7T]{Necrotic Cap (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.Oxai9zyjeocPNUzO]{Necrotic Cap (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.cDyoBhYeAMkCmjiP]{Necrotic Cap (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.CM3GrNvvZBdPmxe5]{Necrotic Cap (Major)}에 의해 부여됩니다.</p>\n<p>당신의 <em>애시드 그립</em> 주문은 애시드 특성을 잃고 펑거스 특성을 얻으며, 주문이 가하는 모든 산성 피해는 공허 피해가 됩니다.</p>"
+    },
+    "Effect: Nimbus Breath": {
+      "name": "효과: 님버스 브레스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.NLUsrnvQsYK0CYp3]{Nimbus Breath}에 의해 부여됩니다.</p>\n<p>당신은 전기에 대한 저항 5를 얻고, 당신의 지상 속도 또는 20 중 더 높은 값과 같은 비행 속도를 얻습니다.</p>"
+    },
+    "Effect: Nosoi Charm (Diplomacy)": {
+      "name": "효과: 노소이 매력 (외교)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.DdqGs9aSwjSl0XyY]{Nosoi Charm}에 의해 부여됩니다.</p>\n<p>당신은 요청을 하기 위한 외교 기술 판정에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Nosoi Charm (Greater) (Diplomacy)": {
+      "name": "효과: 노소이 차밍 (그레이터) (디플로머시)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.x0FUkGzr6vBZk8m4]{Nosoi Charm (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 요청을 할 때 외교치에 +3 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Nosoi Charm (Lifesense)": {
+      "name": "효과: 노소이 참 (라이프센스)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.DdqGs9aSwjSl0XyY]{Nosoi Charm}에 의해 부여됩니다.</p>\n<p>당신은 30피트 범위의 부정확한 감각으로서 라이프센스를 얻습니다.</p>"
+    },
+    "Effect: Numbing Tonic": {
+      "name": "효과: 넘빙 토닉",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.V35j3JEJMUbuJZNX]{Numbing Tonic (Minor)}, @UUID[Compendium.pf2e.equipment-srd.Item.7D6ENmL3mRfUOMwf]{Numbing Tonic (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.WnJwPbObxmTNvYJy]{Numbing Tonic (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.wuVD3kolQaFAEeBK]{Numbing Tonic (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.EAgWYY1C4mDRfwqo]{Numbing Tonic (Major)}, @UUID[Compendium.pf2e.equipment-srd.Item.7VDf5tQKh01XV6HQ]{Numbing Tonic (True)}에 의해 당신은</p>\n<p>엘릭서를 마시는 순간, 그리고 당신의 각 턴이 시작될 때마다 일시적 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Oath of the Devoted": {
+      "name": "효과: 디보티드의 서약",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.PDEhZSibXvQdVsSq]{Oath of the Devoted}에 의해 부여됩니다.</p>\n<p>당신은 의지 내성 굴림에 +1 상태 보너스를 얻습니다. 무기 또는 무장 스트라이크를 선택하십시오; 당신이 선택한 공격은 추가로 1d6 화염 피해를 입힙니다.</p>"
+    },
+    "Effect: Obsidian Goggles": {
+      "name": "효과: 옵시디언 고글즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.K7VHhUamFz3kTnm5]{Obsidian Goggles}에 의해 당신은 1시간 동안 어둠시야를 얻습니다.</p>\n<p>당신은 1시간 동안 어둠시야를 얻습니다.</p>"
+    },
+    "Effect: Obsidian Goggles (Greater)": {
+      "name": "효과: 흑요석 고글 (상위)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Tej30MsQo8Ek9aA6]{Obsidian Goggles (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 상호 작용(인터랙트) 액션으로 비활성화하거나, 아이템이 더 이상 당신에 의해 착용되지 않을 때까지 어둠 감지(다크비전) 능력을 얻습니다. 어느 것이 먼저인지에 따라 적용됩니다.</p>"
+    },
+    "Effect: Obsidian Goggles (Major)": {
+      "name": "효과: 흑요석 고글 (주요)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.rXXNw6dwVn96giDi]{Obsidian Goggles (Major)}에 의해 부여됩니다.</p>\n<p>당신은 상호작용 액션으로 비활성화하거나, 아이템이 당신에 의해 더 이상 장착되지 않을 때까지, 어느 쪽이 먼저이든, <em>강화된 어둠시야</em>를 얻습니다.</p>"
+    },
+    "Effect: Ochre Fulcrum Lens": {
+      "name": "효과: 오커 풀크럼 렌즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.I2ul8Bzcth7sleow]{Ochre Fulcrum Lens}에 의해 부여됩니다.</p>\n<p>당신은 정신 피해에 대한 저항 10과 감정 효과에 대한 내성 굴림에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Oil of Corpse Restoration": {
+      "name": "효과: 코프스 레스토레이션 오일",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Ja0KlgXV8DsOEkif]{Oil of Corpse Restoration}에 의해 부여됩니다.</p>\n<p>죽은 생명체는 살아있는 생명체처럼 보이는 데에 속임수 판정에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Oil of Keen Edges": {
+      "name": "효과: 오일 오브 킨 에지스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.1DHjXJEdJ7GlGSzg]{Oil of Keen Edges}에 의해 부여됩니다.</p>\n<p>무기가 더 날카롭고 위험해지며, <em>킨</em> 룬의 효과를 얻습니다.</p>"
+    },
+    "Effect: Ommatophoric Mutagen": {
+      "name": "효과: 오마토포릭 뮤터젠",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.I1GapZnTPSlbvX2Z]{Ommatophoric Mutagen}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 사방팔방 시야, 시각 지각 판정에 +2 아이템 보너스, 그리고 당신이 이미 가지고 있지 않다면 저조도 시야를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 시각 특성을 가진 효과에 대한 내성 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Ooze Ammunition": {
+      "name": "효과: 우즈 탄약",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.fSO6mFltCGuSapsi]{Ooze Ammunition (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.SfqfTak3o0cuSqhL]{Ooze Ammunition (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.SEToMRNTXAVVRwyd]{Ooze Ammunition (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.qJaIfdtDrysjcy37]{Ooze Ammunition (Major)}에 의해 당신은 속도에 패널티를 받고 효과가 끝날 때까지 지속적인 산성 피해를 입습니다.</p>\n<p>당신은 효과가 끝날 때까지 속도에 패널티를 받고 지속적인 산성 피해를 입습니다.</p>"
+    },
+    "Effect: Orchestral Brooch": {
+      "name": "효과: 오케스트랄 브로치",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.gM1ZYvJacCdZsWo0]{Orchestral Brooch}에 의해 부여됩니다.</p>\n<p>당신은 퍼포먼스 판정에 +1 상태 보너스를 받습니다. 성공 굴림을 한다면, 대신 대성공을 얻습니다.</p>"
+    },
+    "Effect: Pallesthetic Mutagen": {
+      "name": "효과: 팔레스틱 뮤타겐",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.vLBXDJfFvXAkuCYc]{Pallesthetic Mutagen}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 최대 40피트까지 정확한 에코로케이션, 최대 60피트까지 부정확한 진동 감지 능력을 얻고, 이 감각 중 하나를 사용하는 지각 굴림에 +2 아이템 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 맹목 상태가 됩니다.</p>"
+    },
+    "Effect: Panaceatic Salve": {
+      "name": "효과: 파나세이틱 살브",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.V3qaNCEFpG0dCFl5]{Panaceatic Salve}에 의해 부여됩니다.</p>\n<p>당신은 4d8+10의 임시 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Parry": {
+      "name": "효과: 패리",
+      "description": "<p>당신은 AC에 +1 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Peace in Dreams Tea": {
+      "name": "효과: 평화로운 꿈 차",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Cz0XxRVMma7cllCd]{Peace in Dreams Tea}에 의해 부여됩니다.</p>\n<p>당신은 정신적 효과에 대한 모든 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Perfect Droplet - Armor": {
+      "name": "효과: 퍼펙트 드롭렛 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.OoDp1T4IUUsNnrV6]{Perfect Droplet}, @UUID[Compendium.pf2e.equipment-srd.Item.X1uTEyn6CRXCzgqr]{Perfect Droplet (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.YG6HRwfMVK3jdslZ]{Perfect Droplet (Major)}에 의해 당신은 물 효과와 물속 생물의 공격에 대한 저항력을 얻습니다.</p>\n<p>당신은 물 효과와 물속 생물의 공격에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Phantasmal Doorknob - Armor": {
+      "name": "효과: 판타스멀 도어knob - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.IISieImYvSQ8AqmC]{Phantasmal Doorknob}에 의해 부여됩니다.</p>\n<p>당신은 자물쇠 따기 숙련 검사에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Phantasmal Doorknob - Weapon": {
+      "name": "효과: 판타스멀 도어놉 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.IISieImYvSQ8AqmC]{Phantasmal Doorknob}에 의해 부여됩니다.</p>\n<p>당신이 무기로 스트라이크를 대성공하면, 목표는 다음 턴이 끝날 때까지 눈부심에 걸립니다.</p>"
+    },
+    "Effect: Phoenix Flask": {
+      "name": "효과: 피닉스 플라스크",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.xAoRfG7uxFFjOHoT]{Phoenix Flask}에 의해 당신은</p>\n<p>40피트의 비행 속도를 얻습니다.</p>"
+    },
+    "Effect: Pickled Demon Tongue - Armor": {
+      "name": "효과: 피클드 디먼 텅 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.lu42Up1309MqFya4]{Pickled Demon Tongue}, @UUID[Compendium.pf2e.equipment-srd.Item.HnOWpyuCHwewPZMu]{Pickled Demon Tongue (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.Ug0lQVTJlGKrHQgQ]{Pickled Demon Tongue (Major)}에 의해 당신은 능력을 얻습니다.</p>\n<p>당신은 산성과 악마의 공격에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Pickled Demon Tongue - Weapon": {
+      "name": "효과: 피클드 디먼 텅 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.lu42Up1309MqFya4]{Pickled Demon Tongue}, @UUID[Compendium.pf2e.equipment-srd.Item.HnOWpyuCHwewPZMu]{Pickled Demon Tongue (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.Ug0lQVTJlGKrHQgQ]{Pickled Demon Tongue (Major)}에 의해 부여됩니다.</p>\n<p>무기로 공격 시 추가 산성 피해를 입힙니다.</p>"
+    },
+    "Effect: Poison Fizz": {
+      "name": "효과: 포이즌 피즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.XdHMroAomWalt7I9]{Poison Fizz (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.GDbDpe7W7vOEwnEr]{Poison Fizz (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.D8i3OBVMkxmCCREV]{Poison Fizz (Greater)}에 의해 당신은 독과 석화에 대한 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Polished Demon Horn - Armor": {
+      "name": "효과: 폴리시드 디먼 혼 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.rtfpj9WJHMnMtfuG]{Polished Demon Horn}, @UUID[Compendium.pf2e.equipment-srd.Item.62oxvKUCReo7Iah7]{Polished Demon Horn (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.eRlOMigJjx5jAEKw]{Polished Demon Horn (Major)}에 의해 당신께 주어집니다.</p>\n<p>당신은 언홀리에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Polished Demon Horn - Weapon": {
+      "name": "효과: 폴리쉬드 디먼 혼 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.rtfpj9WJHMnMtfuG]{Polished Demon Horn}, @UUID[Compendium.pf2e.equipment-srd.Item.62oxvKUCReo7Iah7]{Polished Demon Horn (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.eRlOMigJjx5jAEKw]{Polished Demon Horn (Major)}에 의해 당신께 부여되었습니다.</p>\n<p>당신이 선택한 무기로 하는 공격은 추가적인 정신 피해를 입힙니다.</p>"
+    },
+    "Effect: Portable Animal Blind": {
+      "name": "효과: 포터블 애니멀 블라인드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.fOfNBgb6xbu8eA4e]{Portable Animal Blind}에 의해 부여됩니다.</p>\n<p>당신은 은신(Hide)하기 위한 은밀 행동(Stealth) 판정에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Potency Crystal": {
+      "name": "효과: 포텐시 크리스탈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ZCsksGf6NPUKz2Uw]{Potency Crystal}, @UUID[Compendium.pf2e.equipment-srd.Item.aSRUX4WGfalK4A5J]{Potency Crystal (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.9a7nJAErs4dfetFJ]{Potency Crystal (Major)}에 의해 부여됩니다.</p>\n<p>무기는 <em>+1 스트라이킹 무기</em>, <em>+2 그레이터 스트라이킹 무기</em> 또는 <em>+3 메이저 스트라이킹 무기</em>가 됩니다.</p>"
+    },
+    "Effect: Potion of Acid Resistance": {
+      "name": "효과: 산성 저항 물약",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.u1gZaIZHnEfZDc1o]{Potion of Acid Resistance (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.yG6Za8FaG3hpXUGh]{Potion of Acid Resistance (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.vDgDrbSoGuiUIz2R]{Potion of Acid Resistance (Greater)}에 의해 당신은</p>\n<p>산 피해에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Potion of Cold Resistance": {
+      "name": "효과: 콜드 레지스턴스 포션",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.mRs24OwmGPjoIDvO]{Potion of Cold Resistance (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.evdDpgFpiFZt9UyA]{Potion of Cold Resistance (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.VZmUrseCZs9xMaxt]{Potion of Cold Resistance (Greater)}에 의해 당신은 차가움 피해 저항력을 얻습니다.</p>\n<p>당신은 차가움 피해에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Potion of Electricity Resistance": {
+      "name": "효과: 전기 저항 물약",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.cAyxcRSSnfscGyMa]{Potion of Electricity Resistance (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.MHoghQhxbvZRyyaB]{Potion of Electricity Resistance (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.cAyxcRSSnfscGyMa]{Potion of Electricity Resistance (Lesser)}에 의해 당신은 전기 피해에 대한 저항력을 얻습니다.</p>\n<p>당신은 전기 피해에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Potion of Emergency Escape": {
+      "name": "효과: 긴급 탈출 물약",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.jTfacZ4SRuQd7Avh]{Potion of Emergency Escape}에 의해 부여됩니다.</p>\n<p>당신은 도망치는 상태가 되며, 도망치는 동안 모든 속도에 +40피트의 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Potion of Fire Resistance": {
+      "name": "효과: 화염 저항력 물약",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.bDnk4TSzvD5BQmE5]{Potion of Fire Resistance (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.m99u0zXVbyPdK8Mf]{Potion of Fire Resistance (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.1OJxRnPs0viJVrZq]{Potion of Fire Resistance (Greater)}에 의해 당신은</p>\n<p>불 피해 저항력을 얻습니다.</p>"
+    },
+    "Effect: Potion of Flying (Greater)": {
+      "name": "효과: 비행 물약 (상급)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.E999hL7XlAlfZhjK]{Potion of Flying (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 40피트의 비행 속도를 얻습니다.</p>"
+    },
+    "Effect: Potion of Flying (Standard)": {
+      "name": "효과: 플라잉 포션 (스탠다드)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.KlJSw919hpN6V9oK]{Potion of Flying (Standard)}에 의해 부여됩니다.</p>\n<p>당신은 40피트의 플라이 스피드를 얻습니다.</p>"
+    },
+    "Effect: Potion of Minute Echoes": {
+      "name": "효과: 미닛 에코스 포션",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.PTSdJqjiybZDxi4r]{Potion of Minute Echoes}에 의해 부여됩니다.</p>\n<p>당신은 듣기에 대한 지각 판정에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Potion of Sonic Resistance": {
+      "name": "효과: 소닉 저항력 물약",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.eSHX07MqMT4SM1zY]{Potion of Sonic Resistance (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.kbjspHV7kwKKULmd]{Potion of Sonic Resistance (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.GcllrP56XWEsYQ4j]{Potion of Sonic Resistance (Greater)}에 의해 당신은</p>\n<p>소닉 데미지에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Potion of Stable Form": {
+      "name": "효과: 안정된 형태의 물약",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.cEfqMV1lFaT7s0QC]{Potion of Stable Form}에 의해 부여됩니다.</p>\n<p>당신은 변환 효과에 대해 +2 아이템 보너스를, 그리고 변신 효과에 대해서는 +3 아이템 보너스를 얻습니다. 만약 당신이 그 기간 동안 변신 효과에 대한 내성 굴림에서 성공을 굴리면, 대신에 결정적 성공을 얻습니다.</p>"
+    },
+    "Effect: Potion of Stable Form (Greater)": {
+      "name": "효과: 포션 오브 스테이블 폼 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.KOWn72lufGfszQXr]{Potion of Stable Form (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 변환 효과에 대해 +3 아이템 보너스를, 그리고 변신 효과에 대해 +4 아이템 보너스를 얻습니다. 만약 그 기간 동안 변신 효과에 대한 내성 굴림에서 성공하면, 대신에 결정적 성공을 얻습니다.</p>"
+    },
+    "Effect: Potion of Swimming": {
+      "name": "효과: 수영 물약",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Eb4dEuV22QVlMumS]{Potion of Swimming}에 의해 부여됩니다.</p>\n<p>당신은 육지 이동 속도와 같은 수영 속도를 얻습니다.</p>"
+    },
+    "Effect: Potion of Swimming (Greater)": {
+      "name": "효과: 수영 물약 (상급)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.OMJgFmy3jut79Iaj]{Potion of Swimming (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 육지 이동 속도와 같은 수영 속도를 얻습니다.</p>"
+    },
+    "Effect: Predator's Claw": {
+      "name": "효과: 프레데터즈 클로",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.qoM7Va5GqcLLBzgu]{Predator's Claw}에 의해 부여됩니다.</p>\n<p>발동 공격은 무기의 치명타 특수 효과를 얻습니다.</p>"
+    },
+    "Effect: Prepared Camouflage Suit": {
+      "name": "효과: 준비된 카무플라주 슈트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.UXsHBUyx4b0dIPDf]{Camouflage Suit}에 의해 부여됩니다.</p>\n<p>당신은 은신 또는 잠행을 시도하는 동안 스텔스 판정에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Preserved Moonflower": {
+      "name": "효과: 프레저브드 문플라워",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ebpO5kKJBEvbZQrQ]{Preserved Moonflower}에 의해 부여됩니다.</p>\n<p>당신은 공허 효과에 대한 내성 굴림에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Prey Mutagen": {
+      "name": "효과: 프레이 뮤타겐",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.qoyelABKtk9DRSEk]{Prey Mutagen (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.fiBThkOOXEdcTSMf]{Prey Mutagen (Major)}에 의해 부여됩니다.</p>\n<p>당신의 속도에 상태 보너스를 얻고, 타임리 도지(Timely Dodge) 반응을 얻습니다. 동물과 짐승은 당신에 대한 공격 굴림에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Prey Mutagen (Bonus)": {
+      "name": "효과: 프레이 뮤타겐 (보너스)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.60DuFyGQoZhPj4To]{Prey Mutagen (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.JiMljGYKx60DHs8O]{Prey Mutagen (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.qoyelABKtk9DRSEk]{Prey Mutagen (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.fiBThkOOXEdcTSMf]{Prey Mutagen (Major)}의 일시적 효과를 통해 당신은 공격 굴림에 +2 상황 보너스를 얻습니다.</p>\n<p>당신은 공격 굴림에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Prey Mutagen (Lesser)": {
+      "name": "효과: 프레이 뮤타겐 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.60DuFyGQoZhPj4To]{Prey Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p>당신의 속도에 +10 상태 보너스를 얻고 타임리 도지 반응을 얻습니다. 동물과 짐승은 당신에 대한 공격 굴림에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Prey Mutagen (Moderate)": {
+      "name": "효과: 프레이 뮤타겐 (중간)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JiMljGYKx60DHs8O]{Prey Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 속도에 +20 상태 보너스를 얻고 타임리 도지 반응을 얻습니다. 동물과 짐승들은 당신에 대한 공격 굴림에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Private Workshop (Using for Crafting)": {
+      "name": "효과: 프라이빗 워크숍 (제작용)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Mnj6K8aC7itqSIdg]{Private Workshop}에 의해 부여됩니다.</p>\n<p>당신은 제작 아이템에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Proclaim Resilience": {
+      "name": "효과: 회복 선포",
+      "description": "<p>아라즈니의 심장 피석에 의해 부여됩니다</p>\n<p>당신은 당신의 레벨과 같은 양의 공허 피해 저항력을 얻습니다.</p>"
+    },
+    "Effect: Protective Barrier": {
+      "name": "효과: 보호막",
+      "description": "<p>@UUID[Compendium.pf2e.vehicles.Actor.bMgQftCEiSqa1pTk]{Vonthos's Golden Bridge}에 의해 부여됩니다.</p>\n<p>당신은 모든 물리 피해(아다만타인 제외)에 대해 10의 저항력을 얻습니다.</p>"
+    },
+    "Effect: Pucker Pickle": {
+      "name": "효과: 퍼커 피클",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.VnUXcWG4xWGcb7sc]{Pucker Pickle}에 의해 부여됩니다.</p>\n<p>당신은 그것을 맛볼 수 있게 하는 대상에 대한 추가 공격, 예를 들어 턱을 사용하여 그래플링하거나 트리핑하는 공격이나 삼키는 공격에 대해 –2 상황 패널티를 받습니다.</p>"
+    },
+    "Effect: Purple Pepper Powder": {
+      "name": "효과: 퍼플 페퍼 파우더",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.IouqNbVVqt2oJDri]{Purple Pepper Powder}에 의해 부여됩니다.</p>\n<p>당신은 불에 대한 저항 10과 독에 대한 저항 5를 얻습니다.</p>"
+    },
+    "Effect: Qat (Stage 1)": {
+      "name": "효과: 캇 (1단계)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JPGOrHeYxjdnUogT]{Qat}에 의해 부여됩니다.</p>\n<p>그 생물은 반사 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Quicksilver Mutagen (Greater)": {
+      "name": "효과: 퀵실버 뮤타겐 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.eQDTsetadI8u8Kc0]{Quicksilver Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 곡예 능력 검사, 은신 능력 검사, 절도 능력 검사, 반사 내성 굴림, 그리고 민첩성 기반 공격 굴림에 +3 아이템 보너스를 얻습니다. 그리고 당신은 이동 속도에 +15 피트 상태 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 자신의 레벨의 두 배에 해당하는 피해를 입습니다; 변이 물질이 지속되는 동안 어떤 방법으로도 이렇게 손실된 히트 포인트를 회복할 수 없습니다. 당신은 인내 내성 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Quicksilver Mutagen (Lesser)": {
+      "name": "효과: 퀵실버 뮤터젠 (Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.5MKBwpE401uz4kNN]{Quicksilver Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 곡예 능력 검사, 은신 능력 검사, 절도 능력 검사, 반사 내성 굴림, 그리고 민첩성 기반 공격 굴림에 +1 아이템 보너스를 얻습니다. 그리고 당신은 이동 속도에 +5 피트 상태 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 당신의 레벨의 두 배에 해당하는 피해를 입습니다; 변이 물질이 지속되는 동안 어떤 방법으로도 이렇게 손실된 히트 포인트를 회복할 수 없습니다. 당신은 인내 내성 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Quicksilver Mutagen (Major)": {
+      "name": "효과: 퀵실버 뮤타겐 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.4GXzTN6iSDGfYEAi]{Quicksilver Mutagen (Major)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 곡예, 은신, 절도 숙련 검사, 반사 내성 굴림, 그리고 민첩 기반 공격 굴림에 +4 아이템 보너스를 얻습니다. 그리고 당신은 이동 속도에 +20피트 상태 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 당신의 레벨의 두 배에 해당하는 피해를 입습니다; 변이 물질이 지속되는 동안 어떤 방법으로도 이렇게 손실된 체력 점수를 회복할 수 없습니다. 당신은 인내 내성 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Quicksilver Mutagen (Moderate)": {
+      "name": "효과: 퀵실버 뮤터젠 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.n52BSbZsnx4Vmt2p]{Quicksilver Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 곡예 능력검정, 은신 능력검정, 절도 능력검정, 반사 내성 굴림, 그리고 민첩 기반 공격 굴림에 +2 아이템 보너스를 얻습니다. 그리고 당신은 이동 속도에 +10피트 상태 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 자신의 레벨의 두 배에 해당하는 피해를 입습니다; 변이체 효과가 지속되는 동안 어떤 방법으로도 이렇게 손실된 체력 점수를 회복할 수 없습니다. 당신은 인내 내성 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Rainbow Vinegar": {
+      "name": "효과: 레인보우 비네거",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.NVssWHKyKlaRmHog]{Rainbow Vinegar (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.iq7hL6HDsPCPU4pt]{Rainbow Vinegar (Greater)}에 의해 부여됩니다.</p>\n<p>당신의 무장 공격은 추가 산성 피해를 입히고, 당신은 전기에 대한 저항력을 가지고 있습니다. 뱀파이어는 추가 산성 피해를 입습니다.</p>"
+    },
+    "Effect: Rainbow Vinegar Weakness": {
+      "name": "효과: 레인보우 비네거 약점",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.NVssWHKyKlaRmHog]{Rainbow Vinegar (Moderate)}과 @UUID[Compendium.pf2e.equipment-srd.Item.iq7hL6HDsPCPU4pt]{Rainbow Vinegar (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 산성에 대한 약점 5를 얻습니다.</p>"
+    },
+    "Effect: Raise a Shield": {
+      "name": "효과: 실드 올리기",
+      "description": "<p>@UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]{Raise a Shield}에 의해 부여됩니다.</p>\n<p>당신이 방패를 올렸을 때, 당신은 해당 방패의 명시된 상황 보너스를 AC에 얻습니다.</p>"
+    },
+    "Effect: Raise Jar": {
+      "name": "효과: 레이즈 저",
+      "description": "<p>아라즈니의 심장 블러드스톤에 의해 부여됨</p>\n<p>당신은 AC에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Red-Rib Gill Mask (Greater)": {
+      "name": "효과: 레드-립 길 마스크 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Wyh13xRaOL57fve7]{Red-Rib Gill Mask (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 흡입 효과에 대한 인내 내성 굴림에 +3 아이템 보너스를 얻습니다. 이 보너스는 테르와 호수 주변에서 데드 맨즈 브레스로 알려진 치명적인 화산 가스에 대해 +4로 증가합니다.</p>"
+    },
+    "Effect: Red-Rib Gill Mask (Lesser)": {
+      "name": "효과: 레드-립 길 마스크 (소형)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.x4QLLKEShYqUjCCn]{Red-Rib Gill Mask (Lesser)}에 의해 부여됩니다.</p>\n<p>당신은 흡입 효과에 대한 인내 내성 굴림에 +1 아이템 보너스를 얻습니다. 이 보너스는 테르와 호수 근처에서 데드 맨즈 브레스로 알려진 치명적인 화산 가스에 대해 +2로 증가합니다.</p>"
+    },
+    "Effect: Red-Rib Gill Mask (Moderate)": {
+      "name": "효과: 레드-립 길 마스크 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.J7ZoRlhqiP6988t2]{Red-Rib Gill Mask (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 흡입 효과에 대한 인내 내성 굴림에 +2 아이템 보너스를 얻습니다. 이 보너스는 테르와 호수 주변에서 데드 맨즈 브레스로 알려진 치명적인 화산 가스에 대해 +3으로 증가합니다.</p>"
+    },
+    "Effect: Resolute Mind Wrap": {
+      "name": "효과: 레졸루트 마인드 랩",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.azZNewz2sEWwZwtZ]{Resolute Mind Wrap}에 의해 부여됩니다.</p>\n<p>당신은 정신 피해에 대한 저항 10을 얻습니다.</p>"
+    },
+    "Effect: Resonating Fork - Armor": {
+      "name": "효과: 레조네이팅 포크 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.TVpEf9gMFUuwfGoU]{Resonating Fork}, @UUID[Compendium.pf2e.equipment-srd.Item.WvrPq0UGEX3wJg4a]{Resonating Fork (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.Shbg6XeBx94DXbcd]{Resonating Fork (Major)}에 의해 당신은</p>\n<p>소닉 데미지에 대한 저항력과 청각 또는 소닉 특성을 가진 효과에 대한 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Resurrection Tea": {
+      "name": "효과: 부활차",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.qyjaueXduvCUeDbp]{Resurrection Tea}에 의해 부여됩니다.</p>\n<p>회복 확인의 DC를 1 감소시킵니다.</p>"
+    },
+    "Effect: Rhino Hide Brooch": {
+      "name": "효과: 라이노 하이드 브로치",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.D2h1E7fXsQfyjFcv]{Rhino Hide Brooch}에 의해 부여됩니다.</p>\n<p>이 부적은 당신에게 물리 피해에 대한 저항 5를 부여합니다.</p>"
+    },
+    "Effect: Rhino Shot": {
+      "name": "효과: 라이노 샷",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.LLkl4mTbV9q4iDHJ]{Rhino Shot}에 의해 부여됩니다.</p>\n<p>성공적인 스트라이크 시, 당신의 공격은 추가로 2d6 힘 피해를 입히고, 목표는 DC 19 인내 내성 굴림에 성공해야만 넘어지지 않습니다. <em>라이노 샷</em>으로 적중이 치명적인 성공이었다면, 목표는 내성 굴림에서 치명적인 성공을 거두지 않는 한 넘어집니다.</p>"
+    },
+    "Effect: Rime Crystal - Armor": {
+      "name": "효과: 라임 크리스털 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.dmsdzOxdykeWXUHr]{Rime Crystal}, @UUID[Compendium.pf2e.equipment-srd.Item.neanlQgRTZQh2zy7]{Rime Crystal (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.p6tS5mzfGkQJLUDp]{Rime Crystal (Major)}에 의해 당신은</p>\n<p>냉기에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Rime Crystal - Weapon": {
+      "name": "효과: 라임 크리스탈 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.dmsdzOxdykeWXUHr]{Rime Crystal}, @UUID[Compendium.pf2e.equipment-srd.Item.neanlQgRTZQh2zy7]{Rime Crystal (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.p6tS5mzfGkQJLUDp]{Rime Crystal (Major)}에 의해 부여됩니다.</p>\n<p>당신의 무기 공격은 추가적인 콜드 데미지를 입힙니다.</p>"
+    },
+    "Effect: Rolling Flight": {
+      "name": "효과: 롤링 플라이트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.srCxiFF44RcuRMHD]{Heavenly Rolling Flames}에 의해 부여됩니다.</p>\n<p>당신은 20피트의 비행 속도를 얻습니다.</p>"
+    },
+    "Effect: Root Boots": {
+      "name": "효과: 루트 부츠",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.kQiO32jZmuxAiqGV]{Root Boots}에 의해 부여됩니다.</p>\n<p>당신은 나무와 다른 나무 표면에서 20피트의 등반 속도를 얻습니다.</p>"
+    },
+    "Effect: Rovagug's Mud": {
+      "name": "효과: 로바구그의 진흙",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.pXV4ov0DJHzIHSEW]{Rovagug's Mud}, @UUID[Compendium.pf2e.equipment-srd.Item.aMbJl8eTV3Ri5O6e]{Rovagug's Mud (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 무력화 효과에 대한 내성 굴림에 +2 아이템 보너스를 가지고 있습니다.</p>"
+    },
+    "Effect: Rowan Rifle (Cold)": {
+      "name": "효과: 로완 라이플 (콜드)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.nz8Cx3SiRWANdlJE]{Rowan Rifle}에 의해 부여됩니다.</p>\n<p><em>로완 라이플</em>의 피해 유형이 현재 피해 유형에서 냉기로 변경됩니다.</p>"
+    },
+    "Effect: Rowan Rifle (Electricity)": {
+      "name": "효과: 로완 라이플 (전기)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.nz8Cx3SiRWANdlJE]{Rowan Rifle}에 의해 부여됩니다.</p>\n<p><em>로완 라이플</em>의 데미지 타입이 현재 데미지 타입에서 전기로 변경됩니다.</p>"
+    },
+    "Effect: Rowan Rifle (Sonic)": {
+      "name": "효과: 로완 라이플 (소닉)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.nz8Cx3SiRWANdlJE]{Rowan Rifle}에 의해 부여됩니다.</p>\n<p><em>로완 라이플</em>의 데미지 타입이 현재 데미지 타입에서 소닉으로 변경됩니다.</p>"
+    },
+    "Effect: Sage's Lash (Turquoise)": {
+      "name": "효과: 세이지의 채찍 (터콰이즈)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.aQEQkwuAabZG8wY1]{Sage's Lash}에 의해 당신께 주어집니다.</p>\n<p>당신은 다음 의지 내성 굴림에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Sairazul Blue": {
+      "name": "효과: 사이라줄 블루",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.BYl1jXHOpDJVYsvY]{Sairazul Blue}에 의해 부여됩니다.</p>\n<p>당신은 독 피해와 공허 피해에 대한 저항 5를 얻습니다.</p>"
+    },
+    "Effect: Sakura's Sprig": {
+      "name": "효과: 사쿠라의 잔가지",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.4l3NyEhXW6nct5cN]{Sakura's Sprig}에 의해 부여됩니다.</p>\n<p>장착된 무기는 신성 특성을 얻습니다.</p>"
+    },
+    "Effect: Sanguine Fang - Armor": {
+      "name": "효과: 샌가인 팡 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.j392AMbPfkcRbCw6]{Sanguine Fang}, @UUID[Compendium.pf2e.equipment-srd.Item.fdntl5OOhtYIPSBi]{Sanguine Fang (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.0AxBSojJ2XhcqMvJ]{Sanguine Fang (Major)}에 의해 당신은 지속적인 출혈 피해에 대한 저항력과 공허 특성을 가진 효과에 대한 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Sanguine Fang - Weapon": {
+      "name": "효과: 샌가인 팡 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.j392AMbPfkcRbCw6]{Sanguine Fang}, @UUID[Compendium.pf2e.equipment-srd.Item.fdntl5OOhtYIPSBi]{Sanguine Fang (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.0AxBSojJ2XhcqMvJ]{Sanguine Fang (Major)}에 의해 부여됩니다.</p>\n<p>당신이 <em>팡</em>을 활성화하여 네크로맨시 주문을 시전한 후, 무기로 하는 당신의 공격은 다음 턴이 끝날 때까지 지속적인 출혈 피해를 입힙니다.</p>"
+    },
+    "Effect: Sanguine Mutagen (Greater)": {
+      "name": "효과: 샌가인 뮤타젠 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.se2g3LNsmQSsRv9w]{Sanguine Mutagen (Greater)}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 인내 내성 굴림과 반사 내성 굴림에 +3 아이템 보너스를 얻습니다. 질병 특성, 독 특성이 있거나 피로 상태를 부여하는 효과에 대한 내성 굴림을 시도할 때 이 보너스는 +4로 향상됩니다.</p>\n<p>질병, 독 또는 피로 상태를 부여하는 효과에 대한 내성 굴림에서 성공을 굴리면 대신 크리티컬 성공을 얻습니다.</p>\n<p><strong>단점</strong> 당신이 관통 또는 베기 피해를 받을 때마다 1d6 출혈을 입습니다.</p>"
+    },
+    "Effect: Sanguine Mutagen (Lesser)": {
+      "name": "효과: 샌가인 뮤터젠 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.VIHsu1q3078gdQut]{Sanguine Mutagen (Lesser)}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 인내 내성 굴림과 반사 내성 굴림에 +1 아이템 보너스를 얻습니다. 질병 특성이나 독 특성이 있는 효과, 또는 당신에게 피로 상태를 부여하는 효과에 대한 내성 굴림을 시도할 때 이 보너스는 +2로 향상됩니다.</p>\n<p><strong>단점</strong> 당신이 관통 또는 베기 피해를 입을 때마다 1d6 출혈 피해를 입습니다.</p>"
+    },
+    "Effect: Sanguine Mutagen (Major)": {
+      "name": "효과: 샌가인 뮤타겐 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.vmwrU3lz1HFfadAS]{Sanguine Mutagen (Major)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 인내 내성 굴림과 반사 내성 굴림에 +4 아이템 보너스를 얻습니다. 질병, 독, 또는 당신에게 피로 상태를 부여하는 효과에 대한 내성 굴림에서 성공을 굴리면, 대신 치명적인 성공을 얻게 되며, 그러한 내성 굴림에서의 치명적인 실패는 실패 대신 실패가 됩니다.</p>\n<p><strong>단점</strong> 당신이 관통 또는 베는 피해를 입을 때마다, 1d6 출혈 피해를 입습니다.</p>"
+    },
+    "Effect: Sanguine Mutagen (Moderate)": {
+      "name": "효과: 샌가인 뮤터젠 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.pP7RqEkNYg5ayWqx]{Sanguine Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 인내 내성 굴림과 반사 내성 굴림에 +2 아이템 보너스를 얻습니다. 질병 특성, 독 특성이 있는 효과 또는 피로 상태를 부여하는 효과에 대한 내성 굴림을 시도할 때 이 보너스는 +3으로 향상됩니다.</p>\n<p><strong>단점</strong> 당신이 관통 또는 베기 피해를 입을 때마다, 1d6 출혈 피해를 입습니다.</p>"
+    },
+    "Effect: Sarkorian God-Caller Garb": {
+      "name": "효과: 사르코리안 갓-콜러 가브",
+      "description": "<p>당신으로부터 30피트 이내에 있는 동안, 소환된 생명체는 AC에 +1 상태 보너스를 얻습니다. 만약 그것이 당신으로부터 30피트 이상 멀어지면, 시길이 사라지고 생명체는 AC 상태 보너스를 잃습니다. 이후에 다시 당신으로부터 30피트 이내로 들어오더라도 마찬가지입니다.</p>"
+    },
+    "Effect: Sash of Books (Bonus)": {
+      "name": "효과: 사쉬 오브 붑스 (보너스)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.bQ68sHmEATwgmiyN]{Sash of Books}에 의해 부여됩니다.</p>\n<p>당신은 표식이 된 생명체에 대한 공격 굴림에 +1 상황 보너스를 얻고, 표식이 된 생명체의 공격 및 효과에 대한 당신의 AC와 내성 굴림에도 +1 상황 보너스를 얻습니다. 만약 당신이 지식 상기 숙련 검사에 대하여 치명적인 성공을 거두었다면, 이 보너스는 +2로 증가합니다.</p>"
+    },
+    "Effect: Sash of Books (Recall Knowledge)": {
+      "name": "효과: 책의 허리띠 (지식 상기)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.bQ68sHmEATwgmiyN]{Sash of Books}에 의해 부여됩니다.</p>\n<p>당신은 두 번 굴리고 리콜 노レッジ 확인에서 더 높은 결과를 취합니다. 이 확인에서 대실패를 굴리면 실패 대신 얻게 됩니다.</p>"
+    },
+    "Effect: Saurian Spike - Armor": {
+      "name": "효과: 사우리안 스파이크 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.nx5Y4GybdZqf9rIf]{Saurian Spike}, @UUID[Compendium.pf2e.equipment-srd.Item.u7NB1e1rUqYoQ0nz]{Saurian Spike (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.0Tu55QMhTXAijFvl]{Saurian Spike (Major)}에 의해 당신께 주어집니다.</p>\n<p>당신은 불확실한 냄새 감지 또는 정확한 냄새 감지(<em>major</em>)를 얻습니다.</p>"
+    },
+    "Effect: Sea Touch Elixir (Greater)": {
+      "name": "효과: 시 터치 엘릭서 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.i4D4B7tpYv9vMvQY]{Sea Touch Elixir (Greater)}에 의해 당신은 20피트의 수영 속도를 얻습니다.</p>\n<p>당신은 20피트의 수영 속도를 얻습니다.</p>"
+    },
+    "Effect: Sea Touch Elixir (Lesser)": {
+      "name": "효과: 씨 터치 엘릭서 (Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.zcJgT5RS8p2MEbOB]{Sea Touch Elixir (Lesser)}에 의해 부여됩니다.</p>\n<p>당신은 20피트의 수영 속도를 얻습니다.</p>"
+    },
+    "Effect: Sea Touch Elixir (Moderate)": {
+      "name": "효과: 씨 터치 엘릭서 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.2hc1EEcb3pfr7Hac]{Sea Touch Elixir (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 20피트의 수영 속도를 얻습니다.</p>"
+    },
+    "Effect: Searing Blade (Greater)": {
+      "name": "효과: 시어링 블레이드 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.pvxRcuBexbFawjCg]{Searing Blade (Greater)}에 의해 부여됩니다.</p>\n<p>당신과 당신의 아군이 해당 지역 안에서 하는 모든 무기 및 무장 공격은 <em>플레임밍</em> 속성 룬의 효과를 얻습니다.</p>"
+    },
+    "Effect: Sense-Dulling Hood (Greater)": {
+      "name": "효과: 센스-덜링 후드 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.KQfx4Ae8c3iMlwXM]{Sense-Dulling Hood (Greater)}에 의해 부여됩니다.</p>\n<p>이 가면은 당신에게 청각, 후각, 시각 효과에 대한 내성 굴림에 +4 아이템 보너스를 부여합니다. 또한 이 가면은 지각을 사용하는 판정과 굴림에 –1 패널티를 부과합니다.</p>"
+    },
+    "Effect: Sense-Dulling Hood (Lesser)": {
+      "name": "효과: 센스-덜링 후드 (Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.YoYqtOXWo5reE2ql]{Sense-Dulling Hood (Lesser)}에 의해 부여됩니다.</p>\n<p>이 가면은 당신에게 청각, 후각, 시각 효과에 대한 내성 굴림에 +2 아이템 보너스를 부여합니다. 또한 이 가면은 인지력을 사용하는 판정과 굴림에 –1 패널티를 부과합니다.</p>"
+    },
+    "Effect: Serene Mutagen (Greater)": {
+      "name": "효과: 세린 뮤타겐 (강화)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Yej7lnnDYDZybGqo]{Serene Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 의지 내성 굴림과 인지, 의학, 자연, 종교, 그리고 생존 숙련 검사에 +3 보너스를 얻습니다. 정신 효과에 대한 의지 내성 굴림을 시도할 때 이 보너스는 +4로 향상됩니다. 정신 효과에 대한 의지 내성 굴림에서 성공을 굴리면 대신 결정적 성공을 얻습니다.</p>\n<p><strong>단점</strong> 당신은 공격 굴림과 공격 주문의 내성 DC에 -1 패널티를 받고, 모든 무기 및 무술 공격 피해에 주사위 피해당 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Serene Mutagen (Lesser)": {
+      "name": "효과: 세린 뮤타젠 (Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.bOPQDM54W8ZDoULY]{Serene Mutagen (Lesser)}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 의지 내성 굴림과 지각, 의술, 자연, 종교, 그리고 생존 숙련 검사에 +1 보너스를 얻습니다. 당신이 정신적 효과에 대한 의지 내성 굴림을 시도할 때 이 보너스는 +2로 향상됩니다.</p>\n<p><strong>단점</strong> 당신은 공격 굴림과 공격 주문의 내성 DC에 -1 패널티를 받고, 모든 무기 및 무장 공격 피해에 주사위당 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Serene Mutagen (Major)": {
+      "name": "효과: 세린 뮤터젠 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ccrdVliTNBh2mNZf]{Serene Mutagen (Major)}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 의지 내성 굴림과 지각, 의술, 자연, 종교, 생존 숙련 검사에 +4 보너스를 얻습니다. 정신 효과에 대한 의지 내성 굴림에서 성공을 굴리면 대신에 결정적 성공을 얻고, 정신 효과에 대한 의지 내성 굴림에서 결정적 실패는 실패가 됩니다.</p>\n<p><strong>단점</strong> 당신은 공격 굴림과 공격 주문의 내성 DC에 -1 패널티를 받고, 모든 무기 및 무장 공격 피해에 주사위 피해당 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Serene Mutagen (Moderate)": {
+      "name": "효과: 세린 뮤터젠 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.XEYveTvLH1lJ4jeI]{Serene Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 의지 내성 굴림과 인지, 의학, 자연, 종교, 그리고 생존 숙련 검사에 +2 보너스를 얻습니다. 정신적 효과에 대한 의지 내성 굴림을 시도할 때 이 보너스는 +3으로 향상됩니다.</p>\n<p>당신은 공격 굴림과 공격 주문의 내성치에 -1 패널티를 받으며, 모든 무기 및 무장 공격 피해에 주사위당 -1 패널티를 받습니다.</p>"
+    },
+    "Effect: Server's Stew": {
+      "name": "효과: 서버의 스튜",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.zFYyegCfUlyCJhgu]{Server's Stew}에 의해 부여됩니다.</p>\n<p>당신은 서버의 스튜에 의해 부여된 언어로 행하는 외교 능력 검사에 +2 아이템 보너스를 받습니다.</p>"
+    },
+    "Effect: Seventh Prism (Pentagonal)": {
+      "name": "효과: 세븐스 프리즘 (펜타고날)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.B3zoAu9NpUEHGe22]{Seventh Prism (Pentagonal)}에 의해 부여됩니다.</p>\n<p>@UUID[Compendium.pf2e.spells-srd.Item.UKsIOWmMx4hSpafl]{Dizzying Colors}의 영역이 20피트 콘으로 증가합니다.</p>"
+    },
+    "Effect: Shadowpiercer": {
+      "name": "효과: 섀도우피어서",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ehvsr3D5tgdyUF4E]{Shadowpiercer}에 의해 부여됩니다.</p>\n<p>당신은 어둠과 그림자 효과에 대한 내성 굴림에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Sharkskin Robe": {
+      "name": "효과: 샤크스킨 로브",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.qFgIZQhyn5JOYkKr]{Sharkskin Robe}에 의해 부여됩니다.</p>\n<p>당신의 무기 또는 무장 공격은 <em>언더워터</em> 무기 속성 룬의 효과를 얻습니다.</p>"
+    },
+    "Effect: Shed Cinders": {
+      "name": "효과: 쉿 킨더스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.99B5wzvBZ8jZ4Ie7]{Cindergrass Cloak}에 의해 부여됩니다.</p>\n<p>망토의 화염 저항이 발동 효과에 대해 15로 증가합니다. 당신의 지속적인 화염 피해 제거를 위한 고정 확인 굴림은 15 대신 10이 됩니다.</p>"
+    },
+    "Effect: Shield of the Unified Legion": {
+      "name": "효과: 통합 레기온의 방패",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.PlYr5AhYwHIztMw2]{Shield of the Unified Legion}에 의해 부여됩니다.</p>\n<p>당신은 방패 사용자로부터 30피트 이내에 있고 그들이 방패를 들고 있는 동안 AC에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Shielding Salve": {
+      "name": "효과: 실딩 살브",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.EWujUs3YmlBu2jhm]{Shielding Salve}에 의해 부여됩니다.</p>\n<p>당신은 AC에 +1 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Shift Scales": {
+      "name": "효과: 시프트 스케일즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.LTQDnvgZtY495c3x]{Zetogeki Hide Armor}에 의해 부여됩니다.</p>\n<p>당신은 둔기, 관통, 베기 피해에 대해 5의 저항력을 얻지만, 당신의 이동 속도는 10피트(최소 5피트) 감소합니다.</p>"
+    },
+    "Effect: Shimmering Dust": {
+      "name": "효과: 쉬머링 더스트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ZiD7kDxU4KEkO6XH]{Shimmering Dust}에 의해 부여됩니다.</p>\n<p>생물체는 20피트 반경 내에 희미한 빛을 발하고 은신에 –2 상황 패널티를 받습니다.</p>"
+    },
+    "Effect: Shining Ammunition": {
+      "name": "효과: 샤이닝 애뮤니션",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.NI7twU2G6UCDmvCO]{Shining Ammunition}에 의해 부여됩니다.</p>\n<p>당신은 20피트 반경에 밝은 빛을, 그리고 그 다음 20피트까지 희미한 빛을 발합니다.</p>"
+    },
+    "Effect: Shining Symbol": {
+      "name": "효과: 샤이닝 심볼",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.YVtXlsEWb3NIkDyy]{Shining Symbol}, @UUID[Compendium.pf2e.equipment-srd.Item.M7c4uXraP05HYNXs]{Shining Symbol (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.etnis6HOeGZEbScD]{Shining Symbol (Major)}에 의해 부여됩니다.</p>\n<p>빛 속에 있는 생명체는 속임수 및 잠입 판정에 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: Shining Symbol Weakness": {
+      "name": "효과: 샤이닝 심볼 약점",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.YVtXlsEWb3NIkDyy]{Shining Symbol}, @UUID[Compendium.pf2e.equipment-srd.Item.M7c4uXraP05HYNXs]{Shining Symbol (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.etnis6HOeGZEbScD]{Shining Symbol (Major)}에 의해 부여됩니다.</p>\n<p>당신의 적들은 영혼 피해에 대한 약점을 얻습니다.</p>"
+    },
+    "Effect: Shrine Inarizushi": {
+      "name": "효과: 신사 이나리주시",
+      "description": "<p>탐험 모드일 때는 +1 상태 보너스를 받는 별도의 서치 활동 능력치 검사를 진행하십시오; 이는 당신의 스피드에 영향을 미치지 않습니다. 검사에 성공하면 여우가 나타나 최대한으로 이 발견을 알려주지만, 말을 할 수는 없습니다.</p>"
+    },
+    "Effect: Shrinking Potion": {
+      "name": "효과: 슈링킹 포션",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.FqbDpztscJfM4XMe]{Shrinking Potion}에 의해 부여됩니다.</p>\n<p>당신은 <em>슈링크</em> 주문의 효과를 얻습니다.</p>"
+    },
+    "Effect: Shrinking Potion (Greater)": {
+      "name": "효과: 축소 포션 (강력)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.5xsfj30uXMKINxnk]{Shrinking Potion (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 4랭크 <em>슈링크</em> 주문의 효과와 축소된 상태에서 은신 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Silkspinner's Shield (Animated Strike)": {
+      "name": "효과: 실크스피너의 방패 (애니메이티드 스트라이크)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.SJaFNXiHGILhwEMk]{Silkspinner's Shield}에 의해 부여됩니다.</p>\n<p>당신의 속도에 -10피트 상황 패널티를 받습니다.</p>"
+    },
+    "Effect: Silkspinner's Shield (Climb)": {
+      "name": "효과: 실크스피너의 방패 (클라임)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.SJaFNXiHGILhwEMk]{Silkspinner's Shield}에 의해 부여됩니다.</p>\n<p>당신은 25피트의 등반 속도를 얻습니다.</p>"
+    },
+    "Effect: Silver Crescent": {
+      "name": "효과: 실버 크레센트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Pjxotvrj7uXe92Qc]{Silver Crescent (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.2wV9SHAWbC4rUlcc]{Silver Crescent (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.XWO5pMQcYNybqWzf]{Silver Crescent (Greater)}에 의해 당신께 주어집니다.</p>\n<p>당신은 횃불처럼 시원하고 밝은 빛을 발하며, 후각 효과에 대한 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Silver Salve": {
+      "name": "효과: 실버 살브",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8fbsKEEbZ0CfBMIr]{Silver Salve}에 의해 부여됩니다.</p>\n<p>무기 또는 탄약이 주는 모든 물리 피해에 대해 일반 재료(예: 냉철) 대신 은으로 취급됩니다.</p>"
+    },
+    "Effect: Silvertongue Mutagen (Greater)": {
+      "name": "효과: 실버텅 뮤타겐 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.uggpIk6vguWFXVli]{Silvertongue Mutagen (Greater)}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 속임수, 외교술, 위협, 그리고 연기 숙련 검사에 +3 아이템 보너스를 얻습니다. 이들 기술 중 어떤 것이든 치명적인 실패는 실패로 변경됩니다.</p>\n<p><strong>단점</strong> 당신은 비전, 제작, 전승, 신비, 그리고 사회 숙련 검사에 -2 아이템 패널티를 받습니다. 당신이 숙련된 하나의 숙련을 선택하십시오; 그 기간 동안, 당신은 그 숙련에 숙련되지 않게 됩니다. 지식 상기의 모든 실패는 치명적인 실패가 됩니다.</p>"
+    },
+    "Effect: Silvertongue Mutagen (Lesser)": {
+      "name": "효과: 실버텅 뮤타겐 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.YwRAHWW8yUI07sy9]{Silvertongue Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 속임수, 외교, 위협, 그리고 공연 숙련 검사에 +1 아이템 보너스를 얻습니다. 이러한 숙련 중 어떤 것으로든 치명적인 실패를 할 경우 실패로 변경됩니다.</p>\n<p><strong>단점</strong> 당신은 비전, 제작, 전승, 신비, 그리고 사회 숙련 검사에 -2 아이템 패널티를 받습니다. 당신이 숙련된 숙련 하나를 선택하십시오; 지속 시간 동안, 당신은 그 숙련에 대해 숙련되지 않게 됩니다. 지식 상기에서 당신의 모든 실패는 치명적인 실패가 됩니다.</p>"
+    },
+    "Effect: Silvertongue Mutagen (Major)": {
+      "name": "효과: 실버텅 뮤타젠 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.uD5vRYVOXNJ53sEE]{Silvertongue Mutagen (Major)}에 의해 부여됨</p>\n<p><strong>혜택</strong> 당신은 속임수, 외교, 위협, 그리고 연기 숙련 검사에 +4 아이템 보너스를 얻습니다. 이러한 기술 중 어떤 것으로든 치명적인 실패는 실패로 대체됩니다.</p>\n<p><strong>단점</strong> 당신은 비전, 제작, 전승, 신비, 그리고 사회 숙련 검사에 -2 아이템 패널티를 받습니다. 당신이 숙련된 하나의 기술을 선택하십시오; 그 기간 동안, 당신은 그 기술에 대해 숙련되지 않게 됩니다. 지식 상기에서 당신의 모든 실패는 치명적인 실패가 됩니다.</p>"
+    },
+    "Effect: Silvertongue Mutagen (Moderate)": {
+      "name": "효과: 실버텅 뮤터젠 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.lIExlUFBKvBue8hb]{Silvertongue Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 속임수, 외교술, 위협, 그리고 연기 숙련 검사에 +2 아이템 보너스를 얻습니다. 이러한 기술 중 어떤 것으로든 치명적인 실패는 실패로 바뀝니다.</p>\n<p><strong>단점</strong> 당신은 비전, 제작, 전승, 신비, 그리고 사회 숙련 검사에 -2 아이템 패널티를 받습니다. 당신이 숙련된 하나의 기술을 선택하십시오; 지속 시간 동안, 당신은 그 기술에 숙련되지 않게 됩니다. 지식 상기의 모든 실패는 치명적인 실패가 됩니다.</p>"
+    },
+    "Effect: Sip of Justice": {
+      "name": "효과: 저스티스의 한 모금",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.OIs6WPuCRh2UJTOe]{Chalice of Justice}에 의해 부여됩니다.</p>\n<p>당신이 <em>찰리스 오브 저스티스</em>로 불경스러운 생물을 치명타로 공격할 때마다, 그 생물은 2d6 지속적인 스피릿 피해를 입고, 1라운드 동안 속도가 1 감소합니다. 지속적인 스피릿 피해에는 신성 속성이 있습니다.</p>"
+    },
+    "Effect: Sixfingers Elixir (Greater)": {
+      "name": "효과: 식스핑거스 엘릭서 (강력한)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.6odVabL0WL2H89Ic]{Sixfingers Elixir (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 무장 해제를 막기 위한 반사 내성 굴림에 +2 아이템 보너스와 20피트의 등반 속도를 얻습니다.</p>"
+    },
+    "Effect: Sixfingers Elixir (Lesser)": {
+      "name": "효과: 식스핑거스 엘릭서 (Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JAOWw2GhupaYoYg9]{Sixfingers Elixir (Lesser)}에 의해 부여됩니다.</p>\n<p>당신은 무장 해제를 막기 위한 반사 내성 굴림에 +2 아이템 보너스와 20피트의 등반 속도를 얻습니다.</p>"
+    },
+    "Effect: Sixfingers Elixir (Moderate)": {
+      "name": "효과: 식스핑거스 엘릭서 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ieVRS2BjiWqauly6]{Sixfingers Elixir (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 무장 해제를 막기 위한 반사 내성 굴림에 +2 아이템 보너스와 20피트의 등반 속도를 얻습니다.</p>"
+    },
+    "Effect: Skeptic's Elixir (Greater)": {
+      "name": "효과: 회의론자의 영약 (강력한)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.SjbenbdzV4rgGxZP]{Skeptic's Elixir (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 거짓말인지 서면으로 된 속임수인지에 관계없이, 허위를 알아채는 데 대한 지각 능력 검사와 지각 DC에 +3 아이템 보너스를 얻습니다. 당신은 이와 동일한 아이템 보너스를 의지 내성 굴림에 얻습니다.</p>"
+    },
+    "Effect: Skeptic's Elixir (Lesser)": {
+      "name": "효과: 스켑틱스 엘릭서 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.eHVZBmtzEcnsHSk8]{Skeptic's Elixir (Lesser)}에 의해 부여됩니다.</p>\n<p>당신은 거짓말인지 서면으로 된 속임수인지에 관계없이, 허위를 감지하는 지각 능력 검사 및 지각 DC에 +1 아이템 보너스를 얻습니다. 당신은 이와 같은 아이템 보너스를 의지 내성 굴림에도 얻습니다.</p>"
+    },
+    "Effect: Skeptic's Elixir (Moderate)": {
+      "name": "효과: 스켑틱스 엘릭서 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.xGmX6Vuuhivyal8v]{Skeptic's Elixir (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 거짓말이든 글로 쓴 속임수든, 허위를 알아채는 데 대한 지각 능력치 판정과 지각 난이도에 +2 아이템 보너스를 얻습니다. 당신은 이와 동일한 아이템 보너스를 의지 내성 굴림에도 얻습니다.</p>"
+    },
+    "Effect: Skinstitch Salve": {
+      "name": "효과: 스킨스티치 연고",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.FgAPV0iLE6R1QMJ5]{Skinstitch Salve}에 의해 부여됩니다.</p>\n<p>당신은 약초술 판정에 +2 아이템 보너스를 얻습니다. 그리고 치료의 손길 또는 전투 의술에서 성공 굴림을 한다면 대신 극적인 성공을 얻습니다.</p>"
+    },
+    "Effect: Skyfang Crystal": {
+      "name": "효과: 스카이팡 크리스털",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.vSctvZGoJYTHjpZV]{Skyfang Crystal}에 의해 부여됩니다.</p>\n<p>당신은 표식이 된 생명체가 생성하는 효과에 대한 내성 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Skyrider Sword": {
+      "name": "효과: 스카이라이더 소드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.SatFUtE2UaPvC394]{Skyrider Sword}, @UUID[Compendium.pf2e.equipment-srd.Item.y49tnkAWZqJRMkba]{Skyrider Sword (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 25피트의 비행 속도 또는 당신의 지상 속도 중 더 느린 속도를 얻습니다.</p>"
+    },
+    "Effect: Slime Whip": {
+      "name": "효과: 슬라임 휩",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.USzeQdvsXz6P5L2k]{Slime Whip}에 의해 부여됩니다.</p>\n<p>슬라임 채찍은 베는 피해 대신 산 피해를 입힙니다. 공격이 지속 피해를 입히는 경우, 지속 피해 또한 일반적인 종류 대신 산 피해가 됩니다.</p>"
+    },
+    "Effect: Slippers of Spider Climbing": {
+      "name": "효과: 스리퍼스 오브 스파이더 클라이밍",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.skBa6D1uxb0b2USn]{Slippers of Spider Climbing}에 의해 부여됩니다.</p>\n<p>당신은 20피트 등반 속도를 얻습니다.</p>"
+    },
+    "Effect: Smoky Protections": {
+      "name": "효과: 스모키 프로텍션스",
+      "description": "<p>부여됨</p>\n<p>당신은 당신의 지상 속도와 같은 비행 속도를 얻습니다.</p>"
+    },
+    "Effect: Sneaky Key": {
+      "name": "효과: 스니키 키",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.1v1OK06JxdXn6MP4]{Sneaky Key}에 의해 부여됩니다.</p>\n<p>당신은 자물쇠 따기 능력치 검정에 +1 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Soothing Toddy": {
+      "name": "효과: 수딩 토디",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Jgv2PAJic7LPoGQx]{Soothing Toddy}에 의해 부여됩니다.</p>\n<p>당신은 감정 효과에 대한 내성 굴림과 차를 만들 때 섞인 술에 의해 결정되는 특성을 가진 효과에 대한 내성 굴림에 +1 아이템 보너스를 얻습니다. 아마레토는 청각, 리몬첼로는 후각, 위스키는 시각입니다.</p>"
+    },
+    "Effect: Soothing Tonic": {
+      "name": "효과: 수딩 토닉",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.zA2UPGE9RYwlLPZJ]{Soothing Tonic (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.RM7WoJYfd2edlNZ8]{Soothing Tonic (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.HIPkTfJLlLu4bWE3]{Soothing Tonic (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.UeUPNFw600HEdDgF]{Soothing Tonic (Major)}에 의해 당신은 능력을 얻습니다.</p>\n<p>당신은 쾌속 치유를 얻습니다.</p>"
+    },
+    "Effect: Soulspark Candle": {
+      "name": "효과: 소울스파크 캔들",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.a2yYccCg6ZWvJkdo]{Soulspark Candle}에 의해 부여됩니다.</p>\n<p>파라스마의 신도들은 공격 굴림, 기술 숙련 검사, 내성 굴림, 그리고 지각 검사에 +3 상태 보너스를 얻습니다. 이 지역 안에 있는 언데드 생물과 우르가토아의 신도들은 해당 검사에 -3 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: South Wind's Scorch Song (Damage)": {
+      "name": "효과: 사우스 윈드의 스코치 송 (피해)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8S81RvynBS09rIOF]{South Wind's Scorch Song}에 의해 부여됩니다.</p>\n<p>당신이 이 섬머낫으로 하는, 불 속성 피해를 입히는 공격은 불 속성 피해에 +2 상태 보너스를 얻습니다. 무기에 강타하는 룬이 박혀 있다면 상태 보너스는 +3으로, 강력한 강타하는 룬이 박혀 있다면 +4로 증가합니다.</p><hr /><p>참고: 현재로서는 주사위 눈금이 증가함에 따라 피해량이 자동으로 증가하도록 할 수 없습니다.</p>"
+    },
+    "Effect: South Wind's Scorch Song (Speed Boost)": {
+      "name": "효과: 사우스 윈드의 스코치 송 (스피드 부스트)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8S81RvynBS09rIOF]{South Wind's Scorch Song}에 의해 부여됩니다.</p>\n<p>당신은 다음 턴이 끝날 때까지 이동 속도에 +10피트의 상태 보너스를 얻습니다. 이 섬머 낫으로 불 속성 피해를 입히는 당신의 타격은 불 속성 피해에 +2의 상태 보너스를 얻습니다. 무기에 강타 룬이 새겨져 있다면 상태 보너스는 +3으로, 주요 강타라면 +4로 증가합니다.</p><hr /><p><em>참고: 기본 +2 피해 증가량은 이 효과에 포함되어 있습니다. 현재 자동으로 증가하도록 설정할 수 없습니다.</em></p>"
+    },
+    "Effect: Sparkler": {
+      "name": "효과: 스파클러",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.hd8D1Dm6aVhMYpEL]{Sparkler}에 의해 부여됩니다.</p>\n<p>스파클러는 10피트 반경 내에 밝은 빛을, 그리고 그 다음 10피트까지는 희미한 빛을 방출합니다. 스파클러가 타는 동안, 당신은 그것을 즉석 무기로 사용하여 적중 시 1 화염 피해를 입힐 수 있습니다. 치명타를 입히면, 대상은 1 라운드 동안 눈부심 상태가 됩니다.</p>"
+    },
+    "Effect: Spellguard Blade": {
+      "name": "효과: 스펠가드 블레이드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.v6LpzpIA0BmKvEtK]{Spellguard Blade}에 의해 당신은 획득합니다.</p>\n<p>당신은 당신을 목표로 하는 주문에 대한 내성 굴림에 +1 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Spellguard Shield": {
+      "name": "효과: 스펠가드 실드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.OqDAx4HJ39ojVtvg]{Spellguard Shield}에 의해 부여됩니다.</p>\n<p>당신은 자신을 목표로 하는 주문에 대한 내성 굴림(그리고 AC에도)에 +2 상황 보너스를 얻으며, 만약 당신이 그 행동을 가지고 있다면 자신을 목표로 하는 주문을 방패 방어할 수 있습니다.</p>"
+    },
+    "Effect: Spiderfoot Brew (Greater)": {
+      "name": "효과: 스파이더풋 브루 (강력한)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ETLSXa4Po518z9Qx]{Spiderfoot Brew (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 25피트의 등반 속도와 등반에 대한 능력치 검사에 +3 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Spiderfoot Brew (Lesser)": {
+      "name": "효과: 스파이더풋 브루 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.HuyWiPnkDZoAVhW9]{Spiderfoot Brew (Lesser)}에 의해 부여됩니다.</p>\n<p>당신은 15피트의 등반 속도와 등반을 위한 능력치 판정에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Spiderfoot Brew (Moderate)": {
+      "name": "효과: 스파이더풋 브루 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.L4Db3CncPcZFPzGN]{Spiderfoot Brew (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 20피트의 등반 속도와 등반을 위한 능력치 판정에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Spined Shield Spines": {
+      "name": "효과: 스파인드 쉴드 스파인즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.WDh4fb9N86mNLfDV]{Spined Shield}에 의해 부여됩니다.</p>\n<p>당신이 이 방패로 쉴드 블록(Shield Block) 반응을 사용할 때, 가시가 방패보다 먼저 피해를 입습니다. 방패가 피해를 입을 때(경도 적용 후), 6 피해당 가시 하나가 부러지며, 피해를 6 감소시킵니다.</p>"
+    },
+    "Effect: Spiny Lodestone - Armor": {
+      "name": "효과: 스파이니 로드스톤 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.AYg155apTZtebV4Z]{Spiny Lodestone}, @UUID[Compendium.pf2e.equipment-srd.Item.wnWo9t2mNV4YaH37]{Spiny Lodestone (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.aBMTXPmHg9EDe2R6]{Spiny Lodestone (Major)}에 의해 당신은 능력을 얻습니다.</p>\n<p>당신은 육상 능력치 판정에 아이템 보너스와 비치명적인 피해에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Spiny Lodestone - Weapon": {
+      "name": "효과: 스파이니 로드스톤 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.AYg155apTZtebV4Z]{Spiny Lodestone}, @UUID[Compendium.pf2e.equipment-srd.Item.wnWo9t2mNV4YaH37]{Spiny Lodestone (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.aBMTXPmHg9EDe2R6]{Spiny Lodestone (Major)}에 의해 부여됩니다.</p>\n<p>당신의 무기 공격은 추가 관통 피해를 입힙니다.</p>"
+    },
+    "Effect: Spirit Fan": {
+      "name": "효과: 스피릿 팬",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.SNF8g7u8JYzqvsU1]{Spirit Fan}에 의해 부여됩니다.</p>\n<p><em>스피릿 팬</em>은 횃불처럼 빛을 발합니다.</p>"
+    },
+    "Effect: Spiritsight Tea": {
+      "name": "효과: 스피릿사이트 차",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.EMviiUBFb5hB1X5Q]{Spiritsight Tea}에 의해 부여됩니다.</p>\n<p>당신은 비물질 존재를 찾는 지각 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Spun Cloud (Blue)": {
+      "name": "효과: 스펀 클라우드 (블루)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.PEjGV24mOK5gPPPS]{Spun Cloud (Blue)}에 의해 부여됩니다.</p>\n<p>구름 안에 있는 동안 생물은 전기에 대한 저항 5를 얻습니다.</p>"
+    },
+    "Effect: Spun Cloud (White)": {
+      "name": "효과: 스펀 클라우드 (화이트)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.a05LWc1gKq0NwRfs]{Spun Cloud (White)}에 의해 부여됩니다.</p>\n<p>당신은 이동 속도와 비행 속도(만약 당신이 비행 속도를 가지고 있다면)에 +10피트 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Staff of Illumination": {
+      "name": "효과: 일루미네이션 스태프",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8No84rsBOCVCkXJK]{Staff of Illumination}에 의해 부여됩니다.</p>\n<p>당신은 20피트 반경(그리고 그 다음 20피트까지 희미한 빛)으로 밝은 빛을 발합니다.</p>"
+    },
+    "Effect: Stag's Helm": {
+      "name": "효과: 스태그스 헬름",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.k8YWyDliEVj4iA0p]{Stag's Helm}에 의해 부여됩니다.</p>\n<p>당신의 다음 원거리 스트라이크가 이번 턴에 그들을 공격할 때, 그들은 방심하고 있습니다.</p>"
+    },
+    "Effect: Stalk Goggles": {
+      "name": "효과: 스토크 고글즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.iKKZdkn8KQJSuRjY]{Stalk Goggles}, @UUID[Compendium.pf2e.equipment-srd.Item.U7UVGM93EaNc6lzY]{Stalk Goggles (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.cbbPoYOil7DZO4mk]{Stalk Goggles (Major)}에 의해 당신은 사방을 볼 수 있게 되며, 측면 공격을 받지 않습니다. 시각과 관련된 지각 판정에 아이템 보너스(<em>greater</em> 및 <em>major</em>)를 얻고, 저조도 시야(<em>major</em>)를 얻습니다.</p>"
+    },
+    "Effect: Stalwart's Ring": {
+      "name": "효과: 스톨워트 링",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.bhpYiOmBysl8ZEYn]{Stalwart's Ring}에 의해 당신은 5의 임시 히트 포인트를 얻습니다.</p>\n<p>당신은 5의 임시 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Standard of the Primeval Howl": {
+      "name": "효과: 프라이멀 하울의 깃발",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.isWSWeuJR2cYVdfi]{Standard of the Primeval Howl}에 의해 부여됩니다.</p>\n<p>20피트 사정거리 내의 생물들은 선제 공격 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Star of Cynosure": {
+      "name": "효과: 시누수레의 별 (Star of Cynosure)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.LDiF0GRYAiW2mool]{Star of Cynosure}에 의해 부여됩니다.</p>\n<p>당신은 정신적 특성을 가진 마법에 대한 내성 굴림에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Starsong Nectar": {
+      "name": "효과: 스타송 넥타",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.pbsrb7FMMHQBd5CO]{Starsong Nectar}에 의해 부여됩니다.</p>\n<p>당신은 공격 굴림, 선제 굴림, 인지력 판정, 내성 굴림, 그리고 기술 판정에 +3 상태 보너스를 얻습니다. 그리고 탐지되지 않은 생물에게 또는 측면을 노출당했을 때 방심하지 않습니다.</p>"
+    },
+    "Effect: Static Muscular Relay": {
+      "name": "효과: 스태틱 머스큘러 릴레이",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.b2t3kttZipvg826A]{Static Muscular Relay}에 의해 부여됩니다.</p>\n<p>당신은 1분 동안 반사 내성 굴림과 AC에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Static Snare": {
+      "name": "효과: 스태틱 스네어",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.66EBP5Ii9QMlZdDx]{Static Snare}에 의해 부여됩니다.</p>\n<p>당신은 전기 효과에 대한 내성 굴림에 -1 상황 패널티를 받습니다.</p>"
+    },
+    "Effect: Statue Skin Salve": {
+      "name": "효과: 스태츄 스킨 살브",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.hWXRen2x3kBxeYlh]{Statue Skin Salve}에 의해 당신은</p>\n<p>관통 및 베기 피해에 대한 저항 3을 얻습니다.</p>"
+    },
+    "Effect: Stole of Civility": {
+      "name": "효과: 스톨 오브 시비리티",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.dRVDcmkaB2p8zPcs]{Stole of Civility}에 의해 부여됩니다.</p>\n<p>당신은 일시적 히트 포인트 10을 얻습니다.</p>"
+    },
+    "Effect: Stone Body Mutagen (Greater)": {
+      "name": "효과: 스톤 바디 뮤타겐 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.cqTCg6C0lvYUKQmx]{Stone Body Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 물리 피해(둔기 피해 제외)에 대해 10의 저항력을 얻습니다.</p>\n<p><strong>단점</strong> 당신의 속도는 10피트(최소 5피트) 감소하며, 반사 내성 굴림에 -2 패널티를 받습니다.</p>"
+    },
+    "Effect: Stone Body Mutagen (Lesser)": {
+      "name": "효과: 스톤 바디 뮤타겐 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.5ftFTiKY0BMvhzL9]{Stone Body Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 물리 피해(둔기 피해 제외)에 대해 5의 저항력을 얻습니다.</p>\n<p><strong>단점</strong> 당신의 속도는 10피트(최소 5피트) 감소하고, 반사 내성 굴림에 -2의 패널티를 받습니다.</p>"
+    },
+    "Effect: Stone Body Mutagen (Moderate)": {
+      "name": "효과: 스톤 바디 뮤타젠 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.FZ6SMwiei6NnEp3e]{Stone Body Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 물리 피해(둔기 피해 제외)에 대해 5의 저항력을 얻습니다.</p>\n<p><strong>단점</strong> 당신의 속도는 10피트(최소 5피트) 감소하고, 반사 내성 굴림에 -2의 패널티를 받습니다.</p>"
+    },
+    "Effect: Stone Fist Elixir": {
+      "name": "효과: 스톤 피스트 엘릭서",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.YcvSw7Zn3oyqlJaw]{Stone Fist Elixir}에 의해 부여됩니다.</p>\n<p>당신의 주먹은 1d6 둔기 피해를 입히고 비살상 특성을 잃습니다.</p>"
+    },
+    "Effect: Stonethroat Ammunition (Success)": {
+      "name": "효과: 스톤스로트 탄약 (성공)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.4F87PHMIzLHOUABL]{Stonethroat Ammunition}에 의해 부여됩니다.</p>\n<p>당신은 턱이나 송곳니를 사용한 공격 굴림과 격투 기술 판정에 -2 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: Storm Breath": {
+      "name": "효과: 스톰 브레스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.XPIsejlpyvHvR0Ma]{Storm Breath}에 의해 부여됩니다.</p>\n<p>당신은 전기와 음파에 대해 5의 저항력을 얻습니다.</p>"
+    },
+    "Effect: Storm Chair": {
+      "name": "효과: 스톰 체어",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.RBlbAZSGAJOBsmjv]{Storm Chair}에 의해 당신은 당신의 속도와 같은 비행 속도를 얻습니다.</p>\n<p>당신은 당신의 속도와 같은 비행 속도를 얻습니다.</p>"
+    },
+    "Effect: Stormbreaker Fulu": {
+      "name": "효과: 스톰브레이커 풀루",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.NQuE19X1YMWjiWHl]{Stormbreaker Fulu}에 의해 부여됩니다.</p>\n<p>당신은 다음 턴이 끝날 때까지, 차가움, 전기, 그리고 음파 피해에 대한 15의 저항력을 얻습니다.</p>"
+    },
+    "Effect: Strength Through Pain": {
+      "name": "효과: 스트렝스 스루 페인",
+      "description": "<p>아라즈니의 렁 블러드스톤에 의해 부여됨</p>\n<p>당신은 다음 스트라이크 또는 주문 공격에 +1 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Strum of Thunder": {
+      "name": "효과: 썬더 스트럼",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.PGBAg9ywfdlJCoCl]{Resonant Guitar}에 의해 부여됩니다.</p>\n<p>이 아이템은 <em>썬더링</em> 룬을 얻습니다.</p>"
+    },
+    "Effect: Stubborn Skin": {
+      "name": "효과: 스터번 스킨",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.hCutQISjPJaKGYtj]{Aurochs Hide Armor}에 의해 부여됩니다.</p>\n<p>당신은 반사 내성 굴림에 –1 패널티를 받고 인내 내성 굴림에 +2 아이템 보너스를 받습니다.</p>"
+    },
+    "Effect: Succubus Kiss (Stage 1)": {
+      "name": "효과: 서큐버스 키스 (1단계)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.qwCefJjr7AJSqYay]{Succubus Kiss}에 의해 부여됩니다.</p>\n<p>생물은 주도권 판정과 감정 및 정신 효과에 대한 모든 내성 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Succubus Kiss (Stage 2)": {
+      "name": "효과: 서큐버스 키스 (2단계)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.qwCefJjr7AJSqYay]{Succubus Kiss}에 의해 부여됩니다.</p>\n<p>생물은 주도권 판정과 감정 및 정신 효과에 대한 모든 내성 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Suit of Armoire Frustration": {
+      "name": "효과: 아르모아르 프러스트레이션 슈트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.OlGFuOcqy0bSdtTl]{Suit of Armoire}에 의해 부여됩니다.</p>\n<p>당신은 의지 내성 굴림에 -1 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: Sulfur Bomb": {
+      "name": "효과: 설퍼 봄",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ndVATyJ2c8Ka3HKm]{Sulfur Bomb}에 의해 부여됩니다.</p>\n<p>대상은 다음 턴이 끝날 때까지 지각 굴림과 공격 굴림에 -1의 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: Sun Orchid Poultice": {
+      "name": "효과: 썬 오키드 폴티스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.1LKJvK9ofzIIkQX3]{Sun Orchid Poultice}에 의해 부여됩니다.</p>\n<p>당신은 내성 굴림에 +3 아이템 보너스와 20 임시 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Swift Block Cabochon": {
+      "name": "효과: 스위프트 블록 카보숑",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.4tnPWyApPZP1P1yO]{Swift Block Cabochon}에 의해 부여됩니다.</p>\n<p>방패의 경도를 발동 공격에 대해 5만큼 증가시킵니다.</p>"
+    },
+    "Effect: Tactician's Helm (Move It!)": {
+      "name": "효과: 택티션 헬름 (무브 잇!)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.q6Wdgi5fE1zovsYh]{Tactician's Helm}에 의해 부여됩니다.</p>\n<p>당신은 곡예와 육상 능력 검정에 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Tactician's Helm Charges": {
+      "name": "효과: 택티션 헬름 차지",
+      "description": "<p>당신의 @UUID[Compendium.pf2e.equipment-srd.Item.q6Wdgi5fE1zovsYh]{Tactician's Helm}에 저장된 현재 충전량입니다.</p>"
+    },
+    "Effect: Talented Tap Shoes": {
+      "name": "효과: 탤런티드 탭 슈즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.ktzQ3WItAfMk25hM]{Talented Tap Shoes}에 의해 부여됩니다.</p>\n<p>당신이 피해 효과를 회피하기 위한 반사 내성 굴림에 성공하거나 대성공할 경우, 반응으로 이동 속도의 절반만큼 스트라이드할 수 있습니다. 당신은 잠행을 위한 은신 능력치 검사에 -2의 아이템 패널티를 받습니다.</p>"
+    },
+    "Effect: Taljjae's Mask (The General)": {
+      "name": "효과: 탈재의 가면 (장군)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.JSbBiTCtFctuJFhS]{Taljjae's Mask (The General)}에 의해 부여됩니다.</p>\n<p>당신은 장창 공격 굴림에 +3 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Taljjae's Mask (The Hero)": {
+      "name": "효과: 탈재의 가면 (영웅)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.2LO9eMNpQiku5UDn]{Taljjae's Mask (The Hero)}에 의해 부여됩니다.</p>\n<p>당신은 활을 사용한 공격 굴림에 +3 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Tallowheart Mass": {
+      "name": "효과: 탤로하트 매스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.DsZ48n6mn8uW5EIP]{Tallowheart Mass}에 의해 부여됩니다.</p>\n<p>당신은 화염 피해에 대한 저항 10을 얻습니다.</p>"
+    },
+    "Effect: Taper of Sanctification": {
+      "name": "효과: 성화의 테이퍼",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.vp3Yr59O9dO9MDlb]{Taper of Sanctification}에 의해 부여됩니다.</p>\n<p>당신의 스트라이크는 (촛불에 적절한) 신성하거나 불경건한 특성을 얻습니다.</p>"
+    },
+    "Effect: Thawing Candle": {
+      "name": "효과: 쏘잉 캔들",
+      "description": "<p>이 지역의 생물들은 냉기 저항 10을 얻습니다.</p>"
+    },
+    "Effect: The Hollow Star": {
+      "name": "효과: 홀로우 스타",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.MPwrN4KBPycME0tl]{The Hollow Star}에 의해 부여됩니다.</p>\n<p><em>Hollow Star</em>의 밝은 빛 안에 있는 모든 생물은 신비(오컬트) 판정에 +1 아이템 보너스를 얻습니다. <em>Hollow Star</em>가 내는 밝은 빛 안에 있는 데로스는 1단계로 멍해집니다.</p>"
+    },
+    "Effect: Theatrical Mutagen (Greater)": {
+      "name": "효과: 시어트리컬 뮤타젠 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.BB9ErvPViT4TtiYp]{Theatrical Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 곡예, 제작, 그리고 공연 숙련 검사에 +3 아이템 보너스를 얻습니다. 만약 당신이 이 숙련 중 어떤 것에도 숙련되지 않았다면, 당신의 숙련 보너스는 +0이 아닌 당신의 레벨과 같습니다. 당신은 또한 당신의 속도에 +10피트 상태 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 지각 검사와 의지 내성 굴림에 -1 패널티를 받습니다. 물체와 상호 작용하거나, 공연하거나, 이동하거나, 성큼 걷는 데 최소 1액션을 소비하지 않은 라운드 이후, 당신은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}이 될 때까지 당신의 다음 턴이 시작될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}됩니다.</p>"
+    },
+    "Effect: Theatrical Mutagen (Lesser)": {
+      "name": "효과: 시어트리컬 뮤터젠 (레서)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.kScHu3XS3XPvN9Db]{Theatrical Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 곡예 능력 검사, 제작 능력 검사, 그리고 공연 능력 검사에 +1 아이템 보너스를 얻습니다. 만약 당신이 이 능력들 중 어떤 것에도 숙련되어 있지 않다면, 당신의 숙련 보너스는 +0이 아닌 당신의 레벨과 같습니다. 당신은 또한 당신의 이동 속도에 +5피트 상태 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 지각 능력 검사와 의지 내성 굴림에 -1 패널티를 받습니다. 어떤 물체와 상호 작용하거나, 공연하거나, 이동하거나, 활보하는 데 최소 1액션을 소비하지 않은 라운드 이후에는 당신은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}가 될 때까지 당신의 다음 턴이 시작될 때까지 그렇게 됩니다.</p>"
+    },
+    "Effect: Theatrical Mutagen (Major)": {
+      "name": "효과: 시어트리컬 뮤터젠 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Wv0ck7AMP0s0jIue]{Theatrical Mutagen (Major)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 곡예, 제작, 연기 숙련 검사에 +4 아이템 보너스를 얻습니다. 당신이 이 숙련 중 어떤 것에도 숙련되지 않았다면, 당신의 숙련 보너스는 +0이 아닌 당신의 레벨과 같습니다. 당신은 또한 당신의 이동 속도에 +10피트 상태 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 지각 검사와 의지 내성 굴림에 -1 패널티를 받습니다. 물체와 상호 작용하거나, 공연하거나, 이동하거나, 성큼성큼 걷는 데 최소 1액션을 사용하지 않은 라운드 이후에는, 당신의 다음 턴이 시작될 때까지 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}입니다.</p>"
+    },
+    "Effect: Theatrical Mutagen (Moderate)": {
+      "name": "효과: 시어트리컬 뮤터젠 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8rQ7HkUtSa8so0Et]{Theatrical Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p><strong>혜택</strong> 당신은 곡예 숙련 검사, 제작 숙련 검사, 그리고 공연 숙련 검사에 +2 아이템 보너스를 얻습니다. 만약 당신이 이 숙련 중 어느 하나에도 숙련되어 있지 않다면, 당신의 숙련 보너스는 +0이 아닌 당신의 레벨과 같습니다. 당신은 또한 당신의 이동 속도에 +5 피트 상태 보너스를 얻습니다.</p>\n<p><strong>단점</strong> 당신은 지각 숙련 검사와 의지 내성 굴림에 -1 패널티를 받습니다. 어떤 물체와 상호 작용하거나, 공연하거나, 이동하거나, 활보하는 데 최소 1 액션을 사용하지 않은 라운드 이후에는, 당신은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}가 될 때까지 당신의 다음 턴이 시작될 때까지 그렇게 됩니다.</p>"
+    },
+    "Effect: Therapeutic Snap Peas": {
+      "name": "효과: 테라퓨틱 스냅 피즈",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.s0iiOMicSe4EspMM]{Therapeutic Snap Peas}에 의해 부여됩니다.</p>\n<p>당신은 독이나 질병에 대한 모든 내성 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Thorn Triad - Armor": {
+      "name": "효과: 쏜 트라이어드 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.j1To2GxVU46H1uOG]{Thorn Triad}, @UUID[Compendium.pf2e.equipment-srd.Item.3LJ3l5QKyjxiVBbu]{Thorn Triad (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.XIQmnhUfmhojIZT7]{Thorn Triad (Major)}에 의해 당신은 다음 능력을 얻습니다.</p>\n<p>당신은 둔기 및 관통 피해에 대한 저항력을 얻고, 화염 피해에 대해서는 약점 3을 얻습니다. 혹은 비주문 마법 주문일 경우 저항력이 두 배가 됩니다.</p>"
+    },
+    "Effect: Thorn Triad - Weapon": {
+      "name": "효과: 쏜 트라이어드 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.j1To2GxVU46H1uOG]{Thorn Triad}, @UUID[Compendium.pf2e.equipment-srd.Item.3LJ3l5QKyjxiVBbu]{Thorn Triad (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.XIQmnhUfmhojIZT7]{Thorn Triad (Major)}에 의해 부여됩니다.</p>\n<p>당신의 무기 공격은 추가적인 지속적인 출혈 피해를 입힙니다.</p>"
+    },
+    "Effect: Thousand-Year Dragonroot": {
+      "name": "효과: 천년 용뿌리",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.xVK6dbAIUJqNFYoI]{Thousand-Year Dragonroot}에 의해 부여됩니다.</p>\n<p>당신의 몸은 황금빛으로 빛나며, 횃불처럼 빛을 제공합니다. 당신은 40피트의 비행 속도와 5의 화염 저항력을 얻습니다.</p>"
+    },
+    "Effect: Throne Card": {
+      "name": "효과: 스론 카드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Gyi4IVrAVJRPJF2s]{Deck of Many Things}의 왕좌로부터 부여받았습니다.</p>\n<p>당신은 외교 능력치 검정에 영구적인 +4 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Thundering Fury Dadao": {
+      "name": "효과: 썬더링 퓨리 다다오",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.EcrZYy4PgbpiKyhE]{Thundering Fury Dadao}에 의해 부여됩니다.</p>\n<p><em>썬더링 퓨리 다다오</em>는 에자일 및 포스풀 특성을 얻습니다.</p>"
+    },
+    "Effect: Thurible of Revelation": {
+      "name": "효과: 레벨레이션 튜리블",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.xaWuuQoBJiMLzggR]{Thurible of Revelation (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.QEPx1fCf74xdpXBH]{Thurible of Revelation (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.VBCk7JXGsuG0cug1]{Thurible of Revelation (Greater)}에 의해 당신은 다음 능력을 얻습니다.</p>\n<p>당신은 종교 판정에 아이템 보너스를 얻습니다. 그리고 종교적인 성격의 글을 해독할 때 당신이 극적인 실패를 굴리면 실패 대신 실패가 됩니다.</p>"
+    },
+    "Effect: Tiger Menuki": {
+      "name": "효과: 타이거 메누키",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.zrZ1FaaqW6VIajj7]{Tiger Menuki}에 의해 부여됩니다.</p>\n<p>무기는 발동하는 스트라이크와 다른 모든 스트라이크에 강력한(포스풀) 및 광역(스윕) 특성을 얻습니다.</p>"
+    },
+    "Effect: Tome of Restorative Cleansing": {
+      "name": "효과: 톰 오브 레스토러티브 클렌징",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.KqzTdCwrfoqfSR5b]{Tome of Restorative Cleansing (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.NwyyVc5G6zUbcXRs]{Tome of Restorative Cleansing (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.m9v1YKUvQuFGVZ10]{Tome of Restorative Cleansing (Greater)}에 의해 당신은 일시적 히트 포인트를 얻습니다.</p>\n<p>당신은 일시적 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Topology Protoplasm": {
+      "name": "효과: 토폴로지 프로토플라즘",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.PblDdXHm98XWs9ba]{Topology Protoplasm}에 의해 부여됩니다.</p>\n<p>당신의 압박 확인 시도는 결과를 한 단계 더 성공적으로 만듭니다.</p>"
+    },
+    "Effect: Tracker's Stew": {
+      "name": "효과: 트래커스 스튜",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.GNM1LvqENq8WqT9C]{Tracker's Stew}에 의해 부여됩니다.</p>\n<p>당신은 추적 흔적 감추기 및 추적 생존 숙련 검사에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Tremorsensors": {
+      "name": "효과: 트레머센서스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.teMhnTeAyWnvbo2C]{Tremorsensors}에 의해 당신께 부여됩니다.</p>\n<p>당신은 앞으로 10분 동안 20피트 범위의 부정확한 감각으로서 트레머센스를 얻습니다.</p>"
+    },
+    "Effect: Tricky Liniment": {
+      "name": "효과: 트리키 리니먼트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.MobYbxEL4KgxVi63]{Tricky Liniment}에 의해 부여됩니다.</p>\n<p>당신은 탈출하거나 좁은 틈을 통과하는 곡예 숙련 검사에 +2 아이템 보너스를 받습니다.</p>"
+    },
+    "Effect: Trinity Geode - Armor": {
+      "name": "효과: 트리니티 지오드 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.lN3Fn9AuNcKbXucJ]{Trinity Geode}, @UUID[Compendium.pf2e.equipment-srd.Item.5W86t6I92rRNSmwR]{Trinity Geode (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.2sr23ZSpplB1oBHd]{Trinity Geode (Major)}에 의해 당신은 다음 능력을 얻습니다.</p>\n<p>당신은 물리 피해(아다만타이트 제외)에 대한 저항력을 얻거나, 비주문 마법 주문에 대해서는 저항력이 두 배가 됩니다.</p>"
+    },
+    "Effect: Trinity Geode - Weapon": {
+      "name": "효과: 트리니티 지오드 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.lN3Fn9AuNcKbXucJ]{Trinity Geode}, @UUID[Compendium.pf2e.equipment-srd.Item.5W86t6I92rRNSmwR]{Trinity Geode (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.2sr23ZSpplB1oBHd]{Trinity Geode (Major)}에 의해 부여됩니다.</p>\n<p>당신의 무기 공격은 추가적인 둔기 피해를 입힙니다.</p>"
+    },
+    "Effect: Triton's Conch": {
+      "name": "효과: 트라이톤의 콘크",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.KLWjINVkWwJlOZEX]{Triton's Conch}에 의해 부여됩니다.</p>\n<p>당신은 수영에 대한 육상 기술 검정에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Tteokguk of Time Advancement": {
+      "name": "효과: 시간 가속의 떡국",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.hHsU2sRW47Rge8fU]{Tteokguk of Time Advancement}에 의해 부여됩니다.</p>\n<p>당신은 선택한 나이로 위장하기 위한 속임수 판정에 +4의 상태 보너스를 얻으며, 숙련되지 않은 경우 레벨을 숙련 보너스로 이 판정에 더할 수 있습니다.</p>"
+    },
+    "Effect: Twist the Skeins of Fate": {
+      "name": "효과: 운명의 실타래를 꼬다",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.7wuDdrF6HKPXyxqj]{Prognostic Veil}에 의해 부여됩니다.</p>\n<p>당신은 사용자의 @UUID[Compendium.pf2e.conditionitems.Item.zXZjC8HLaRoLR17U]{Cursebound} 상태 값과 같은 내성 굴림 또는 공격 굴림에 대한 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Ugly Cute's Gift": {
+      "name": "효과: 어글리 큐트의 선물",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.99ffrZOWek8ePE4n]{Ugly Cute's Gift}에 의해 부여됩니다.</p>\n<p>어글리 큐트의 선물은 @UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R]{Ghost Touch} 속성 룬의 이점을 얻고, 성공적인 스트라이크 시 추가로 2의 힘 피해를 입힙니다.</p>"
+    },
+    "Effect: Vapor Sphere": {
+      "name": "효과: 베이퍼 스피어",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.HBlUlkSlIQ0NQA9N]{Vapor Sphere}에 의해 부여됩니다.</p>\n<p>당신은 물리 피해에 대해 25의 저항력을 얻고, 정밀 피해에 면역됩니다.</p>"
+    },
+    "Effect: Vashu's Ninth Life": {
+      "name": "효과: 바슈의 아홉 번째 생명",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8pFegnc8KTHsvQZ0]{Vashu's Ninth Life}에 의해 부여됩니다.</p>\n<p>바슈의 아홉 번째 생명은 패리 특성을 얻고 패리 자세를 취하여 당신에게 AC에 +1 상황 보너스를 부여합니다.</p>"
+    },
+    "Effect: Vashu's Ninth Life (Diehard)": {
+      "name": "효과: 바슈의 아홉 번째 생명 (다이하드)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.8pFegnc8KTHsvQZ0]{Vashu's Ninth Life}에 의해 부여됩니다.</p>\n<p>당신은 @UUID[Compendium.pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]{Diehard} 피트의 효과를 얻습니다.</p>"
+    },
+    "Effect: Vaultbreaker's Harness": {
+      "name": "효과: 볼트브레이커의 하네스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.LmveO9fSuEnkMKAH]{Vaultbreaker's Harness}에 의해 부여됩니다.</p>\n<p>당신은 은신 굴림에 +1 아이템 보너스와 이동 속도에 +10피트 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Vengeful Demon's Tears": {
+      "name": "효과: 벤지풀 디먼즈 티어스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Ut6fuRkMsydWVlSb]{Vengeful Demon's Tears}에 의해 부여됩니다.</p>\n<p>당신은 2d8 임시 히트 포인트를 얻습니다.</p>"
+    },
+    "Effect: Vermin Repellent Agent": {
+      "name": "효과: 버민 리펠런트 에이전트",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.lgqyRmQ3GZbbxQsD]{Vermin Repellent Agent (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.WGbE7qAGw8O5yH07]{Vermin Repellent Agent (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.CReWZjAd3szYQ6Mx]{Vermin Repellent Agent (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.C6v5p0ZtIUroYlU2]{Vermin Repellent Agent (Major)}에 의해 당신은 능력치 보너스를 얻습니다.</p>\n<p>당신은 독에 대한 인내 내성 굴림에 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Viper Rapier": {
+      "name": "효과: 바이퍼 레이피어",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.nSAA77N0cnSkljmE]{Viper Rapier}에 의해 부여됩니다.</p>\n<p>당신은 반사 내성 굴림에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Viperous Elixir (Greater)": {
+      "name": "효과: 바이퍼러스 엘릭서 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.avCckBXMRbzAudZG]{Viperous Elixir (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 1d6 꿰뚫는 피해를 입히는 송곳니 무장 공격을 얻습니다. 당신이 송곳니 또는 다른 물기 공격으로 스트라이크할 때 무장 공격 및 피해 굴림에 +3 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Viperous Elixir (Lesser)": {
+      "name": "효과: 바이퍼러스 엘릭서 (Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.LmNp6og59w1KhlIX]{Viperous Elixir (Lesser)}에 의해 부여됩니다.</p>\n<p>당신은 1d6 피어싱 데미지를 입히는 송곳니 무장 공격을 얻습니다. 송곳니 또는 다른 물기 공격으로 스트라이크할 때 무장 공격 및 데미지 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Viperous Elixir (Moderate)": {
+      "name": "효과: 바이퍼러스 엘릭서 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.HwDlOobl1bsTG5mA]{Viperous Elixir (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 1d6 피어싱 데미지를 입히는 송곳니 무장 공격을 얻습니다. 송곳니 또는 다른 물기 공격으로 스트라이크할 때 무장 공격 및 데미지 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Voice of Oceans": {
+      "name": "효과: 보이스 오브 오션스",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.cvO0dLw2B1Zno8rv]{Conch of Otherworldly Seas}에 의해 부여됩니다.</p>\n<p>당신은 탈라식을 이해하고 말할 수 있습니다.</p>"
+    },
+    "Effect: Wand of Fey Flames": {
+      "name": "효과: 페이 플레임스 완드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.QgNp6uyKuV2PiNbf]{Wand of Fey Flames}에 의해 부여됩니다.</p>\n<p>당신은 마법 효과와 환영 마법에 대한 의지 내성 굴림에 -2의 상태 패널티를 받습니다.</p>"
+    },
+    "Effect: War Blood Mutagen (Greater)": {
+      "name": "효과: 워 블러드 뮤타겐 (그레이터)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.oaGUNWmrqtKhy1HP]{War Blood Mutagen (Greater)}에 의해 부여됩니다.</p>\n<p>당신은 이 무기로 하는 공격 굴림과 공포 효과에 대한 의지 내성 굴림에 +3 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: War Blood Mutagen (Lesser)": {
+      "name": "효과: 워 블러드 뮤타겐 (Lesser)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.H3KAt7cHJ6ZLTJQE]{War Blood Mutagen (Lesser)}에 의해 부여됩니다.</p>\n<p>당신은 이 무기에 대한 공격 굴림과 공포 효과에 대한 의지 내성 굴림에 +1 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: War Blood Mutagen (Major)": {
+      "name": "효과: 워 블러드 뮤타겐 (메이저)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.Qa4qjxk5aPzx7HTR]{War Blood Mutagen (Major)}에 의해 부여됩니다.</p>\n<p>당신은 이 무기에 대한 공격 굴림과 공포 효과에 대한 의지 내성 굴림에 +4 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: War Blood Mutagen (Moderate)": {
+      "name": "효과: 워 블러드 뮤터젠 (보통)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.AOAXZzH4AOsQqYYv]{War Blood Mutagen (Moderate)}에 의해 부여됩니다.</p>\n<p>당신은 이 무기로 하는 공격 굴림과 공포 효과에 대한 의지 내성 굴림에 +2 아이템 보너스를 얻습니다.</p>"
+    },
+    "Effect: Warding Statuette - Armor": {
+      "name": "효과: 워딩 스타튜엣 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.SW6JVF5SP59W8B0Q]{Warding Statuette}, @UUID[Compendium.pf2e.equipment-srd.Item.ap9Bn8MLUJa8AtGj]{Warding Statuette (Greater)}에 의해 당신은 원거리 무기 공격에 대한 저항력을 얻습니다.</p>\n<p>당신은 원거리 무기 공격에 대한 저항력을 얻습니다.</p>"
+    },
+    "Effect: Warding Statuette - Weapon": {
+      "name": "효과: 워딩 스태츄엣 - 무기",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.SW6JVF5SP59W8B0Q]{Warding Statuette}, @UUID[Compendium.pf2e.equipment-srd.Item.ap9Bn8MLUJa8AtGj]{Warding Statuette (Greater)}에 의해 당신은 능력치를 얻습니다.</p>\n<p>당신은 AC에 +1 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Watery Form": {
+      "name": "효과: 워터리 폼",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.glAmMnHZEmlK7PB0]{Orm Choker}에 의해 부여됩니다.</p>\n<p>당신은 45피트의 수영 속도를 얻으며, 물속에서 은신 굴림에 +4 상황 보너스를 얻습니다.</p>"
+    },
+    "Effect: Weapon Siphon": {
+      "name": "효과: 웨폰 사이펀",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.touk9g0Lc2REwowo]{Weapon Siphon}에 의해 부여됩니다.</p>\n<p>무기의 다중 공격 패널티는 일반적인 것보다 하나 더 큽니다.</p>"
+    },
+    "Effect: Weapon Siphon Bomb Fitted": {
+      "name": "효과: 무기 사이펀 폭탄 장착",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.touk9g0Lc2REwowo]{Weapon Siphon}에 의해 부여됩니다.</p>\n<p>무기로 하는 다음 세 번의 공격은 무기의 일반적인 피해량에 더하여 폭탄의 피해 유형으로 1d4의 피해를 입힙니다.</p>"
+    },
+    "Effect: Wemmuth Trinket": {
+      "name": "효과: 웸무스 트링켓",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.jdBSk1eH1qPsCNi6]{Wemmuth Trinket}에 의해 부여됩니다.</p>\n<p><em>엔탱글링 플로라</em>에 대한 반사 내성 굴림에 실패하거나 대실패한 생물은 주문의 등급과 같은 양의 관통 피해를 입습니다.</p>"
+    },
+    "Effect: Whispering Staff (Ally)": {
+      "name": "효과: 위스퍼링 스태프 (아군)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.WrNHmsU8ZaBY3V9S]{Whispering Staff}에 의해 부여됩니다.</p>\n<p>당신이 지식 회상을 시도하거나 정신 효과에 대한 내성 굴림을 시도할 때마다, 두 번 굴림을 하고 더 좋은 결과를 취합니다. 이것은 포춘 효과입니다.</p>"
+    },
+    "Effect: Whispering Staff (Enemy)": {
+      "name": "효과: 위스퍼링 스태프 (적)",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.WrNHmsU8ZaBY3V9S]{Whispering Staff}에 의해 부여됩니다.</p>\n<p>당신은 근원의 주문에 대한 내성 굴림에 –2 상황 패널티를 받습니다.</p>"
+    },
+    "Effect: Wine of the Blood": {
+      "name": "효과: 와인 오브 더 블러드",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.YnkfinMN0l06iR1t]{Wine of the Blood}에 의해 부여됩니다.</p>\n<p>당신은 모든 의지 내성 굴림에 +1 상태 보너스, 또는 감정 효과에 대해 +2 상태 보너스를 얻습니다.</p>"
+    },
+    "Effect: Winged Sandals": {
+      "name": "효과: 윙드 샌들",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.aKoMqPDmVzPI7Q20]{Winged Sandals}에 의해 부여됩니다.</p>\n<p>당신은 30피트의 비행 속도를 얻습니다.</p>"
+    },
+    "Effect: Witch's Finger": {
+      "name": "효과: 위치스 핑거",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.C1mX0irc7zvLqDEs]{Witch's Finger}에 의해 부여됩니다.</p>\n<p>당신은 냉기 저항 3을 얻습니다.</p>"
+    },
+    "Effect: Wolfjaw Armor": {
+      "name": "효과: 울프조 암머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.tBGhH7AHyvJQZC5d]{Wolfjaw Armor}에 의해 부여됩니다.</p>\n<p>당신은 손을 사용하여 하는 턱 무장 공격을 얻습니다. 이 공격은 1d8 꿰뚫는 피해와 1 냉기 피해를 입히며, 난투 그룹에 속하고, 넘어뜨리기와 무장 해제 특성을 지닙니다.</p>"
+    },
+    "Effect: Wounding Oil": {
+      "name": "효과: 운딩 오일",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.lvGSfPbpAd9lHeX5]{Wounding Oil}에 의해 부여됩니다.</p>\n<p>선택된 무기는 <em>운딩</em> 룬의 효과를 얻습니다.</p>"
+    },
+    "Effect: Wyrm Claw - Armor": {
+      "name": "효과: 웜 클로우 - 아머",
+      "description": "<p>@UUID[Compendium.pf2e.equipment-srd.Item.r81OfbBRPTXi0Fwd]{Wyrm Claw}, @UUID[Compendium.pf2e.equipment-srd.Item.lSpoAPC5VeGcSoDG]{Wyrm Claw (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.orChmPy2wJ6DWwHU]{Wyrm Claw (Major)}에 의해 당신은</p>\n<p>산, 추위, 전기, 그리고 불에 대한 저항력을 얻습니다.</p>"
+    }
+  }
+}

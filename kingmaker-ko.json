@@ -1,0 +1,444 @@
+{
+  "PF2E.Kingmaker": {
+    "Abilities": {
+      "culture": "문화",
+      "economy": "경제",
+      "loyalty": "충성",
+      "stability": "안정성"
+    },
+    "AbilityScores": "능력치",
+    "Army": {
+      "Adjustment": "조정",
+      "Alliance": {
+        "Enemy": "적",
+        "Kingdom": "킹덤",
+        "Info": "군대의 현재 동맹입니다. 이것은 군대에 플레이어 소유주가 있는지 여부에 따라 결정됩니다.",
+        "Linked": "이 군대의 토큰은 현재 연결되어 있으며, 업데이트는 제대로 유지되어야 합니다.",
+        "LinkError": "이 군대는 토큰으로부터 연결될 수 없습니다. 액터 사이드바에서 연결한 다음, 새로운 복사본을 끌어오십시오.",
+        "UnlinkedError": "왕국 군대는 제대로 작동하려면 연결된 배우 데이터가 있어야 합니다. 여기를 클릭하여 활성화하십시오."
+      },
+      "Ammunition": "탄약",
+      "Armor": "방어구",
+      "BasicWarActions": "기본 전투 행동",
+      "Condition": {
+        "concealed": {
+          "name": "은폐"
+        }
+      },
+      "Description": "설명",
+      "Error": {
+        "InvalidTacticType": "그 전술 {name}은 {type} 군대에서 지원되지 않습니다."
+      },
+      "Gear": {
+        "GearInfo": "장비 정보를 보여주십시오.",
+        "ItemLevel": "아이템 {level}",
+        "Label": "장비",
+        "LevelLabel": "레벨 {level}",
+        "AdditionalWeapon": {
+          "Name": "추가 무기",
+          "Description": "대부분의 군대는 근접 무기 또는 원거리 무기 중 하나만 가지고 있습니다. 이 장비는 다른 유형의 추가 무기를 군대에 제공합니다. 군대는 자신의 레벨에 대한 기본 수정치로 근접 또는 원거리 스트라이크(해당되는 경우)를 얻습니다."
+        },
+        "MagicWeapons": {
+          "Name": "마법 무기 ({type})",
+          "Description": "군대의 무기는 마법입니다. 군대가 근접 무기와 원거리 무기를 가지고 있다면, 이 장비를 구매할 때 어떤 것을 마법으로 만들지 선택하십시오. 당신은 이 장비를 두 번 구매할 수 있습니다—근접 무기용으로 한 번, 원거리 무기용으로 한 번. 더 강력한 버전을 구매하면 이전 버전이 대체되고, 더 강력한 버전의 RP 비용은 대체된 무기의 RP 비용만큼 감소합니다.",
+          "rank1": {
+            "Name": "마법 무기",
+            "Description": "이 무기들은 그 무기를 사용하는 군대의 스트라이크를 1만큼 증가시킵니다."
+          },
+          "rank2": {
+            "Name": "강력한 마법 무기",
+            "Description": "이 무기들은 군대의 해당 무기 스트라이크를 2만큼 증가시킵니다."
+          },
+          "rank3": {
+            "Name": "주요 마법 무기",
+            "Description": "이 무기들은 군대의 해당 무기를 사용한 스트라이크를 3만큼 증가시킵니다."
+          }
+        },
+        "Potions": {
+          "Name": "힐링 포션",
+          "Description": "힐링 포션을 갖춘 군대(대신 연금술 힐링 엘릭서를 공급하는 경우에도 이 규칙은 동일합니다)는 단일 복용량을 어떤 기동 액션의 일부로 사용할 수 있습니다. 군대가 힐링 포션 복용량을 사용하면 1 HP를 회복합니다. 군대는 한 번에 최대 3회 복용량의 힐링 포션을 장착할 수 있습니다. 원거리 스트라이크 사격과 달리 힐링 포션 복용량은 전투 후 자동으로 보충되지 않으므로 새로운 복용량을 구매해야 합니다."
+        },
+        "Armor": {
+          "Name": "마법 방어구",
+          "Description": "마법 방어구는 마법으로 강화되어 병사들에게 더 나은 방어력을 제공합니다.",
+          "rank1": {
+            "Name": "매직 아머",
+            "Description": "이 갑옷은 군대의 AC를 1만큼 증가시킵니다."
+          },
+          "rank2": {
+            "Name": "그레이터 매직 아머",
+            "Description": "이 갑옷은 군대의 AC를 2만큼 증가시킵니다."
+          },
+          "rank3": {
+            "Name": "메이저 매직 아머",
+            "Description": "이 갑옷은 군대의 AC를 3만큼 증가시킵니다."
+          }
+        }
+      },
+      "Label": "군대",
+      "NamePlaceholder": "군단 명칭",
+      "Potency": "위력",
+      "Potions": {
+        "FullHP": "군대 체력이 이미 가득 찼습니다.",
+        "Label": "포션",
+        "OutOfPotions": "더 이상 물약을 사용할 수 없습니다.",
+        "UsePotion": "포션(+1 HP)을 사용하십시오.",
+        "UsedPotionHeader": "포션 소모",
+        "UsedPotionContent": "군대가 체력이 1 증가했습니다. 기동 액션 중에 사용할 수 있습니다."
+      },
+      "RecruitmentDC": "모집 DC",
+      "RoutedDescription": "군대의 체력이 붕괴 역치 미만입니다!",
+      "RoutThreshold": "돌파 임계치",
+      "Save": {
+        "maneuver": "기동",
+        "morale": "사기"
+      },
+      "Scouting": "정찰",
+      "SendToChat": "채팅으로 보내기",
+      "Stats": "능력치",
+      "Strikes": {
+        "CurrentAmmo": "{current} / {max} 샷<br/>전투 종료 시 회복됨",
+        "None": "이 군대는 무기가 없습니다. 장비 섹션에 하나 추가하십시오.",
+        "Label": "타격",
+        "OutOfAmmo": "이 전투에서 당신의 탄약이 모두 소진되었습니다.",
+        "RestoreAmmunition": "탄약 회복",
+        "proficiency": "숙련",
+        "melee": "근접전",
+        "ranged": "원거리"
+      },
+      "Tactics": "전술",
+      "TacticsFree": "전술 (무료)",
+      "Toggles": {
+        "LiveOffTheLand": "헥스에 정착지 없이",
+        "KeepUpThePressure": "같은 대상을 공격"
+      },
+      "TacticalWarActions": "전술 전쟁 행동"
+    },
+    "Confirm": "확인하시겠습니까?",
+    "Consumption": {
+      "Base": "베이스",
+      "Label": "소모",
+      "Reduction": "감소"
+    },
+    "Event": {
+      "Details": "진행 중인 이벤트 상세 정보",
+      "Random": "임의 이벤트"
+    },
+    "GrantedBy": "이 기능은 {granter}에 의해 부여되었으며 삭제할 수 없습니다.",
+    "KingdomBuilder": {
+      "ActivationMessage": "왕국 창조 과정을 시작하시겠습니까? 진행하기 전에 당신의 플레이어들이 준비되었는지 확인하십시오.",
+      "Aspiration": "열망",
+      "AssignBoostsHeader": "당신의 강화치를 배정하십시오.",
+      "Boost": "부스트",
+      "BoostsLabel": "능력치 향상",
+      "Builder": "빌더",
+      "CancelCreation": "창조 취소",
+      "Complete": "완료",
+      "Feat": "킹덤 피트",
+      "FinalizeHeader": "킹덤 최종화",
+      "Flaw": "결점",
+      "FlawLabel": "능력 결함",
+      "Free": "무료",
+      "Skills": "킹덤 스킬즈",
+      "ManualToggle": "수동 수정자를 사용하십시오.",
+      "Missing": {
+        "Charter": "캐릭터를 선택하여 강화 효과를 선택하십시오.",
+        "Heartland": "본거지를 선택하여 강화 효과를 선택하십시오.",
+        "Government": "정부를 선택하여 강화 효과를 선택하십시오."
+      },
+      "None": "없음.",
+      "NotSelected": "선택되지 않음.",
+      "SaveAndContinue": "저장 후 계속",
+      "Tabs": {
+        "Charter": "헌장",
+        "Heartland": "하트랜드",
+        "Government": "정부",
+        "AbilityScores": "능력치"
+      },
+      "Title": "당신의 왕국을 건설하십시오."
+    },
+    "Kingdom": {
+      "Activities": "킹덤 액티비티즈",
+      "ArmyConsumption": "군대 소모",
+      "Aspiration": {
+        "fame": "명성",
+        "infamy": "악명"
+      },
+      "BuildHeader": "킹덤 빌드",
+      "BuildElement": {
+        "Charter": "헌장",
+        "Heartland": "하트랜드",
+        "Government": "정부"
+      },
+      "Capital": "수도",
+      "CapitalPlaceholder": "도시 이름",
+      "CollectDialog": {
+        "Title": "자원을 수집하십시오.",
+        "Header": "유지비: 자원 수집",
+        "Description": "{dice} 자원 주사위를 굴려 다음을 생성하십시오.",
+        "Disclaimer": "이것은 당신의 현재 자원 포인트(경험치로 전환되었어야 합니다)를 대체할 것입니다. 초과된 자원은 사라집니다. 게임 마스터만이 자원을 수집할 수 있습니다."
+      },
+      "Commodity": {
+        "food": "음식",
+        "lumber": "럼버",
+        "luxuries": "사치품",
+        "ore": "오어",
+        "stone": "스톤"
+      },
+      "ControlDC": "제어 DC",
+      "Invested": "투자되었습니다",
+      "InvestedBonus": "상태 보너스는 {ability}입니다.",
+      "ImportDialog": {
+        "Title": "임포트 활동",
+        "Content": "{added} 활동이 추가되고 {updated} 활동이 업데이트될 예정인데, 괜찮으시겠습니까?"
+      },
+      "FeatSlot": {
+        "Features": "왕국 특징",
+        "Feats": "킹덤 피트",
+        "Bonus": "보너스 업적"
+      },
+      "Leaders": "지도자들",
+      "LeaderMissing": "없음 (새로운 배우를 끌어오세요)",
+      "LeadershipRole": {
+        "ruler": "통치자",
+        "counselor": "상담역",
+        "general": "일반",
+        "emissary": "사절",
+        "magister": "마기스터",
+        "treasurer": "재무관",
+        "viceroy": "총독",
+        "warden": "워든"
+      },
+      "NamePlaceholder": "왕국 이름",
+      "NationType": {
+        "territory": "영토",
+        "province": "주",
+        "state": "상태",
+        "country": "국가",
+        "dominion": "도미니언"
+      },
+      "Phases": {
+        "commerce": {
+          "Header": "상업 단계",
+          "Description": "왕국이 수입을 창출하거나 무역 협정을 맺을 때.",
+          "Step1": "<strong>세금 징수:</strong> 왕국 턴당 한 번 수행할 수 있습니다. 세금 징수를 시도하지 않으면 대신 DC 11의 평정 검사를 시도할 수 있습니다. 성공 시 불안을 1 감소시킵니다.",
+          "Step2": "<strong>경비 승인:</strong> 당신은 라이프스타일 개선 활동을 시도하기 위해 자금을 인출하거나, 탭 트레저리 활동을 사용하여 인출을 시도할 수 있습니다.",
+          "Step3": "<strong>탭 컴모디티즈:</strong> 당신의 왕국에 컴모디티즈 비축량이 있다면, 그 턴의 RP를 강화하기 위해 트레이드 컴모디티즈 활동을 시도할 수 있습니다.",
+          "Step4": "<strong>무역 협정 관리:</strong> 당신이 무역 협정을 체결했다면, 무역 협정 관리를 시도할 수 있습니다."
+        },
+        "leadership": {
+          "Header": "활동 단계: 리더십 활동",
+          "Description": "당신의 왕국의 수도에 성, 궁궐, 또는 마을 회관이 있다면, 지도자 역할을 하는 각 PC는 최대 세 번의 리더십 활동을 시도할 수 있습니다. 수도에 이러한 건물이 하나도 없다면, 각 PC는 이 단계에서 두 번 이상의 리더십 활동을 할 수 없습니다. 활동에 달리 명시되지 않는 한, 지도자는 왕국 턴당 같은 리더십 활동을 한 번 이상 시도할 수 없습니다."
+        },
+        "region": {
+          "Header": "활동 단계: 지역 활동",
+          "Description": "PC 리더들은 총 세 번의 리전 활동을 함께 시도할 수 있습니다."
+        },
+        "civic": {
+          "Header": "활동 단계: 시빅 액티비티즈",
+          "Description": "파티는 왕국의 각 정착지마다 시빅 활동을 한 번씩 시도할 수 있습니다."
+        },
+        "army": {
+          "Header": "군대 활동",
+          "Description": "PC들이 왕국 턴의 시빅 액티비티 단계를 완료한 후에는 아미 액티비티 단계를 진행할 수 있으며, 이 단계에서 왕국이 현재 유지하고 있는 각 군대는 단일 아미 액티비티를 수행할 수 있습니다."
+        }
+      },
+      "Resources": {
+        "Collect": "수집하십시오.",
+        "Dice": "리소스 주사위",
+        "Header": "자원과 상품",
+        "Points": "자원 포인트",
+        "RP": "역할극"
+      },
+      "Ruin": {
+        "corruption": "타락",
+        "crime": "범죄",
+        "decay": "부패",
+        "strife": "스트라이프"
+      },
+      "Size": "크기",
+      "Storage": "보관",
+      "Tabs": {
+        "Main": "메인",
+        "Activities": "활동",
+        "World": "세계",
+        "Features": "특징",
+        "Ongoing": "진행 중입니다."
+      },
+      "Unrest": "불안",
+      "VacancyPenalty": {
+        "ruler": "모든 판정에 -1을 적용합니다 (이것은 다른 공석 패널티와 중첩됩니다); 왕국 턴 시작 시 1d4 불안을 얻습니다; 제어 DC가 2 증가합니다.",
+        "counselor": "모든 문화 기반 판정에 -1을 적용합니다.",
+        "general": "전쟁 활동에 -4",
+        "emissary": "모든 충성도 기반 판정에 -1을 적용합니다.",
+        "magister": "전쟁 활동에 -4",
+        "treasurer": "모든 경제 기반 판정에 -1을 적용합니다.",
+        "viceroy": "안정성 기반 판정에 -1",
+        "warden": "지역 활동에 -4"
+      },
+      "Vacant": "공석",
+      "VacantRole": "공석 ({role})"
+    },
+    "Feature": {
+      "Categories": {
+        "army-tactic": "군대 전술",
+        "army-war-action": "아미 워 액션",
+        "kingdom-activity": "킹덤 액티비티",
+        "kingdom-feat": "킹덤 피트",
+        "kingdom-feature": "킹덤 특징"
+      },
+      "Tactic": "전술"
+    },
+    "Penalty": "패널티",
+    "Settlement": {
+      "Blocks": "블록스",
+      "Details": "정착지 세부 정보",
+      "Header": "킹덤 세틀먼츠",
+      "Label": "정착지",
+      "LevelRange": "레벨 범위",
+      "Name": "정착지 이름",
+      "Overcrowded": "너무 붐빕니다.",
+      "Population": "인구",
+      "Type": {
+        "village": "마을",
+        "town": "마을",
+        "city": "도시",
+        "metropolis": "메트로폴리스"
+      },
+      "TypeLabel": "타입"
+    },
+    "Skills": {
+      "agriculture": "농업",
+      "arts": "기예",
+      "boating": "보트 타기",
+      "defense": "방어",
+      "engineering": "엔지니어링",
+      "exploration": "탐험",
+      "folklore": "민담",
+      "industry": "산업",
+      "intrigue": "궁정 모략",
+      "magic": "마법",
+      "politics": "정치",
+      "scholarship": "장학금",
+      "statecraft": "국가 경영",
+      "trade": "교역",
+      "warfare": "전쟁",
+      "wilderness": "황야"
+    },
+    "WorkSites": {
+      "food": {
+        "Name": "농지",
+        "Description": "유지 단계에서 소모량을 감소시킵니다.  식량은 지역 단계에서 수확 작물(Harvest Crops), 낚시(Go Fishing), 또는 가축 수집(Gather Livestock)을 사용하여 모아야 합니다. 농지 조성(Establish Farmland)으로 생성됩니다."
+      },
+      "lumber": {
+        "Name": "벌목 캠프",
+        "Description": "유지 단계 동안 획득하는 목재량을 증가시킵니다. 건설 현장 건설을 통해 생성됩니다."
+      },
+      "luxuries": {
+        "Name": "광산 (보석)",
+        "Description": "매우 희귀한 작업장입니다. 유지 단계 동안 사치품을 제공합니다."
+      },
+      "ore": {
+        "Name": "광산",
+        "Description": "유지 단계 동안 얻는 광석을 증가시킵니다.  설립 작업장을 사용하여 생성됩니다."
+      },
+      "stone": {
+        "Name": "채석장",
+        "Description": "유지 단계 동안 얻는 스톤의 양을 증가시킵니다. 건설 현장 건설을 통해 생성됩니다."
+      },
+      "Label": "작업장소",
+      "Resource": "만약 작업장이 해당 재료의 밀집되거나 수익성이 높은 원천 위에 건설되었다면, 여기에 표시하십시오. 이러한 곳은 일반적인 양의 두 배를 생산합니다."
+    },
+    "Charter": {
+      "conquest": {
+        "Name": "정복",
+        "Description": "당신의 후원자들이 지역을 정복하였고, 이전 지도자들은 패주하거나 심지어 사망하였습니다. 이 칙령은 당신에게 정복된 영토(혹은 패배한 적이 버리고 간 땅)의 일부를 책임지도록 명하고, 후원자의 이름으로 그곳을 지키고 평정하도록 명합니다. 백성들은 당신의 통치에 특히 헌신적이고 지지적입니다 (부분적으로 두려움 때문이지만). 하지만 잠재적인 전쟁의 끊임없는 위협은 예술을 방해하고 시민들이 진정으로 편히 쉴 수 없게 만듭니다. 당신이 이 칙령을 선택한다면, 피탁스에 맞서 당신의 왕국을 세워야 합니다."
+      },
+      "expansion": {
+        "Name": "확장",
+        "Description": "당신의 수호자는 당신의 국가가 강력한 동맹으로 남을 것이라는 기대를 가지고 이미 정착된 땅에 인접한 영토를 당신에게 맡깁니다. 수호자 국가의 더 큰 지원은 당신의 왕국의 사회를 강화하는 데 도움이 되지만, 이러한 의존도 증가는 동맹국의 운명의 변화가 당신 자신의 왕국의 안보를 저해할 수 있다는 것을 의미합니다. 당신이 이 헌장을 선택한다면, 자만디 여사는 당신이 레스토프와 강력한 동맹을 유지하기를 기대합니다."
+      },
+      "exploration": {
+        "Name": "탐험",
+        "Description": "당신의 후원자는 당신이 후원자의 영토와 인접한 야생 지역을 탐험하고, 정리하고, 정착하기를 원합니다. 당신의 헌장은 초기 구조물(혹은 그것들을 건설할 물자)을 확보하는 데 도움을 주지만, 재정적 부채를 지게 됩니다."
+      },
+      "grant": {
+        "Name": "허락하겠습니다.",
+        "Description": "당신의 후원자께서는 당신의 왕국의 발전 방식에 제한을 두지 않고 많은 자금과 기타 자원을 제공하십니다. 하지만 그들은 그들의 많은 국민과 동맹을 고용할 것을 요구합니다. 당신의 국가의 부와 물자는 안전하지만, 당신 왕국의 주민들 중 일부는 당신의 국가와 당신의 후원자의 국가 사이에서 이중적인 충성심을 가지고 있습니다."
+      },
+      "open": {
+        "Name": "열어 주십시오.",
+        "Description": "당신이 진정한 자유 의지를 가진 개척자가 되어 스스로의 영역을 개척하는 것을 선호하신다면, 제약 없이 직접적인 지원 없이 개방형 헌장을 선택하실 수 있습니다. 이 경우, 자만디 여사께서는 당신의 용기와 자신감에 박수를 보내시지만, 왕국을 건설하는 것이 결코 쉬운 일이 아니라는 점을 경고하십니다. 개방형 헌장은 어떤 능력치라도 하나의 능력치 향상을 부여하며, 새로운 국가는 내재된 능력 결함이 없습니다."
+      }
+    },
+    "Heartland": {
+      "forestOrSwamp": {
+        "Name": "숲 또는 늪",
+        "Description": "당신의 국가는 삼림 또는 습지에서 시작되므로, 시민들의 상상력과 기분을 북돋아줄 천연 자원이나 경이로운 것들이 부족하지 않습니다."
+      },
+      "hillOrPlain": {
+        "Name": "언덕 또는 평원",
+        "Description": "당신의 국가는 이동하기 쉬운 지역에서 시작합니다. 이는 당신의 국민들의 성향에 반영되어 있습니다. 그들은 당신의 선택이 그들의 삶을 조금 더 쉽게 만들어 준다는 것을 고맙게 생각합니다."
+      },
+      "lakeOrRiver": {
+        "Name": "호수 또는 강",
+        "Description": "당신이 호수나 강가에 국가를 건설함으로써, 당신은 무역을 위한 내장된 메커니즘을 확보하게 됩니다. 길이 건설되기 전에도, 상인들과 여행자들은 보트를 통해 비교적 쉽게 당신의 정착지에 도달할 수 있습니다."
+      },
+      "mountainOrRuins": {
+        "Name": "산악 또는 폐허",
+        "Description": "당신의 국가는 산악 지대에 건설되었거나 상당한 규모의 폐허가 포함되어 있으며, 이러한 자연 또는 인공적인 지형을 이용하여 방어를 강화합니다. 당신의 국민들은 완고하기까지 하지만 건강하고 강인한 경향이 있습니다."
+      }
+    },
+    "Government": {
+      "despotism": {
+        "Name": "전제정치",
+        "Description": "당신의 국가 통치는 권력을 장악하거나 상속받은 단 한 명의 개인을 중심으로 이루어지며, 그 권위는 절대적입니다. 이 왕국의 통치자는 여전히 고문과 보좌관을 두고 있지만, 그들은 통치자의 뜻에 복종할 때만 그 자리를 유지합니다."
+      },
+      "feudalism": {
+        "Name": "봉건제",
+        "Description": "당신의 국가의 통치권은 왕족에게 있으나, 실질적인 권력의 상당 부분은 그들의 봉신과 영지들 사이에 분산되어 있습니다."
+      },
+      "oligarchy": {
+        "Name": "과두정치",
+        "Description": "당신의 국가의 통치는 모든 다른 사람들을 위해 결정을 내리는 영향력 있는 지도자들의 의회에 의해 결정됩니다."
+      },
+      "republic": {
+        "Name": "공화국",
+        "Description": "당신의 국가는 자국 시민으로부터 지도자를 선출합니다. 선출된 대표자들은 의회에서 만나 국가를 이끌어갑니다."
+      },
+      "thaumocracy": {
+        "Name": "사움크라시",
+        "Description": "당신의 국가는 마법에 가장 능숙한 자들에 의해 통치되며, 그들의 지식과 힘을 사용하여 최선의 통치 방식을 결정합니다. 국가 통치자들이 사용하는 마법의 종류에 따라 국가의 주제(혹은 이름조차도—디바인 주문 시전자들이 다스리는 소법정치는 신정정치가 될 것입니다, 예를 들어)가 조정될 수 있지만, 아래의 세부 사항은 그것이 아케인, 디바인, 오컬트, 프라이멀이든 아니면 네 가지의 어떤 조합이든 동일하게 유지됩니다."
+      },
+      "yeomanry": {
+        "Name": "예먼리",
+        "Description": "당신의 국가는 분권화되어 있으며, 지역 지도자와 시민들이 정부 문제를 처리하고, 필요에 따라 여러 지역과 관련된 문제를 해결하기 위해 서로 대표자를 파견합니다."
+      }
+    },
+    "SIDEBAR": {
+      "CreateKingdom": "킹덤 생성",
+      "OpenSheet": "오픈 킹덤 시트"
+    },
+    "Trait": {
+      "army": "군대",
+      "cavalry": "기병",
+      "civic": "시빅",
+      "commerce": "상업",
+      "infantry": "보병",
+      "kingdom": "킹덤",
+      "leadership": "리더십",
+      "maneuver": "기동",
+      "morale": "사기",
+      "region": "지역",
+      "siege": "시즈",
+      "skirmisher": "스커미셔",
+      "upkeep": "유지"
+    },
+    "TraitDescription": {
+      "cavalry": "기병은 탈것을 탄 전투 부대입니다.",
+      "infantry": "보병은 도보로 이동하는 병사 또는 생물체로 구성됩니다.",
+      "siege": "포위 군대는 개인전보다는 공성 병기를 배치하는 데 집중합니다.",
+      "skirmisher": "스커미셔는 소수의 매우 기동성이 뛰어난 유닛들로 구성되어 있습니다."
+    }
+  }
+}

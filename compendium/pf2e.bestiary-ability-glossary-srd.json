@@ -1,0 +1,226 @@
+{
+  "label": "괴물 도감 능력 용어집",
+  "folders": {},
+  "entries": {
+    "+1 Status to All Saves vs. Magic": {
+      "name": "모든 마법에 대한 내성 굴림에 +1 상태 효과를 부여합니다.",
+      "description": ""
+    },
+    "All-Around Vision": {
+      "name": "전방위 시야",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+    },
+    "Aquatic Ambush": {
+      "name": "수중 매복",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
+    },
+    "At-Will Spells": {
+      "name": "즉시 발동 주문",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+    },
+    "Attack of Opportunity": {
+      "name": "기회 공격",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+    },
+    "Aura": {
+      "name": "오라",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Aura]</p>"
+    },
+    "Buck": {
+      "name": "벅",
+      "description": "<p>@Check[reflex|dc:]</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>"
+    },
+    "Catch Rock": {
+      "name": "캐치 락",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+    },
+    "Change Formation": {
+      "name": "전열 변경",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeFormation]</p>"
+    },
+    "Change Shape": {
+      "name": "변신",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+    },
+    "Constant Spells": {
+      "name": "지속 주문",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+    },
+    "Constrict": {
+      "name": "컨스트릭트",
+      "description": "<p>@Damage[(0)[bludgeoning]], @Check[fortitude|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+    },
+    "Coven": {
+      "name": "코벤",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
+    },
+    "Darkvision": {
+      "name": "다크비전",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+    },
+    "Disease": {
+      "name": "질병",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Disease]</p>"
+    },
+    "Engulf": {
+      "name": "인걸프",
+      "description": "<p>@Check[reflex|dc:], @Damage[(0)[damageType]] 피해, 탈출 DC [0], 파열 [0]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
+    },
+    "Fast Healing": {
+      "name": "패스트 힐링",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
+    },
+    "Ferocity": {
+      "name": "피로시티",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
+    },
+    "Form Up": {
+      "name": "집합하십시오.",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FormUp]</p>"
+    },
+    "Frightful Presence": {
+      "name": "공포의 존재",
+      "description": "<p>0 피트 @Check[will|dc:]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+    },
+    "Grab": {
+      "name": "잡으십시오.",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+    },
+    "Greater Constrict": {
+      "name": "그레이터 컨스트릭트",
+      "description": "<p>@Damage[(0)[bludgeoning]], @Check[fortitude|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+    },
+    "Greater Darkvision": {
+      "name": "그레이터 다크비전",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+    },
+    "Improved Grab": {
+      "name": "임프루브드 그랩",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+    },
+    "Improved Knockdown": {
+      "name": "임프루브드 넉다운",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedKnockdown]</p>"
+    },
+    "Improved Push": {
+      "name": "임프루브드 푸시",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedPush]</p>"
+    },
+    "Knockdown": {
+      "name": "넉다운",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+    },
+    "Lifesense": {
+      "name": "라이프센스",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
+    },
+    "Light Blindness": {
+      "name": "라이트 블라인드니스",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LightBlindness]</p>"
+    },
+    "Low-Light Vision": {
+      "name": "저조도 시야",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+    },
+    "Master's Eye": {
+      "name": "마스터의 눈",
+      "description": "<p>주인은 자신의 눈 대신 락타바르나의 눈을 통해 세상을 관찰하며, 락타바르나의 지각과 암시야를 사용합니다. 이 효과는 주인의 다음 턴이 끝날 때까지 지속되지만, 주인은 이 활동을 유지할 수 있습니다.</p>\n<p>이 능력은 어떤 거리에서든, 심지어 다른 존재 차원에서도 기능합니다. 만약 락타바르나가 주인이 이 능력을 사용하는 동안 죽으면, 주인은 @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 5}입니다.</p>"
+    },
+    "Nimble Dodge": {
+      "name": "민첩 회피",
+      "description": "<p><strong>발동</strong> 당신을 공격 대상으로 삼은 생명체가 당신을 볼 수 있습니다.</p>\n<p><strong>필요 조건</strong> 당신은 과부하 상태가 아닙니다</p>\n<hr />\n<p>당신은 재빠르게 피하여, 발동 공격에 대한 AC에 +2 상황 보너스를 얻습니다.</p>"
+    },
+    "Poison": {
+      "name": "독",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Poison]</p>"
+    },
+    "Power Attack": {
+      "name": "파워 어택",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.PowerAttack]</p>"
+    },
+    "Pull": {
+      "name": "당신이 풀을 합니다.",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Pull]</p>"
+    },
+    "Push": {
+      "name": "밀다",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>"
+    },
+    "Reactive Strike": {
+      "name": "반응적 타격",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ReactiveStrike]</p>"
+    },
+    "Regeneration": {
+      "name": "재생",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
+    },
+    "Rend": {
+      "name": "렌드",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Rend]</p>"
+    },
+    "Retributive Strike": {
+      "name": "레트리뷰티브 스트라이크",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
+    },
+    "Scent": {
+      "name": "냄새",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+    },
+    "Shield Block": {
+      "name": "쉴드 블록",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
+    },
+    "Sneak Attack": {
+      "name": "스니크 어택",
+      "description": "<p>그 생물의 공격은 @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} 생물에게 추가로 1d6 정밀 피해를 입힙니다.</p>"
+    },
+    "Stench": {
+      "name": "악취",
+      "description": "<p>@Check[fortitude|dc:]</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.Stench]</p>"
+    },
+    "Swallow Whole": {
+      "name": "삼키기",
+      "description": "<p>[Listed Size], @Damage[(0)[bludgeoning]], 럽쳐 [0]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+    },
+    "Swarm Mind": {
+      "name": "스웜 마인드",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
+    },
+    "Telepathy": {
+      "name": "텔레파시",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+    },
+    "Thoughtsense": {
+      "name": "토츠센스",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Thoughtsense]</p>"
+    },
+    "Throw Rock": {
+      "name": "돌 던지기",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
+    },
+    "Trample": {
+      "name": "트램플",
+      "description": "<p>[Size], [Listed Strike], @Check[reflex|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
+    },
+    "Tremorsense": {
+      "name": "진동 감지",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+    },
+    "Troop Defenses": {
+      "name": "부대 방어",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>"
+    },
+    "Troop Movement": {
+      "name": "부대 이동",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopMovement]</p>"
+    },
+    "Void Healing": {
+      "name": "보이드 힐링",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+    },
+    "Wavesense": {
+      "name": "웨이브센스",
+      "description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Wavesense]</p>"
+    }
+  }
+}
